@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-15T01:14:21.097051+08:00",
-  "total_titles_processed": 364,
+  "generated_at": "2025-11-15T02:21:41.713233+08:00",
+  "total_titles_processed": 438,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 01时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 02时21分]"
         },
         {
           "title": "武汉造全球首台AI胶囊内镜获广泛应用",
