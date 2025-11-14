@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-15T02:21:41.713233+08:00",
-  "total_titles_processed": 438,
+  "generated_at": "2025-11-15T03:13:20.553867+08:00",
+  "total_titles_processed": 465,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "【焦点复盘】创业板指低开低走跌近3%，AI硬件端全线退潮，抗寒概念股逆势爆发",
@@ -15,8 +15,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 02时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 03时13分]"
+        },
+        {
+          "title": "豪赌AI代价惨重：甲骨文债务激增、股价暴跌30%居科技股跌幅榜首",
+          "url": "https://wallstreetcn.com/articles/3759380",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时12分 ~ 03时13分]"
         },
         {
           "title": "武汉造全球首台AI胶囊内镜获广泛应用",
@@ -28,6 +39,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时18分 ~ 00时19分]"
+        },
+        {
+          "title": "泰达（Tether）拟与人工智能机器人初创企业Neura达成10亿欧元融资协议。",
+          "url": "https://flash.jin10.com/detail/20251115022811528800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
         }
       ]
     }
