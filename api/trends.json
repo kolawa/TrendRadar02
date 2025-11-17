@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-17T16:23:01.044862+08:00",
-  "total_titles_processed": 1256,
+  "generated_at": "2025-11-17T17:20:09.023777+08:00",
+  "total_titles_processed": 1354,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 26,
+      "match_count": 30,
       "titles": [
         {
           "title": "周末要闻汇总：吴清发声！事关资本市场；华为将发布AI领域突破性技术",
@@ -43,6 +43,20 @@
           "time_info": "[00时15分 ~ 09时06分]"
         },
         {
+          "title": "无须担心AI泡沫和科技股抛售？华尔街给出了这样的解释……",
+          "url": "https://www.cls.cn/detail/2201993",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时21分 ~ 17时20分]"
+        },
+        {
           "title": "Gemini3.0能碾压GPT-5.1吗",
           "url": "https://search.bilibili.com/all?keyword=Gemini3.0%E8%83%BD%E7%A2%BE%E5%8E%8BGPT-5.1%E5%90%97",
           "source": "bilibili 热搜",
@@ -59,19 +73,6 @@
           "time_info": "[00时15分 ~ 15时16分]"
         },
         {
-          "title": "无须担心AI泡沫和科技股抛售？华尔街给出了这样的解释……",
-          "url": "https://www.cls.cn/detail/2201993",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时21分 ~ 16时23分]"
-        },
-        {
           "title": "“AI仿冒名人”营销，有被仿冒专家觉得不可思议：相似度超乎想象",
           "url": "https://m.thepaper.cn/newsDetail_forward_31979142",
           "source": "澎湃新闻",
@@ -81,11 +82,12 @@
             16,
             18,
             14,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时15分 ~ 16时23分]"
+          "appearance_count": 29,
+          "time_info": "[00时15分 ~ 17时20分]"
         },
         {
           "title": "AI爆梗王?串子罗伯特炸翻全场",
@@ -104,6 +106,18 @@
           "time_info": "[00时15分 ~ 14时23分]"
         },
         {
+          "title": "“表现极其惊艳”，谷歌大模型罕见发布前“造势”，Gemini 3.0本周登场？",
+          "url": "https://wallstreetcn.com/articles/3759493",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时21分 ~ 17时20分]"
+        },
+        {
           "title": "如何看待「80% 的 AI 创业公司都在用中国开源模型」的现象？",
           "url": "https://www.zhihu.com/question/1971154128169301668",
           "source": "知乎",
@@ -117,16 +131,17 @@
           "time_info": "[04时15分 ~ 07时14分]"
         },
         {
-          "title": "“表现极其惊艳”，谷歌大模型罕见发布前“造势”，Gemini 3.0本周登场？",
-          "url": "https://wallstreetcn.com/articles/3759493",
+          "title": "千问APP正式上线，阿里要打造AI超级入口！",
+          "url": "https://wallstreetcn.com/articles/3759516",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9
+            9,
+            7,
+            6
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[12时21分 ~ 16时23分]"
+          "time_info": "[14时23分 ~ 17时20分]"
         },
         {
           "title": "成龙去世谣言系AI生成",
@@ -210,18 +225,6 @@
           "time_info": "04时16分"
         },
         {
-          "title": "千问APP正式上线，阿里要打造AI超级入口！",
-          "url": "https://wallstreetcn.com/articles/3759516",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时23分 ~ 16时23分]"
-        },
-        {
           "title": "成龙去世谣言系AI生成",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%88%90%E9%BE%99%E5%8E%BB%E4%B8%96%E8%B0%A3%E8%A8%80%E7%B3%BBAI%E7%94%9F%E6%88%90%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26c_type%3D31%26cate%3D5001%26dgr%3D0%26band_rank%3D18%26stream_entry_id%3D31%26pos%3D19%26realpos%3D18%26flag%3D1%26q%3D%2523%25E6%2588%2590%25E9%25BE%2599%25E5%258E%25BB%25E4%25B8%2596%25E8%25B0%25A3%25E8%25A8%2580%25E7%25B3%25BBAI%25E7%2594%259F%25E6%2588%2590%2523%26filter_type%3Drealtimehot%26display_time%3D1763356498%26pre_seqid%3D17633564985320329729489&launchid=10000360-page_H5",
           "source": "微博",
@@ -255,8 +258,31 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时22分 ~ 17时20分]"
+        },
+        {
+          "title": "阿里 Qwen 同名个人 AI 助理「千问」App 开始公测，该产品体验效果如何？",
+          "url": "https://www.zhihu.com/question/1973700569139995365",
+          "source": "知乎",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时22分 ~ 17时20分]"
+        },
+        {
+          "title": "券商晨会精华：AI带动的算力需求依然非常旺盛，调整是机会",
+          "url": "https://www.cls.cn/detail/2201954",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时22分 ~ 16时23分]"
+          "time_info": "[17时19分 ~ 17时20分]"
         },
         {
           "title": "硬刚ChatGPT的千问国内可下载",
@@ -270,17 +296,6 @@
           "time_info": "[15时15分 ~ 15时16分]"
         },
         {
-          "title": "阿里 Qwen 同名个人 AI 助理「千问」App 开始公测，该产品体验效果如何？",
-          "url": "https://www.zhihu.com/question/1973700569139995365",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时22分 ~ 16时23分]"
-        },
-        {
           "title": "阿里巴巴(BABA.N)美股夜盘一度上涨5%。此前阿里巴巴宣布千问APP公测版上线，与ChatGPT展开正面竞争。",
           "url": "https://flash.jin10.com/detail/20251117103913637800",
           "source": "金十数据",
@@ -292,6 +307,28 @@
           "time_info": "11时12分"
         },
         {
+          "title": "谷歌：还将支持PARIS21伙伴关系，为各国国家统计局提供人工智能培训和技术支持。将与非洲经济委员会合作，助力非洲区域数据共享平台的启动。",
+          "url": "https://flash.jin10.com/detail/20251117163740955800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
+          "title": "谷歌：承诺投入225万美元支持非洲的AI相关数据产业。",
+          "url": "https://flash.jin10.com/detail/20251117163555133800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
           "title": "阿里国际站推出AI Mode",
           "url": "https://wallstreetcn.com/livenews/3005547",
           "source": "华尔街见闻-快讯",
@@ -301,6 +338,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
+        },
+        {
+          "title": "谷歌：承诺投入225万美元支持非洲的AI相关数据产业。",
+          "url": "https://wallstreetcn.com/livenews/3005746",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         },
         {
           "title": "前美联储副主席Lael Brainard（布雷纳德）：美联储应该为了防止劳动力市场进一步疲软而谨慎行事，下个月应再次降息。",
