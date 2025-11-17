@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-17T17:20:09.023777+08:00",
-  "total_titles_processed": 1354,
+  "generated_at": "2025-11-17T18:18:32.085891+08:00",
+  "total_titles_processed": 1420,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "周末要闻汇总：吴清发声！事关资本市场；华为将发布AI领域突破性技术",
@@ -73,6 +73,33 @@
           "time_info": "[00时15分 ~ 15时16分]"
         },
         {
+          "title": "千问APP正式上线，阿里要打造AI超级入口！",
+          "url": "https://wallstreetcn.com/articles/3759516",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时23分 ~ 18时18分]"
+        },
+        {
+          "title": "“表现极其惊艳”，谷歌大模型罕见发布前“造势”，Gemini 3.0本周登场？",
+          "url": "https://wallstreetcn.com/articles/3759493",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时21分 ~ 18时18分]"
+        },
+        {
           "title": "“AI仿冒名人”营销，有被仿冒专家觉得不可思议：相似度超乎想象",
           "url": "https://m.thepaper.cn/newsDetail_forward_31979142",
           "source": "澎湃新闻",
@@ -83,11 +110,12 @@
             18,
             14,
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时15分 ~ 17时20分]"
+          "appearance_count": 31,
+          "time_info": "[00时15分 ~ 18时18分]"
         },
         {
           "title": "AI爆梗王?串子罗伯特炸翻全场",
@@ -106,18 +134,6 @@
           "time_info": "[00时15分 ~ 14时23分]"
         },
         {
-          "title": "“表现极其惊艳”，谷歌大模型罕见发布前“造势”，Gemini 3.0本周登场？",
-          "url": "https://wallstreetcn.com/articles/3759493",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时21分 ~ 17时20分]"
-        },
-        {
           "title": "如何看待「80% 的 AI 创业公司都在用中国开源模型」的现象？",
           "url": "https://www.zhihu.com/question/1971154128169301668",
           "source": "知乎",
@@ -129,19 +145,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[04时15分 ~ 07时14分]"
-        },
-        {
-          "title": "千问APP正式上线，阿里要打造AI超级入口！",
-          "url": "https://wallstreetcn.com/articles/3759516",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时23分 ~ 17时20分]"
         },
         {
           "title": "成龙去世谣言系AI生成",
@@ -214,6 +217,17 @@
           "time_info": "[11时12分 ~ 14时23分]"
         },
         {
+          "title": "成龙去世照片系AI生成",
+          "url": "https://www.douyin.com/hot/2309157",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时22分 ~ 18时18分]"
+        },
+        {
           "title": "据知情人士透露，空中客车有望在迪拜航展宣布在打飞机采购中获得重大份额。 空客接近出售大约100架A321NEO飞机给FlyDubai，可能会获得更多订单。 波音公司洽谈向FlyDubai供相对偏小的订单，预计会出售几十架737 MAX飞机给对方。 FlyDubai飞机订单的最终结果将取决于眼下正在推进的谈判。（路透）",
           "url": "https://wallstreetcn.com/livenews/3005373",
           "source": "华尔街见闻-快讯",
@@ -251,17 +265,6 @@
           "time_info": "[12时22分 ~ 13时16分]"
         },
         {
-          "title": "成龙去世照片系AI生成",
-          "url": "https://www.douyin.com/hot/2309157",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时22分 ~ 17时20分]"
-        },
-        {
           "title": "阿里 Qwen 同名个人 AI 助理「千问」App 开始公测，该产品体验效果如何？",
           "url": "https://www.zhihu.com/question/1973700569139995365",
           "source": "知乎",
@@ -272,6 +275,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时22分 ~ 17时20分]"
+        },
+        {
+          "title": "【焦点复盘】沪指日线2连阴失守20日线，锂电材料股强者恒强，AI应用端逆势爆发",
+          "url": "https://www.cls.cn/detail/2202608",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时17分 ~ 18时18分]"
         },
         {
           "title": "券商晨会精华：AI带动的算力需求依然非常旺盛，调整是机会",
@@ -296,6 +310,18 @@
           "time_info": "[15时15分 ~ 15时16分]"
         },
         {
+          "title": "谷歌：承诺投入225万美元支持非洲的AI相关数据产业。",
+          "url": "https://wallstreetcn.com/livenews/3005746",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 18时18分]"
+        },
+        {
           "title": "阿里巴巴(BABA.N)美股夜盘一度上涨5%。此前阿里巴巴宣布千问APP公测版上线，与ChatGPT展开正面竞争。",
           "url": "https://flash.jin10.com/detail/20251117103913637800",
           "source": "金十数据",
@@ -313,7 +339,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
@@ -324,7 +350,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
@@ -338,17 +364,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
-        },
-        {
-          "title": "谷歌：承诺投入225万美元支持非洲的AI相关数据产业。",
-          "url": "https://wallstreetcn.com/livenews/3005746",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
         },
         {
           "title": "前美联储副主席Lael Brainard（布雷纳德）：美联储应该为了防止劳动力市场进一步疲软而谨慎行事，下个月应再次降息。",
