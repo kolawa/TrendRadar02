@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T04:18:26.796794+08:00",
-  "total_titles_processed": 531,
+  "generated_at": "2025-11-19T06:15:37.125364+08:00",
+  "total_titles_processed": 602,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "一图看懂 | AI产业迎密集事件催化 应用概念股全景图来了",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 06时15分]"
         },
         {
           "title": "新质观察｜谁来喂饱中国的AI？公共数据开放的关键一跃",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 06时15分]"
         },
         {
           "title": "【数据看盘】机构连续两日减持锂电产业链 多路资金激烈博弈AI应用股",
@@ -39,8 +39,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 06时15分]"
         },
         {
           "title": "你认为该图片是真实拍摄的还是由 AI 生成的？",
@@ -49,11 +49,12 @@
           "ranks": [
             5,
             3,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 06时15分]"
         },
         {
           "title": "谷歌正式发布Gemini3",
@@ -61,11 +62,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            3
+            3,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时22分 ~ 04时18分]"
+          "appearance_count": 7,
+          "time_info": "[02时22分 ~ 06时15分]"
         },
         {
           "title": "美股三大期指盘前集体走低 AI怀疑论打压风险偏好 | 今夜看点",
@@ -75,8 +77,36 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 06时15分]"
+        },
+        {
+          "title": "谷歌CEO：如果AI泡沫破裂 没有一家公司能够毫发无损",
+          "url": "https://www.cls.cn/detail/2204017",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 06时15分]"
+        },
+        {
+          "title": "Plain Jane Remix编舞跳起来",
+          "url": "https://www.douyin.com/hot/2310465",
+          "source": "抖音",
+          "ranks": [
+            23,
+            26,
+            19,
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 06时15分]"
         },
         {
           "title": "【每日收评】创业板指震荡走低跌超1%，锂电股全线退潮，AI应用方向逆势活跃",
@@ -101,40 +131,13 @@
           "time_info": "[00时20分 ~ 04时18分]"
         },
         {
-          "title": "谷歌CEO：如果AI泡沫破裂 没有一家公司能够毫发无损",
-          "url": "https://www.cls.cn/detail/2204017",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 04时18分]"
-        },
-        {
-          "title": "Plain Jane Remix编舞跳起来",
-          "url": "https://www.douyin.com/hot/2310465",
-          "source": "抖音",
-          "ranks": [
-            23,
-            26,
-            19,
-            22,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 04时18分]"
-        },
-        {
           "title": "英伟达(NVDA.O)：通过在微软(MSFT.O)全新Fairwater人工智能超级工厂中采用英伟达Spectrum-X以太网交换机，扩大与微软的合作范围。",
           "url": "https://flash.jin10.com/detail/20251119040743481800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
         },
@@ -156,7 +159,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
         },
@@ -184,6 +187,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时20分 ~ 01时15分]"
+        },
+        {
+          "title": "小米Q3经调整净利润同比大增80.9%创新高，电动汽车及AI等创新业务首次实现单季经营盈利 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3759633",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时14分 ~ 06时15分]"
         },
         {
           "title": "美国总统特朗普：美国将涉足沙特阿拉伯的人工智能领域。",
@@ -237,7 +251,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
         },
