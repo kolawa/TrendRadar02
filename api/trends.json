@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T03:15:38.216301+08:00",
-  "total_titles_processed": 463,
+  "generated_at": "2025-12-04T04:18:40.627697+08:00",
+  "total_titles_processed": 490,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 03时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 04时18分]"
         },
         {
           "title": "Deepseek 团队为什么把大量精力花在 IMO 这种对普通人和商业应用都没有用途的地方？",
@@ -29,19 +29,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 03时15分]"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：能源成为人工智能的下一个全球瓶颈；人工智能的发展给电力供应带来压力；预测未来十年内，小型核反应堆将被广泛用于为人工智能系统供电。",
-          "url": "https://flash.jin10.com/detail/20251204023323691800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时15分"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 04时18分]"
         },
         {
           "title": "OpenAI的基金会将向美国非营利组织捐赠4050万美元。",
@@ -54,6 +43,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时22分 ~ 01时19分]"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：能源成为人工智能的下一个全球瓶颈；人工智能的发展给电力供应带来压力；预测未来十年内，小型核反应堆将被广泛用于为人工智能系统供电。",
+          "url": "https://flash.jin10.com/detail/20251204023323691800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时15分 ~ 04时18分]"
+        },
+        {
+          "title": "理想AI眼镜Livis首发开箱",
+          "url": "https://www.douyin.com/hot/2325492",
+          "source": "抖音",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时14分 ~ 04时18分]"
         },
         {
           "title": "英伟达CEO黄仁勋：国会山之行是为了回答关于AI的问题。",
@@ -104,15 +116,15 @@
           "time_info": "[02时24分 ~ 03时15分]"
         },
         {
-          "title": "理想AI眼镜Livis首发开箱",
-          "url": "https://www.douyin.com/hot/2325492",
-          "source": "抖音",
+          "title": "英伟达CEO黄仁勋：特朗普总统的促增长能源政策“拯救了人工智能产业”。",
+          "url": "https://flash.jin10.com/detail/20251204032609838800",
+          "source": "金十数据",
           "ranks": [
-            26
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时14分 ~ 03时15分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
         },
         {
           "title": "AMD(AMD.O)CEO：内存短缺可能只是对人工智能市场的一个小干扰。",
