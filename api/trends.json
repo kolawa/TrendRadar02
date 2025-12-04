@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T21:34:16.584803+08:00",
-  "total_titles_processed": 1832,
+  "generated_at": "2025-12-04T22:17:25.900501+08:00",
+  "total_titles_processed": 1914,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 51,
+      "match_count": 53,
       "titles": [
         {
           "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
@@ -34,6 +34,19 @@
           "time_info": "[12时25分 ~ 19时16分]"
         },
         {
+          "title": "实测欧洲版Deepseek水平如何",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8B%E6%AC%A7%E6%B4%B2%E7%89%88Deepseek%E6%B0%B4%E5%B9%B3%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[18时18分 ~ 22时17分]"
+        },
+        {
           "title": "Deepseek 团队为什么把大量精力花在 IMO 这种对普通人和商业应用都没有用途的地方？",
           "url": "https://www.zhihu.com/question/1979307622185341611",
           "source": "知乎",
@@ -48,18 +61,6 @@
           "time_info": "[00时21分 ~ 11时16分]"
         },
         {
-          "title": "实测欧洲版Deepseek水平如何",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8B%E6%AC%A7%E6%B4%B2%E7%89%88Deepseek%E6%B0%B4%E5%B9%B3%E5%A6%82%E4%BD%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时18分 ~ 21时34分]"
-        },
-        {
           "title": "豆包 AI 手机登录微信被「踢下线」，原因为何？端侧 AI 与头部应用的生态兼容上存在哪些挑战？",
           "url": "https://www.zhihu.com/question/1979578572474709507",
           "source": "知乎",
@@ -69,8 +70,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[15时17分 ~ 21时34分]"
+          "appearance_count": 16,
+          "time_info": "[15时17分 ~ 22时17分]"
         },
         {
           "title": "AI的钱太好赚！美光宣布“艰难决定”：退出零售存储业务",
@@ -275,6 +276,17 @@
           "time_info": "[05时15分 ~ 06时16分]"
         },
         {
+          "title": "遭微信、银行等App集体预警 豆包AI手机助手引发“系统级控制权”争夺战",
+          "url": "https://www.cls.cn/detail/2220060",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 22时17分]"
+        },
+        {
           "title": "前安克全球CMO王时远入局AI录音硬件，拿下红杉种子融资",
           "url": "https://wallstreetcn.com/livenews/3015061",
           "source": "华尔街见闻-快讯",
@@ -308,6 +320,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时16分 ~ 07时16分]"
+        },
+        {
+          "title": "AI估值担忧再起 美股三大期指接近持平 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2220115",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 22时17分]"
         },
         {
           "title": "九峰山实验室发布最新成果，一年可为超大型AI算力中心省3亿度电",
@@ -442,7 +465,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时34分"
         },
@@ -530,7 +553,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时34分"
         },
