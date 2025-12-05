@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T18:17:20.782668+08:00",
-  "total_titles_processed": 1561,
+  "generated_at": "2025-12-05T19:15:51.244563+08:00",
+  "total_titles_processed": 1654,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "任正非最新发声！涉及人工智能，信息量很大",
@@ -32,8 +32,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时15分 ~ 18时17分]"
+          "appearance_count": 15,
+          "time_info": "[11时15分 ~ 19时15分]"
         },
         {
           "title": "实测欧洲版Deepseek水平如何",
@@ -77,8 +77,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时06分 ~ 18时17分]"
+          "appearance_count": 17,
+          "time_info": "[09时06分 ~ 19时15分]"
         },
         {
           "title": "豆包 AI 手机登录微信被「踢下线」，原因为何？端侧 AI 与头部应用的生态兼容上存在哪些挑战？",
@@ -91,6 +91,17 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时21分 ~ 07时15分]"
+        },
+        {
+          "title": "Gemini 3 DeepThink 发布",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3%20DeepThink%20%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         },
         {
           "title": "OpenAI与NextDC计划在澳大利亚悉尼修建大规模数据中心。",
@@ -190,8 +201,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时17分 ~ 18时17分]"
+          "appearance_count": 4,
+          "time_info": "[17时17分 ~ 19时15分]"
         },
         {
           "title": "暴涨500%！摩尔线程“空降”第三高价股 AI半导体“三巨头”A股聚首",
@@ -246,7 +257,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时17分"
         },
@@ -257,7 +268,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时17分"
         },
@@ -290,7 +301,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时17分"
         },
