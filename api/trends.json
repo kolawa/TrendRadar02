@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T12:30:18.753449+08:00",
-  "total_titles_processed": 699,
+  "generated_at": "2025-12-07T13:15:02.050180+08:00",
+  "total_titles_processed": 761,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时16分 ~ 12时30分]"
+          "appearance_count": 21,
+          "time_info": "[00时16分 ~ 13时15分]"
         },
         {
           "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
@@ -56,8 +56,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时16分 ~ 12时30分]"
+          "appearance_count": 21,
+          "time_info": "[00时16分 ~ 13时15分]"
         },
         {
           "title": "豆包AI手机深度体验",
@@ -73,8 +73,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时16分 ~ 12时30分]"
+          "appearance_count": 19,
+          "time_info": "[00时16分 ~ 13时15分]"
         },
         {
           "title": "C罗入股美国AI初创公司",
@@ -115,11 +115,12 @@
           "url": "https://flash.jin10.com/detail/20251207115626169800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时30分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时30分 ~ 13时15分]"
         },
         {
           "title": "Anthropic CEO 暗讽谷歌、 OpenAI，认为深耕企业 AI 更具优势，如何评价其商业策略？",
@@ -139,11 +140,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            9
+            9,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 12时30分]"
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 13时15分]"
         },
         {
           "title": "9月，全球AI月访问量达70亿次，同比增长76%，流量直逼社交网络",
