@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T14:21:32.273909+08:00",
-  "total_titles_processed": 808,
+  "generated_at": "2025-12-07T15:15:10.842878+08:00",
+  "total_titles_processed": 850,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时16分 ~ 14时21分]"
+          "appearance_count": 25,
+          "time_info": "[00时16分 ~ 15时15分]"
         },
         {
           "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
@@ -56,8 +56,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时16分 ~ 14时21分]"
+          "appearance_count": 25,
+          "time_info": "[00时16分 ~ 15时15分]"
         },
         {
           "title": "豆包AI手机深度体验",
@@ -73,8 +73,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时16分 ~ 14时21分]"
+          "appearance_count": 23,
+          "time_info": "[00时16分 ~ 15时15分]"
         },
         {
           "title": "C罗入股美国AI初创公司",
@@ -115,11 +115,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32074253",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时20分 ~ 14时21分]"
+          "appearance_count": 4,
+          "time_info": "[14时20分 ~ 15时15分]"
         },
         {
           "title": "12月5日，国内领先的功率系统芯片设计企业芯朋微电子在深圳发布12款面向AI服务器和工业控制领域的电源芯片。",
@@ -128,11 +129,12 @@
           "ranks": [
             1,
             11,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时30分 ~ 14时21分]"
+          "appearance_count": 4,
+          "time_info": "[12时30分 ~ 15时15分]"
         },
         {
           "title": "广西“十五五”规划建议：高标准建设中国—东盟国家人工智能应用合作中心",
@@ -142,11 +144,12 @@
             6,
             9,
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时24分 ~ 14时21分]"
+          "appearance_count": 5,
+          "time_info": "[11时24分 ~ 15时15分]"
         },
         {
           "title": "Anthropic CEO 暗讽谷歌、 OpenAI，认为深耕企业 AI 更具优势，如何评价其商业策略？",
