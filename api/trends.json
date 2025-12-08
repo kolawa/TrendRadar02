@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-08T12:30:46.111272+08:00",
-  "total_titles_processed": 860,
+  "generated_at": "2025-12-08T13:18:47.432269+08:00",
+  "total_titles_processed": 920,
   "failed_sources": [],
   "trends": [
     {
@@ -13,44 +13,48 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时17分 ~ 12时30分]"
+          "appearance_count": 5,
+          "time_info": "[11时17分 ~ 13时18分]"
         },
         {
           "title": "华尔街一哥：AI明年或大量“吞噬”就业岗位 全社会应共同应对",
           "url": "https://www.cls.cn/detail/2222209",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时29分 ~ 12时30分]"
+          "appearance_count": 3,
+          "time_info": "[12时29分 ~ 13时18分]"
         },
         {
           "title": "后浪卷死前浪？“谷歌链”年内涨幅已快接近“OpenAI链”的两倍",
           "url": "https://www.cls.cn/detail/2222331",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时29分 ~ 12时30分]"
+          "appearance_count": 3,
+          "time_info": "[12时29分 ~ 13时18分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-12-08）",
           "url": "https://flash.jin10.com/detail/20251208115415348800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时30分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时30分 ~ 13时18分]"
         }
       ]
     }
