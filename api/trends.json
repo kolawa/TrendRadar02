@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T21:33:32.184906+08:00",
-  "total_titles_processed": 1976,
+  "generated_at": "2025-12-09T22:17:49.899675+08:00",
+  "total_titles_processed": 2046,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 57,
+      "match_count": 61,
       "titles": [
         {
           "title": "谷歌官宣：首款搭载Gemini的AI眼镜将于2026年推出",
@@ -60,8 +60,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时22分 ~ 21时33分]"
+          "appearance_count": 11,
+          "time_info": "[16时22分 ~ 22时17分]"
         },
         {
           "title": "如何看待各大 App 禁止豆包手机登陆，AI 手机会是「兵家必争之地」吗？",
@@ -85,8 +85,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时22分 ~ 21时33分]"
+          "appearance_count": 11,
+          "time_info": "[16时22分 ~ 22时17分]"
         },
         {
           "title": "AI 冲击下多所大学停招、撤销外语类本科专业，怎样看待这一调整？外语专业未来前景的怎么样？",
@@ -131,8 +131,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时22分 ~ 21时33分]"
+          "appearance_count": 11,
+          "time_info": "[16时22分 ~ 22时17分]"
         },
         {
           "title": "AI手机挑战大厂生态，谁会打赢这场“护城河”攻防战？",
@@ -144,11 +144,12 @@
             12,
             14,
             11,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[13时15分 ~ 21时33分]"
+          "appearance_count": 17,
+          "time_info": "[13时15分 ~ 22时17分]"
         },
         {
           "title": "谷歌AI眼镜将于2026年推出 多家航司在美警告下取消往返委航班 | 环球市场",
@@ -172,8 +173,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时22分 ~ 21时33分]"
+          "appearance_count": 11,
+          "time_info": "[16时22分 ~ 22时17分]"
         },
         {
           "title": "仅仅成立两个月 这家AI计算机初创公司估值高达45亿美元",
@@ -202,8 +203,23 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时18分 ~ 21时33分]"
+          "appearance_count": 13,
+          "time_info": "[15时18分 ~ 22时17分]"
+        },
+        {
+          "title": "美批准向中国出售英伟达H200人工智能芯片，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32137588",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            14,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时18分 ~ 22时17分]"
         },
         {
           "title": "首款搭载Gemini的AI眼镜！谷歌携手中国企业XREAL，计划明年推出",
@@ -218,29 +234,15 @@
           "time_info": "[18时18分 ~ 21时33分]"
         },
         {
-          "title": "美批准向中国出售英伟达H200人工智能芯片，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32137588",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            14,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时18分 ~ 21时33分]"
-        },
-        {
-          "title": "微软首席执行官在X平台发文表示，微软将投入175亿美元支持印度的AI发展。",
-          "url": "https://flash.jin10.com/detail/20251209211204523800",
+          "title": "微软宣布未来四年将在印度投入175亿美元发展人工智能",
+          "url": "https://flash.jin10.com/detail/20251209215045442800",
           "source": "金十数据",
           "ranks": [
-            3
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时33分"
+          "time_info": "22时17分"
         },
         {
           "title": "群核科技发布Aholo空间智能开放平台，CEO陈航：AI只会让设计师能做的事越来越多",
@@ -254,15 +256,15 @@
           "time_info": "19时15分"
         },
         {
-          "title": "微软：将在未来四年内向印度的人工智能和云计算领域投资175亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3017724",
-          "source": "华尔街见闻-快讯",
+          "title": "Meta可能在明年初推出新AI大模型Avocado",
+          "url": "https://flash.jin10.com/detail/20251209214816921800",
+          "source": "金十数据",
           "ranks": [
-            4
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时33分"
+          "time_info": "22时17分"
         },
         {
           "title": "摩根大通CEO戴蒙召集亚马逊创始人贝佐斯等人组建顾问超级小组，助力提高美国韧性的计划。10月，摩根大通的负责人宣布了一项1.5万亿美元的计划，旨在加强美国的稀土和人工智能等关键技术。",
@@ -289,6 +291,18 @@
           "time_info": "[11时15分 ~ 12时25分]"
         },
         {
+          "title": "微软首席执行官在X平台发文表示，微软将投入175亿美元支持印度的AI发展。",
+          "url": "https://flash.jin10.com/detail/20251209211204523800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时33分 ~ 22时17分]"
+        },
+        {
           "title": "努比亚总裁：AI手机发展势不可逆；抖音集团李亮：AI一定是未来",
           "url": "https://wallstreetcn.com/livenews/3017390",
           "source": "华尔街见闻-快讯",
@@ -311,6 +325,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时15分 ~ 07时15分]"
+        },
+        {
+          "title": "微软：将在未来四年内向印度的人工智能和云计算领域投资175亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3017724",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时33分 ~ 22时17分]"
         },
         {
           "title": "如何看待英伟达 H200 芯片获准对华出售，对国内 AI 产业发展会带来哪些直接影响？",
@@ -349,6 +375,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时23分 ~ 04时18分]"
+        },
+        {
+          "title": "新质观察｜AI附体手机：一场笨拙而暴烈的数字越狱",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32131597",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时32分 ~ 22时17分]"
         },
         {
           "title": "综合知情人士透露的消息和条款清单来看，软银和英伟达正在洽谈投资人工智能公司Skild AI。 Skild AI可能会按140亿美元估值融资10亿美元。 谈判细节仍存在变数，但该交易预计将在圣诞节前完成。（路透）",
@@ -434,17 +472,6 @@
           "time_info": "[14时25分 ~ 15时19分]"
         },
         {
-          "title": "新质观察｜AI附体手机：一场笨拙而暴烈的数字越狱",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32131597",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时32分 ~ 21时33分]"
-        },
-        {
           "title": "达利欧：中东正迅速成为全球最具影响力的AI中心之一",
           "url": "https://wallstreetcn.com/livenews/3017096",
           "source": "华尔街见闻-快讯",
@@ -488,6 +515,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时25分"
+        },
+        {
+          "title": "存储AI初创公司Fal按45亿美元估值融资，由Sequoia（红杉资本）领投。",
+          "url": "https://wallstreetcn.com/livenews/3017744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         },
         {
           "title": "Brookfield与卡塔尔携手开展200亿美元人工智能投资项目。（彭博）",
@@ -578,6 +616,17 @@
           "time_info": "16时23分"
         },
         {
+          "title": "欧盟反垄断官员呼吁增配资源 以应对AI时代科技巨头监管挑战",
+          "url": "https://flash.jin10.com/detail/20251209212100757800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
           "title": "Aware 首席信息官警告人工智能融资将亮起 \"橙色 \"灯",
           "url": "https://wallstreetcn.com/livenews/3017286",
           "source": "华尔街见闻-快讯",
@@ -628,7 +677,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
