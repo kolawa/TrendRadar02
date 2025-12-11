@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T02:22:32.146726+08:00",
-  "total_titles_processed": 461,
+  "generated_at": "2025-12-12T03:16:51.288599+08:00",
+  "total_titles_processed": 519,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "如何评价 DeepMind CEO 看中国 AI「毫无创新，但跟进速度可怕」的观点？",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 02时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 03时16分]"
         },
         {
           "title": "动画老牌GAINAX正式破产领盒饭",
@@ -28,8 +28,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 02时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 03时16分]"
         },
         {
           "title": "“特斯拉劲敌”Rivian开发AI芯片，用于在未来车型中取代英伟达产品。 其AI平台的性能是之前款式英伟达系统的四倍。",
@@ -47,11 +47,12 @@
           "url": "https://wallstreetcn.com/livenews/3019365",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时22分 ~ 03时16分]"
         },
         {
           "title": "OpenAI的CEO Altman：对我们“即将推出的芯片”感到兴奋。",
@@ -118,9 +119,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
+        },
+        {
+          "title": "Rivian(RIVN.O)股价大跌9%，此前公司宣布推出首款定制人工智能芯片。",
+          "url": "https://flash.jin10.com/detail/20251212025647083800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
         },
         {
           "title": "CoreWeave宣布达成协议，为Runway的下一代AI视频模型提供算力支持。",
@@ -140,7 +152,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
         },
@@ -151,9 +163,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
+        },
+        {
+          "title": "OpenAI总裁兼联合创始人Greg Brockman发布GPT5.2思维能力测评结果，并表示，模型的基准测试表现非常出色。",
+          "url": "https://flash.jin10.com/detail/20251212025521319800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
         },
         {
           "title": "OpenAI：GPT-5.2-PRO的定价为每100万个输入Token为21美元，每100万个输出Token为168美元。",
@@ -162,7 +185,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
         },
@@ -173,7 +196,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
         },
@@ -184,7 +207,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
         },
@@ -195,7 +218,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
         },
@@ -228,9 +251,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
+        },
+        {
+          "title": "随着与谷歌的竞赛升级 OpenAI推出更先进的模型GPT-5.2",
+          "url": "https://flash.jin10.com/detail/20251212023829675800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
         },
         {
           "title": "谷歌公司：发布更强大的Gemini深度研究代理，可通过交互API获得并使用。 推出交互API，为与我们的模型、Gemini 3 Pro以及Gemini深度研究等智能体进行交互提供统一接口。 开源一个新的网络研究代理基准，DEEPSEARCHQA，旨在测试代理在网络研究任务上的全面性。",
@@ -239,7 +273,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
         },
@@ -272,7 +306,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
         },
