@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-12-11T20:32:48.806064+08:00",
-  "total_titles_processed": 1985,
+  "generated_at": "2025-12-11T21:36:15.002328+08:00",
+  "total_titles_processed": 2078,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 52,
+      "match_count": 53,
       "titles": [
+        {
+          "title": "如何评价 DeepMind CEO 看中国 AI「毫无创新，但跟进速度可怕」的观点？",
+          "url": "https://www.zhihu.com/question/1982385153180394991",
+          "source": "知乎",
+          "ranks": [
+            10,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[15时20分 ~ 21时36分]"
+        },
         {
           "title": "Meta转向！扎克伯格亲自挂帅，引入阿里Qwen训练，从开源走向盈利型闭源AI",
           "url": "https://wallstreetcn.com/articles/3761127",
@@ -20,21 +33,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 34,
-          "time_info": "[00时21分 ~ 20时32分]"
-        },
-        {
-          "title": "如何评价 DeepMind CEO 看中国 AI「毫无创新，但跟进速度可怕」的观点？",
-          "url": "https://www.zhihu.com/question/1982385153180394991",
-          "source": "知乎",
-          "ranks": [
-            10,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时20分 ~ 20时32分]"
+          "appearance_count": 36,
+          "time_info": "[00时21分 ~ 21时36分]"
         },
         {
           "title": "甲骨文股价暴跌超10%！订单积压越来越多 “烧钱”砸AI风险令人担忧",
@@ -58,8 +58,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时09分 ~ 20时32分]"
+          "appearance_count": 20,
+          "time_info": "[09时09分 ~ 21时36分]"
         },
         {
           "title": "男子AI生成车展低俗视频被拘",
@@ -69,8 +69,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时20分 ~ 20时32分]"
+          "appearance_count": 19,
+          "time_info": "[11时20分 ~ 21时36分]"
         },
         {
           "title": "男子AI生成车展低俗视频造谣被拘",
@@ -80,8 +80,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时31分 ~ 20时32分]"
+          "appearance_count": 17,
+          "time_info": "[12时31分 ~ 21时36分]"
         },
         {
           "title": "白银首破60美元大关之际 行业重磅报告揭示：AI是关键推手之一",
@@ -237,6 +237,17 @@
           "time_info": "[12时32分 ~ 13时19分]"
         },
         {
+          "title": "动画老牌GAINAX正式破产领盒饭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347897&amp;topic_name=%E5%8A%A8%E7%94%BB%E8%80%81%E7%89%8CGAINAX%E6%AD%A3%E5%BC%8F%E7%A0%B4%E4%BA%A7%E9%A2%86%E7%9B%92%E9%A5%AD",
+          "source": "贴吧",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时15分 ~ 21时36分]"
+        },
+        {
           "title": "网警：男子AI生成车展低俗视频被拘",
           "url": "https://www.toutiao.com/trending/7582391057200074250/",
           "source": "今日头条",
@@ -258,17 +269,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时19分 ~ 14时26分]"
-        },
-        {
-          "title": "动画老牌GAINAX正式破产领盒饭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347897&amp;topic_name=%E5%8A%A8%E7%94%BB%E8%80%81%E7%89%8CGAINAX%E6%AD%A3%E5%BC%8F%E7%A0%B4%E4%BA%A7%E9%A2%86%E7%9B%92%E9%A5%AD",
-          "source": "贴吧",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 20时32分]"
         },
         {
           "title": "Blue Owl Capital高管Craig Packer：数据中心是一个“实实在在地具有吸引力的领域”。 银行业利用SRTs（重大风险转移）来管控数据中心风险，这样做是“睿智的”。 零售产品的资金流入偏高。 软件（在投资组合中的表现）是本公司表现“最强”的一个方面。（彭博电视）",
@@ -412,7 +412,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         },
@@ -580,6 +580,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时46分"
+        },
+        {
+          "title": "DeepSeek崩了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时35分"
         },
         {
           "title": "鲍威尔：就业增长被夸，这并没有争议。 人工智能（AI）可能是就业疲软的原因之一，但其影响程度并不大。 AI对就业的影响肯定没有体现在裁员中。",
