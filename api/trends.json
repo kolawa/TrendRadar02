@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T16:23:40.878764+08:00",
-  "total_titles_processed": 1565,
+  "generated_at": "2025-12-11T17:21:37.368559+08:00",
+  "total_titles_processed": 1698,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 44,
+      "match_count": 45,
       "titles": [
         {
           "title": "Meta转向！扎克伯格亲自挂帅，引入阿里Qwen训练，从开源走向盈利型闭源AI",
@@ -20,8 +20,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时21分 ~ 16时23分]"
+          "appearance_count": 30,
+          "time_info": "[00时21分 ~ 17时21分]"
         },
         {
           "title": "甲骨文股价暴跌超10%！订单积压越来越多 “烧钱”砸AI风险令人担忧",
@@ -45,8 +45,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时09分 ~ 16时23分]"
+          "appearance_count": 14,
+          "time_info": "[09时09分 ~ 17时21分]"
         },
         {
           "title": "男子AI生成车展低俗视频被拘",
@@ -56,8 +56,19 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[11时20分 ~ 17时21分]"
+        },
+        {
+          "title": "男子AI生成车展低俗视频造谣被拘",
+          "url": "https://www.toutiao.com/trending/7582391057200074250/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 11,
-          "time_info": "[11时20分 ~ 16时23分]"
+          "time_info": "[12时31分 ~ 17时21分]"
         },
         {
           "title": "白银首破60美元大关之际 行业重磅报告揭示：AI是关键推手之一",
@@ -71,17 +82,6 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时21分 ~ 07时30分]"
-        },
-        {
-          "title": "男子AI生成车展低俗视频造谣被拘",
-          "url": "https://www.toutiao.com/trending/7582391057200074250/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时31分 ~ 16时23分]"
         },
         {
           "title": "网警查处一起AI生成虚假低俗视频案",
@@ -153,6 +153,29 @@
           "time_info": "[14时25分 ~ 16时23分]"
         },
         {
+          "title": "如何评价 DeepMind CEO 看中国 AI「毫无创新，但跟进速度可怕」的观点？",
+          "url": "https://www.zhihu.com/question/1982385153180394991",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时20分 ~ 17时21分]"
+        },
+        {
+          "title": "站在 2025 年年末，你认为 AI 究竟是真革命还是虚假繁荣？",
+          "url": "https://www.zhihu.com/question/1974921641634064010",
+          "source": "知乎",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时20分 ~ 17时21分]"
+        },
+        {
           "title": "谷歌(GOOG.O)：宣布对我们的Gemini 2.5 Flash和Gemini 2.5 Pro文本转语音（TTS）预览模型进行重大升级。",
           "url": "https://flash.jin10.com/detail/20251211055023100800",
           "source": "金十数据",
@@ -198,29 +221,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时09分 ~ 11时21分]"
-        },
-        {
-          "title": "如何评价 DeepMind CEO 看中国 AI「毫无创新，但跟进速度可怕」的观点？",
-          "url": "https://www.zhihu.com/question/1982385153180394991",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时20分 ~ 16时23分]"
-        },
-        {
-          "title": "站在 2025 年年末，你认为 AI 究竟是真革命还是虚假繁荣？",
-          "url": "https://www.zhihu.com/question/1974921641634064010",
-          "source": "知乎",
-          "ranks": [
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时20分 ~ 16时23分]"
         },
         {
           "title": "微软CEO表示，公司计划于周五推出全新智能体AI模型。",
@@ -323,6 +323,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时09分"
+        },
+        {
+          "title": "甲骨文(ORCL.N)带动美股AI股盘前走低，英伟达(NVDA.O)跌1.9%，美光科技(MU.O)跌2.1%，微软(MSFT.O)跌1.1%。",
+          "url": "https://flash.jin10.com/detail/20251211170906953800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
         },
         {
           "title": "Gemini Space Station Inc.（GEMI）美股盘后涨15%。",
