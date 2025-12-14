@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-14T17:15:55.223215+08:00",
-  "total_titles_processed": 1036,
+  "generated_at": "2025-12-14T18:16:07.174939+08:00",
+  "total_titles_processed": 1106,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "美股收盘：AI交易连遭打击 三大指数集体收跌 博通重挫逾11%",
@@ -18,8 +18,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时17分 ~ 17时15分]"
+          "appearance_count": 27,
+          "time_info": "[00时17分 ~ 18时16分]"
         },
         {
           "title": "“中国可能都做不到”！AI泡沫充斥得州：超220GW大项目申请到2030年入电网",
@@ -86,8 +86,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时17分 ~ 17时15分]"
+          "appearance_count": 27,
+          "time_info": "[00时17分 ~ 18时16分]"
         },
         {
           "title": "我的AI员工也太能干了",
@@ -133,6 +133,20 @@
           "time_info": "[11时25分 ~ 16时20分]"
         },
         {
+          "title": "付鹏：前瞻2026市场核心主线——关注美债利率曲线与AI应用落地的三种可能【付鹏说13】",
+          "url": "https://wallstreetcn.com/premium/articles/3761351?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时16分 ~ 18时16分]"
+        },
+        {
           "title": "上海浦东：针对新注册AI一人创业公司，提供最高30万元的免费算力",
           "url": "https://wallstreetcn.com/livenews/3020250",
           "source": "华尔街见闻-快讯",
@@ -157,19 +171,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时17分 ~ 07时14分]"
-        },
-        {
-          "title": "付鹏：前瞻2026市场核心主线——关注美债利率曲线与AI应用落地的三种可能【付鹏说13】",
-          "url": "https://wallstreetcn.com/premium/articles/3761351?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时16分 ~ 17时15分]"
         },
         {
           "title": "广东人工智能核心产业规模达2200亿元",
@@ -199,6 +200,17 @@
           "time_info": "[00时17分 ~ 05时14分]"
         },
         {
+          "title": "中信证券：AI训练、推理需求贡献驱动力，持续看好一线云厂商2026年投资机遇",
+          "url": "https://wallstreetcn.com/livenews/3020397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
           "title": "广东人工智能和机器人产业核心指标位列全国第一",
           "url": "https://wallstreetcn.com/livenews/3020326",
           "source": "华尔街见闻-快讯",
@@ -212,6 +224,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时25分 ~ 15时15分]"
+        },
+        {
+          "title": "重启「混元」、挖字节 Seed 研究员，腾讯能在 AI 领域再度成功上演「敢为人后」的策略吗？",
+          "url": "https://www.zhihu.com/question/1982864642054250698",
+          "source": "知乎",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时19分 ~ 18时16分]"
         },
         {
           "title": "姚期智院士：人工智能要从模仿走向推理，从局部技能到全身协同",
@@ -248,18 +272,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时24分 ~ 12时33分]"
-        },
-        {
-          "title": "重启「混元」、挖字节 Seed 研究员，腾讯能在 AI 领域再度成功上演「敢为人后」的策略吗？",
-          "url": "https://www.zhihu.com/question/1982864642054250698",
-          "source": "知乎",
-          "ranks": [
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时19分 ~ 17时15分]"
         },
         {
           "title": "8小时让AI做3个游戏",
