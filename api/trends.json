@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-15T05:14:29.389054+08:00",
-  "total_titles_processed": 402,
+  "generated_at": "2025-12-15T06:14:31.678482+08:00",
+  "total_titles_processed": 416,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "付鹏：前瞻2026市场核心主线——关注美债利率曲线与AI应用落地的三种可能【付鹏说13】",
@@ -16,8 +16,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时17分 ~ 05时14分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 06时14分]"
+        },
+        {
+          "title": "据华尔街日报：咨询公司Teneo的调查显示，80%的小型企业首席执行官和31%的大型企业首席执行官预计2026年上半年全球经济将有所改善。首席执行官们将继续在人工智能上投入资金，尽管回报参差不齐。",
+          "url": "https://flash.jin10.com/detail/20251215053618409800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
         },
         {
           "title": "中信证券：AI训练、推理需求贡献驱动力，持续看好一线云厂商2026年投资机遇",
