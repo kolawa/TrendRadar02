@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-15T12:36:21.351788+08:00",
-  "total_titles_processed": 844,
+  "generated_at": "2025-12-15T13:21:54.483503+08:00",
+  "total_titles_processed": 901,
   "failed_sources": [],
   "trends": [
     {
@@ -20,18 +20,6 @@
           "time_info": "[00时17分 ~ 07时14分]"
         },
         {
-          "title": "据华尔街日报：咨询公司Teneo的调查显示，80%的小型企业首席执行官和31%的大型企业首席执行官预计2026年上半年全球经济将有所改善。首席执行官们将继续在人工智能上投入资金，尽管回报参差不齐。",
-          "url": "https://flash.jin10.com/detail/20251215053618409800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时14分 ~ 07时14分]"
-        },
-        {
           "title": "12月15日投资避雷针：美股AI龙头遭市场抛售 博通跌超11%",
           "url": "https://www.cls.cn/detail/2229152",
           "source": "财联社热门",
@@ -40,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时26分 ~ 12时36分]"
+          "appearance_count": 5,
+          "time_info": "[11时26分 ~ 13时21分]"
         },
         {
           "title": "李飞飞自曝世界模型公司招聘要求：AI技能比大学文凭更重要",
@@ -52,8 +40,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时26分 ~ 12时36分]"
+          "appearance_count": 5,
+          "time_info": "[11时26分 ~ 13时21分]"
+        },
+        {
+          "title": "据华尔街日报：咨询公司Teneo的调查显示，80%的小型企业首席执行官和31%的大型企业首席执行官预计2026年上半年全球经济将有所改善。首席执行官们将继续在人工智能上投入资金，尽管回报参差不齐。",
+          "url": "https://flash.jin10.com/detail/20251215053618409800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时14分 ~ 07时14分]"
         },
         {
           "title": "中信证券：AI训练、推理需求贡献驱动力，持续看好一线云厂商2026年投资机遇",
@@ -69,6 +69,18 @@
           "time_info": "[00时17分 ~ 02时21分]"
         },
         {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-12-15）",
+          "url": "https://flash.jin10.com/detail/20251215115553831800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时36分 ~ 13时21分]"
+        },
+        {
           "title": "小品天后大战AI是什么梗",
           "url": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E5%93%81%E5%A4%A9%E5%90%8E%E5%A4%A7%E6%88%98AI%E6%98%AF%E4%BB%80%E4%B9%88%E6%A2%97",
           "source": "bilibili 热搜",
@@ -78,17 +90,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时35分 ~ 12时36分]"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-12-15）",
-          "url": "https://flash.jin10.com/detail/20251215115553831800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时36分"
         },
         {
           "title": "年终排名将揭晓，绩优基金“角力”AI重仓股",
