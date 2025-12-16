@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T15:20:19.204083+08:00",
-  "total_titles_processed": 1310,
+  "generated_at": "2025-12-16T16:23:21.086748+08:00",
+  "total_titles_processed": 1411,
   "failed_sources": [],
   "trends": [
     {
@@ -20,17 +20,17 @@
           "time_info": "[07时15分 ~ 15时20分]"
         },
         {
-          "title": "高盛预想四种情景警告：AI数据中心热潮很可能悲剧收场！",
-          "url": "https://www.cls.cn/detail/2230016",
-          "source": "财联社热门",
+          "title": "本轮AI股大崩盘--一场暴雨引发的全球股市惨案",
+          "url": "https://wallstreetcn.com/articles/3761466",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
-            10,
-            9
+            9,
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时07分 ~ 07时16分]"
+          "appearance_count": 8,
+          "time_info": "[13时18分 ~ 16时23分]"
         },
         {
           "title": "“AI基建”遭重创，博通，甲骨文三天跌超17%，CoreWeave3个月几近“腰斩”",
@@ -42,8 +42,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时20分 ~ 15时20分]"
+          "appearance_count": 11,
+          "time_info": "[11时20分 ~ 16时23分]"
         },
         {
           "title": "你如何看待 DeepMind CEO 说「中国 AI 毫无创新但跟进速度可怕」？",
@@ -53,24 +53,25 @@
             17,
             11,
             10,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时20分 ~ 15时20分]"
+          "appearance_count": 11,
+          "time_info": "[11时20分 ~ 16时23分]"
         },
         {
-          "title": "本轮AI股大崩盘--一场暴雨引发的全球股市惨案",
-          "url": "https://wallstreetcn.com/articles/3761466",
-          "source": "华尔街见闻",
+          "title": "高盛预想四种情景警告：AI数据中心热潮很可能悲剧收场！",
+          "url": "https://www.cls.cn/detail/2230016",
+          "source": "财联社热门",
           "ranks": [
-            9,
-            5,
-            3
+            12,
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时18分 ~ 15时20分]"
+          "appearance_count": 13,
+          "time_info": "[01时07分 ~ 07时16分]"
         },
         {
           "title": "OpenAI聘请谷歌高管，负责主导并购业务。（The Information）",
