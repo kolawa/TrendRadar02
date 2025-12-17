@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T15:20:03.090228+08:00",
-  "total_titles_processed": 1359,
+  "generated_at": "2025-12-17T16:23:34.648893+08:00",
+  "total_titles_processed": 1464,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "本轮AI股大崩盘--一场暴雨引发的全球股市惨案",
@@ -46,6 +46,19 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时20分 ~ 07时15分]"
+        },
+        {
+          "title": "电力“隐形心脏”告急！揭秘美国AI热潮最大瓶颈之一：变压器",
+          "url": "https://www.cls.cn/detail/2231832",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时18分 ~ 16时23分]"
         },
         {
           "title": "OpenAI：全新图像模型和功能今日已在ChatGPT中面向所有用户推出，并作为GPT Image 1.5在API中上线。",
@@ -98,21 +111,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
-        },
-        {
-          "title": "电力“隐形心脏”告急！揭秘美国AI热潮最大瓶颈之一：变压器",
-          "url": "https://www.cls.cn/detail/2231832",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时18分 ~ 15时20分]"
         },
         {
           "title": "特朗普政府威胁欧盟：美国要在数字税问题上报复西门子、Sap、Mistral AI等欧洲公司",
@@ -210,6 +211,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时16分 ~ 11时17分]"
+        },
+        {
+          "title": "券商晨会精华：消费领域建议关注国货崛起、AI+消费等结构性机会",
+          "url": "https://www.cls.cn/detail/2231626",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时23分]"
         },
         {
           "title": "即梦AI上新，支持声音、画面同步生成",
