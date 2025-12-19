@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-19T22:23:57.376449+08:00",
-  "total_titles_processed": 2160,
+  "generated_at": "2025-12-19T23:25:42.578386+08:00",
+  "total_titles_processed": 2266,
   "failed_sources": [],
   "trends": [
     {
@@ -266,6 +266,18 @@
           "time_info": "[03时20分 ~ 04时23分]"
         },
         {
+          "title": "王俊凯话剧首秀，与饶晓志在《趁世界还年青》叩问AI时代",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32209737",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时34分 ~ 23时25分]"
+        },
+        {
           "title": "豆包AI视频能说方言了",
           "url": "https://www.douyin.com/hot/2340352",
           "source": "抖音",
@@ -276,17 +288,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时46分 ~ 11时26分]"
-        },
-        {
-          "title": "王俊凯话剧首秀，与饶晓志在《趁世界还年青》叩问AI时代",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32209737",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时34分 ~ 22时23分]"
         },
         {
           "title": "OpenAI与美国能源部签署关于AI合作的谅解备忘录。",
@@ -509,7 +510,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
         },
