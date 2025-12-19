@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-12-20T05:22:19.103180+08:00",
-  "total_titles_processed": 587,
+  "generated_at": "2025-12-20T06:22:55.956887+08:00",
+  "total_titles_processed": 618,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",
+          "url": "https://wallstreetcn.com/articles/3761690",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时20分 ~ 06时22分]"
+        },
         {
           "title": "王俊凯话剧首秀，与饶晓志在《趁世界还年青》叩问AI时代",
           "url": "https://m.thepaper.cn/newsDetail_forward_32209737",
@@ -15,20 +28,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 05时22分]"
-        },
-        {
-          "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",
-          "url": "https://wallstreetcn.com/articles/3761690",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时20分 ~ 05时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 06时22分]"
         },
         {
           "title": "消息人士：人工智能芯片公司Cerebras在推迟后即将提交美国IPO申请。",
@@ -76,6 +77,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
+        },
+        {
+          "title": "阿联酋资本托底美股？不仅注资OpenAI，更把甲骨文从债务悬崖边拉了回来",
+          "url": "https://wallstreetcn.com/articles/3761711",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "联合国贸发会议：2033年人工智能将成最具主导性前沿技术",
