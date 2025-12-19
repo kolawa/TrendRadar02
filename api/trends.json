@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T20:45:04.474056+08:00",
-  "total_titles_processed": 1961,
+  "generated_at": "2025-12-19T21:35:23.154924+08:00",
+  "total_titles_processed": 2066,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 52,
+      "match_count": 53,
       "titles": [
         {
           "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
@@ -323,6 +323,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时35分 ~ 03时20分]"
+        },
+        {
+          "title": "王俊凯话剧首秀，与饶晓志在《趁世界还年青》叩问AI时代",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32209737",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时34分 ~ 21时35分]"
         },
         {
           "title": "谷歌：扩展内容透明度工具，帮助更轻松地识别人工智能生成内容。图像和视频验证现已在Gemini应用支持的所有语言和国家/地区可用。",
