@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T21:38:20.953385+08:00",
-  "total_titles_processed": 1868,
+  "generated_at": "2025-12-23T22:23:51.490742+08:00",
+  "total_titles_processed": 1956,
   "failed_sources": [],
   "trends": [
     {
@@ -39,8 +39,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[09时47分 ~ 21时38分]"
+          "appearance_count": 22,
+          "time_info": "[09时47分 ~ 22时23分]"
         },
         {
           "title": "两男子用AI造谣中国女篮被刑拘",
@@ -50,8 +50,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[09时47分 ~ 21时38分]"
+          "appearance_count": 22,
+          "time_info": "[09时47分 ~ 22时23分]"
         },
         {
           "title": "两男子用AI造谣中国女篮被刑拘",
@@ -61,8 +61,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时47分 ~ 21时38分]"
+          "appearance_count": 20,
+          "time_info": "[09时47分 ~ 22时23分]"
         },
         {
           "title": "AI大模型独角兽招股书深度拆解：MiniMax to C，智谱 to B",
@@ -92,11 +92,12 @@
             14,
             18,
             15,
-            23
+            23,
+            16
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时29分 ~ 21时38分]"
+          "appearance_count": 32,
+          "time_info": "[00时29分 ~ 22时23分]"
         },
         {
           "title": "加码AI算力与电力布局！Alphabet斥资47.5亿美元收购Intersect",
