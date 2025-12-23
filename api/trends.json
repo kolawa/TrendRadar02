@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-24T05:21:56.626553+08:00",
-  "total_titles_processed": 529,
+  "generated_at": "2025-12-24T06:22:20.163571+08:00",
+  "total_titles_processed": 583,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             9,
             28,
             10,
-            25
+            25,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时22分 ~ 05时21分]"
+          "appearance_count": 11,
+          "time_info": "[01时22分 ~ 06时22分]"
         },
         {
           "title": "OpenAI、Anthropic、xAI 遭作家起诉版权侵权",
