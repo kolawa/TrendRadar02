@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T05:21:45.287586+08:00",
-  "total_titles_processed": 441,
+  "generated_at": "2025-12-26T06:22:12.123954+08:00",
+  "total_titles_processed": 468,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 05时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 06时22分]"
         },
         {
           "title": "画师全跑光,马斯克AI贴脸盗图",
@@ -27,19 +27,20 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 05时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 06时22分]"
         },
         {
           "title": "据日经新闻：富士通加入由软银牵头的下一代人工智能内存项目。",
           "url": "https://flash.jin10.com/detail/20251226040528613800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 06时22分]"
         }
       ]
     }
