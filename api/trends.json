@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T19:21:18.962999+08:00",
-  "total_titles_processed": 1489,
+  "generated_at": "2025-12-26T20:45:13.297778+08:00",
+  "total_titles_processed": 1601,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "国家发改委：国家创业投资引导基金将对集成电路、人工智能、航空航天、低空经济等领域的早期项目和企业加大投资力度",
@@ -32,6 +32,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[09时47分 ~ 14时36分]"
+        },
+        {
+          "title": "今年人工智能核心产业规模超万亿元",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%A0%B8%E5%BF%83%E4%BA%A7%E4%B8%9A%E8%A7%84%E6%A8%A1%E8%B6%85%E4%B8%87%E4%BA%BF%E5%85%83%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时24分 ~ 20时45分]"
         },
         {
           "title": "1200亿美元“幽灵债务”：翻开AI巨头们不想让你看的另一本账",
@@ -94,15 +105,18 @@
           "time_info": "[00时28分 ~ 17时25分]"
         },
         {
-          "title": "今年人工智能核心产业规模超万亿元",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%A0%B8%E5%BF%83%E4%BA%A7%E4%B8%9A%E8%A7%84%E6%A8%A1%E8%B6%85%E4%B8%87%E4%BA%BF%E5%85%83%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
+          "title": "《科创板日报》评选2025十大科技热词出炉，AI成绝对主线",
+          "url": "https://www.cls.cn/detail/2239926",
+          "source": "财联社热门",
           "ranks": [
-            3
+            13,
+            9,
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时24分 ~ 19时21分]"
+          "appearance_count": 9,
+          "time_info": "[16时31分 ~ 20时45分]"
         },
         {
           "title": "如果只能用一个词来形容人和 AI 的区别以及人类的不可代替之处，你会选哪个词？为什么？",
@@ -115,19 +129,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[12时36分 ~ 15时25分]"
-        },
-        {
-          "title": "《科创板日报》评选2025十大科技热词出炉，AI成绝对主线",
-          "url": "https://www.cls.cn/detail/2239926",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时31分 ~ 19时21分]"
         },
         {
           "title": "UP主用AI挑战肉鸽游戏",
@@ -252,6 +253,17 @@
           "time_info": "[16时31分 ~ 16时32分]"
         },
         {
+          "title": "华为：全球悬赏300万元解决AI时代的存储难题",
+          "url": "https://www.cls.cn/detail/2241363",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时44分 ~ 20时45分]"
+        },
+        {
           "title": "朱光耀：人工智能发展需在伦理规范与治理规则方面形成共识",
           "url": "https://wallstreetcn.com/livenews/3027016",
           "source": "华尔街见闻-快讯",
@@ -281,7 +293,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
