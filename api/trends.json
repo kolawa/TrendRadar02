@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T20:45:13.297778+08:00",
-  "total_titles_processed": 1601,
+  "generated_at": "2025-12-26T21:35:25.510386+08:00",
+  "total_titles_processed": 1683,
   "failed_sources": [],
   "trends": [
     {
@@ -41,8 +41,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时24分 ~ 20时45分]"
+          "appearance_count": 8,
+          "time_info": "[18时24分 ~ 21时35分]"
         },
         {
           "title": "1200亿美元“幽灵债务”：翻开AI巨头们不想让你看的另一本账",
@@ -218,6 +218,18 @@
           "time_info": "[13时25分 ~ 14时36分]"
         },
         {
+          "title": "华为：全球悬赏300万元解决AI时代的存储难题",
+          "url": "https://www.cls.cn/detail/2241363",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时44分 ~ 21时35分]"
+        },
+        {
           "title": "金十数据整理：每日人工智能动态汇总（2025-12-26）",
           "url": "https://flash.jin10.com/detail/20251226114833609800",
           "source": "金十数据",
@@ -251,17 +263,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时31分 ~ 16时32分]"
-        },
-        {
-          "title": "华为：全球悬赏300万元解决AI时代的存储难题",
-          "url": "https://www.cls.cn/detail/2241363",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时44分 ~ 20时45分]"
         },
         {
           "title": "朱光耀：人工智能发展需在伦理规范与治理规则方面形成共识",
