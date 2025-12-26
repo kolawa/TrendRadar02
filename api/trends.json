@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T03:18:32.305022+08:00",
-  "total_titles_processed": 436,
+  "generated_at": "2025-12-27T04:25:27.117907+08:00",
+  "total_titles_processed": 461,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 03时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 04时25分]"
         },
         {
           "title": "174名北大学生迎特殊考试：对决AI",
@@ -27,8 +27,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 03时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 04时25分]"
         },
         {
           "title": "AI音乐MV绩效改进计划",
@@ -39,8 +39,20 @@
             21
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 04时25分]"
+        },
+        {
+          "title": "科研创新 idea 要不要告诉 AI?",
+          "url": "https://www.zhihu.com/question/1914008682825520046",
+          "source": "知乎",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时27分 ~ 03时18分]"
+          "time_info": "[03时17分 ~ 04时25分]"
         },
         {
           "title": "国家数据局：拓展适应人工智能发展的高质量数据集流通交易方式",
@@ -54,17 +66,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时27分 ~ 02时33分]"
-        },
-        {
-          "title": "科研创新 idea 要不要告诉 AI?",
-          "url": "https://www.zhihu.com/question/1914008682825520046",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时17分 ~ 03时18分]"
         },
         {
           "title": "2025年度AI好用工具",
