@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T13:24:50.434472+08:00",
-  "total_titles_processed": 900,
+  "generated_at": "2025-12-27T14:34:11.095769+08:00",
+  "total_titles_processed": 955,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时27分 ~ 13时24分]"
+          "appearance_count": 22,
+          "time_info": "[00时27分 ~ 14时34分]"
         },
         {
           "title": "AI音乐MV绩效改进计划",
@@ -30,11 +30,12 @@
             28,
             23,
             13,
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时27分 ~ 13时24分]"
+          "appearance_count": 20,
+          "time_info": "[00时27分 ~ 14时34分]"
         },
         {
           "title": "174名北大学生迎特殊考试：对决AI",
@@ -109,11 +110,12 @@
           "ranks": [
             9,
             11,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时25分 ~ 13时24分]"
+          "appearance_count": 4,
+          "time_info": "[11时25分 ~ 14时34分]"
         },
         {
           "title": "国家数据局：拓展适应人工智能发展的高质量数据集流通交易方式",
