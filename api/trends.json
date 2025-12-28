@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-12-28T11:52:16.059288+08:00",
-  "total_titles_processed": 614,
+  "generated_at": "2025-12-28T12:47:28.760001+08:00",
+  "total_titles_processed": 675,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "原告出示证据 右下角写着“AI生成”",
+          "url": "https://www.baidu.com/s?wd=%E5%8E%9F%E5%91%8A%E5%87%BA%E7%A4%BA%E8%AF%81%E6%8D%AE+%E5%8F%B3%E4%B8%8B%E8%A7%92%E5%86%99%E7%9D%80%E2%80%9CAI%E7%94%9F%E6%88%90%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时57分 ~ 12时47分]"
+        },
         {
           "title": "2025江苏省人工智能产业发展大会召开",
           "url": "https://wallstreetcn.com/livenews/3027570",
@@ -15,11 +28,12 @@
             8,
             10,
             17,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 11时52分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 12时47分]"
         },
         {
           "title": "涉及人工智能拟人化互动服务管理 国家网信办公开征求意见",
@@ -28,11 +42,12 @@
           "ranks": [
             11,
             10,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时26分 ~ 11时52分]"
+          "appearance_count": 20,
+          "time_info": "[00时26分 ~ 12时47分]"
         },
         {
           "title": "中国研发人工智能地震实时监测系统 将助力全球地震监测",
@@ -60,16 +75,17 @@
           "time_info": "[00时27分 ~ 09时58分]"
         },
         {
-          "title": "原告出示证据 右下角写着“AI生成”",
-          "url": "https://www.baidu.com/s?wd=%E5%8E%9F%E5%91%8A%E5%87%BA%E7%A4%BA%E8%AF%81%E6%8D%AE+%E5%8F%B3%E4%B8%8B%E8%A7%92%E5%86%99%E7%9D%80%E2%80%9CAI%E7%94%9F%E6%88%90%E2%80%9D",
-          "source": "百度热搜",
+          "title": "Notion CEO谈AI变革：“无限心智”时代来临",
+          "url": "https://wallstreetcn.com/articles/3762183",
+          "source": "华尔街见闻",
           "ranks": [
-            4,
-            2
+            10,
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时57分 ~ 11时52分]"
+          "appearance_count": 8,
+          "time_info": "[07时20分 ~ 12时47分]"
         },
         {
           "title": "2025江苏省人工智能产业发展大会召开",
@@ -83,17 +99,27 @@
           "time_info": "[00时27分 ~ 07时21分]"
         },
         {
-          "title": "Notion CEO谈AI变革：“无限心智”时代来临",
-          "url": "https://wallstreetcn.com/articles/3762183",
+          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
+          "url": "https://wallstreetcn.com/articles/3762196",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            8,
-            6
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时20分 ~ 11时52分]"
+          "appearance_count": 2,
+          "time_info": "[12时46分 ~ 12时47分]"
+        },
+        {
+          "title": "研究发现 YouTube新用户推荐内容中逾两成是低质量AI视频",
+          "url": "https://flash.jin10.com/detail/20251228101016182800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时52分 ~ 12时47分]"
         },
         {
           "title": "国产AI大战迈入新阶段？豆包日活破亿 机构：“Chatbot入口之争”已然意义不大",
@@ -105,17 +131,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时20分 ~ 07时21分]"
-        },
-        {
-          "title": "研究发现 YouTube新用户推荐内容中逾两成是低质量AI视频",
-          "url": "https://flash.jin10.com/detail/20251228101016182800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时52分"
         }
       ]
     }
