@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T13:31:40.745181+08:00",
-  "total_titles_processed": 955,
+  "generated_at": "2025-12-29T14:38:47.630615+08:00",
+  "total_titles_processed": 1049,
   "failed_sources": [],
   "trends": [
     {
@@ -31,11 +31,12 @@
             10,
             16,
             23,
-            28
+            28,
+            22
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时27分 ~ 13时31分]"
+          "appearance_count": 24,
+          "time_info": "[00时27分 ~ 14时38分]"
         },
         {
           "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
@@ -71,6 +72,17 @@
           "time_info": "[09时55分 ~ 09时56分]"
         },
         {
+          "title": "巴菲特谢幕、OpenAI搅动万亿市值、谷歌强势崛起......2025全球十大商业事件盘点",
+          "url": "https://wallstreetcn.com/articles/3762142",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时51分 ~ 14时38分]"
+        },
+        {
           "title": "广州在全国率先设立区级人工智能发展局",
           "url": "https://wallstreetcn.com/livenews/3027650",
           "source": "华尔街见闻-快讯",
@@ -94,17 +106,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时52分 ~ 13时31分]"
-        },
-        {
-          "title": "巴菲特谢幕、OpenAI搅动万亿市值、谷歌强势崛起......2025全球十大商业事件盘点",
-          "url": "https://wallstreetcn.com/articles/3762142",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时51分 ~ 13时31分]"
         },
         {
           "title": "火山引擎官宣成为总台春晚独家AI云合作伙伴",
