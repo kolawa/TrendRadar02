@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-30T16:32:39.646160+08:00",
-  "total_titles_processed": 1329,
+  "generated_at": "2025-12-30T17:28:29.432721+08:00",
+  "total_titles_processed": 1419,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "年终盘点|DeepSeek点燃AI热，贵金属引领周期逆袭，商业航天奏响年末最强音......一文看懂2025年A股热炒题材",
@@ -27,11 +27,12 @@
             20,
             9,
             4,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时48分 ~ 16时32分]"
+          "appearance_count": 12,
+          "time_info": "[09时48分 ~ 17时28分]"
         },
         {
           "title": "DeepSeek一夜爆火、Labubu引爆全球抢购潮、“史诗级”外卖大战……2025年中国十大商业事件全盘点",
@@ -58,6 +59,34 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时29分 ~ 11时31分]"
+        },
+        {
+          "title": "成立不到3年，被Meta以逾20亿美元收购！Manus成为“AI时代中国创业新标杆”",
+          "url": "https://wallstreetcn.com/articles/3762279",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时26分 ~ 17时28分]"
+        },
+        {
+          "title": "盘点2025年度AI大事件",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B92025%E5%B9%B4%E5%BA%A6AI%E5%A4%A7%E4%BA%8B%E4%BB%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            4,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时31分 ~ 17时28分]"
         },
         {
           "title": "2025最全AI成果盘点",
@@ -91,20 +120,6 @@
           "time_info": "[01时20分 ~ 11时31分]"
         },
         {
-          "title": "成立不到3年，被Meta以逾20亿美元收购！Manus成为“AI时代中国创业新标杆”",
-          "url": "https://wallstreetcn.com/articles/3762279",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时26分 ~ 16时32分]"
-        },
-        {
           "title": "AI智能体超级并购来了！跻身Meta第三大收购案 商业化拐点还有多远？",
           "url": "https://www.cls.cn/detail/2243572",
           "source": "财联社热门",
@@ -119,18 +134,18 @@
           "time_info": "[12时40分 ~ 16时32分]"
         },
         {
-          "title": "盘点2025年度AI大事件",
-          "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B92025%E5%B9%B4%E5%BA%A6AI%E5%A4%A7%E4%BA%8B%E4%BB%B6",
-          "source": "bilibili 热搜",
+          "title": "AI造假当庭露馅,法官严斥伪造者",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348548&amp;topic_name=AI%E9%80%A0%E5%81%87%E5%BD%93%E5%BA%AD%E9%9C%B2%E9%A6%85%2C%E6%B3%95%E5%AE%98%E4%B8%A5%E6%96%A5%E4%BC%AA%E9%80%A0%E8%80%85",
+          "source": "贴吧",
           "ranks": [
-            9,
-            4,
-            12,
-            11
+            7,
+            8,
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时31分 ~ 16时32分]"
+          "appearance_count": 8,
+          "time_info": "[13时26分 ~ 17时28分]"
         },
         {
           "title": "用一个字证明自己不是AI",
@@ -148,17 +163,15 @@
           "time_info": "[01时20分 ~ 06时22分]"
         },
         {
-          "title": "AI造假当庭露馅,法官严斥伪造者",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348548&amp;topic_name=AI%E9%80%A0%E5%81%87%E5%BD%93%E5%BA%AD%E9%9C%B2%E9%A6%85%2C%E6%B3%95%E5%AE%98%E4%B8%A5%E6%96%A5%E4%BC%AA%E9%80%A0%E8%80%85",
-          "source": "贴吧",
+          "title": "“AI+教育”成这场收官发布会重头戏 明年将出台相关政策",
+          "url": "https://www.cls.cn/detail/2244074",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            8,
-            10
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时26分 ~ 16时32分]"
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 17时28分]"
         },
         {
           "title": "法拉第未来计划更名为法拉第未来人工智能电动汽车公司， 法拉第未来将于明年2月13日召开特别会议。",
@@ -247,6 +260,17 @@
           "time_info": "[12时41分 ~ 13时26分]"
         },
         {
+          "title": "【午报】三大指数缩量整理涨跌不一，AI智能体、机器人概念双双走强",
+          "url": "https://www.cls.cn/detail/2243744",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时31分 ~ 17时28分]"
+        },
+        {
           "title": "员工因岗位被 AI 替代遭解雇，法院认定构成违法解除劳动合同，怎样解读这一判罚？",
           "url": "https://www.zhihu.com/question/1987934900884637667",
           "source": "知乎",
@@ -258,6 +282,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时48分 ~ 12时41分]"
+        },
+        {
+          "title": "周鸿祎：AI圈被图灵奖得主掀桌子了",
+          "url": "https://www.toutiao.com/trending/7589489836612931108/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时31分 ~ 17时28分]"
         },
         {
           "title": "成立不到3年，被Meta数十亿美元收购！Manus成为“AI时代中国创业新标杆”",
@@ -295,17 +331,6 @@
           "time_info": "[14时36分 ~ 15时25分]"
         },
         {
-          "title": "【午报】三大指数缩量整理涨跌不一，AI智能体、机器人概念双双走强",
-          "url": "https://www.cls.cn/detail/2243744",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 16时32分]"
-        },
-        {
           "title": "用AI打开原神同人动画",
           "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E6%89%93%E5%BC%80%E5%8E%9F%E7%A5%9E%E5%90%8C%E4%BA%BA%E5%8A%A8%E7%94%BB",
           "source": "bilibili 热搜",
@@ -315,17 +340,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时40分 ~ 12时41分]"
-        },
-        {
-          "title": "周鸿祎：AI圈被图灵奖得主掀桌子了",
-          "url": "https://www.toutiao.com/trending/7589489836612931108/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 16时32分]"
         },
         {
           "title": "据华尔街日报：Meta即将完成对人工智能初创公司Manus的收购，交易金额超过20亿美元。",
