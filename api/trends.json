@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T06:23:06.694888+08:00",
-  "total_titles_processed": 548,
+  "generated_at": "2026-01-01T07:22:17.929452+08:00",
+  "total_titles_processed": 595,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 06时23分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 07时22分]"
         },
         {
           "title": "【焦点复盘】银行等权重板块护盘，沪指追平日线连阳历史纪录，AI软硬件分化再现",
@@ -26,8 +26,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 06时23分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 07时22分]"
         },
         {
           "title": "【每日收评】沪指11连阳收官！商业航天卷土重来，AI应用端强势延续",
@@ -38,19 +38,31 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 06时23分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 07时22分]"
         },
         {
           "title": "「Gemini」的正确读音是什么，哪种读法更被普遍接受？",
           "url": "https://www.zhihu.com/question/1987568735523980297",
           "source": "知乎",
           "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时20分 ~ 07时22分]"
+        },
+        {
+          "title": "明查｜不是AI！这是贵州“荒山再利用”光伏项目",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32282883",
+          "source": "澎湃新闻",
+          "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[05时20分 ~ 06时23分]"
+          "time_info": "[06时22分 ~ 07时22分]"
         },
         {
           "title": "法国总统马克龙：呼吁欧洲在AI和量子计算技术领域实现独立。",
@@ -76,17 +88,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时25分 ~ 05时21分]"
-        },
-        {
-          "title": "明查｜不是AI！这是贵州“荒山再利用”光伏项目",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32282883",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时22分 ~ 06时23分]"
         },
         {
           "title": "报道：英伟达正投资布鲁克菲尔德AI基础设施基金",
