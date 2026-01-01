@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-01T07:22:17.929452+08:00",
-  "total_titles_processed": 595,
+  "generated_at": "2026-01-01T09:59:24.459279+08:00",
+  "total_titles_processed": 753,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
         {
           "title": "国家广电总局专项治理“AI魔改”视频：重点清理基于四大名著等“魔改”内容",
@@ -42,6 +42,18 @@
           "time_info": "[00时29分 ~ 07时22分]"
         },
         {
+          "title": "明查｜不是AI！这是贵州“荒山再利用”光伏项目",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32282883",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时22分 ~ 09时59分]"
+        },
+        {
           "title": "「Gemini」的正确读音是什么，哪种读法更被普遍接受？",
           "url": "https://www.zhihu.com/question/1987568735523980297",
           "source": "知乎",
@@ -52,17 +64,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[05时20分 ~ 07时22分]"
-        },
-        {
-          "title": "明查｜不是AI！这是贵州“荒山再利用”光伏项目",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32282883",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时22分 ~ 07时22分]"
         },
         {
           "title": "法国总统马克龙：呼吁欧洲在AI和量子计算技术领域实现独立。",
@@ -78,6 +79,17 @@
           "time_info": "[04时25分 ~ 06时23分]"
         },
         {
+          "title": "2026年全球经济十大悬念：AI泡沫会破吗？黄金会否冲破5000？泽连斯基会妥协吗?",
+          "url": "https://wallstreetcn.com/articles/3762372",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
+        },
+        {
           "title": "法国总统马克龙马呼吁欧洲在人工智能和量子技术领域保持独立。",
           "url": "https://flash.jin10.com/detail/20260101031526181800",
           "source": "金十数据",
@@ -88,6 +100,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时25分 ~ 05时21分]"
+        },
+        {
+          "title": "150万美元！OpenAI人均员工薪酬炸裂，刷新科技史纪录",
+          "url": "https://wallstreetcn.com/articles/3762366",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
+        },
+        {
+          "title": "“AI教父”警告：AI显现自我保护迹象，人类应做好“拔掉插头”的准备",
+          "url": "https://www.cls.cn/detail/2245960",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
+        },
+        {
+          "title": "给AI内容“卸妆” 一眼辨真伪",
+          "url": "https://www.toutiao.com/trending/7589768798652514310/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
         },
         {
           "title": "报道：英伟达正投资布鲁克菲尔德AI基础设施基金",
