@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T15:25:46.404715+08:00",
-  "total_titles_processed": 1110,
+  "generated_at": "2026-01-01T16:32:48.678263+08:00",
+  "total_titles_processed": 1197,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             3,
             4,
             5,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时55分 ~ 15时25分]"
+          "appearance_count": 10,
+          "time_info": "[11时55分 ~ 16时32分]"
         },
         {
           "title": "150万美元！OpenAI人均员工薪酬炸裂，刷新科技史纪录",
@@ -31,8 +32,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时58分 ~ 15时25分]"
+          "appearance_count": 12,
+          "time_info": "[09时58分 ~ 16时32分]"
         },
         {
           "title": "国家广电总局专项治理“AI魔改”视频：重点清理基于四大名著等“魔改”内容",
@@ -55,8 +56,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时58分 ~ 15时25分]"
+          "appearance_count": 12,
+          "time_info": "[09时58分 ~ 16时32分]"
         },
         {
           "title": "2026年全球经济十大悬念：AI泡沫会破吗？黄金会否冲破5000？泽连斯基会妥协吗?",
@@ -83,6 +84,17 @@
           "time_info": "[00时29分 ~ 07时22分]"
         },
         {
+          "title": "给AI内容“卸妆” 一眼辨真伪",
+          "url": "https://www.baidu.com/s?wd=%E7%BB%99AI%E5%86%85%E5%AE%B9%E2%80%9C%E5%8D%B8%E5%A6%86%E2%80%9D+%E4%B8%80%E7%9C%BC%E8%BE%A8%E7%9C%9F%E4%BC%AA",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时55分 ~ 16时32分]"
+        },
+        {
           "title": "【每日收评】沪指11连阳收官！商业航天卷土重来，AI应用端强势延续",
           "url": "https://www.cls.cn/detail/2245529",
           "source": "财联社热门",
@@ -102,19 +114,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时58分 ~ 15时25分]"
-        },
-        {
-          "title": "给AI内容“卸妆” 一眼辨真伪",
-          "url": "https://www.baidu.com/s?wd=%E7%BB%99AI%E5%86%85%E5%AE%B9%E2%80%9C%E5%8D%B8%E5%A6%86%E2%80%9D+%E4%B8%80%E7%9C%BC%E8%BE%A8%E7%9C%9F%E4%BC%AA",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时55分 ~ 15时25分]"
+          "appearance_count": 12,
+          "time_info": "[09时58分 ~ 16时32分]"
         },
         {
           "title": "明查｜不是AI！这是贵州“荒山再利用”光伏项目",
@@ -149,8 +150,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时36分 ~ 15时25分]"
+          "appearance_count": 4,
+          "time_info": "[14时36分 ~ 16时32分]"
         },
         {
           "title": "法国总统马克龙：呼吁欧洲在AI和量子计算技术领域实现独立。",
