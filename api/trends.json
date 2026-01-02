@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T20:44:58.181694+08:00",
-  "total_titles_processed": 1436,
+  "generated_at": "2026-01-02T21:35:09.406902+08:00",
+  "total_titles_processed": 1502,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "梁文锋署名，DeepSeek元旦新论文要开启架构新篇章",
@@ -57,11 +57,12 @@
             3,
             12,
             29,
-            26
+            26,
+            25
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时42分 ~ 20时44分]"
+          "appearance_count": 16,
+          "time_info": "[11时42分 ~ 21时35分]"
         },
         {
           "title": "展望半导体2026三大关键词：存储、AI、国产化",
@@ -70,11 +71,12 @@
           "ranks": [
             8,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时29分 ~ 20时44分]"
+          "appearance_count": 33,
+          "time_info": "[00时29分 ~ 21时35分]"
         },
         {
           "title": "【早报】加大对科技投资！全球主权财富基金资产突破15万亿美元；AI加速全球可控核聚变商业化进程",
@@ -87,8 +89,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时49分 ~ 20时44分]"
+          "appearance_count": 18,
+          "time_info": "[09时49分 ~ 21时35分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -104,8 +106,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时29分 ~ 20时44分]"
+          "appearance_count": 31,
+          "time_info": "[00时29分 ~ 21时35分]"
         },
         {
           "title": "AI魔改翻车,广电出手救名著",
@@ -119,8 +121,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时29分 ~ 20时44分]"
+          "appearance_count": 33,
+          "time_info": "[00时29分 ~ 21时35分]"
         },
         {
           "title": "给AI内容“卸妆” 一眼辨真伪",
@@ -158,8 +160,22 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时32分 ~ 21时35分]"
+        },
+        {
+          "title": "OpenAI、Space X和Anthropic，三大“超级IPO”或齐聚今年，单笔募资额预计超过2025年200家IPO总和",
+          "url": "https://wallstreetcn.com/articles/3762451",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[16时32分 ~ 20时44分]"
+          "time_info": "[17时27分 ~ 21时35分]"
         },
         {
           "title": "报道：OpenAI整合团队开发音频AI模型，为发布AI个人设备铺路",
@@ -201,19 +217,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
-        },
-        {
-          "title": "OpenAI、Space X和Anthropic，三大“超级IPO”或齐聚今年，单笔募资额预计超过2025年200家IPO总和",
-          "url": "https://wallstreetcn.com/articles/3762451",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时27分 ~ 20时44分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-01-02）",
@@ -281,6 +284,28 @@
           "time_info": "[09时49分 ~ 11时42分]"
         },
         {
+          "title": "又一AI芯片企业加入上市潮！百度官宣昆仑芯已秘密赴港IPO",
+          "url": "https://www.cls.cn/detail/2246292",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时44分 ~ 21时35分]"
+        },
+        {
+          "title": "报道：OpenAI首款“AI硬件”是“智能笔”或“音频设备”，由鸿海独家代工，预计今年或明年推出",
+          "url": "https://wallstreetcn.com/articles/3762454",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时34分 ~ 21时35分]"
+        },
+        {
           "title": "谷歌AI的逆风翻盘史",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E7%9A%84%E9%80%86%E9%A3%8E%E7%BF%BB%E7%9B%98%E5%8F%B2",
           "source": "bilibili 热搜",
@@ -292,24 +317,13 @@
           "time_info": "15时26分"
         },
         {
-          "title": "又一AI芯片企业加入上市潮！百度官宣昆仑芯已秘密赴港IPO",
-          "url": "https://www.cls.cn/detail/2246292",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时44分"
-        },
-        {
           "title": "印度市场监管机构主席：正在开发用于市场中介机构风险监管的人工智能工具。",
           "url": "https://flash.jin10.com/detail/20260102193205213800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
         }
