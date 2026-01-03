@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T19:19:22.499041+08:00",
-  "total_titles_processed": 1259,
+  "generated_at": "2026-01-03T20:43:20.964981+08:00",
+  "total_titles_processed": 1361,
   "failed_sources": [],
   "trends": [
     {
@@ -33,8 +33,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时33分 ~ 19时19分]"
+          "appearance_count": 14,
+          "time_info": "[14时33分 ~ 20时43分]"
         },
         {
           "title": "AI如何让闪迪成为股王",
@@ -178,6 +178,33 @@
           "time_info": "[07时22分 ~ 17时23分]"
         },
         {
+          "title": "开年第一天，台积电、三星大涨创新高，带动AI股逆市走高",
+          "url": "https://wallstreetcn.com/articles/3762467",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时29分 ~ 20时43分]"
+        },
+        {
+          "title": "美食博主手搓对抗AI的一年",
+          "url": "https://www.douyin.com/hot/2356059",
+          "source": "抖音",
+          "ranks": [
+            11,
+            18,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时22分 ~ 20时43分]"
+        },
+        {
           "title": "据日经新闻：Daiichi Sankyo计划投入约3000亿日元建设靶向抗癌药物的生产设施。",
           "url": "https://flash.jin10.com/detail/20260103013040455800",
           "source": "金十数据",
@@ -190,19 +217,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时33分 ~ 09时44分]"
-        },
-        {
-          "title": "开年第一天，台积电、三星大涨创新高，带动AI股逆市走高",
-          "url": "https://wallstreetcn.com/articles/3762467",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时29分 ~ 19时19分]"
         },
         {
           "title": "UP主解读DeepSeek梁文锋新论文",
@@ -230,19 +244,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时22分 ~ 14时34分]"
-        },
-        {
-          "title": "美食博主手搓对抗AI的一年",
-          "url": "https://www.douyin.com/hot/2356059",
-          "source": "抖音",
-          "ranks": [
-            11,
-            18,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时22分 ~ 19时19分]"
         },
         {
           "title": "Strategas Securities高级ETF策略师Todd Sohn：投资者对美国经济增长和人工智能（AI）持仓过重，他们正在寻找那些估值可能更低、或者在上一轮周期中表现不突出的领域。 新兴市场正好符合这一需求。",
