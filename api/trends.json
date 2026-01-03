@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T20:43:20.964981+08:00",
-  "total_titles_processed": 1361,
+  "generated_at": "2026-01-03T21:32:18.755629+08:00",
+  "total_titles_processed": 1428,
   "failed_sources": [],
   "trends": [
     {
@@ -33,8 +33,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[14时33分 ~ 20时43分]"
+          "appearance_count": 16,
+          "time_info": "[14时33分 ~ 21时32分]"
         },
         {
           "title": "AI如何让闪迪成为股王",
@@ -67,6 +67,20 @@
           "time_info": "[00时28分 ~ 09时44分]"
         },
         {
+          "title": "美食博主手搓对抗AI的一年",
+          "url": "https://www.douyin.com/hot/2356059",
+          "source": "抖音",
+          "ranks": [
+            11,
+            18,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时22分 ~ 21时32分]"
+        },
+        {
           "title": "报道：OpenAI首款“AI硬件”是“智能笔”或“音频设备”，由鸿海独家代工，预计今年或明年推出",
           "url": "https://wallstreetcn.com/articles/3762454",
           "source": "华尔街见闻",
@@ -78,6 +92,19 @@
           "is_new": false,
           "appearance_count": 25,
           "time_info": "[00时28分 ~ 15时21分]"
+        },
+        {
+          "title": "开年第一天，台积电、三星大涨创新高，带动AI股逆市走高",
+          "url": "https://wallstreetcn.com/articles/3762467",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[16时29分 ~ 21时32分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -176,33 +203,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[07时22分 ~ 17时23分]"
-        },
-        {
-          "title": "开年第一天，台积电、三星大涨创新高，带动AI股逆市走高",
-          "url": "https://wallstreetcn.com/articles/3762467",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时29分 ~ 20时43分]"
-        },
-        {
-          "title": "美食博主手搓对抗AI的一年",
-          "url": "https://www.douyin.com/hot/2356059",
-          "source": "抖音",
-          "ranks": [
-            11,
-            18,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时22分 ~ 20时43分]"
         },
         {
           "title": "据日经新闻：Daiichi Sankyo计划投入约3000亿日元建设靶向抗癌药物的生产设施。",
