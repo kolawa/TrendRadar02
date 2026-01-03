@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T12:35:01.448754+08:00",
-  "total_titles_processed": 760,
+  "generated_at": "2026-01-03T13:24:15.252787+08:00",
+  "total_titles_processed": 802,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时28分 ~ 12时35分]"
+          "appearance_count": 21,
+          "time_info": "[00时28分 ~ 13时24分]"
         },
         {
           "title": "AI如何让闪迪成为股王",
@@ -28,11 +28,12 @@
           "ranks": [
             1,
             15,
-            26
+            26,
+            16
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时20分 ~ 12时35分]"
+          "appearance_count": 17,
+          "time_info": "[01时20分 ~ 13时24分]"
         },
         {
           "title": "AI入口之战！OpenAI下重注：音频会是未来的交互界面",
@@ -56,8 +57,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时28分 ~ 12时35分]"
+          "appearance_count": 21,
+          "time_info": "[00时28分 ~ 13时24分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -75,8 +76,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时28分 ~ 12时35分]"
+          "appearance_count": 21,
+          "time_info": "[00时28分 ~ 13时24分]"
         },
         {
           "title": "展望半导体2026三大关键词：存储、AI、国产化",
@@ -117,11 +118,12 @@
           "source": "贴吧",
           "ranks": [
             24,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时28分 ~ 12时35分]"
+          "appearance_count": 21,
+          "time_info": "[00时28分 ~ 13时24分]"
         },
         {
           "title": "据日经新闻：Daiichi Sankyo计划投入约3000亿日元建设靶向抗癌药物的生产设施。",
@@ -156,11 +158,12 @@
             1,
             7,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时22分 ~ 12时35分]"
+          "appearance_count": 5,
+          "time_info": "[07时22分 ~ 13时24分]"
         },
         {
           "title": "Strategas Securities高级ETF策略师Todd Sohn：投资者对美国经济增长和人工智能（AI）持仓过重，他们正在寻找那些估值可能更低、或者在上一轮周期中表现不突出的领域。 新兴市场正好符合这一需求。",
@@ -212,11 +215,23 @@
             15,
             22,
             24,
-            25
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时22分 ~ 13时24分]"
+        },
+        {
+          "title": "“高考AI押题命中率98%”系谣言",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%AB%98%E8%80%83AI%E6%8A%BC%E9%A2%98%E5%91%BD%E4%B8%AD%E7%8E%8798%25%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80",
+          "source": "百度热搜",
+          "ranks": [
+            11
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[07时22分 ~ 12时35分]"
+          "time_info": "[12时34分 ~ 13时24分]"
         },
         {
           "title": "全球首款基于视觉的AI网球机器人，重新定义AI驱动的网球伙伴",
@@ -230,17 +245,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时29分 ~ 02时33分]"
-        },
-        {
-          "title": "“高考AI押题命中率98%”系谣言",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%AB%98%E8%80%83AI%E6%8A%BC%E9%A2%98%E5%91%BD%E4%B8%AD%E7%8E%8798%25%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时34分 ~ 12时35分]"
         }
       ]
     }
