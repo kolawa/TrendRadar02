@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-04T07:22:17.866855+08:00",
-  "total_titles_processed": 591,
+  "generated_at": "2026-01-04T09:59:43.669217+08:00",
+  "total_titles_processed": 736,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
         {
           "title": "AI与电力、新药研发、中国经济复苏.....一文读懂高盛行研团队2026年十大投资主题",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 07时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 09时59分]"
         },
         {
           "title": "美食博主手搓对抗AI的一年",
@@ -32,8 +33,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 07时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 09时59分]"
         },
         {
           "title": "开年第一天，台积电、三星大涨创新高，带动AI股逆市走高",
@@ -41,11 +42,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时27分 ~ 07时22分]"
+          "appearance_count": 14,
+          "time_info": "[00时27分 ~ 09时59分]"
         },
         {
           "title": "参谋长联席会议主席Caine上将：美方动用超过150架飞机实施袭击委内瑞拉的行动。",
@@ -57,6 +59,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "交通运输部：推动交通运输公共数据与企业数据融合应用，支撑“人工智能+交通运输”应用",
+          "url": "https://wallstreetcn.com/livenews/3030206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
         },
         {
           "title": "美联储保尔森：人工智能的潜在应用可能导致强劲增长和就业创造乏力。",
@@ -71,6 +84,28 @@
           "time_info": "[04时25分 ~ 07时22分]"
         },
         {
+          "title": "高盛交易团队2026年三大美股交易：聚焦“AI交易”下一步",
+          "url": "https://wallstreetcn.com/articles/3762476",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "Gemini向小胖道歉",
+          "url": "https://s.weibo.com/weibo?q=Gemini%E5%90%91%E5%B0%8F%E8%83%96%E9%81%93%E6%AD%89&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
           "title": "参谋长联席会议主席Caine上将：美方动用超过150架飞机实施袭击委内瑞拉的行动。 一架飞机被委内瑞拉击中，但仍然能执行飞行任务。 许多无人机以远程方式参与行动。 美军仍然部署在该地区（加勒比地区）。",
           "url": "https://wallstreetcn.com/livenews/3030130",
           "source": "华尔街见闻-快讯",
@@ -80,6 +115,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
+        },
+        {
+          "title": "AI如何让闪迪成为股王",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%A6%82%E4%BD%95%E8%AE%A9%E9%97%AA%E8%BF%AA%E6%88%90%E4%B8%BA%E8%82%A1%E7%8E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
         }
       ]
     }
