@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-05T06:22:28.037174+08:00",
-  "total_titles_processed": 450,
+  "generated_at": "2026-01-05T07:22:29.433642+08:00",
+  "total_titles_processed": 506,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,19 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 07时22分]"
+        },
+        {
+          "title": "CES 2026前瞻：英伟达或重塑物理AI，中美韩机器人齐“秀肌肉”",
+          "url": "https://wallstreetcn.com/articles/3762500",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
           "appearance_count": 10,
-          "time_info": "[00时27分 ~ 06时22分]"
+          "time_info": "[02时31分 ~ 07时22分]"
         },
         {
           "title": "腾讯回应用户被元宝AI辱骂",
@@ -29,19 +40,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 06时22分]"
-        },
-        {
-          "title": "CES 2026前瞻：英伟达或重塑物理AI，中美韩机器人齐“秀肌肉”",
-          "url": "https://wallstreetcn.com/articles/3762500",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时31分 ~ 06时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 07时22分]"
         },
         {
           "title": "央视点名AI魔改乱象",
