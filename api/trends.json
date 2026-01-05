@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-05T21:43:18.037219+08:00",
-  "total_titles_processed": 1746,
+  "generated_at": "2026-01-05T22:28:50.921876+08:00",
+  "total_titles_processed": 1844,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 32,
+      "match_count": 37,
       "titles": [
         {
           "title": "网传元宝 AI 辱骂用户，腾讯称是模型异常输出，非人工回复，技术上如何分析？其他 AI 也可能这样吗？",
@@ -128,6 +128,19 @@
           "time_info": "[16时36分 ~ 18时28分]"
         },
         {
+          "title": "AI需求太火爆，三星、SK海力士拟将DRAM提价60%–70%",
+          "url": "https://wallstreetcn.com/articles/3762568",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时51分 ~ 22时28分]"
+        },
+        {
           "title": "AI应用风向标来了？CES+通义硬件展即将举行 这些品牌有望吸睛",
           "url": "https://www.cls.cn/detail/2247232",
           "source": "财联社热门",
@@ -147,7 +160,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
@@ -186,18 +199,6 @@
           "time_info": "[13时37分 ~ 14时42分]"
         },
         {
-          "title": "AI需求太火爆，三星、SK海力士拟将DRAM提价60%–70%",
-          "url": "https://wallstreetcn.com/articles/3762568",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时51分 ~ 21时43分]"
-        },
-        {
           "title": "腾讯启动AI小程序成长计划",
           "url": "https://wallstreetcn.com/livenews/3030544",
           "source": "华尔街见闻-快讯",
@@ -233,6 +234,17 @@
           "time_info": "[15时31分 ~ 15时32分]"
         },
         {
+          "title": "蹭“人工智能”热点，16倍大牛股被上交所监管警示",
+          "url": "https://www.cls.cn/detail/2248455",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时27分 ~ 22时28分]"
+        },
+        {
           "title": "荣耀回应“安卓做不出比苹果更好的Air”",
           "url": "https://wallstreetcn.com/livenews/3030728",
           "source": "华尔街见闻-快讯",
@@ -265,6 +277,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
+        },
+        {
+          "title": "北京发布人工智能创新高地建设行动计划",
+          "url": "https://wallstreetcn.com/livenews/3030930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
+          "title": "谷歌(GOOG.O)宣布为Google TV推出全新Gemini功能。",
+          "url": "https://flash.jin10.com/detail/20260105221438518800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "阿里巴巴将视觉AI技术应用于餐饮赛道 与美团展开竞争",
@@ -306,7 +340,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
@@ -320,6 +354,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
+        },
+        {
+          "title": "B站开启AI创作大赛，首次开放《三体》改编权",
+          "url": "https://wallstreetcn.com/livenews/3030920",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "韩国总统李在明：韩国与中国需要在人工智能领域扩大经济合作。呼吁在美容产品、食品以及电影和音乐领域与中国开展合作。（韩联社）",
@@ -375,6 +420,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
+        },
+        {
+          "title": "高通(QCOM.O)宣布扩大与谷歌(GOOG.O)长达十年的合作，聚焦汽车创新与人工智能驱动的移动出行技术。",
+          "url": "https://flash.jin10.com/detail/20260105220255157800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "OpenAI巨额融资预期利好CoreWeave 分析师大幅上调目标价至68美元",
