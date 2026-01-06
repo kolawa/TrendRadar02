@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T09:50:45.079985+08:00",
-  "total_titles_processed": 853,
+  "generated_at": "2026-01-06T11:41:28.654298+08:00",
+  "total_titles_processed": 1003,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 33,
+      "match_count": 37,
       "titles": [
         {
           "title": "AI需求太火爆，三星、SK海力士拟将DRAM提价60%–70%",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时30分 ~ 09时50分]"
+          "appearance_count": 15,
+          "time_info": "[00时30分 ~ 11时41分]"
         },
         {
           "title": "蹭“人工智能”热点，16倍大牛股被上交所监管警示",
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时30分 ~ 09时50分]"
+          "appearance_count": 15,
+          "time_info": "[00时30分 ~ 11时41分]"
         },
         {
           "title": "B站AI大赛开始了",
@@ -47,8 +47,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时25分 ~ 09时50分]"
+          "appearance_count": 13,
+          "time_info": "[01时25分 ~ 11时41分]"
         },
         {
           "title": "AI说啥我穿啥",
@@ -63,8 +63,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时35分 ~ 09时50分]"
+          "appearance_count": 12,
+          "time_info": "[02时35分 ~ 11时41分]"
+        },
+        {
+          "title": "欧盟怒斥“令人作呕”、多国启动调查 马斯克的AI又闯祸",
+          "url": "https://www.cls.cn/detail/2248593",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时22分 ~ 11时41分]"
         },
         {
           "title": "桥水基金创始人达利欧表示，人工智能热潮正处于早期泡沫阶段。",
@@ -76,18 +88,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
-        },
-        {
-          "title": "欧盟怒斥“令人作呕”、多国启动调查 马斯克的AI又闯祸",
-          "url": "https://www.cls.cn/detail/2248593",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时22分 ~ 09时50分]"
         },
         {
           "title": "英伟达发布首个专为自动驾驶汽车设计的“推理”AI",
@@ -114,6 +114,18 @@
           "time_info": "[06时23分 ~ 07时23分]"
         },
         {
+          "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
+          "url": "https://wallstreetcn.com/articles/3762605",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 11时41分]"
+        },
+        {
           "title": "OpenAI家务机器人售价2万美元",
           "url": "https://wallstreetcn.com/livenews/3031066",
           "source": "华尔街见闻-快讯",
@@ -125,6 +137,52 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时23分 ~ 05时23分]"
+        },
+        {
+          "title": "黄仁勋新年第一场演讲提了DeepSeek",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%E6%96%B0%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%9C%BA%E6%BC%94%E8%AE%B2%E6%8F%90%E4%BA%86DeepSeek",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 11时41分]"
+        },
+        {
+          "title": "黄仁勋：AI超级芯片平台Rubin全面投产",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9AAI%E8%B6%85%E7%BA%A7%E8%8A%AF%E7%89%87%E5%B9%B3%E5%8F%B0Rubin%E5%85%A8%E9%9D%A2%E6%8A%95%E4%BA%A7",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 11时41分]"
+        },
+        {
+          "title": "苹果上架AirPodsPro3马年特别款",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E4%B8%8A%E6%9E%B6AirPodsPro3%E9%A9%AC%E5%B9%B4%E7%89%B9%E5%88%AB%E6%AC%BE%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时40分 ~ 11时41分]"
+        },
+        {
+          "title": "全域AI能给汽车带来什么",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9F%9FAI%E8%83%BD%E7%BB%99%E6%B1%BD%E8%BD%A6%E5%B8%A6%E6%9D%A5%E4%BB%80%E4%B9%88%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时40分 ~ 11时41分]"
         },
         {
           "title": "惠普新3K笔记本比Macbook Air更薄",
@@ -150,6 +208,28 @@
           "time_info": "07时23分"
         },
         {
+          "title": "AMD首席执行官苏姿丰在CES上表示：下一代MI500系列的开发工作已全面展开。 我们正按计划实现AI性能提升1000倍的目标。",
+          "url": "https://wallstreetcn.com/livenews/3031328",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
+        },
+        {
+          "title": "AMD推出全新的Ryzen AI 400及PRO 400系列处理器。 AMD面向AI PC和嵌入式应用推出全新的AMD Ryzen AI平台。",
+          "url": "https://wallstreetcn.com/livenews/3031327",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
+        },
+        {
           "title": "英伟达CEO黄仁勋：模型“Alpamayo”是全球首款具备思考、推理和自主驾驶能力的智能汽车AI系统。该系统采用端到端训练模式，从摄像头输入到执行器输出实现全流程训练。",
           "url": "https://flash.jin10.com/detail/20260106055327542800",
           "source": "金十数据",
@@ -159,17 +239,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
-        },
-        {
-          "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
-          "url": "https://wallstreetcn.com/articles/3762605",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
         },
         {
           "title": "美国白宫：特朗普签署命令，启动“创世纪计划”，这是一项专门且协调一致的全国性举措，旨在开启一个由人工智能驱动的创新与发现的新时代，以解决本世纪面临的最严峻问题。",
@@ -293,17 +362,6 @@
           "time_info": "02时36分"
         },
         {
-          "title": "黄仁勋新年第一场演讲提了DeepSeek",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%E6%96%B0%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%9C%BA%E6%BC%94%E8%AE%B2%E6%8F%90%E4%BA%86DeepSeek",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
           "title": "英伟达(NVDA.O)：微软的“Fairwater”人工智能超级工厂将扩展至配备数十万块英伟达Vera Rubin超级芯片。",
           "url": "https://flash.jin10.com/detail/20260106062543527800",
           "source": "金十数据",
@@ -370,24 +428,13 @@
           "time_info": "01时25分"
         },
         {
-          "title": "黄仁勋：AI超级芯片平台Rubin全面投产",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9AAI%E8%B6%85%E7%BA%A7%E8%8A%AF%E7%89%87%E5%B9%B3%E5%8F%B0Rubin%E5%85%A8%E9%9D%A2%E6%8A%95%E4%BA%A7",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
           "title": "黄仁勋发布新一代AI芯片",
           "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E4%BB%81%E5%8B%8B%E5%8F%91%E5%B8%83%E6%96%B0%E4%B8%80%E4%BB%A3AI%E8%8A%AF%E7%89%87",
           "source": "bilibili 热搜",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         }
