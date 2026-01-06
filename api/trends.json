@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T17:29:20.460863+08:00",
-  "total_titles_processed": 1554,
+  "generated_at": "2026-01-06T18:27:14.117388+08:00",
+  "total_titles_processed": 1650,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 50,
+      "match_count": 51,
       "titles": [
         {
           "title": "AI需求太火爆，三星、SK海力士拟将DRAM提价60%–70%",
@@ -91,11 +91,12 @@
             10,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时50分 ~ 17时29分]"
+          "appearance_count": 17,
+          "time_info": "[09时50分 ~ 18时27分]"
         },
         {
           "title": "黄仁勋：AI超级芯片平台Rubin全面投产",
@@ -109,6 +110,18 @@
           "time_info": "[09时50分 ~ 14时38分]"
         },
         {
+          "title": "AirPods Pro3马年特别款开箱",
+          "url": "https://www.douyin.com/hot/2358692",
+          "source": "抖音",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时27分 ~ 18时27分]"
+        },
+        {
           "title": "为何说AI抢走了你的内存",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E8%AF%B4AI%E6%8A%A2%E8%B5%B0%E4%BA%86%E4%BD%A0%E7%9A%84%E5%86%85%E5%AD%98",
           "source": "bilibili 热搜",
@@ -120,18 +133,6 @@
           "time_info": "[14时37分 ~ 14时38分]"
         },
         {
-          "title": "AirPods Pro3马年特别款开箱",
-          "url": "https://www.douyin.com/hot/2358692",
-          "source": "抖音",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时27分 ~ 17时29分]"
-        },
-        {
           "title": "桥水基金创始人达利欧表示，人工智能热潮正处于早期泡沫阶段。",
           "url": "https://flash.jin10.com/detail/20260106002257023800",
           "source": "金十数据",
@@ -141,6 +142,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        },
+        {
+          "title": "AI热潮抵消地缘政治担忧 欧元信用违约互换成本维持低位",
+          "url": "https://flash.jin10.com/detail/20260106175355647800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
         },
         {
           "title": "百度百科上线“AI知识图谱”等新功能",
@@ -212,6 +224,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时42分 ~ 13时28分]"
+        },
+        {
+          "title": "字节豆包AI眼镜第一代总规划数量约10万台，采用高通AR1芯片",
+          "url": "https://www.cls.cn/detail/2248752",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时28分 ~ 18时27分]"
         },
         {
           "title": "全域AI能给汽车带来什么",
@@ -297,17 +321,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时40分 ~ 11时41分]"
-        },
-        {
-          "title": "字节豆包AI眼镜第一代总规划数量约10万台，采用高通AR1芯片",
-          "url": "https://www.cls.cn/detail/2248752",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时28分 ~ 17时29分]"
         },
         {
           "title": "抖音：2025年AI兴趣用户增长翻倍",
@@ -582,7 +595,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
