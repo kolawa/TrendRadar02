@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T13:28:15.640980+08:00",
-  "total_titles_processed": 1164,
+  "generated_at": "2026-01-06T14:38:23.121409+08:00",
+  "total_titles_processed": 1247,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 41,
+      "match_count": 42,
       "titles": [
         {
           "title": "AI需求太火爆，三星、SK海力士拟将DRAM提价60%–70%",
@@ -17,8 +17,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时30分 ~ 13时28分]"
+          "appearance_count": 21,
+          "time_info": "[00时30分 ~ 14时38分]"
         },
         {
           "title": "蹭“人工智能”热点，16倍大牛股被上交所监管警示",
@@ -45,8 +45,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时22分 ~ 13时28分]"
+          "appearance_count": 11,
+          "time_info": "[07时22分 ~ 14时38分]"
         },
         {
           "title": "B站AI大赛开始了",
@@ -80,8 +80,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[02时35分 ~ 13时28分]"
+          "appearance_count": 18,
+          "time_info": "[02时35分 ~ 14时38分]"
         },
         {
           "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
@@ -93,8 +93,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时50分 ~ 13时28分]"
+          "appearance_count": 9,
+          "time_info": "[09时50分 ~ 14时38分]"
         },
         {
           "title": "黄仁勋：AI超级芯片平台Rubin全面投产",
@@ -104,8 +104,19 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时50分 ~ 13时28分]"
+          "appearance_count": 9,
+          "time_info": "[09时50分 ~ 14时38分]"
+        },
+        {
+          "title": "为何说AI抢走了你的内存",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E8%AF%B4AI%E6%8A%A2%E8%B5%B0%E4%BA%86%E4%BD%A0%E7%9A%84%E5%86%85%E5%AD%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 14时38分]"
         },
         {
           "title": "桥水基金创始人达利欧表示，人工智能热潮正处于早期泡沫阶段。",
@@ -153,6 +164,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时42分 ~ 13时28分]"
+        },
+        {
+          "title": "2026 年，JetBrains 的 IDE 要被 Cursor 一类的 AI IDE 革命了吗？",
+          "url": "https://www.zhihu.com/question/1991590957200716340",
+          "source": "知乎",
+          "ranks": [
+            15,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时27分 ~ 14时38分]"
         },
         {
           "title": "全域AI能给汽车带来什么",
@@ -250,17 +273,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时42分 ~ 13时28分]"
-        },
-        {
-          "title": "2026 年，JetBrains 的 IDE 要被 Cursor 一类的 AI IDE 革命了吗？",
-          "url": "https://www.zhihu.com/question/1991590957200716340",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时27分 ~ 13时28分]"
         },
         {
           "title": "惠普新3K笔记本比Macbook Air更薄",
