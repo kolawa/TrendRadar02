@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T18:27:14.117388+08:00",
-  "total_titles_processed": 1650,
+  "generated_at": "2026-01-06T19:22:10.915597+08:00",
+  "total_titles_processed": 1746,
   "failed_sources": [],
   "trends": [
     {
@@ -95,8 +95,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时50分 ~ 18时27分]"
+          "appearance_count": 19,
+          "time_info": "[09时50分 ~ 19时22分]"
+        },
+        {
+          "title": "AirPods Pro3马年特别款开箱",
+          "url": "https://www.douyin.com/hot/2358692",
+          "source": "抖音",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时27分 ~ 19时22分]"
         },
         {
           "title": "黄仁勋：AI超级芯片平台Rubin全面投产",
@@ -108,18 +120,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[09时50分 ~ 14时38分]"
-        },
-        {
-          "title": "AirPods Pro3马年特别款开箱",
-          "url": "https://www.douyin.com/hot/2358692",
-          "source": "抖音",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时27分 ~ 18时27分]"
         },
         {
           "title": "为何说AI抢走了你的内存",
@@ -150,7 +150,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
