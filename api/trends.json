@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T05:23:09.922306+08:00",
-  "total_titles_processed": 577,
+  "generated_at": "2026-01-08T06:23:43.505724+08:00",
+  "total_titles_processed": 640,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 05时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 06时23分]"
         },
         {
           "title": "直播电商新规强化AI内容监管",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时36分 ~ 05时23分]"
+          "appearance_count": 9,
+          "time_info": "[02时36分 ~ 06时23分]"
         },
         {
           "title": "马斯克的2026愿景：我们已处于“技术奇点”，AI和机器人不可阻挡，短期是动荡和挑战，长期是丰盛时代",
@@ -35,33 +35,36 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 05时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 06时23分]"
         },
         {
           "title": "闪迪一夜暴涨28%！老黄一句话，存储行情又燃了，AI市场逻辑从“买铲子”转向“建仓库”",
           "url": "https://wallstreetcn.com/articles/3762702",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 05时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 06时23分]"
         },
         {
           "title": "含AI量极高！工信部推动工业互联网改造升级 智能体、人形机器人获点名",
           "url": "https://www.cls.cn/detail/2250745",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 05时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 06时23分]"
         },
         {
           "title": "花旗：Vera Rubin将为英伟达带来5万亿美元人工智能机遇。",
@@ -70,7 +73,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
         },
@@ -176,7 +179,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
         },
