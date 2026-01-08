@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T22:28:27.694849+08:00",
-  "total_titles_processed": 2056,
+  "generated_at": "2026-01-08T23:29:30.859106+08:00",
+  "total_titles_processed": 2151,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 42,
+      "match_count": 43,
       "titles": [
         {
           "title": "八部门联合发文，事关“人工智能+制造”",
@@ -58,6 +58,21 @@
           "time_info": "[00时33分 ~ 11时41分]"
         },
         {
+          "title": "【焦点复盘】创业板指弱势震荡跌0.82%，金融等权重股低迷，国产算力、AI应用逆势活跃",
+          "url": "https://www.cls.cn/detail/2251902",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[18时27分 ~ 23时29分]"
+        },
+        {
           "title": "闪迪一夜暴涨28%！老黄一句话，存储行情又燃了，AI市场逻辑从“买铲子”转向“建仓库”",
           "url": "https://wallstreetcn.com/articles/3762702",
           "source": "华尔街见闻",
@@ -95,20 +110,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时33分 ~ 07时23分]"
-        },
-        {
-          "title": "【焦点复盘】创业板指弱势震荡跌0.82%，金融等权重股低迷，国产算力、AI应用逆势活跃",
-          "url": "https://www.cls.cn/detail/2251902",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时27分 ~ 22时28分]"
         },
         {
           "title": "花旗：Vera Rubin将为英伟达带来5万亿美元人工智能机遇。",
@@ -284,7 +285,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时28分"
         },
@@ -361,9 +362,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时28分"
+        },
+        {
+          "title": "六天蒸发两千亿 苹果跌落神坛 谷歌凭Gemini逆袭",
+          "url": "https://flash.jin10.com/detail/20260108224229611800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "合肥“十五五”规划建议：聚力打造全国领先的人工智能创新高地",
@@ -460,7 +472,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时28分"
         },
