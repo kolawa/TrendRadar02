@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T18:26:41.117072+08:00",
-  "total_titles_processed": 1679,
+  "generated_at": "2026-01-09T19:22:00.393335+08:00",
+  "total_titles_processed": 1779,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 34,
+      "match_count": 38,
       "titles": [
         {
           "title": "【焦点复盘】创业板指弱势震荡跌0.82%，金融等权重股低迷，国产算力、AI应用逆势活跃",
@@ -17,6 +17,21 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时33分 ~ 03时22分]"
+        },
+        {
+          "title": "如何分辨AI音乐骗局",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E5%88%86%E8%BE%A8AI%E9%9F%B3%E4%B9%90%E9%AA%97%E5%B1%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            9,
+            7,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[13时27分 ~ 19时22分]"
         },
         {
           "title": "便利店卖“鞋底豆干” 网友：以为是AI",
@@ -35,21 +50,6 @@
           "time_info": "[09时50分 ~ 16时34分]"
         },
         {
-          "title": "如何分辨AI音乐骗局",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E5%88%86%E8%BE%A8AI%E9%9F%B3%E4%B9%90%E9%AA%97%E5%B1%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            9,
-            7,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时27分 ~ 17时31分]"
-        },
-        {
           "title": "加速AI落地 谷歌为Gmail引入更多Gemini功能",
           "url": "https://www.cls.cn/detail/2252328",
           "source": "财联社热门",
@@ -63,6 +63,53 @@
           "time_info": "[01时28分 ~ 06时24分]"
         },
         {
+          "title": "《纽约时报》整版报道中国AI胰腺癌早筛，美国网友震惊",
+          "url": "https://news.ifeng.com/c/8piRkGGmo9f",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时26分 ~ 19时22分]"
+        },
+        {
+          "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨超100%",
+          "url": "https://wallstreetcn.com/articles/3762915",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时26分 ~ 19时22分]"
+        },
+        {
+          "title": "市值近900亿港元！MiniMax今日上市 AI大模型进入“上海时刻”",
+          "url": "https://www.cls.cn/detail/2252812",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时33分 ~ 19时22分]"
+        },
+        {
+          "title": "Meta Platforms(Meta.O)签署数千兆瓦级核能协议，为人工智能数据中心供电。",
+          "url": "https://flash.jin10.com/detail/20260109190121400800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
           "title": "AI应用方向反复活跃，引力传媒5天4板，易点天下、科德教育涨超10%，博瑞传播、蓝色光标、省广集团涨幅居前。",
           "url": "https://wallstreetcn.com/livenews/3033681",
           "source": "华尔街见闻-快讯",
@@ -72,28 +119,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
-        },
-        {
-          "title": "《纽约时报》整版报道中国AI胰腺癌早筛，美国网友震惊",
-          "url": "https://news.ifeng.com/c/8piRkGGmo9f",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时26分"
-        },
-        {
-          "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨超100%",
-          "url": "https://wallstreetcn.com/articles/3762915",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时26分"
         },
         {
           "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨80%",
@@ -156,17 +181,17 @@
           "time_info": "[12时43分 ~ 13时28分]"
         },
         {
-          "title": "市值近900亿港元！MiniMax今日上市 AI大模型进入“上海时刻”",
-          "url": "https://www.cls.cn/detail/2252812",
+          "title": "【每日收评】沪指时隔10年重新站上4100点！ 两市成交额突破3万亿，AI应用迎全线爆发",
+          "url": "https://www.cls.cn/detail/2253101",
           "source": "财联社热门",
           "ranks": [
             11,
-            9,
-            6
+            8,
+            9
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时33分 ~ 18时26分]"
+          "time_info": "[17时31分 ~ 19时22分]"
         },
         {
           "title": "OpenAI推出OpenAI for Healthcare。",
@@ -206,6 +231,18 @@
           "time_info": "[16时33分 ~ 18时26分]"
         },
         {
+          "title": "【数据看盘】顶级游资扎堆金风科技 北向资金联手机构“爆买”AI应用概念股",
+          "url": "https://www.cls.cn/detail/2253208",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时26分 ~ 19时22分]"
+        },
+        {
           "title": "微软报告：DeepSeek人工智能在发展中国家崭露头角",
           "url": "https://wallstreetcn.com/livenews/3033475",
           "source": "华尔街见闻-快讯",
@@ -228,18 +265,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时43分 ~ 13时28分]"
-        },
-        {
-          "title": "【每日收评】沪指时隔10年重新站上4100点！ 两市成交额突破3万亿，AI应用迎全线爆发",
-          "url": "https://www.cls.cn/detail/2253101",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时31分 ~ 18时26分]"
         },
         {
           "title": "广西：加快建设“AI＋金属新材料”、“AI＋生物育种””等标杆级应用平台",
@@ -265,17 +290,6 @@
           "time_info": "07时21分"
         },
         {
-          "title": "【数据看盘】顶级游资扎堆金风科技 北向资金联手机构“爆买”AI应用概念股",
-          "url": "https://www.cls.cn/detail/2253208",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时26分"
-        },
-        {
           "title": "OpenAI的应用内支付结算计划的推进速度低于预期，因为该公司在统一商家数据方面遇到了困难。",
           "url": "https://flash.jin10.com/detail/20260109024531943800",
           "source": "金十数据",
@@ -296,6 +310,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "东方明珠：间接持有超聚变1.3182%股份 公司不直接从事AI业务",
+          "url": "https://wallstreetcn.com/livenews/3034062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
+          "title": "据报道，Meta签署规模达数吉瓦的核电协议，为人工智能数据中心供电。",
+          "url": "https://wallstreetcn.com/livenews/3034060",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         },
         {
           "title": "机构：在AI与关税夹击下，美国12月非农就业增长料疲弱",
@@ -337,7 +373,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -384,6 +420,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
+        },
+        {
+          "title": "截至2025年12月31日，累计有748款生成式人工智能服务完成备案",
+          "url": "https://wallstreetcn.com/livenews/3034045",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         },
         {
           "title": "上海：到2028年广告业营收超过4500亿元 加强“AI+数字广告”融合赋能",
