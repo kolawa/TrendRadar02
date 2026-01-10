@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-10T21:32:07.159306+08:00",
-  "total_titles_processed": 1573,
+  "generated_at": "2026-01-10T22:21:47.808889+08:00",
+  "total_titles_processed": 1635,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "2026人工智能十大趋势",
@@ -98,8 +98,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[09时47分 ~ 21时32分]"
+          "appearance_count": 24,
+          "time_info": "[09时47分 ~ 22时21分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -112,8 +112,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[14时33分 ~ 21时32分]"
+          "appearance_count": 17,
+          "time_info": "[14时33分 ~ 22时21分]"
         },
         {
           "title": "DeepSeek能第二次震惊世界吗",
@@ -180,8 +180,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[15时21分 ~ 21时32分]"
+          "appearance_count": 15,
+          "time_info": "[15时21分 ~ 22时21分]"
         },
         {
           "title": "MiniMax刷新AI公司最快上市纪录背后：“年轻人的事业”在上海生根发芽",
@@ -219,8 +219,19 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时22分 ~ 21时32分]"
+          "appearance_count": 9,
+          "time_info": "[18时22分 ~ 22时21分]"
+        },
+        {
+          "title": "长三角一体化大模型发布 AI将为区域发展提供决策支撑",
+          "url": "https://wallstreetcn.com/livenews/3034560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "OpenAI和软银向合作伙伴SB Energy投资10亿美元。",
@@ -232,6 +243,47 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "DeepSeek 计划二月中旬发布新模型 DeepSeek-V4，有哪些技术亮点？能第二次震惊世界吗？",
+          "url": "https://www.zhihu.com/question/1993329446883651767",
+          "source": "知乎",
+          "ranks": [
+            18,
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时42分 ~ 22时21分]"
+        },
+        {
+          "title": "重庆人工智能湾区建设启动",
+          "url": "https://wallstreetcn.com/livenews/3034535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14,
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时20分 ~ 22时21分]"
+        },
+        {
+          "title": "重庆启动人工智能湾区建设",
+          "url": "https://flash.jin10.com/detail/20260110183401930800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            14,
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时20分 ~ 22时21分]"
         },
         {
           "title": "内部备忘录显示：美国司法部成立人工智能（AI）执法工作组，希望借机对抗州一级的监管。（CBS）",
@@ -257,32 +309,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时22分 ~ 04时28分]"
-        },
-        {
-          "title": "重庆人工智能湾区建设启动",
-          "url": "https://wallstreetcn.com/livenews/3034535",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时20分 ~ 21时32分]"
-        },
-        {
-          "title": "重庆启动人工智能湾区建设",
-          "url": "https://flash.jin10.com/detail/20260110183401930800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时20分 ~ 21时32分]"
         },
         {
           "title": "OpenAI与软银向“星际之门”合作伙伴SB Energy投资10亿美元",
@@ -311,16 +337,15 @@
           "time_info": "[11时27分 ~ 14时34分]"
         },
         {
-          "title": "DeepSeek 计划二月中旬发布新模型 DeepSeek-V4，有哪些技术亮点？能第二次震惊世界吗？",
-          "url": "https://www.zhihu.com/question/1993329446883651767",
-          "source": "知乎",
+          "title": "AI“电荒”未解：马斯克“加单”燃气轮机 部分数据中心电网连线需等7年",
+          "url": "https://www.cls.cn/detail/2253847",
+          "source": "财联社热门",
           "ranks": [
-            18,
-            12
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时42分 ~ 21时32分]"
+          "appearance_count": 3,
+          "time_info": "[21时31分 ~ 22时21分]"
         },
         {
           "title": "DeepSeek准备第二次震惊全世界",
@@ -355,17 +380,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时36分 ~ 03时22分]"
-        },
-        {
-          "title": "AI“电荒”未解：马斯克“加单”燃气轮机 部分数据中心电网连线需等7年",
-          "url": "https://www.cls.cn/detail/2253847",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时31分 ~ 21时32分]"
         },
         {
           "title": "AI 技术的核心本质是什么？背后的技术原理有哪些？",
@@ -410,6 +424,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
+        },
+        {
+          "title": "国产AI大模型公司集中上市",
+          "url": "https://www.douyin.com/hot/2362832",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "SB ENERGY：OpenAI签署1.2吉瓦数据中心租赁协议，用于初始数据中心建设。",
