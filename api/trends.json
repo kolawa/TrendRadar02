@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-10T12:36:37.535128+08:00",
-  "total_titles_processed": 1019,
+  "generated_at": "2026-01-10T13:24:25.674230+08:00",
+  "total_titles_processed": 1065,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "《纽约时报》整版报道中国AI胰腺癌早筛，美国网友震惊",
@@ -42,8 +42,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[04时27分 ~ 12时36分]"
+          "appearance_count": 15,
+          "time_info": "[04时27分 ~ 13时24分]"
         },
         {
           "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨超100%",
@@ -56,8 +56,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时31分 ~ 12时36分]"
+          "appearance_count": 23,
+          "time_info": "[00时31分 ~ 13时24分]"
         },
         {
           "title": "【每日收评】沪指时隔10年重新站上4100点！ 两市成交额突破3万亿，AI应用迎全线爆发",
@@ -133,8 +133,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时22分 ~ 12时36分]"
+          "appearance_count": 9,
+          "time_info": "[07时22分 ~ 13时24分]"
         },
         {
           "title": "Deepseek或将发布新AI模型",
@@ -146,8 +146,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时47分 ~ 12时36分]"
+          "appearance_count": 7,
+          "time_info": "[09时47分 ~ 13时24分]"
         },
         {
           "title": "2026人工智能十大趋势",
@@ -157,8 +157,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时35分 ~ 12时36分]"
+          "appearance_count": 4,
+          "time_info": "[12时35分 ~ 13时24分]"
         },
         {
           "title": "OpenAI和软银向合作伙伴SB Energy投资10亿美元。",
@@ -214,11 +214,23 @@
           "source": "金十数据",
           "ranks": [
             8,
-            13
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时27分 ~ 13时24分]"
+        },
+        {
+          "title": "DeepSeek准备第二次震惊全世界",
+          "url": "https://www.toutiao.com/trending/7593519269174840858/",
+          "source": "今日头条",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时27分 ~ 12时36分]"
+          "time_info": "[13时23分 ~ 13时24分]"
         },
         {
           "title": "马斯克旗下初创公司xAI限制Grok图像生成功能。 此前，Grok生成与儿童相关的性化图片，招致欧洲强烈反感。",
