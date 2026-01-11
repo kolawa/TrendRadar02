@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T21:33:06.466798+08:00",
-  "total_titles_processed": 1285,
+  "generated_at": "2026-01-11T22:21:45.579284+08:00",
+  "total_titles_processed": 1353,
   "failed_sources": [],
   "trends": [
     {
@@ -36,8 +36,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[13时27分 ~ 21时33分]"
+          "appearance_count": 18,
+          "time_info": "[13时27分 ~ 22时21分]"
         },
         {
           "title": "AI照片竟然拿了摄影比赛第一名",
@@ -103,8 +103,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 36,
-          "time_info": "[01时19分 ~ 21时33分]"
+          "appearance_count": 37,
+          "time_info": "[01时19分 ~ 22时21分]"
         },
         {
           "title": "AI每回答一个问题要消耗多少水",
@@ -117,11 +117,12 @@
             18,
             25,
             26,
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[14时34分 ~ 21时33分]"
+          "appearance_count": 16,
+          "time_info": "[14时34分 ~ 22时21分]"
         },
         {
           "title": "AI“电荒”未解：马斯克“加单”燃气轮机 部分数据中心电网连线需等7年",
@@ -135,8 +136,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 38,
-          "time_info": "[00时27分 ~ 21时33分]"
+          "appearance_count": 39,
+          "time_info": "[00时27分 ~ 22时21分]"
+        },
+        {
+          "title": "美银Hartnett谈“一季度策略”：特朗普为中选“压通胀、降利率”，投资者“做多经济繁荣、做空AI泡沫”",
+          "url": "https://wallstreetcn.com/articles/3763032",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时23分 ~ 22时21分]"
         },
         {
           "title": "AI登顶LOL韩服",
@@ -203,8 +216,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 38,
-          "time_info": "[00时27分 ~ 21时33分]"
+          "appearance_count": 39,
+          "time_info": "[00时27分 ~ 22时21分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -232,18 +245,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[02时31分 ~ 07时22分]"
-        },
-        {
-          "title": "美银Hartnett谈“一季度策略”：特朗普为中选“压通胀、降利率”，投资者“做多经济繁荣、做空AI泡沫”",
-          "url": "https://wallstreetcn.com/articles/3763032",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时23分 ~ 21时33分]"
         },
         {
           "title": "全球首次！印尼暂时封禁马斯克旗下AI",
@@ -288,11 +289,12 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时19分 ~ 21时33分]"
+          "appearance_count": 7,
+          "time_info": "[19时19分 ~ 22时21分]"
         },
         {
           "title": "中国首个金融气象AI模型“熵机”在穗发布",
