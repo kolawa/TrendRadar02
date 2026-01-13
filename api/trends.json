@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T02:35:00.148025+08:00",
-  "total_titles_processed": 441,
+  "generated_at": "2026-01-14T03:22:39.209303+08:00",
+  "total_titles_processed": 490,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 02时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时34分 ~ 03时22分]"
         },
         {
           "title": "事关AI应用、GEO概念，上市公司密集回应",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 02时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时34分 ~ 03时22分]"
         },
         {
           "title": "一图看懂 | GEO爆火，AI新时代打破搜索“旧秩序”",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 02时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时34分 ~ 03时22分]"
         },
         {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
@@ -50,8 +50,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 02时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时34分 ~ 03时22分]"
         },
         {
           "title": "张文宏不支持把 AI 引入病历系统，恐造成医生诊断能力缺失，这种担忧是否合理？在其他专业领域也类似么？",
@@ -62,8 +62,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 02时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时34分 ~ 03时22分]"
         },
         {
           "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
@@ -74,8 +74,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 02时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时34分 ~ 03时22分]"
         },
         {
           "title": "韩服93%胜率账号是AI吗",
@@ -83,11 +83,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             12,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 02时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时34分 ~ 03时22分]"
         },
         {
           "title": "AI应用概念股暴涨背后：“变现”和“放量落地”之年要来了？",
@@ -97,8 +98,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 02时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时34分 ~ 03时22分]"
         },
         {
           "title": "中国核聚变装置融入AI技术",
@@ -106,11 +107,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             24,
-            23
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 02时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时34分 ~ 03时22分]"
         },
         {
           "title": "UP主分析AI将如何影响电竞行业",
@@ -118,11 +120,23 @@
           "source": "bilibili 热搜",
           "ranks": [
             21,
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 03时22分]"
+        },
+        {
+          "title": "gemini3pro 真那么好用吗？",
+          "url": "https://www.zhihu.com/question/1990762235694434081",
+          "source": "知乎",
+          "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时34分 ~ 01时29分]"
+          "time_info": "[02时34分 ~ 03时22分]"
         },
         {
           "title": "EDG官宣Maokai回归",
@@ -156,17 +170,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时34分 ~ 00时35分]"
-        },
-        {
-          "title": "gemini3pro 真那么好用吗？",
-          "url": "https://www.zhihu.com/question/1990762235694434081",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时34分 ~ 02时35分]"
         },
         {
           "title": "Salesforce发布Slack的升级版功能Slackbot，由Anthropic的AI模型提供支持。",
