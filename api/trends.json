@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T19:24:16.529636+08:00",
-  "total_titles_processed": 1788,
+  "generated_at": "2026-01-14T20:52:07.998972+08:00",
+  "total_titles_processed": 1918,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 51,
+      "match_count": 54,
       "titles": [
         {
           "title": "事关AI应用、GEO概念，上市公司密集回应",
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时34分 ~ 07时22分]"
+        },
+        {
+          "title": "92胜率屠榜,老马AI杀穿韩服",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349116&amp;topic_name=92%E8%83%9C%E7%8E%87%E5%B1%A0%E6%A6%9C%2C%E8%80%81%E9%A9%ACAI%E6%9D%80%E7%A9%BF%E9%9F%A9%E6%9C%8D",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时33分 ~ 20时52分]"
         },
         {
           "title": "一图看懂 | GEO爆火，AI新时代打破搜索“旧秩序”",
@@ -43,16 +55,17 @@
           "time_info": "[00时34分 ~ 05时24分]"
         },
         {
-          "title": "92胜率屠榜,老马AI杀穿韩服",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349116&amp;topic_name=92%E8%83%9C%E7%8E%87%E5%B1%A0%E6%A6%9C%2C%E8%80%81%E9%A9%ACAI%E6%9D%80%E7%A9%BF%E9%9F%A9%E6%9C%8D",
-          "source": "贴吧",
+          "title": "时隔十年融资保证金比例再提高！A股全天成交逼近4万亿，AI应用大涨，港股阿里拉升超5%，沪锡涨停、沪银涨超8%",
+          "url": "https://wallstreetcn.com/articles/3763239",
+          "source": "华尔街见闻",
           "ranks": [
-            4,
+            8,
+            6,
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时33分 ~ 19时24分]"
+          "appearance_count": 10,
+          "time_info": "[16时33分 ~ 20时52分]"
         },
         {
           "title": "国内首起 AI 涉黄案开发者获刑，开发者需要承担哪些法律责任？用户使用此类 AI 需担责吗？",
@@ -93,11 +106,12 @@
             8,
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时54分 ~ 19时24分]"
+          "appearance_count": 20,
+          "time_info": "[09时54分 ~ 20时52分]"
         },
         {
           "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
@@ -141,8 +155,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时49分 ~ 19时24分]"
+          "appearance_count": 19,
+          "time_info": "[11时49分 ~ 20时52分]"
         },
         {
           "title": "韩服登顶账号是AI操作的吗",
@@ -154,11 +168,13 @@
             14,
             12,
             15,
-            18
+            18,
+            28,
+            24
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时27分 ~ 19时24分]"
+          "appearance_count": 15,
+          "time_info": "[13时27分 ~ 20时52分]"
         },
         {
           "title": "韩服93%胜率账号是AI吗",
@@ -204,6 +220,20 @@
           "time_info": "[00时34分 ~ 19时24分]"
         },
         {
+          "title": "如何评价苹果选择谷歌 Gemini 作为其下一代 AI 核心，而非坚持完全自研？这是战略妥协还是生态整合？",
+          "url": "https://www.zhihu.com/question/1994425649616671736",
+          "source": "知乎",
+          "ranks": [
+            19,
+            20,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时33分 ~ 20时52分]"
+        },
+        {
           "title": "中国核聚变装置融入AI技术",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%A0%B8%E8%81%9A%E5%8F%98%E8%A3%85%E7%BD%AE%E8%9E%8D%E5%85%A5AI%E6%8A%80%E6%9C%AF",
           "source": "bilibili 热搜",
@@ -217,19 +247,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时34分 ~ 06时25分]"
-        },
-        {
-          "title": "时隔十年融资保证金比例再提高！A股全天成交逼近4万亿，AI应用大涨，港股阿里拉升超5%，沪锡涨停、沪银涨超8%",
-          "url": "https://wallstreetcn.com/articles/3763239",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时33分 ~ 19时24分]"
         },
         {
           "title": "gemini3pro 真那么好用吗？",
@@ -258,18 +275,17 @@
           "time_info": "[09时54分 ~ 14时38分]"
         },
         {
-          "title": "如何评价苹果选择谷歌 Gemini 作为其下一代 AI 核心，而非坚持完全自研？这是战略妥协还是生态整合？",
-          "url": "https://www.zhihu.com/question/1994425649616671736",
-          "source": "知乎",
+          "title": "【每日收评】沪指冲高回落小幅收跌，两市成交额逼近4万亿，AI应用概念股持续活跃",
+          "url": "https://www.cls.cn/detail/2257499",
+          "source": "财联社热门",
           "ranks": [
-            19,
-            20,
-            18,
-            17
+            13,
+            11,
+            12
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[16时33分 ~ 19时24分]"
+          "time_info": "[17时31分 ~ 20时52分]"
         },
         {
           "title": "AI应用概念股暴涨背后：“变现”和“放量落地”之年要来了？",
@@ -283,6 +299,17 @@
           "time_info": "[00时34分 ~ 03时22分]"
         },
         {
+          "title": "如何评价 DeepSeek 发布梁文锋署名论文，提出「条件记忆」及 Engram 记忆检索架构？有哪些亮点？",
+          "url": "https://www.zhihu.com/question/1994233409871050526",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时51分 ~ 20时52分]"
+        },
+        {
           "title": "【阿里云2026年目标：拿下中国AI云市场增量的80%】“阿里云的目标是拿下2026年中国AI云市场增量的80%。” 阿里云智能集团资深副总裁、公共云事业部总裁刘伟光说，但是下一年增量的10%都会大于上一年的全量。所以过去取得了什么成绩并不重要，变化才刚刚开始。（晚点LatePost）",
           "url": "https://wallstreetcn.com/livenews/3036634",
           "source": "华尔街见闻-快讯",
@@ -294,25 +321,13 @@
           "time_info": "11时50分"
         },
         {
-          "title": "【每日收评】沪指冲高回落小幅收跌，两市成交额逼近4万亿，AI应用概念股持续活跃",
-          "url": "https://www.cls.cn/detail/2257499",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时31分 ~ 19时24分]"
-        },
-        {
           "title": "彩讯股份：拟发行可转债募资不超过14.6亿元，用于智算中心建设项目、Rich AIBox平台研发升级项目、企业级AI智能体应用开发项目。",
           "url": "https://wallstreetcn.com/livenews/3036972",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
@@ -418,6 +433,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时37分 ~ 14时38分]"
+        },
+        {
+          "title": "王自如说荣耀Air补齐iPhoneAir短板",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%87%AA%E5%A6%82%E8%AF%B4%E8%8D%A3%E8%80%80Air%E8%A1%A5%E9%BD%90iPhoneAir%E7%9F%AD%E6%9D%BF%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时51分 ~ 20时52分]"
+        },
+        {
+          "title": "值得买：公司注意到近期市场对“GEO”相关概念关注较大，公司业务暂不涉及GEO业务。公司AI相关业务和产品处于投入初始阶段，公司2025年前三季度实现AI相关收入占公司整体营业收入比例很小，对公司整体经营情况没有重大影响。",
+          "url": "https://wallstreetcn.com/livenews/3037036",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
         },
         {
           "title": "市场消息：人工智能芯片初创公司Etched融资5亿美元。在由Stripes领投的一轮融资中，Etched的估值达到50亿美元。",
@@ -536,7 +573,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
@@ -635,7 +672,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         }
