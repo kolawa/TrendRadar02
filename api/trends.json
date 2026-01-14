@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T13:27:51.847453+08:00",
-  "total_titles_processed": 1173,
+  "generated_at": "2026-01-14T14:38:18.173122+08:00",
+  "total_titles_processed": 1270,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "事关AI应用、GEO概念，上市公司密集回应",
@@ -57,6 +57,18 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时34分 ~ 12时49分]"
+        },
+        {
+          "title": "国内首起 AI 涉黄案开发者获刑，开发者需要承担哪些法律责任？用户使用此类 AI 需担责吗？",
+          "url": "https://www.zhihu.com/question/1994009798958657948",
+          "source": "知乎",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时54分 ~ 14时38分]"
         },
         {
           "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
@@ -120,11 +132,12 @@
             13,
             26,
             30,
-            18
+            18,
+            29
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时34分 ~ 13时27分]"
+          "appearance_count": 18,
+          "time_info": "[00时34分 ~ 14时38分]"
         },
         {
           "title": "中国核聚变装置融入AI技术",
@@ -154,16 +167,32 @@
           "time_info": "[02时34分 ~ 06时25分]"
         },
         {
-          "title": "国内首起 AI 涉黄案开发者获刑，开发者需要承担哪些法律责任？用户使用此类 AI 需担责吗？",
-          "url": "https://www.zhihu.com/question/1994009798958657948",
-          "source": "知乎",
+          "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32325619",
+          "source": "澎湃新闻",
           "ranks": [
-            4,
+            17,
+            10,
+            8,
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时54分 ~ 13时27分]"
+          "appearance_count": 8,
+          "time_info": "[09时54分 ~ 14时38分]"
+        },
+        {
+          "title": "Meta拟将AI智能眼镜产能翻倍 年产量或直冲2000万副",
+          "url": "https://www.cls.cn/detail/2256809",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时54分 ~ 14时38分]"
         },
         {
           "title": "AI应用概念股暴涨背后：“变现”和“放量落地”之年要来了？",
@@ -177,18 +206,18 @@
           "time_info": "[00时34分 ~ 03时22分]"
         },
         {
-          "title": "Meta拟将AI智能眼镜产能翻倍 年产量或直冲2000万副",
-          "url": "https://www.cls.cn/detail/2256809",
-          "source": "财联社热门",
+          "title": "张文宏拒绝将 AI 引入医院病历系统，称会影响医生的诊断思维，如何评价？ 医疗诊断中应该怎么用 AI？",
+          "url": "https://www.zhihu.com/question/1994088546865284778",
+          "source": "知乎",
           "ranks": [
-            11,
-            10,
-            8,
-            9
+            18,
+            15,
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时54分 ~ 13时27分]"
+          "appearance_count": 7,
+          "time_info": "[11时49分 ~ 14时38分]"
         },
         {
           "title": "【阿里云2026年目标：拿下中国AI云市场增量的80%】“阿里云的目标是拿下2026年中国AI云市场增量的80%。” 阿里云智能集团资深副总裁、公共云事业部总裁刘伟光说，但是下一年增量的10%都会大于上一年的全量。所以过去取得了什么成绩并不重要，变化才刚刚开始。（晚点LatePost）",
@@ -200,32 +229,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
-        },
-        {
-          "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32325619",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时54分 ~ 13时27分]"
-        },
-        {
-          "title": "张文宏拒绝将 AI 引入医院病历系统，称会影响医生的诊断思维，如何评价？ 医疗诊断中应该怎么用 AI？",
-          "url": "https://www.zhihu.com/question/1994088546865284778",
-          "source": "知乎",
-          "ranks": [
-            18,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时49分 ~ 13时27分]"
         },
         {
           "title": "人工智能（AI）芯片初创公司Etched融资5亿美元，将挑战英伟达。",
@@ -261,6 +264,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时34分 ~ 02时35分]"
+        },
+        {
+          "title": "韩服登顶账号是AI操作的吗",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D%E7%99%BB%E9%A1%B6%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E6%93%8D%E4%BD%9C%E7%9A%84%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时27分 ~ 14时38分]"
         },
         {
           "title": "马斯克：电力是AI时代唯一的“军备”",
@@ -309,6 +323,17 @@
           "time_info": "[12时49分 ~ 13时27分]"
         },
         {
+          "title": "Apple 芯片设计全球领先，为何大模型训练却认输外包给 Google？",
+          "url": "https://www.zhihu.com/question/1994310970621859099",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 14时38分]"
+        },
+        {
           "title": "市场消息：人工智能芯片初创公司Etched融资5亿美元。在由Stripes领投的一轮融资中，Etched的估值达到50亿美元。",
           "url": "https://flash.jin10.com/detail/20260114045757642800",
           "source": "金十数据",
@@ -340,17 +365,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
-        },
-        {
-          "title": "韩服登顶账号是AI操作的吗",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D%E7%99%BB%E9%A1%B6%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E6%93%8D%E4%BD%9C%E7%9A%84%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时27分"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-01-14）",
