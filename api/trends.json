@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T15:28:10.081091+08:00",
-  "total_titles_processed": 1414,
+  "generated_at": "2026-01-15T16:34:34.544314+08:00",
+  "total_titles_processed": 1522,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 52,
+      "match_count": 53,
       "titles": [
         {
           "title": "如何评价 DeepSeek 发布梁文锋署名论文，提出「条件记忆」及 Engram 记忆检索架构？有哪些亮点？",
@@ -28,11 +28,12 @@
             6,
             4,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时49分 ~ 15时28分]"
+          "appearance_count": 12,
+          "time_info": "[09时49分 ~ 16时34分]"
         },
         {
           "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
@@ -46,6 +47,20 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时33分 ~ 07时21分]"
+        },
+        {
+          "title": "阿里千问放大招！全球首发多重AI购物功能 又一场电商革命近了？",
+          "url": "https://www.cls.cn/detail/2258421",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时43分 ~ 16时34分]"
         },
         {
           "title": "巴菲特再发警示：AI的危险不亚于核武器",
@@ -92,19 +107,6 @@
           "time_info": "[00时33分 ~ 11时44分]"
         },
         {
-          "title": "阿里千问放大招！全球首发多重AI购物功能 又一场电商革命近了？",
-          "url": "https://www.cls.cn/detail/2258421",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时43分 ~ 15时28分]"
-        },
-        {
           "title": "时隔十年融资保证金比例再提高！A股全天成交逼近4万亿，AI应用大涨，港股阿里拉升超5%，沪锡涨停、沪银涨超8%",
           "url": "https://wallstreetcn.com/articles/3763239",
           "source": "华尔街见闻",
@@ -117,6 +119,22 @@
           "time_info": "[00时33分 ~ 15时28分]"
         },
         {
+          "title": "复盘苹果AI为何转投谷歌",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98%E8%8B%B9%E6%9E%9CAI%E4%B8%BA%E4%BD%95%E8%BD%AC%E6%8A%95%E8%B0%B7%E6%AD%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            12,
+            15,
+            9,
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时43分 ~ 16时34分]"
+        },
+        {
           "title": "92胜率屠榜,老马AI杀穿韩服",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349116&amp;topic_name=92%E8%83%9C%E7%8E%87%E5%B1%A0%E6%A6%9C%2C%E8%80%81%E9%A9%ACAI%E6%9D%80%E7%A9%BF%E9%9F%A9%E6%9C%8D",
           "source": "贴吧",
@@ -126,11 +144,12 @@
             15,
             17,
             18,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时33分 ~ 15时28分]"
+          "appearance_count": 26,
+          "time_info": "[00时33分 ~ 16时34分]"
         },
         {
           "title": "UP主分析AI将如何影响电竞行业",
@@ -161,11 +180,12 @@
             22,
             18,
             14,
-            21
+            21,
+            17
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时33分 ~ 14时37分]"
+          "appearance_count": 24,
+          "time_info": "[00时33分 ~ 16时34分]"
         },
         {
           "title": "【每日收评】沪指冲高回落小幅收跌，两市成交额逼近4万亿，AI应用概念股持续活跃",
@@ -194,21 +214,6 @@
           "time_info": "[01时28分 ~ 07时21分]"
         },
         {
-          "title": "复盘苹果AI为何转投谷歌",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98%E8%8B%B9%E6%9E%9CAI%E4%B8%BA%E4%BD%95%E8%BD%AC%E6%8A%95%E8%B0%B7%E6%AD%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            12,
-            15,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时43分 ~ 15时28分]"
-        },
-        {
           "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
           "url": "https://www.cls.cn/detail/2258223",
           "source": "财联社热门",
@@ -219,8 +224,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时43分 ~ 15时28分]"
+          "appearance_count": 8,
+          "time_info": "[12时43分 ~ 16时34分]"
+        },
+        {
+          "title": "9天飙涨44%，基金喜提业绩开门红，AI与商业航天两最热主线分歧来了？",
+          "url": "https://www.cls.cn/detail/2258599",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时37分 ~ 16时34分]"
         },
         {
           "title": "OpenAI：将与Cerebras合作，在我们的平台上新增750兆瓦的超低时延人工智能算力。产能将分多个批次在2028年前上线。",
@@ -283,18 +301,6 @@
           "time_info": "[12时43分 ~ 14时37分]"
         },
         {
-          "title": "9天飙涨44%，基金喜提业绩开门红，AI与商业航天两最热主线分歧来了？",
-          "url": "https://www.cls.cn/detail/2258599",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时37分 ~ 15时28分]"
-        },
-        {
           "title": "金十数据整理：每日人工智能动态汇总（2026-01-15）",
           "url": "https://flash.jin10.com/detail/20260115120106452800",
           "source": "金十数据",
@@ -317,6 +323,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时37分 ~ 03时22分]"
+        },
+        {
+          "title": "美国政府将批准向中国出售H200人工智能芯片 外交部回应",
+          "url": "https://www.cls.cn/detail/2258750",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时33分 ~ 16时34分]"
         },
         {
           "title": "加州总检察长对xAI和Grok展开调查",
@@ -452,7 +469,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         },
