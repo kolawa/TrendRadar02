@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T20:50:37.907396+08:00",
-  "total_titles_processed": 1939,
+  "generated_at": "2026-01-15T21:42:16.509254+08:00",
+  "total_titles_processed": 2028,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 66,
+      "match_count": 69,
       "titles": [
         {
           "title": "如何评价 DeepSeek 发布梁文锋署名论文，提出「条件记忆」及 Engram 记忆检索架构？有哪些亮点？",
@@ -50,6 +50,20 @@
           "time_info": "[09时49分 ~ 17时31分]"
         },
         {
+          "title": "美国政府将批准向中国出售H200人工智能芯片 外交部回应",
+          "url": "https://www.cls.cn/detail/2258750",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[16时33分 ~ 21时42分]"
+        },
+        {
           "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32325619",
           "source": "澎湃新闻",
@@ -61,20 +75,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时33分 ~ 07时21分]"
-        },
-        {
-          "title": "美国政府将批准向中国出售H200人工智能芯片 外交部回应",
-          "url": "https://www.cls.cn/detail/2258750",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时33分 ~ 20时50分]"
         },
         {
           "title": "巴菲特再发警示：AI的危险不亚于核武器",
@@ -172,11 +172,12 @@
             9,
             10,
             19,
-            11
+            11,
+            22
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时43分 ~ 20时50分]"
+          "appearance_count": 19,
+          "time_info": "[11时43分 ~ 21时42分]"
         },
         {
           "title": "92胜率屠榜,老马AI杀穿韩服",
@@ -195,8 +196,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 33,
-          "time_info": "[00时33分 ~ 20时50分]"
+          "appearance_count": 35,
+          "time_info": "[00时33分 ~ 21时42分]"
         },
         {
           "title": "UP主分析AI将如何影响电竞行业",
@@ -230,11 +231,12 @@
             21,
             17,
             24,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时33分 ~ 20时50分]"
+          "appearance_count": 29,
+          "time_info": "[00时33分 ~ 21时42分]"
         },
         {
           "title": "【每日收评】沪指冲高回落小幅收跌，两市成交额逼近4万亿，AI应用概念股持续活跃",
@@ -269,11 +271,12 @@
           "ranks": [
             4,
             3,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时27分 ~ 20时50分]"
+          "appearance_count": 7,
+          "time_info": "[18时27分 ~ 21时42分]"
         },
         {
           "title": "【数据看盘】顶级游资集体出逃金风科技 机构逆势加仓AI应用概念股",
@@ -285,19 +288,31 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时27分 ~ 20时50分]"
+          "appearance_count": 7,
+          "time_info": "[18时27分 ~ 21时42分]"
         },
         {
           "title": "DeepSeek 梁文锋旗下幻方量化 2025 年收益率 56.6%，如何评价这一业绩？",
           "url": "https://www.zhihu.com/question/1995072623625855863",
           "source": "知乎",
           "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时49分 ~ 21时42分]"
+        },
+        {
+          "title": "如何看待姚班大神陈立杰官宣入职 OpenAI？",
+          "url": "https://www.zhihu.com/question/1995072589756901062",
+          "source": "知乎",
+          "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时49分 ~ 20时50分]"
+          "time_info": "[21时41分 ~ 21时42分]"
         },
         {
           "title": "英伟达投资数学人工智能初创公司Harmonic",
@@ -369,6 +384,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时25分 ~ 05时24分]"
+        },
+        {
+          "title": "【每日收评】三大指数震荡整理涨跌互现，单日成交额萎缩超万亿，商业航天、AI应用端遭重挫",
+          "url": "https://www.cls.cn/detail/2258951",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时49分 ~ 21时42分]"
         },
         {
           "title": "如何评价 Anthropic 发布通用 AI 代理 Claude Cowork，目前实际使用怎么样？",
@@ -465,15 +492,15 @@
           "time_info": "[00时34分 ~ 01时29分]"
         },
         {
-          "title": "【每日收评】三大指数震荡整理涨跌互现，单日成交额萎缩超万亿，商业航天、AI应用端遭重挫",
-          "url": "https://www.cls.cn/detail/2258951",
+          "title": "AI需求猛如虎！台积电财报会实录：大幅投资扩产仍难缓解供应短缺",
+          "url": "https://www.cls.cn/detail/2259073",
           "source": "财联社热门",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时49分 ~ 20时50分]"
+          "time_info": "[21时41分 ~ 21时42分]"
         },
         {
           "title": "【午报】三大指数全线调整，商业航天、AI应用双双熄火，高位人气股集体退潮",
@@ -588,6 +615,17 @@
           "time_info": "18时28分"
         },
         {
+          "title": "贝莱德首席执行官：贝莱德与微软的AI合作已筹集125亿美元，目标为300亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3038018",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
+        },
+        {
           "title": "美联储卡什卡利：目前大多数企业的AI应用仍处于实验阶段，尚未导致裁员。",
           "url": "https://flash.jin10.com/detail/20260115013502708800",
           "source": "金十数据",
@@ -671,7 +709,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时50分"
         },
@@ -693,7 +731,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时50分"
         },
@@ -726,7 +764,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时50分"
         },
@@ -759,7 +797,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时50分"
         },
