@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T16:30:05.737286+08:00",
-  "total_titles_processed": 1139,
+  "generated_at": "2026-01-17T17:23:29.840247+08:00",
+  "total_titles_processed": 1190,
   "failed_sources": [],
   "trends": [
     {
@@ -46,6 +46,17 @@
           "time_info": "[00时32分 ~ 07时24分]"
         },
         {
+          "title": "解读ChatGPT加入广告背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBChatGPT%E5%8A%A0%E5%85%A5%E5%B9%BF%E5%91%8A%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时21分 ~ 17时23分]"
+        },
+        {
           "title": "【每日收评】沪指小幅收跌险守4100点，半导体产业链逆势走强，AI应用持续调整",
           "url": "https://www.cls.cn/detail/2260348",
           "source": "财联社热门",
@@ -67,19 +78,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时45分 ~ 16时30分]"
-        },
-        {
-          "title": "解读ChatGPT加入广告背后",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBChatGPT%E5%8A%A0%E5%85%A5%E5%B9%BF%E5%91%8A%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时21分 ~ 16时30分]"
+          "appearance_count": 16,
+          "time_info": "[09时45分 ~ 17时23分]"
         },
         {
           "title": "OpenAI联合创始人兼总裁Greg Brockman：马斯克曾表示他需要持有OpenAI的多数股权。",
