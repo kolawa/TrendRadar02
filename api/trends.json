@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-17T12:35:03.950289+08:00",
-  "total_titles_processed": 914,
+  "generated_at": "2026-01-17T13:23:22.051785+08:00",
+  "total_titles_processed": 954,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
@@ -18,8 +18,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时32分 ~ 12时35分]"
+          "appearance_count": 22,
+          "time_info": "[00时32分 ~ 13时23分]"
         },
         {
           "title": "清华姚班陈立杰加入OpenAI",
@@ -65,8 +65,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时45分 ~ 12时35分]"
+          "appearance_count": 8,
+          "time_info": "[09时45分 ~ 13时23分]"
         },
         {
           "title": "FTC严查AI领域“人才收购” 欲堵死硅谷巨头反垄断漏洞",
@@ -86,11 +86,12 @@
           "ranks": [
             2,
             9,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时46分 ~ 12时35分]"
+          "appearance_count": 4,
+          "time_info": "[09时46分 ~ 13时23分]"
         },
         {
           "title": "OpenAI：目前尚未推出广告，但我们计划在未来几周内开始在美国针对ChatGPT免费版和Go层级的已登录成年人进行测试。",
@@ -132,6 +133,20 @@
           "time_info": "[02时36分 ~ 04时25分]"
         },
         {
+          "title": "美政府推动科技巨头为AI用电买单",
+          "url": "https://flash.jin10.com/detail/20260117082311101800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            19,
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时46分 ~ 13时23分]"
+        },
+        {
           "title": "加利福尼亚州总检察长Rob Bonta向 xAI公司发出停止并终止信函，要求该公司立即停止非法行为。",
           "url": "https://flash.jin10.com/detail/20260117043322271800",
           "source": "金十数据",
@@ -142,19 +157,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时24分 ~ 09时46分]"
-        },
-        {
-          "title": "美政府推动科技巨头为AI用电买单",
-          "url": "https://flash.jin10.com/detail/20260117082311101800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            19,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时46分 ~ 12时35分]"
         },
         {
           "title": "OpenAI推出ChatGPT Go，美国订阅费用为每个月8美元。 在全球范围内对ChatGPT提供三层订阅方案。 ChatGPT Plus月租20美元，ChatGPT Pro月租200美元。 Plus、Pro、Bussiness、Enterprise都不包含广告。 还没有在ChatGPT推出广告。 将免费测试广告功能，将在成年人群体实施分层订阅方案。 未来数周将开始测试第一批广告格式。 将在ChatGPT答案的底部测试广告。 广告将有清晰的标签，与答案有分隔。",
@@ -194,6 +196,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时46分 ~ 12时35分]"
+        },
+        {
+          "title": "ChatGPT将加入广告",
+          "url": "https://search.bilibili.com/all?keyword=ChatGPT%E5%B0%86%E5%8A%A0%E5%85%A5%E5%B9%BF%E5%91%8A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 13时23分]"
         },
         {
           "title": "变现压力下的“最后手段” OpenAI开启ChatGPT广告测试",
