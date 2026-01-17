@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-17T14:34:14.953402+08:00",
-  "total_titles_processed": 1023,
+  "generated_at": "2026-01-17T15:22:15.171767+08:00",
+  "total_titles_processed": 1077,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
@@ -66,8 +66,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时45分 ~ 14时34分]"
+          "appearance_count": 12,
+          "time_info": "[09时45分 ~ 15时22分]"
         },
         {
           "title": "OpenAI联合创始人兼总裁Greg Brockman：马斯克曾表示他需要持有OpenAI的多数股权。",
@@ -78,11 +78,23 @@
             9,
             14,
             20,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时46分 ~ 14时34分]"
+          "appearance_count": 6,
+          "time_info": "[09时46分 ~ 15时22分]"
+        },
+        {
+          "title": "解读ChatGPT加入广告背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBChatGPT%E5%8A%A0%E5%85%A5%E5%B9%BF%E5%91%8A%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 15时22分]"
         },
         {
           "title": "FTC严查AI领域“人才收购” 欲堵死硅谷巨头反垄断漏洞",
