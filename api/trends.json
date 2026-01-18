@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-18T07:21:54.465968+08:00",
-  "total_titles_processed": 426,
+  "generated_at": "2026-01-18T09:58:22.393330+08:00",
+  "total_titles_processed": 562,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "解读ChatGPT加入广告背后",
@@ -30,8 +30,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时31分 ~ 07时21分]"
+          "appearance_count": 11,
+          "time_info": "[02时31分 ~ 09时58分]"
         },
         {
           "title": "马斯克：未来将出现AI7、AI8、AI9；目标是9个月的设计周期。",
@@ -66,6 +66,28 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时26分 ~ 06时22分]"
+        },
+        {
+          "title": "ChatGPT 官宣将加入广告，怎样看待这一决定？对使用体验影响有多大？",
+          "url": "https://www.zhihu.com/question/1995898061478651512",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 09时58分]"
+        },
+        {
+          "title": "翁家翌谈OpenAI模型跃迁",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BF%81%E5%AE%B6%E7%BF%8C%E8%B0%88OpenAI%E6%A8%A1%E5%9E%8B%E8%B7%83%E8%BF%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 09时58分]"
         }
       ]
     }
