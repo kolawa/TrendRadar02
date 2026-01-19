@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T15:32:20.121321+08:00",
-  "total_titles_processed": 1096,
+  "generated_at": "2026-01-19T16:36:39.611538+08:00",
+  "total_titles_processed": 1200,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "编程从此不再有门槛！Claude Code火爆出圈，接近“ChatGPT的横空出世”",
@@ -41,8 +41,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时27分 ~ 15时32分]"
+          "appearance_count": 28,
+          "time_info": "[00时27分 ~ 16时36分]"
         },
         {
           "title": "全球首个GW级算力集群！马斯克宣布xAI旗下Colossus 2投入运行，距离开工建设不到1年！",
@@ -54,8 +54,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时52分 ~ 15时32分]"
+          "appearance_count": 12,
+          "time_info": "[11时52分 ~ 16时36分]"
         },
         {
           "title": "AI对存储的需求推动SSD发展 高速SSD主控芯片或供应吃紧",
@@ -65,11 +65,12 @@
             13,
             12,
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时52分 ~ 15时32分]"
+          "appearance_count": 12,
+          "time_info": "[11时52分 ~ 16时36分]"
         },
         {
           "title": "“飙升的电费”成为美国中选焦点，AI数据中心站上“政治火山口”",
@@ -166,6 +167,28 @@
           "time_info": "[14时42分 ~ 15时32分]"
         },
         {
+          "title": "如何评价清华公共管理学院副教授蒙克《春秋战国历史分期的机器学习新证》被网友质疑纯 AI 写作？",
+          "url": "https://www.zhihu.com/question/1995464531351135851",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时35分 ~ 16时36分]"
+        },
+        {
+          "title": "UP主手搓可食用的AI海洋方块",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93%E5%8F%AF%E9%A3%9F%E7%94%A8%E7%9A%84AI%E6%B5%B7%E6%B4%8B%E6%96%B9%E5%9D%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时35分 ~ 16时36分]"
+        },
+        {
           "title": "绩优基金2025年四季度调仓动向：聚焦景气度，优化AI持仓",
           "url": "https://wallstreetcn.com/livenews/3039323",
           "source": "华尔街见闻-快讯",
@@ -205,7 +228,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
