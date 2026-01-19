@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T18:32:48.549602+08:00",
-  "total_titles_processed": 1393,
+  "generated_at": "2026-01-19T19:24:14.043481+08:00",
+  "total_titles_processed": 1466,
   "failed_sources": [],
   "trends": [
     {
@@ -85,6 +85,18 @@
           "time_info": "[00时27分 ~ 04时26分]"
         },
         {
+          "title": "如何评价清华公共管理学院副教授蒙克《春秋战国历史分期的机器学习新证》被网友质疑纯 AI 写作？",
+          "url": "https://www.zhihu.com/question/1995464531351135851",
+          "source": "知乎",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时35分 ~ 19时24分]"
+        },
+        {
           "title": "IBM研究：人工智能有望在2030年前推动更智能的业务增长。",
           "url": "https://flash.jin10.com/detail/20260119130127093800",
           "source": "金十数据",
@@ -94,18 +106,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时34分"
-        },
-        {
-          "title": "如何评价清华公共管理学院副教授蒙克《春秋战国历史分期的机器学习新证》被网友质疑纯 AI 写作？",
-          "url": "https://www.zhihu.com/question/1995464531351135851",
-          "source": "知乎",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时35分 ~ 18时32分]"
         },
         {
           "title": "为什么很多律师不承认法律是受人工智能影响最大的行业之一？",
