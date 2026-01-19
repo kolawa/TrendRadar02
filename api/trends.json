@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T19:24:14.043481+08:00",
-  "total_titles_processed": 1466,
+  "generated_at": "2026-01-19T20:54:27.752480+08:00",
+  "total_titles_processed": 1602,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 23,
+      "match_count": 27,
       "titles": [
         {
           "title": "编程从此不再有门槛！Claude Code火爆出圈，接近“ChatGPT的横空出世”",
@@ -97,6 +97,17 @@
           "time_info": "[16时35分 ~ 19时24分]"
         },
         {
+          "title": "荣耀Magic 8 Pro Air 售价4999元起",
+          "url": "https://wallstreetcn.com/livenews/3039775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
           "title": "IBM研究：人工智能有望在2030年前推动更智能的业务增长。",
           "url": "https://flash.jin10.com/detail/20260119130127093800",
           "source": "金十数据",
@@ -167,6 +178,17 @@
           "time_info": "[13时34分 ~ 14时42分]"
         },
         {
+          "title": "【焦点复盘】创业板指冲高回落跌0.7%，AI软硬件双双低迷，贵金属板块再度爆发",
+          "url": "https://www.cls.cn/detail/2262334",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 20时54分]"
+        },
+        {
           "title": "胡润发布中国人工智能50强，寒武纪以6300亿元价值居首",
           "url": "https://wallstreetcn.com/livenews/3039492",
           "source": "华尔街见闻-快讯",
@@ -189,6 +211,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时42分 ~ 15时32分]"
+        },
+        {
+          "title": "“大空头”放话：AI繁荣即将转为长期低迷，英伟达掉下神坛只是时间问题！",
+          "url": "https://www.cls.cn/detail/2262181",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 20时54分]"
+        },
+        {
+          "title": "Air手机界来了个真Pro",
+          "url": "https://s.weibo.com/weibo?q=%23Air%E6%89%8B%E6%9C%BA%E7%95%8C%E6%9D%A5%E4%BA%86%E4%B8%AA%E7%9C%9FPro%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 20时54分]"
         },
         {
           "title": "UP主手搓可食用的AI海洋方块",
