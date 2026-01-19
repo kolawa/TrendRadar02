@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T17:38:11.980616+08:00",
-  "total_titles_processed": 1308,
+  "generated_at": "2026-01-19T18:32:48.549602+08:00",
+  "total_titles_processed": 1393,
   "failed_sources": [],
   "trends": [
     {
@@ -96,6 +96,18 @@
           "time_info": "13时34分"
         },
         {
+          "title": "如何评价清华公共管理学院副教授蒙克《春秋战国历史分期的机器学习新证》被网友质疑纯 AI 写作？",
+          "url": "https://www.zhihu.com/question/1995464531351135851",
+          "source": "知乎",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时35分 ~ 18时32分]"
+        },
+        {
           "title": "为什么很多律师不承认法律是受人工智能影响最大的行业之一？",
           "url": "https://www.zhihu.com/question/659369541",
           "source": "知乎",
@@ -105,17 +117,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时31分 ~ 04时26分]"
-        },
-        {
-          "title": "如何评价清华公共管理学院副教授蒙克《春秋战国历史分期的机器学习新证》被网友质疑纯 AI 写作？",
-          "url": "https://www.zhihu.com/question/1995464531351135851",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时35分 ~ 17时38分]"
         },
         {
           "title": "人工智能企业SharonAI签署最终约束性收购协议，完成出售其在得州关键数据中心50%股权的交易，作价7000万美元。",
@@ -251,7 +252,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时38分"
         },
