@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-01-20T12:48:15.736731+08:00",
-  "total_titles_processed": 1013,
+  "generated_at": "2026-01-20T13:32:44.167855+08:00",
+  "total_titles_processed": 1075,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
+        {
+          "title": "三年10倍！OpenAI年化营收突破200亿美元 今年重点推实际应用",
+          "url": "https://www.cls.cn/detail/2262946",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时46分 ~ 13时32分]"
+        },
         {
           "title": "OpenAI高管：首款硬件设备有望于2026年下半年亮相",
           "url": "https://www.cls.cn/detail/2262848",
@@ -14,23 +27,12 @@
           "ranks": [
             9,
             8,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时51分 ~ 12时48分]"
-        },
-        {
-          "title": "三年10倍！OpenAI年化营收突破200亿美元 今年重点推实际应用",
-          "url": "https://www.cls.cn/detail/2262946",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时46分 ~ 12时48分]"
+          "appearance_count": 6,
+          "time_info": "[09时51分 ~ 13时32分]"
         },
         {
           "title": "【焦点复盘】创业板指冲高回落跌0.7%，AI软硬件双双低迷，贵金属板块再度爆发",
@@ -44,6 +46,29 @@
           "time_info": "[00时32分 ~ 03时21分]"
         },
         {
+          "title": "“蝙蝠侠”站队“大空头”：AI相关股票被严重高估",
+          "url": "https://www.cls.cn/detail/2262811",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时51分 ~ 13时32分]"
+        },
+        {
+          "title": "阿布扎比人工智能公司G42：推出“数字使馆”框架以及Greenshield，一个新的主权运营模式。",
+          "url": "https://flash.jin10.com/detail/20260120125924326800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
           "title": "2025年年报业绩预告进入加速披露期，40余家上市公司净利翻番，AI成业绩增长强大驱动力",
           "url": "https://wallstreetcn.com/livenews/3039950",
           "source": "华尔街见闻-快讯",
@@ -55,16 +80,29 @@
           "time_info": "07时24分"
         },
         {
-          "title": "“蝙蝠侠”站队“大空头”：AI相关股票被严重高估",
-          "url": "https://www.cls.cn/detail/2262811",
-          "source": "财联社热门",
+          "title": "医生给1岁娃开小众药被AI提醒慎用",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E7%BB%991%E5%B2%81%E5%A8%83%E5%BC%80%E5%B0%8F%E4%BC%97%E8%8D%AF%E8%A2%ABAI%E6%8F%90%E9%86%92%E6%85%8E%E7%94%A8%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
           "ranks": [
-            13,
-            10
+            26,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时47分 ~ 13时32分]"
+        },
+        {
+          "title": "千问 App 接入淘宝、闪购测试 AI 购物，将如何影响消费习惯？",
+          "url": "https://www.zhihu.com/question/1995084390166988443",
+          "source": "知乎",
+          "ranks": [
+            16,
+            11,
+            14
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时51分 ~ 12时48分]"
+          "time_info": "[11时46分 ~ 13时32分]"
         },
         {
           "title": "卡塔尔主权基金CEO暗示对AI投资采取更加细致审慎的策略",
@@ -78,18 +116,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时27分 ~ 06时24分]"
-        },
-        {
-          "title": "千问 App 接入淘宝、闪购测试 AI 购物，将如何影响消费习惯？",
-          "url": "https://www.zhihu.com/question/1995084390166988443",
-          "source": "知乎",
-          "ranks": [
-            16,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时46分 ~ 12时48分]"
         },
         {
           "title": "贺峻霖力证不是AI",
@@ -177,17 +203,6 @@
           "time_info": "[06时24分 ~ 07时24分]"
         },
         {
-          "title": "医生给1岁娃开小众药被AI提醒慎用",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E7%BB%991%E5%B2%81%E5%A8%83%E5%BC%80%E5%B0%8F%E4%BC%97%E8%8D%AF%E8%A2%ABAI%E6%8F%90%E9%86%92%E6%85%8E%E7%94%A8%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时47分 ~ 12时48分]"
-        },
-        {
           "title": "A股AI应用端早盘反弹，浙文互联一字涨停，天地在线2连板，流金科技、蓝色光标、巨人网络、天龙集团跟涨。",
           "url": "https://wallstreetcn.com/livenews/3040017",
           "source": "华尔街见闻-快讯",
@@ -227,7 +242,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
