@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T19:27:01.697171+08:00",
-  "total_titles_processed": 1790,
+  "generated_at": "2026-01-21T20:54:59.474432+08:00",
+  "total_titles_processed": 1910,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 56,
+      "match_count": 59,
       "titles": [
         {
           "title": "谷歌 Gemini 准确率从 21% 提升至 97% 仅靠「复制粘贴」，这意味着什么？",
@@ -54,21 +54,6 @@
           "time_info": "[12时46分 ~ 19时27分]"
         },
         {
-          "title": "UP主带你玩转全球顶级AI现场",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%B8%A6%E4%BD%A0%E7%8E%A9%E8%BD%AC%E5%85%A8%E7%90%83%E9%A1%B6%E7%BA%A7AI%E7%8E%B0%E5%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            7,
-            10,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时46分 ~ 19时27分]"
-        },
-        {
           "title": "DeepSeek Model 1悄然现身",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Model%201%E6%82%84%E7%84%B6%E7%8E%B0%E8%BA%AB",
           "source": "bilibili 热搜",
@@ -81,8 +66,24 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时46分 ~ 19时27分]"
+          "appearance_count": 17,
+          "time_info": "[11时46分 ~ 20时54分]"
+        },
+        {
+          "title": "UP主带你玩转全球顶级AI现场",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%B8%A6%E4%BD%A0%E7%8E%A9%E8%BD%AC%E5%85%A8%E7%90%83%E9%A1%B6%E7%BA%A7AI%E7%8E%B0%E5%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            7,
+            10,
+            9,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[12时46分 ~ 20时54分]"
         },
         {
           "title": "俄罗斯暴雪堆出9层楼高的雪坡？中国留学生：假的，视频为AI生成",
@@ -103,11 +104,12 @@
             5,
             12,
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时35分 ~ 19时27分]"
+          "appearance_count": 7,
+          "time_info": "[16时35分 ~ 20时54分]"
         },
         {
           "title": "疑似AI玩家已确认是BRO Roamer",
@@ -119,6 +121,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时46分 ~ 11时47分]"
+        },
+        {
+          "title": "俄罗斯积雪9层楼高视频系AI生成",
+          "url": "https://www.toutiao.com/trending/7597721748050444351/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "【焦点复盘】沪指冲高回落微幅收涨，AI硬件端卷土重来，机器人概念人气股罕见走出16连板",
+          "url": "https://www.cls.cn/detail/2265232",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时32分 ~ 20时54分]"
         },
         {
           "title": "上海中小学开设AI课程",
@@ -168,18 +193,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时47分 ~ 12时47分]"
-        },
-        {
-          "title": "【焦点复盘】沪指冲高回落微幅收涨，AI硬件端卷土重来，机器人概念人气股罕见走出16连板",
-          "url": "https://www.cls.cn/detail/2265232",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时32分 ~ 19时27分]"
         },
         {
           "title": "惠誉：美国信用形势温和，AI、消费者、贸易问题都构成风险。",
@@ -268,7 +281,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
@@ -290,7 +303,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
@@ -317,6 +330,17 @@
           "time_info": "14时40分"
         },
         {
+          "title": "摩根大通CEO戴蒙：人工智能发展速度对社会来说可能太快了。 我认为我们需要一个更强大的北约。 世界也需要一个更强大的欧洲。 这并非跨大西洋联盟首次出现危机。",
+          "url": "https://wallstreetcn.com/livenews/3041287",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
           "title": "金十数据整理：每日人工智能动态汇总（2026-01-21）",
           "url": "https://flash.jin10.com/detail/20260121115736289800",
           "source": "金十数据",
@@ -326,6 +350,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
+        },
+        {
+          "title": "咻咻满COS翻唱icantwait",
+          "url": "https://search.bilibili.com/all?keyword=%E5%92%BB%E5%92%BB%E6%BB%A1COS%E7%BF%BB%E5%94%B1icantwait",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "惠誉评级：美国良性信贷背景面临人工智能、消费者和贸易风险。",
@@ -345,7 +380,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
@@ -422,7 +457,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
@@ -510,7 +545,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
@@ -532,7 +567,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
@@ -554,7 +589,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
@@ -587,7 +622,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
@@ -609,7 +644,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
@@ -631,7 +666,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
