@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T18:33:02.261769+08:00",
-  "total_titles_processed": 1686,
+  "generated_at": "2026-01-21T19:27:01.697171+08:00",
+  "total_titles_processed": 1790,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 45,
+      "match_count": 56,
       "titles": [
         {
           "title": "谷歌 Gemini 准确率从 21% 提升至 97% 仅靠「复制粘贴」，这意味着什么？",
@@ -46,11 +46,12 @@
             3,
             1,
             7,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时46分 ~ 18时33分]"
+          "appearance_count": 14,
+          "time_info": "[12时46分 ~ 19时27分]"
         },
         {
           "title": "UP主带你玩转全球顶级AI现场",
@@ -60,11 +61,12 @@
             5,
             7,
             10,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时46分 ~ 18时33分]"
+          "appearance_count": 14,
+          "time_info": "[12时46分 ~ 19时27分]"
         },
         {
           "title": "DeepSeek Model 1悄然现身",
@@ -75,11 +77,12 @@
             6,
             9,
             8,
-            14
+            14,
+            10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时46分 ~ 18时33分]"
+          "appearance_count": 16,
+          "time_info": "[11时46分 ~ 19时27分]"
         },
         {
           "title": "俄罗斯暴雪堆出9层楼高的雪坡？中国留学生：假的，视频为AI生成",
@@ -89,8 +92,22 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时46分 ~ 18时33分]"
+          "appearance_count": 14,
+          "time_info": "[12时46分 ~ 19时27分]"
+        },
+        {
+          "title": "图灵的猫回应预测韩服AI疑云",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BE%E7%81%B5%E7%9A%84%E7%8C%AB%E5%9B%9E%E5%BA%94%E9%A2%84%E6%B5%8B%E9%9F%A9%E6%9C%8DAI%E7%96%91%E4%BA%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            12,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时35分 ~ 19时27分]"
         },
         {
           "title": "疑似AI玩家已确认是BRO Roamer",
@@ -102,19 +119,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时46分 ~ 11时47分]"
-        },
-        {
-          "title": "图灵的猫回应预测韩服AI疑云",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BE%E7%81%B5%E7%9A%84%E7%8C%AB%E5%9B%9E%E5%BA%94%E9%A2%84%E6%B5%8B%E9%9F%A9%E6%9C%8DAI%E7%96%91%E4%BA%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时35分 ~ 18时33分]"
         },
         {
           "title": "上海中小学开设AI课程",
@@ -166,6 +170,18 @@
           "time_info": "[11时47分 ~ 12时47分]"
         },
         {
+          "title": "【焦点复盘】沪指冲高回落微幅收涨，AI硬件端卷土重来，机器人概念人气股罕见走出16连板",
+          "url": "https://www.cls.cn/detail/2265232",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时32分 ~ 19时27分]"
+        },
+        {
           "title": "惠誉：美国信用形势温和，AI、消费者、贸易问题都构成风险。",
           "url": "https://wallstreetcn.com/livenews/3040614",
           "source": "华尔街见闻-快讯",
@@ -202,17 +218,6 @@
           "time_info": "[16时35分 ~ 17时35分]"
         },
         {
-          "title": "【焦点复盘】沪指冲高回落微幅收涨，AI硬件端卷土重来，机器人概念人气股罕见走出16连板",
-          "url": "https://www.cls.cn/detail/2265232",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时32分 ~ 18时33分]"
-        },
-        {
           "title": "上海国际学校的孩子都在使用AI",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9B%BD%E9%99%85%E5%AD%A6%E6%A0%A1%E7%9A%84%E5%AD%A9%E5%AD%90%E9%83%BD%E5%9C%A8%E4%BD%BF%E7%94%A8AI%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
@@ -222,6 +227,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时46分 ~ 11时47分]"
+        },
+        {
+          "title": "中国的AI+经济",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%9A%84AI%2B%E7%BB%8F%E6%B5%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时26分 ~ 19时27分]"
         },
         {
           "title": "拳头程序员分析人类对战AI胜算",
@@ -246,15 +262,37 @@
           "time_info": "01时32分"
         },
         {
+          "title": "瑞银CEO：人工智能行业不会破产，但一些投资者会遭受损失，尤其是那些进行个股精选的投资者。",
+          "url": "https://flash.jin10.com/detail/20260121185931475800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
+        },
+        {
           "title": "OpenAI：作为“OpenAI面向各国”倡议的一部分，推出面向各国的OpenAI教育项目。",
           "url": "https://wallstreetcn.com/livenews/3041189",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时33分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：人工智能将有助于缩小发达经济体与新兴经济体之间的技术鸿沟。",
+          "url": "https://flash.jin10.com/detail/20260121185920177800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
         },
         {
           "title": "OpenAI披露其关于年龄预测的方式。 公司在ChatGPT消费者计划推出年龄预测。 未来数周，将在欧洲市场推出年龄预测功能。",
@@ -299,6 +337,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：人工智能正在提高生产力，促使各行各业的企业加大招聘力度。",
+          "url": "https://flash.jin10.com/detail/20260121185405679800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
         },
         {
           "title": "盖茨基金会和OpenAI计划投资5000万美元 资助非洲AI医疗",
@@ -365,6 +414,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
+        },
+        {
+          "title": "志特新材：截至目前，公司业务不涉及AI应用、人工智能、量子科技、机器人及商业航天领域，亦未形成相关收入。自上市以来，公司主营业务为铝模、防护平台、装配式预制件等产品的研发、生产与销售，未发生任何变化。",
+          "url": "https://wallstreetcn.com/livenews/3041233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
         },
         {
           "title": "AnthropicCEO：AI发展未来可能导致10%失业率 政府必须有所作为",
@@ -444,6 +504,17 @@
           "time_info": "02时41分"
         },
         {
+          "title": "英伟达CEO黄仁勋：人工智能是人类历史上规模最大的基础设施建设。",
+          "url": "https://flash.jin10.com/detail/20260121184937992800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
+        },
+        {
           "title": "G42的CEO Peng Xiao：预计阿联酋将在未来数月获得第一批由（由英伟达、Cerebras Inc.等供应的）高级AI芯片。",
           "url": "https://wallstreetcn.com/livenews/3040577",
           "source": "华尔街见闻-快讯",
@@ -455,15 +526,37 @@
           "time_info": "00时39分"
         },
         {
+          "title": "英伟达CEO黄仁勋：人工智能是一场“平台变革”。 需要建设数万亿美元规模的基础设施项目。 人工智能产业正在创造就业机会。 GPU租赁服务的现货价格正在上涨。",
+          "url": "https://wallstreetcn.com/livenews/3041219",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
+        },
+        {
           "title": "沙特初创公司Humain：与Infra宣布达成人工智能和数字融资框架协议，同意探讨设立人工智能数据中心投资平台。",
           "url": "https://flash.jin10.com/detail/20260121175829190800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时33分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：人工智能产业正在创造就业机会。",
+          "url": "https://flash.jin10.com/detail/20260121184841870800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
         },
         {
           "title": "OpenAI：在ChatGPT上推出年龄预测功能，以帮助确定账户所有者是否可能未满18岁。",
@@ -488,15 +581,37 @@
           "time_info": "13时32分"
         },
         {
+          "title": "英伟达CEO黄仁勋：能源、半导体及其他人工智能应用领域已在经济上受益。",
+          "url": "https://flash.jin10.com/detail/20260121184659056800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
+        },
+        {
           "title": "OpenAI：作为“OpenAI面向各国”倡议的一部分，推出面向各国的OpenAI教育项目。",
           "url": "https://flash.jin10.com/detail/20260121175350755800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时33分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：人工智能本质上是一个由“五层蛋糕”组成的架构，能够带动经济增长。人工智能的层级包括能源、芯片、基础设施、模型以及人工智能应用。由于跨行业经济效益，人工智能应用是最重要的一层。",
+          "url": "https://flash.jin10.com/detail/20260121184448101800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
         },
         {
           "title": "马斯克：人工智能是一场超音速海啸。",
@@ -505,9 +620,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时33分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：与以往的技术进步相比，人工智能更容易理解。",
+          "url": "https://flash.jin10.com/detail/20260121184354050800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
         },
         {
           "title": "郑钦文粉丝把AI天赋点满了",
