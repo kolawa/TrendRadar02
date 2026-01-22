@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-01-22T17:35:44.602762+08:00",
-  "total_titles_processed": 1558,
+  "generated_at": "2026-01-22T18:32:01.104400+08:00",
+  "total_titles_processed": 1666,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
       "match_count": 46,
       "titles": [
+        {
+          "title": "无惧失败先例 曝苹果拟入局AI Pin 明年或与iPhone捆绑销售",
+          "url": "https://www.cls.cn/detail/2265956",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            7,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时32分 ~ 18时32分]"
+        },
         {
           "title": "特朗普达沃斯演讲：炮轰欧洲和加拿大 支持发展核能为AI供能",
           "url": "https://www.cls.cn/detail/2265732",
@@ -31,11 +46,26 @@
             5,
             10,
             11,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时50分 ~ 17时35分]"
+          "appearance_count": 13,
+          "time_info": "[11时50分 ~ 18时32分]"
+        },
+        {
+          "title": "AMD一年来最长连涨、英特尔四年新高！AI狂热烧向CPU 明晨大考来临",
+          "url": "https://www.cls.cn/detail/2266084",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时38分 ~ 18时32分]"
         },
         {
           "title": "图灵的猫回应预测韩服AI疑云",
@@ -100,21 +130,6 @@
           "time_info": "[00时58分 ~ 07时28分]"
         },
         {
-          "title": "无惧失败先例 曝苹果拟入局AI Pin 明年或与iPhone捆绑销售",
-          "url": "https://www.cls.cn/detail/2265956",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            7,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时32分 ~ 17时35分]"
-        },
-        {
           "title": "沪指震荡，上证50ETF成交创历史天量，AI算力产业链爆发、黄金股掀涨停潮，30年期国债大涨，沪金一度突破1100元",
           "url": "https://wallstreetcn.com/articles/3763773",
           "source": "华尔街见闻",
@@ -155,20 +170,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时56分 ~ 07时28分]"
-        },
-        {
-          "title": "AMD一年来最长连涨、英特尔四年新高！AI狂热烧向CPU 明晨大考来临",
-          "url": "https://www.cls.cn/detail/2266084",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时38分 ~ 17时35分]"
         },
         {
           "title": "黄仁勋放话：AI基建将会让电工、水管工拿六位数年薪",
@@ -384,7 +385,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         },
@@ -406,7 +407,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         },
