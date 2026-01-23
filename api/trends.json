@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T06:21:18.330052+08:00",
-  "total_titles_processed": 553,
+  "generated_at": "2026-01-24T07:24:14.167382+08:00",
+  "total_titles_processed": 579,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
             5,
             10,
             16,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 06时21分]"
+          "appearance_count": 14,
+          "time_info": "[00时33分 ~ 07时24分]"
         },
         {
           "title": "AI发展会降低创作者存在意义吗",
@@ -42,11 +43,12 @@
             17,
             7,
             19,
-            13
+            13,
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 06时21分]"
+          "appearance_count": 14,
+          "time_info": "[00时33分 ~ 07时24分]"
         },
         {
           "title": "据科技媒体TechCrunsh：Meta公司暂停青少年访问AI角色，同时将开发专门定制的版本。",
