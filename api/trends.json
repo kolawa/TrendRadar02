@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T22:28:49.450451+08:00",
-  "total_titles_processed": 2139,
+  "generated_at": "2026-01-23T23:29:14.820432+08:00",
+  "total_titles_processed": 2246,
   "failed_sources": [],
   "trends": [
     {
@@ -42,8 +42,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[09时50分 ~ 22时28分]"
+          "appearance_count": 26,
+          "time_info": "[09时50分 ~ 23时29分]"
         },
         {
           "title": "我国人工智能专利有效量全球前列",
@@ -70,6 +70,21 @@
           "time_info": "[00时38分 ~ 07时24分]"
         },
         {
+          "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
+          "url": "https://www.zhihu.com/question/1997802145714569913",
+          "source": "知乎",
+          "ranks": [
+            20,
+            17,
+            16,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[17时33分 ~ 23时29分]"
+        },
+        {
           "title": "因家长用 AI 生成练习册，小学生组团给「千问」刷差评，怎样看待这一现象？反映出了哪些问题？",
           "url": "https://www.zhihu.com/question/1997844624513975566",
           "source": "知乎",
@@ -78,11 +93,12 @@
             13,
             11,
             7,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[16时33分 ~ 22时28分]"
+          "appearance_count": 15,
+          "time_info": "[16时33分 ~ 23时29分]"
         },
         {
           "title": "AI发展会降低创作者存在意义吗",
@@ -96,22 +112,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[15时27分 ~ 22时28分]"
-        },
-        {
-          "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
-          "url": "https://www.zhihu.com/question/1997802145714569913",
-          "source": "知乎",
-          "ranks": [
-            20,
-            17,
-            16,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时33分 ~ 22时28分]"
+          "appearance_count": 17,
+          "time_info": "[15时27分 ~ 23时29分]"
         },
         {
           "title": "DeepSeek Model 1悄然现身",
