@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T19:24:03.593711+08:00",
-  "total_titles_processed": 1870,
+  "generated_at": "2026-01-23T20:52:17.488341+08:00",
+  "total_titles_processed": 1974,
   "failed_sources": [],
   "trends": [
     {
@@ -42,8 +42,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时50分 ~ 19时24分]"
+          "appearance_count": 21,
+          "time_info": "[09时50分 ~ 20时52分]"
         },
         {
           "title": "我国人工智能专利有效量全球前列",
@@ -53,8 +53,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时33分 ~ 19时24分]"
+          "appearance_count": 8,
+          "time_info": "[17时33分 ~ 20时52分]"
         },
         {
           "title": "张坤4100点上首“发声”：消费、房价、AI和国运，究竟该怎么看？",
@@ -70,6 +70,20 @@
           "time_info": "[00时38分 ~ 07时24分]"
         },
         {
+          "title": "因家长用 AI 生成练习册，小学生组团给「千问」刷差评，怎样看待这一现象？反映出了哪些问题？",
+          "url": "https://www.zhihu.com/question/1997844624513975566",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13,
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时33分 ~ 20时52分]"
+        },
+        {
           "title": "AI发展会降低创作者存在意义吗",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%91%E5%B1%95%E4%BC%9A%E9%99%8D%E4%BD%8E%E5%88%9B%E4%BD%9C%E8%80%85%E5%AD%98%E5%9C%A8%E6%84%8F%E4%B9%89%E5%90%97",
           "source": "bilibili 热搜",
@@ -80,8 +94,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时27分 ~ 19时24分]"
+          "appearance_count": 12,
+          "time_info": "[15时27分 ~ 20时52分]"
         },
         {
           "title": "DeepSeek Model 1悄然现身",
@@ -99,17 +113,16 @@
           "time_info": "[02时36分 ~ 07时24分]"
         },
         {
-          "title": "因家长用 AI 生成练习册，小学生组团给「千问」刷差评，怎样看待这一现象？反映出了哪些问题？",
-          "url": "https://www.zhihu.com/question/1997844624513975566",
+          "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
+          "url": "https://www.zhihu.com/question/1997802145714569913",
           "source": "知乎",
           "ranks": [
-            14,
-            13,
-            11
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时33分 ~ 19时24分]"
+          "appearance_count": 6,
+          "time_info": "[17时33分 ~ 20时52分]"
         },
         {
           "title": "英特尔四季度数据中心和AI营收47.4亿美元，预期44.2亿美元。预计一季度营收117亿-127亿美元，分析师预期125.6亿美元。",
@@ -189,18 +202,6 @@
           "source": "知乎",
           "ranks": [
             15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时33分 ~ 18时28分]"
-        },
-        {
-          "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
-          "url": "https://www.zhihu.com/question/1997802145714569913",
-          "source": "知乎",
-          "ranks": [
-            20,
-            17
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -338,7 +339,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
