@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T21:45:36.291786+08:00",
-  "total_titles_processed": 2064,
+  "generated_at": "2026-01-23T22:28:49.450451+08:00",
+  "total_titles_processed": 2139,
   "failed_sources": [],
   "trends": [
     {
@@ -42,8 +42,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[09时50分 ~ 21时45分]"
+          "appearance_count": 24,
+          "time_info": "[09时50分 ~ 22时28分]"
         },
         {
           "title": "我国人工智能专利有效量全球前列",
@@ -81,8 +81,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[16时33分 ~ 21时45分]"
+          "appearance_count": 13,
+          "time_info": "[16时33分 ~ 22时28分]"
         },
         {
           "title": "AI发展会降低创作者存在意义吗",
@@ -96,8 +96,22 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[15时27分 ~ 21时45分]"
+          "appearance_count": 15,
+          "time_info": "[15时27分 ~ 22时28分]"
+        },
+        {
+          "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
+          "url": "https://www.zhihu.com/question/1997802145714569913",
+          "source": "知乎",
+          "ranks": [
+            20,
+            17,
+            16,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时33分 ~ 22时28分]"
         },
         {
           "title": "DeepSeek Model 1悄然现身",
@@ -113,19 +127,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[02时36分 ~ 07时24分]"
-        },
-        {
-          "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
-          "url": "https://www.zhihu.com/question/1997802145714569913",
-          "source": "知乎",
-          "ranks": [
-            20,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时33分 ~ 21时45分]"
         },
         {
           "title": "英特尔四季度数据中心和AI营收47.4亿美元，预期44.2亿美元。预计一季度营收117亿-127亿美元，分析师预期125.6亿美元。",
