@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-24T07:24:14.167382+08:00",
-  "total_titles_processed": 579,
+  "generated_at": "2026-01-24T09:48:45.190018+08:00",
+  "total_titles_processed": 723,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "AI需求兑现但供应将至“最低点”，英特尔Q1指引逊色，盘后大跌超10% | 财报见闻",
@@ -47,8 +47,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时33分 ~ 07时24分]"
+          "appearance_count": 15,
+          "time_info": "[00时33分 ~ 09时48分]"
         },
         {
           "title": "据科技媒体TechCrunsh：Meta公司暂停青少年访问AI角色，同时将开发专门定制的版本。",
@@ -107,6 +107,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
+        },
+        {
+          "title": "AI驱动高端产品规模量产，PCB公司2025年业绩强势预增",
+          "url": "https://wallstreetcn.com/livenews/3043179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
         },
         {
           "title": "Meta宣布暂停青少年使用人工智能角色功能",
