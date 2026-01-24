@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-24T13:24:41.759163+08:00",
-  "total_titles_processed": 939,
+  "generated_at": "2026-01-24T14:35:21.750182+08:00",
+  "total_titles_processed": 1008,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "AI需求兑现但供应将至“最低点”，英特尔Q1指引逊色，盘后大跌超10% | 财报见闻",
@@ -60,8 +60,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时37分 ~ 13时24分]"
+          "appearance_count": 5,
+          "time_info": "[12时37分 ~ 14时35分]"
+        },
+        {
+          "title": "iPhone Air官方价格暴跌2000元",
+          "url": "https://www.toutiao.com/trending/7598387695761588278/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时34分 ~ 14时35分]"
         },
         {
           "title": "白宫发布特朗普与企鹅走向格陵兰岛AI图片",
@@ -69,11 +80,23 @@
           "source": "金十数据",
           "ranks": [
             3,
-            4
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时38分 ~ 13时24分]"
+          "appearance_count": 3,
+          "time_info": "[12时38分 ~ 14时35分]"
+        },
+        {
+          "title": "白宫发特朗普在格陵兰岛牵企鹅AI图",
+          "url": "https://www.toutiao.com/trending/7598238497476034602/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时37分 ~ 14时35分]"
         },
         {
           "title": "据科技媒体TechCrunsh：Meta公司暂停青少年访问AI角色，同时将开发专门定制的版本。",
@@ -113,17 +136,6 @@
           "time_info": "[11时29分 ~ 13时24分]"
         },
         {
-          "title": "白宫发特朗普在格陵兰岛牵企鹅AI图",
-          "url": "https://www.toutiao.com/trending/7598238497476034602/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时37分 ~ 13时24分]"
-        },
-        {
           "title": "Meta暂停青少年群体访问其AI角色。（TechCrunch）",
           "url": "https://wallstreetcn.com/livenews/3043073",
           "source": "华尔街见闻-快讯",
@@ -146,6 +158,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时29分 ~ 12时38分]"
+        },
+        {
+          "title": "白宫发特朗普在格陵兰岛牵企鹅AI图，网友：格陵兰岛没企鹅",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32456544",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时34分 ~ 14时35分]"
         },
         {
           "title": "让AI来安排我的一天",
