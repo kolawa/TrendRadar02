@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T07:22:52.642654+08:00",
-  "total_titles_processed": 416,
+  "generated_at": "2026-01-25T10:02:08.344983+08:00",
+  "total_titles_processed": 558,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时20分 ~ 07时22分]"
+          "appearance_count": 12,
+          "time_info": "[01时20分 ~ 10时02分]"
         },
         {
           "title": "“AI编程”里程碑：Claude Code“整顿”全球软件业",
@@ -25,11 +25,12 @@
           "ranks": [
             9,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时20分 ~ 07时22分]"
+          "appearance_count": 12,
+          "time_info": "[01时20分 ~ 10时02分]"
         },
         {
           "title": "北京：加强太空云计算、人工智能、大数据等新一代信息技术在卫星星座中的应用",
@@ -92,11 +93,12 @@
           "url": "https://flash.jin10.com/detail/20260124215336107800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时20分 ~ 07时22分]"
+          "appearance_count": 8,
+          "time_info": "[01时20分 ~ 10时02分]"
         },
         {
           "title": "据知情人士透露，Databricks已经发行18亿美元新债务，现在拥有接触超过70亿美元债务融资的机会。 在12月份宣布的那一轮融资中，投资者们对这家数据分析软件开发商的估值为1340亿美元。 和Anthropic、Canva、OpenAI、Stripe一样，该公司也有望在2026年IPO。（CNBC）",
