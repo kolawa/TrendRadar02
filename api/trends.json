@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T21:34:44.067625+08:00",
-  "total_titles_processed": 1238,
+  "generated_at": "2026-01-25T22:22:22.102026+08:00",
+  "total_titles_processed": 1280,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,22 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[01时20分 ~ 21时34分]"
+          "appearance_count": 33,
+          "time_info": "[01时20分 ~ 22时22分]"
+        },
+        {
+          "title": "5个月10倍！闪迪从“U盘牛夫人”变身“AI小甜甜”",
+          "url": "https://wallstreetcn.com/articles/3764092",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[14时35分 ~ 22时22分]"
         },
         {
           "title": "“AI编程”里程碑：Claude Code“整顿”全球软件业",
@@ -36,19 +50,6 @@
           "time_info": "[01时20分 ~ 12时02分]"
         },
         {
-          "title": "5个月10倍！闪迪从“U盘牛夫人”变身“AI小甜甜”",
-          "url": "https://wallstreetcn.com/articles/3764092",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[14时35分 ~ 21时34分]"
-        },
-        {
           "title": "iPhone Air 官方价格暴跌 2000 元，爆料称激活量不到 20 万，消费者为何不买账？哪里出了问题？",
           "url": "https://www.zhihu.com/question/1998457273891120214",
           "source": "知乎",
@@ -62,8 +63,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[12时01分 ~ 21时34分]"
+          "appearance_count": 21,
+          "time_info": "[12时01分 ~ 22时22分]"
         },
         {
           "title": "机构密集调研AI营销概念股！龙头月内涨近六成，近一个月接待量居前热门股名单来了",
@@ -75,8 +76,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[12时01分 ~ 21时34分]"
+          "appearance_count": 21,
+          "time_info": "[12时01分 ~ 22时22分]"
         },
         {
           "title": "北京：加强太空云计算、人工智能、大数据等新一代信息技术在卫星星座中的应用",
@@ -261,7 +262,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时34分"
         },
