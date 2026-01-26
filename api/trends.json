@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T17:37:39.118835+08:00",
-  "total_titles_processed": 1304,
+  "generated_at": "2026-01-26T18:30:07.096994+08:00",
+  "total_titles_processed": 1391,
   "failed_sources": [],
   "trends": [
     {
@@ -33,6 +33,20 @@
           "time_info": "[00时28分 ~ 10时02分]"
         },
         {
+          "title": "白银价格近期大幅上涨，不少人指向 AI 及算力设施建设的巨大消耗，这是主要原因吗？支撑该观点的依据是什么？",
+          "url": "https://www.zhihu.com/question/1998735057154744752",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4,
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时40分 ~ 18时30分]"
+        },
+        {
           "title": "iPhone Air 官方价格暴跌 2000 元，爆料称激活量不到 20 万，消费者为何不买账？哪里出了问题？",
           "url": "https://www.zhihu.com/question/1998457273891120214",
           "source": "知乎",
@@ -58,6 +72,19 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时28分 ~ 07时23分]"
+        },
+        {
+          "title": "AI视频丨鹿“回头”，要做三亚“城市合伙人”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32440119",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时34分 ~ 18时30分]"
         },
         {
           "title": "语法正确，疑似AI：人工智能如何重塑我们的写作与信任",
@@ -89,30 +116,18 @@
           "time_info": "[13时34分 ~ 17时37分]"
         },
         {
-          "title": "白银价格近期大幅上涨，不少人指向 AI 及算力设施建设的巨大消耗，这是主要原因吗？支撑该观点的依据是什么？",
-          "url": "https://www.zhihu.com/question/1998735057154744752",
-          "source": "知乎",
+          "title": "印奇出任董事长！阶跃星辰超50亿融资刷新大模型赛道纪录 将加码“AI+终端”",
+          "url": "https://www.cls.cn/detail/2269386",
+          "source": "财联社热门",
           "ranks": [
-            5,
-            4,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时40分 ~ 17时37分]"
-        },
-        {
-          "title": "AI视频丨鹿“回头”，要做三亚“城市合伙人”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32440119",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
             12,
-            15
+            10,
+            6,
+            7
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[13时34分 ~ 17时37分]"
+          "time_info": "[14时40分 ~ 18时30分]"
         },
         {
           "title": "百度APP文心助手入局春节AI战，将发放5亿现金、合作2026北京台春晚",
@@ -126,20 +141,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时29分 ~ 06时23分]"
-        },
-        {
-          "title": "印奇出任董事长！阶跃星辰超50亿融资刷新大模型赛道纪录 将加码“AI+终端”",
-          "url": "https://www.cls.cn/detail/2269386",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时40分 ~ 17时37分]"
         },
         {
           "title": "知情人士透露 deepseek 即将发布 V4 新模型，不知道各位有什么看法？",
