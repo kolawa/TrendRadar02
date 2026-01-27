@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-01-28T06:25:46.997280+08:00",
-  "total_titles_processed": 657,
+  "generated_at": "2026-01-28T07:25:27.902520+08:00",
+  "total_titles_processed": 708,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
-        {
-          "title": "如何评价 DeepSeek-OCR-2 模型？",
-          "url": "https://www.zhihu.com/question/1999468225642119587",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 06时25分]"
-        },
         {
           "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
           "url": "https://wallstreetcn.com/articles/3764241",
@@ -27,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 07时25分]"
         },
         {
           "title": "Clawdbot引爆整个AI agent生态",
@@ -39,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 07时25分]"
         },
         {
           "title": "详解DeepSeek新模型OCR2",
@@ -51,8 +40,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 07时25分]"
+        },
+        {
+          "title": "如何评价 DeepSeek-OCR-2 模型？",
+          "url": "https://www.zhihu.com/question/1999468225642119587",
+          "source": "知乎",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 07时25分]"
         },
         {
           "title": "“如果生成内容有误，我将赔偿您10万元”，全国首例因“AI幻觉”引发侵权案宣判",
@@ -63,8 +64,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 07时25分]"
         },
         {
           "title": "【焦点复盘】科创50缩量涨超1.5%，AI硬件端卷土重来，有色板块全天现巨震分歧",
@@ -75,8 +76,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 07时25分]"
         },
         {
           "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。 在美国，Google AI Plus月租7.99美元。",
@@ -137,6 +138,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时42分 ~ 03时29分]"
+        },
+        {
+          "title": "当AI成为圭臬：我们正在制造新的“低端”与新的羞耻",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32414828",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时24分 ~ 07时25分]"
         },
         {
           "title": "谷歌：Gemini 3现已成为全球AI概览的默认模型。",
