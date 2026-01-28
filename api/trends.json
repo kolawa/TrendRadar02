@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T18:32:30.065257+08:00",
-  "total_titles_processed": 1694,
+  "generated_at": "2026-01-28T19:25:46.754314+08:00",
+  "total_titles_processed": 1778,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 45,
+      "match_count": 47,
       "titles": [
         {
           "title": "Clawdbot引爆整个AI agent生态",
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时33分 ~ 18时32分]"
+          "appearance_count": 29,
+          "time_info": "[00时33分 ~ 19时25分]"
         },
         {
           "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
@@ -43,11 +43,12 @@
             3,
             2,
             1,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时47分 ~ 18时32分]"
+          "appearance_count": 17,
+          "time_info": "[11时47分 ~ 19时25分]"
         },
         {
           "title": "如何评价 DeepSeek-OCR-2 模型？",
@@ -83,8 +84,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时46分 ~ 18时32分]"
+          "appearance_count": 15,
+          "time_info": "[12时46分 ~ 19时25分]"
         },
         {
           "title": "详解DeepSeek新模型OCR2",
@@ -126,8 +127,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时39分 ~ 18时32分]"
+          "appearance_count": 11,
+          "time_info": "[14时39分 ~ 19时25分]"
         },
         {
           "title": "【焦点复盘】科创50缩量涨超1.5%，AI硬件端卷土重来，有色板块全天现巨震分歧",
@@ -167,6 +168,20 @@
           "time_info": "[12时46分 ~ 15时29分]"
         },
         {
+          "title": "赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？",
+          "url": "https://www.cls.cn/detail/2272316",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时35分 ~ 19时25分]"
+        },
+        {
           "title": "刘强东在家乡打造了一个AI教室",
           "url": "https://www.toutiao.com/trending/7600224231955988531/",
           "source": "今日头条",
@@ -179,26 +194,13 @@
           "time_info": "[17时36分 ~ 18时32分]"
         },
         {
-          "title": "赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？",
-          "url": "https://www.cls.cn/detail/2272316",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时35分 ~ 18时32分]"
-        },
-        {
           "title": "阿斯麦(ASML.O)CEO：2026年可能有更多EUV（极紫外光刻）设备出货。对先进AI芯片的需求巨大且不断增长。",
           "url": "https://flash.jin10.com/detail/20260128181506461800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -260,6 +262,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时47分 ~ 12时47分]"
+        },
+        {
+          "title": "AI将替代9200万工作岗位",
+          "url": "https://www.baidu.com/s?wd=AI%E5%B0%86%E6%9B%BF%E4%BB%A39200%E4%B8%87%E5%B7%A5%E4%BD%9C%E5%B2%97%E4%BD%8D",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时31分 ~ 19时25分]"
         },
         {
           "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。 在美国，Google AI Plus月租7.99美元。",
@@ -333,17 +347,6 @@
           "time_info": "[18时31分 ~ 18时32分]"
         },
         {
-          "title": "AI将替代9200万工作岗位",
-          "url": "https://www.baidu.com/s?wd=AI%E5%B0%86%E6%9B%BF%E4%BB%A39200%E4%B8%87%E5%B7%A5%E4%BD%9C%E5%B2%97%E4%BD%8D",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 18时32分]"
-        },
-        {
           "title": "谷歌：Gemini 3现已成为全球AI概览的默认模型。",
           "url": "https://flash.jin10.com/detail/20260128010307000800",
           "source": "金十数据",
@@ -366,6 +369,17 @@
           "time_info": "00时33分"
         },
         {
+          "title": "亚马逊将裁员1.6万人 在AI竞争中精简架构",
+          "url": "https://flash.jin10.com/detail/20260128184459127800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        },
+        {
           "title": "阿斯麦(ASML.O)首席执行官：这主要基于对人工智能相关需求可持续性的更稳健预期。",
           "url": "https://flash.jin10.com/detail/20260128140952427800",
           "source": "金十数据",
@@ -383,9 +397,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
+        },
+        {
+          "title": "深圳：鼓励智能家居企业加快适配国产操作系统和芯片，推动家具、电视、扫地机器人等全面接入AI",
+          "url": "https://wallstreetcn.com/livenews/3045533",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-01-28）",
