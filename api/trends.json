@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T16:36:31.583134+08:00",
-  "total_titles_processed": 1487,
+  "generated_at": "2026-01-28T17:37:28.510816+08:00",
+  "total_titles_processed": 1595,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 36,
+      "match_count": 41,
       "titles": [
         {
           "title": "Clawdbot引爆整个AI agent生态",
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时33分 ~ 16时36分]"
+          "appearance_count": 26,
+          "time_info": "[00时33分 ~ 17时37分]"
         },
         {
           "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
@@ -42,11 +42,12 @@
             10,
             3,
             2,
-            1
+            1,
+            9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时47分 ~ 16时36分]"
+          "appearance_count": 14,
+          "time_info": "[11时47分 ~ 17时37分]"
         },
         {
           "title": "如何评价 DeepSeek-OCR-2 模型？",
@@ -82,8 +83,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时46分 ~ 16时36分]"
+          "appearance_count": 12,
+          "time_info": "[12时46分 ~ 17时37分]"
         },
         {
           "title": "详解DeepSeek新模型OCR2",
@@ -141,6 +142,19 @@
           "time_info": "[07时24分 ~ 14时39分]"
         },
         {
+          "title": "马云最新发声：AI时代不要再犹豫用不用AI 而是怎么教孩子用好AI",
+          "url": "https://www.cls.cn/detail/2272163",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时39分 ~ 17时37分]"
+        },
+        {
           "title": "马云：孩子不应和AI比拼计算和记忆",
           "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%EF%BC%9A%E5%AD%A9%E5%AD%90%E4%B8%8D%E5%BA%94%E5%92%8CAI%E6%AF%94%E6%8B%BC%E8%AE%A1%E7%AE%97%E5%92%8C%E8%AE%B0%E5%BF%86",
           "source": "百度热搜",
@@ -152,16 +166,15 @@
           "time_info": "[12时46分 ~ 15时29分]"
         },
         {
-          "title": "马云最新发声：AI时代不要再犹豫用不用AI 而是怎么教孩子用好AI",
-          "url": "https://www.cls.cn/detail/2272163",
-          "source": "财联社热门",
+          "title": "刘强东在家乡打造了一个AI教室",
+          "url": "https://www.toutiao.com/trending/7600224231955988531/",
+          "source": "今日头条",
           "ranks": [
-            13,
-            10
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时39分 ~ 16时36分]"
+          "appearance_count": 2,
+          "time_info": "[17时36分 ~ 17时37分]"
         },
         {
           "title": "马云：AI时代不要再犹豫用不用AI 而是怎么教我们的孩子去用好AI",
@@ -198,6 +211,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时46分 ~ 13时33分]"
+        },
+        {
+          "title": "赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？",
+          "url": "https://www.cls.cn/detail/2272316",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时35分 ~ 17时37分]"
         },
         {
           "title": "人工智能发展到什么阶段了",
@@ -269,17 +294,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时42分 ~ 03时29分]"
-        },
-        {
-          "title": "赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？",
-          "url": "https://www.cls.cn/detail/2272316",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时35分 ~ 16时36分]"
         },
         {
           "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。在美国，Google AI Plus每月收费7.99美元。",
@@ -360,6 +374,17 @@
           "time_info": "01时31分"
         },
         {
+          "title": "SK海力士：将向人工智能公司投资100亿美元。",
+          "url": "https://flash.jin10.com/detail/20260128165729471800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
           "title": "开源 AI 助手 Clawdbot 到底是什么？为什么能让 Mac mini 突然爆单？",
           "url": "https://www.zhihu.com/question/1999166962421429182",
           "source": "知乎",
@@ -382,15 +407,37 @@
           "time_info": "11时48分"
         },
         {
+          "title": "SK海力士：公司正考虑通过AI公司投资美国的创新型企业并与之合作，以与SK集团的关联公司产生协同效应。",
+          "url": "https://flash.jin10.com/detail/20260128165607288800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
           "title": "中央企业“AI+”专项行动取得积极进展",
           "url": "https://wallstreetcn.com/livenews/3045398",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
+        },
+        {
+          "title": "SK海力士将以资本投入的方式向人工智能部门投入100亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3045461",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         },
         {
           "title": "经济日报：让人工智能促进青年就业",
@@ -413,6 +460,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
+        },
+        {
+          "title": "SK海力士将成立专注于人工智能解决方案的美国子公司。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3045454",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         },
         {
           "title": "ASML第四季度订单额创新高 AI投资浪潮汹涌提振需求",
