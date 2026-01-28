@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T11:48:05.920485+08:00",
-  "total_titles_processed": 1014,
+  "generated_at": "2026-01-28T12:47:25.941310+08:00",
+  "total_titles_processed": 1114,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 24,
+      "match_count": 29,
       "titles": [
         {
           "title": "Clawdbot引爆整个AI agent生态",
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时33分 ~ 11时48分]"
+          "appearance_count": 16,
+          "time_info": "[00时33分 ~ 12时47分]"
         },
         {
           "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
@@ -31,8 +31,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时33分 ~ 11时48分]"
+          "appearance_count": 16,
+          "time_info": "[00时33分 ~ 12时47分]"
         },
         {
           "title": "如何评价 DeepSeek-OCR-2 模型？",
@@ -54,11 +54,12 @@
             5,
             4,
             7,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时33分 ~ 11时48分]"
+          "appearance_count": 16,
+          "time_info": "[00时33分 ~ 12时47分]"
         },
         {
           "title": "“如果生成内容有误，我将赔偿您10万元”，全国首例因“AI幻觉”引发侵权案宣判",
@@ -92,8 +93,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时53分 ~ 11时48分]"
+          "appearance_count": 5,
+          "time_info": "[09时53分 ~ 12时47分]"
         },
         {
           "title": "当AI成为圭臬：我们正在制造新的“低端”与新的羞耻",
@@ -105,8 +106,53 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时24分 ~ 11时48分]"
+          "appearance_count": 7,
+          "time_info": "[07时24分 ~ 12时47分]"
+        },
+        {
+          "title": "前西班牙主帅因过度依赖 ChatGPT 做决策、战绩惨淡被解雇，如何看待此事？",
+          "url": "https://www.zhihu.com/question/1999186592472986900",
+          "source": "知乎",
+          "ranks": [
+            10,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时47分 ~ 12时47分]"
+        },
+        {
+          "title": "马云：AI时代不要再犹豫用不用AI 而是怎么教我们的孩子去用好AI",
+          "url": "https://wallstreetcn.com/livenews/3045264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
+          "title": "国内首例「AI 幻觉」案宣判平台无责，背后的法律考量是什么？该如何判断 AI 提供信息的真实性？",
+          "url": "https://www.zhihu.com/question/1999418734398366788",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时47分 ~ 12时47分]"
+        },
+        {
+          "title": "AirPods实时翻译实用吗",
+          "url": "https://search.bilibili.com/all?keyword=AirPods%E5%AE%9E%E6%97%B6%E7%BF%BB%E8%AF%91%E5%AE%9E%E7%94%A8%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时46分 ~ 12时47分]"
         },
         {
           "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。 在美国，Google AI Plus月租7.99美元。",
@@ -157,15 +203,15 @@
           "time_info": "[02时42分 ~ 03时29分]"
         },
         {
-          "title": "前西班牙主帅因过度依赖 ChatGPT 做决策、战绩惨淡被解雇，如何看待此事？",
-          "url": "https://www.zhihu.com/question/1999186592472986900",
-          "source": "知乎",
+          "title": "火力全开！2026开年泰康平安新华等超10亿险资南下，狂扫港股AI、生物医药IPO",
+          "url": "https://www.cls.cn/detail/2272264",
+          "source": "财联社热门",
           "ranks": [
-            10
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时47分 ~ 11时48分]"
+          "time_info": "[12时46分 ~ 12时47分]"
         },
         {
           "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。在美国，Google AI Plus每月收费7.99美元。",
@@ -180,15 +226,15 @@
           "time_info": "[02时42分 ~ 03时29分]"
         },
         {
-          "title": "国内首例「AI 幻觉」案宣判平台无责，背后的法律考量是什么？该如何判断 AI 提供信息的真实性？",
-          "url": "https://www.zhihu.com/question/1999418734398366788",
-          "source": "知乎",
+          "title": "马云：孩子不应和AI比拼计算和记忆",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%EF%BC%9A%E5%AD%A9%E5%AD%90%E4%B8%8D%E5%BA%94%E5%92%8CAI%E6%AF%94%E6%8B%BC%E8%AE%A1%E7%AE%97%E5%92%8C%E8%AE%B0%E5%BF%86",
+          "source": "百度热搜",
           "ranks": [
-            19
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时47分 ~ 11时48分]"
+          "time_info": "[12时46分 ~ 12时47分]"
         },
         {
           "title": "谷歌：Gemini 3现已成为全球AI概览的默认模型。",
@@ -211,6 +257,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-01-28）",
+          "url": "https://flash.jin10.com/detail/20260128115641682800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
         },
         {
           "title": "据The Information：Anthropic预计其2025年营收将达550亿美元。到2029年，Anthropic的人工智能模型训练成本将超过1000亿美元。",
@@ -252,7 +309,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时48分"
         },
@@ -263,7 +320,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时48分"
         },
