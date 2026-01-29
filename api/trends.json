@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T10:07:52.130024+08:00",
-  "total_titles_processed": 938,
+  "generated_at": "2026-01-29T12:29:45.056872+08:00",
+  "total_titles_processed": 1099,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 28,
+      "match_count": 37,
       "titles": [
         {
           "title": "如何看待马化腾罕见点评字节和阿里的 AI 策略？",
@@ -32,8 +32,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时40分 ~ 10时07分]"
+          "appearance_count": 13,
+          "time_info": "[00时40分 ~ 12时29分]"
         },
         {
           "title": "华尔街传奇大空头“剑指”数据中心：AI交易中最不该碰的领域！",
@@ -88,6 +88,17 @@
           "time_info": "[00时40分 ~ 07时29分]"
         },
         {
+          "title": "人类基因密码被谷歌AI破解",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E7%B1%BB%E5%9F%BA%E5%9B%A0%E5%AF%86%E7%A0%81%E8%A2%AB%E8%B0%B7%E6%AD%8CAI%E7%A0%B4%E8%A7%A3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
+        },
+        {
           "title": "特斯拉与XAI框架达成协议，评估人工智能合作。",
           "url": "https://flash.jin10.com/detail/20260129051436140800",
           "source": "金十数据",
@@ -120,6 +131,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时41分 ~ 03时31分]"
+        },
+        {
+          "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
+          "url": "https://wallstreetcn.com/articles/3764410",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 12时29分]"
         },
         {
           "title": "特斯拉：CyberCab、Semi、Megapack3都处于2026年规划的正轨之上。 将在多个产品铺开六条新的产品线。 公司将投资20亿美元，购买xAI的系列E优先股；特斯拉与xAI就此达成框架协议。 Cybercab和特斯拉Semi有望在2026年量产，Megapack3也有望在今年量产。 人形机器人Optimus第一代产品线正在铺设中。",
@@ -157,17 +180,6 @@
           "time_info": "05时32分"
         },
         {
-          "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
-          "url": "https://wallstreetcn.com/articles/3764410",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
           "title": "Meta Platforms CEO扎克伯格：人工智能眼镜销量去年增长逾两倍。",
           "url": "https://flash.jin10.com/detail/20260129055602518800",
           "source": "金十数据",
@@ -177,6 +189,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时30分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-01-29）",
+          "url": "https://flash.jin10.com/detail/20260129115521299800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
         },
         {
           "title": "三星：公司将在Galaxy S26系列产品提供Agentic AI功能。",
@@ -223,6 +246,17 @@
           "time_info": "04时34分"
         },
         {
+          "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764408",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
+        },
+        {
           "title": "分析师：苹果公司的AI路线图仍是投资者最关心的问题",
           "url": "https://wallstreetcn.com/livenews/3045749",
           "source": "华尔街见闻-快讯",
@@ -234,6 +268,39 @@
           "time_info": "03时31分"
         },
         {
+          "title": "AI引爆存储涨价潮！三星Q4营收利润均创新高 芯片业务利润飙升470%",
+          "url": "https://www.cls.cn/detail/2273507",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
+        },
+        {
+          "title": "1月29日午间收评：创业板指冲高回落微跌，AI应用端集体爆发",
+          "url": "https://wallstreetcn.com/livenews/3046069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
+        },
+        {
+          "title": "国产 VLA 模型接连开源，具身智能的 「DeepSeek 时刻」何时到来？",
+          "url": "https://www.zhihu.com/question/1999819158431503971",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
+        },
+        {
           "title": "Meta Platforms(META.O)计划招聘人员以支持优先领域，尤其是人工智能。",
           "url": "https://flash.jin10.com/detail/20260129050300476800",
           "source": "金十数据",
@@ -243,6 +310,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时32分"
+        },
+        {
+          "title": "AI应用板块爆发",
+          "url": "https://www.toutiao.com/trending/7599545650313642034/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
         },
         {
           "title": "美联储主席鲍威尔：最近大学毕业生的低就业率似乎与人工智能存在某种关联。",
@@ -284,9 +362,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
+        },
+        {
+          "title": "分析师：中国基建成AI竞赛确定性优势",
+          "url": "https://www.toutiao.com/trending/7600578632880229926/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
         },
         {
           "title": "英国寻求利用人工智能提升生产力 以弥补失业损失",
@@ -320,6 +409,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
+        },
+        {
+          "title": "英伟达、微软和亚马逊正在商谈向OpenAI投资约600亿美元。亚马逊或将扩大与OpenAI的云服务器租赁协议。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3046051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
         },
         {
           "title": "特斯拉首席财务官：公司在人工智能相关项目和新产品的支出仍处于较高水平。",
