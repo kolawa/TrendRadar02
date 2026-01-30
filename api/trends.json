@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-31T05:30:43.582600+08:00",
-  "total_titles_processed": 559,
+  "generated_at": "2026-01-31T06:29:30.616304+08:00",
+  "total_titles_processed": 576,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 05时30分]"
+          "appearance_count": 13,
+          "time_info": "[00时41分 ~ 06时29分]"
         },
         {
           "title": "够飒!AI女团跨界维修通马桶",
@@ -27,8 +27,20 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 05时30分]"
+          "appearance_count": 13,
+          "time_info": "[00时41分 ~ 06时29分]"
+        },
+        {
+          "title": "市场消息：苹果公司近期又有多名人工智能研究人员和Siri团队高管离职。",
+          "url": "https://flash.jin10.com/detail/20260131025804033800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时34分 ~ 06时29分]"
         },
         {
           "title": "美国众议院共和党领袖们寻求在2026年年底之前出台AI框架。（PunchBowl）",
@@ -38,18 +50,6 @@
             1,
             4,
             28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时34分 ~ 05时30分]"
-        },
-        {
-          "title": "市场消息：苹果公司近期又有多名人工智能研究人员和Siri团队高管离职。",
-          "url": "https://flash.jin10.com/detail/20260131025804033800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            12
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -66,6 +66,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时34分 ~ 04时33分]"
+        },
+        {
+          "title": "豪掷百亿押宝AI 特斯拉没心思造车了",
+          "url": "https://www.baidu.com/s?wd=%E8%B1%AA%E6%8E%B7%E7%99%BE%E4%BA%BF%E6%8A%BC%E5%AE%9DAI+%E7%89%B9%E6%96%AF%E6%8B%89%E6%B2%A1%E5%BF%83%E6%80%9D%E9%80%A0%E8%BD%A6%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 06时29分]"
         },
         {
           "title": "白宫顾问哈塞特：原材料价格上涨是因为AI和数据中心开支的缘故。",
