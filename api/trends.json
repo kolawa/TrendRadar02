@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T04:33:31.570000+08:00",
-  "total_titles_processed": 529,
+  "generated_at": "2026-01-31T05:30:43.582600+08:00",
+  "total_titles_processed": 559,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时41分 ~ 04时33分]"
+          "appearance_count": 11,
+          "time_info": "[00时41分 ~ 05时30分]"
         },
         {
           "title": "够飒!AI女团跨界维修通马桶",
@@ -27,8 +27,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时41分 ~ 04时33分]"
+          "appearance_count": 11,
+          "time_info": "[00时41分 ~ 05时30分]"
         },
         {
           "title": "美国众议院共和党领袖们寻求在2026年年底之前出台AI框架。（PunchBowl）",
@@ -36,11 +36,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            4
+            4,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时34分 ~ 04时33分]"
+          "appearance_count": 3,
+          "time_info": "[03时34分 ~ 05时30分]"
         },
         {
           "title": "市场消息：苹果公司近期又有多名人工智能研究人员和Siri团队高管离职。",
@@ -51,8 +52,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时34分 ~ 04时33分]"
+          "appearance_count": 3,
+          "time_info": "[03时34分 ~ 05时30分]"
         },
         {
           "title": "苹果公司AI研究员Zirui Wang、Siri高级主管Stuart Bowers纷纷跳槽至Alphabet旗下谷歌公司。 扎克伯格旗下Meta Platforms又从苹果挖走至少两名研究员。",
