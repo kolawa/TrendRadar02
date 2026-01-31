@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T14:42:28.071930+08:00",
-  "total_titles_processed": 976,
+  "generated_at": "2026-01-31T15:32:22.458477+08:00",
+  "total_titles_processed": 1026,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "ranks": [
             23,
             27,
-            29
+            29,
+            28
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时41分 ~ 14时42分]"
+          "appearance_count": 23,
+          "time_info": "[00时41分 ~ 15时32分]"
         },
         {
           "title": "叫兽易小星报名B站AI大赛",
@@ -39,11 +40,12 @@
           "ranks": [
             27,
             1,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时26分 ~ 14时42分]"
+          "appearance_count": 8,
+          "time_info": "[12时26分 ~ 15时32分]"
         },
         {
           "title": "OpenAI 计划今年第四季度 IPO，目标抢在 Anthropic 之前，如何解读？",
@@ -92,11 +94,24 @@
             9,
             17,
             21,
-            24
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时03分 ~ 15时32分]"
+        },
+        {
+          "title": "AI进入Agent时代，CPU何以站上“算力C位”？",
+          "url": "https://www.cls.cn/detail/2275533",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时03分 ~ 14时42分]"
+          "time_info": "[14时41分 ~ 15时32分]"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850455&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://flash-scdn.jin10.com/fd96b6fe-677f-47dc-b581-479d7d254553.png\" height=\"120\" /></a>",
@@ -104,11 +119,12 @@
           "source": "金十数据",
           "ranks": [
             6,
-            12
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 14时42分]"
+          "appearance_count": 3,
+          "time_info": "[13时41分 ~ 15时32分]"
         },
         {
           "title": "苹果公司AI研究员Zirui Wang、Siri高级主管Stuart Bowers纷纷跳槽至Alphabet旗下谷歌公司。 扎克伯格旗下Meta Platforms又从苹果挖走至少两名研究员。",
@@ -121,17 +137,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时34分 ~ 04时33分]"
-        },
-        {
-          "title": "AI进入Agent时代，CPU何以站上“算力C位”？",
-          "url": "https://www.cls.cn/detail/2275533",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时41分 ~ 14时42分]"
         },
         {
           "title": "豪掷百亿押宝AI 特斯拉没心思造车了",
