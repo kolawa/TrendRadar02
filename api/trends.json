@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T22:43:16.491406+08:00",
-  "total_titles_processed": 1660,
+  "generated_at": "2026-02-02T23:40:23.428041+08:00",
+  "total_titles_processed": 1749,
   "failed_sources": [],
   "trends": [
     {
@@ -66,11 +66,12 @@
             15,
             12,
             7,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[14时08分 ~ 22时43分]"
+          "appearance_count": 16,
+          "time_info": "[14时08分 ~ 23时40分]"
         },
         {
           "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
@@ -114,7 +115,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时43分"
         },
@@ -125,7 +126,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时43分"
         },
@@ -140,6 +141,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时46分 ~ 17时53分]"
+        },
+        {
+          "title": "元宝红包建群“根本停不下来” 千问投30亿发起攻势 大厂春节AI战升级",
+          "url": "https://www.cls.cn/detail/2278216",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时42分 ~ 23时40分]"
         },
         {
           "title": "北京大学与中国铁塔合作 推动AI产教融合",
@@ -163,17 +176,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时22分 ~ 10时23分]"
-        },
-        {
-          "title": "元宝红包建群“根本停不下来” 千问投30亿发起攻势 大厂春节AI战升级",
-          "url": "https://www.cls.cn/detail/2278216",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时42分 ~ 22时43分]"
         },
         {
           "title": "多平台公布涉“AI魔改”违规视频最终处置结果",
@@ -216,7 +218,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时43分"
         },
@@ -238,7 +240,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时43分"
         },
