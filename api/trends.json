@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-02-03T15:45:04.080322+08:00",
-  "total_titles_processed": 1174,
+  "generated_at": "2026-02-03T16:40:07.946098+08:00",
+  "total_titles_processed": 1285,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
+        {
+          "title": "剑指太空数据中心！马斯克旗下SpaceX确认与xAI合并",
+          "url": "https://www.cls.cn/detail/2278467",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时13分 ~ 16时40分]"
+        },
         {
           "title": "SpaceX官宣收购xAI",
           "url": "https://search.bilibili.com/all?keyword=SpaceX%E5%AE%98%E5%AE%A3%E6%94%B6%E8%B4%ADxAI",
@@ -23,19 +37,6 @@
           "time_info": "[10时13分 ~ 15时45分]"
         },
         {
-          "title": "剑指太空数据中心！马斯克旗下SpaceX确认与xAI合并",
-          "url": "https://www.cls.cn/detail/2278467",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时13分 ~ 15时45分]"
-        },
-        {
           "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
           "url": "https://wallstreetcn.com/articles/3764779",
           "source": "华尔街见闻",
@@ -46,8 +47,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时13分 ~ 15时45分]"
+          "appearance_count": 11,
+          "time_info": "[10时13分 ~ 16时40分]"
         },
         {
           "title": "元宝红包建群“根本停不下来” 千问投30亿发起攻势 大厂春节AI战升级",
@@ -70,11 +71,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时13分 ~ 15时45分]"
+          "appearance_count": 11,
+          "time_info": "[10时13分 ~ 16时40分]"
         },
         {
           "title": "解读SpaceX收购xAI",
@@ -84,8 +86,22 @@
             14
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时48分 ~ 16时40分]"
+        },
+        {
+          "title": "又一“AI宠儿”诞生？一年飙升超17倍后 华尔街预计闪迪还能涨50%",
+          "url": "https://www.cls.cn/detail/2278753",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            7,
+            3
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[12时48分 ~ 15时45分]"
+          "time_info": "[13时52分 ~ 16时40分]"
         },
         {
           "title": "SpaceX 收购人工智能企业 xAI，合并估值达 1.25 万亿美元，同为马斯克旗下公司，如何解读？",
@@ -107,7 +123,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时45分"
         },
@@ -157,19 +173,6 @@
           "time_info": "10时14分"
         },
         {
-          "title": "又一“AI宠儿”诞生？一年飙升超17倍后 华尔街预计闪迪还能涨50%",
-          "url": "https://www.cls.cn/detail/2278753",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时52分 ~ 15时45分]"
-        },
-        {
           "title": "又一位AI亿万富豪诞生了",
           "url": "https://www.toutiao.com/trending/7602226721282457650/",
           "source": "今日头条",
@@ -180,6 +183,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时48分 ~ 14时55分]"
+        },
+        {
+          "title": "王楚然工作室AI剧宣",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E7%84%B6%E5%B7%A5%E4%BD%9C%E5%AE%A4AI%E5%89%A7%E5%AE%A3%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时39分 ~ 16时40分]"
         },
         {
           "title": "英伟达美股盘后涨幅扩大至0.8%，OpenAI的CEO Altman“驳斥”媒体关于该公司对英伟达供应速度不满的报道。",
@@ -254,7 +268,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时45分"
         },
