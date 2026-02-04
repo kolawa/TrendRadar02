@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T01:49:04.420387+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2026-02-05T02:54:48.507129+08:00",
+  "total_titles_processed": 461,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "AI颠覆性冲击引发担忧，纳指跌0.16%，闪迪下挫超5%，AMD跌13%，金银短线跳水，现货黄金失守5000美元",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 01时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 02时54分]"
         },
         {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
@@ -26,19 +26,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 01时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 02时54分]"
         },
         {
           "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
           "url": "https://www.zhihu.com/question/2002302871203440223",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 01时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 02时54分]"
         },
         {
           "title": "软件股大跌之际，黄仁勋驳斥“AI替代”论：这是世界上最不合逻辑的事",
@@ -49,8 +50,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 01时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 02时54分]"
         },
         {
           "title": "国民党代表团参访清华大学，了解大陆AI技术",
@@ -60,8 +61,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 01时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 02时54分]"
         },
         {
           "title": "AI目前对SaaS最大的冲击：AI 并没有在功能上吃掉你的产品，它是在财务上吃掉了你的预算",
@@ -71,8 +72,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 01时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 02时54分]"
         },
         {
           "title": "市场消息：人工智能芯片制造商Cerebras Systems以230亿美元的估值完成10亿美元的H轮融资。",
@@ -106,6 +107,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
+        },
+        {
+          "title": "网络状况监测网站DownDetector：用户报告显示，OpenAI在美国的使用出现问题。",
+          "url": "https://flash.jin10.com/detail/20260205013400830800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时54分"
         }
       ]
     }
