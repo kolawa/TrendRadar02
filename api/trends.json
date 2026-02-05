@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T06:38:29.868917+08:00",
-  "total_titles_processed": 632,
+  "generated_at": "2026-02-06T07:25:58.048818+08:00",
+  "total_titles_processed": 675,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "AI信仰动摇，软件与芯片股双双溃败，AMD暴跌17%，加密货币再度下挫",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时52分 ~ 06时38分]"
+          "appearance_count": 14,
+          "time_info": "[00时52分 ~ 07时25分]"
         },
         {
           "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
@@ -47,11 +47,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时52分 ~ 06时38分]"
+          "appearance_count": 14,
+          "time_info": "[00时52分 ~ 07时25分]"
         },
         {
           "title": "如果AI击溃了软件，“AI龙头”英伟达为何被软件股“拉下水”？",
@@ -60,11 +61,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时52分 ~ 06时38分]"
+          "appearance_count": 14,
+          "time_info": "[00时52分 ~ 07时25分]"
         },
         {
           "title": "AI焦虑席卷科技板块 苹果冷静布局换来股价逆市上涨",
@@ -78,6 +80,17 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时52分 ~ 06时38分]"
+        },
+        {
+          "title": "AI恐慌蔓延，就业数据疲软加剧抛售，美三大股指跌超1%，白银暴跌19%，比特币崩跌",
+          "url": "https://wallstreetcn.com/articles/3765023",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         },
         {
           "title": "OpenAI：与Ginko Bioworks Holdings Inc.（DNA）合作，设法将GPT-5链接到Autonomous Lab。 希望将蛋白质产品成本砍掉40%。",
@@ -128,6 +141,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时39分 ~ 04时37分]"
+        },
+        {
+          "title": "亚马逊(AMZN.O)CEO：预计到2026年年中，所有Trainium 3芯片都将被预订完毕。",
+          "url": "https://flash.jin10.com/detail/20260206061539402800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时38分 ~ 07时25分]"
         },
         {
           "title": "法国总统马克龙：法国将研究人工智能（AI）和视频游戏对儿童的影响。",
@@ -190,17 +215,6 @@
           "time_info": "[02时52分 ~ 03时39分]"
         },
         {
-          "title": "亚马逊(AMZN.O)CEO：预计到2026年年中，所有Trainium 3芯片都将被预订完毕。",
-          "url": "https://flash.jin10.com/detail/20260206061539402800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时38分"
-        },
-        {
           "title": "加拿大央行行长麦克勒姆：加拿大企业对人工智能的采用程度仍然很低。",
           "url": "https://flash.jin10.com/detail/20260206012934439800",
           "source": "金十数据",
@@ -210,6 +224,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
+        },
+        {
+          "title": "亚马逊CEO：预计到2026年年中，所有Trainium 3芯片都将被预订完毕。 计划中的2000亿美元资本支出将主要用于AWS。",
+          "url": "https://wallstreetcn.com/livenews/3050910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "马斯克再谈“太空GPU”畅想：36个月内太空会是部署AI的最便宜去处",
+          "url": "https://www.cls.cn/detail/2282247",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         },
         {
           "title": "加拿大央行行长麦克勒姆：人工智能的兴起有可能将经济推向更高轨道并提高生活水平；但迄今为止，几乎没有证据表明人工智能正在提高生产力。",
@@ -265,6 +301,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
+        },
+        {
+          "title": "唐宫奇案剧宣闯入ai赛道",
+          "url": "https://www.douyin.com/hot/2390538",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         }
       ]
     }
