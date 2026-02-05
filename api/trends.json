@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T21:06:52.585700+08:00",
-  "total_titles_processed": 1806,
+  "generated_at": "2026-02-05T22:46:07.545473+08:00",
+  "total_titles_processed": 1942,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 39,
+      "match_count": 45,
       "titles": [
         {
           "title": "AI信仰动摇，软件与芯片股双双溃败，AMD暴跌17%，加密货币再度下挫",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时30分 ~ 21时06分]"
+          "appearance_count": 17,
+          "time_info": "[07时30分 ~ 22时46分]"
         },
         {
           "title": "AI颠覆性冲击引发担忧，纳指跌0.16%，闪迪下挫超5%，AMD跌13%，金银短线跳水，现货黄金失守5000美元",
@@ -49,8 +49,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时09分 ~ 21时06分]"
+          "appearance_count": 15,
+          "time_info": "[10时09分 ~ 22时46分]"
         },
         {
           "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
@@ -158,6 +158,19 @@
           "time_info": "[10时09分 ~ 16时45分]"
         },
         {
+          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
+          "url": "https://wallstreetcn.com/articles/3765004",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时44分 ~ 22时46分]"
+        },
+        {
           "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
           "url": "https://www.cls.cn/detail/2281205",
           "source": "财联社热门",
@@ -171,27 +184,27 @@
           "time_info": "[12时50分 ~ 18时43分]"
         },
         {
-          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
-          "url": "https://wallstreetcn.com/articles/3765004",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时44分 ~ 21时06分]"
-        },
-        {
           "title": "UP主们用AI办了场春晚",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BB%AC%E7%94%A8AI%E5%8A%9E%E4%BA%86%E5%9C%BA%E6%98%A5%E6%99%9A",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时06分 ~ 22时46分]"
+        },
+        {
+          "title": "欧洲央行行长拉加德：投资热潮与人工智能及一切与人工智能相关的事物有关。需要一些时间才能看出这对生产力和通胀的影响。",
+          "url": "https://flash.jin10.com/detail/20260205222621799800",
+          "source": "金十数据",
+          "ranks": [
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时06分"
+          "time_info": "22时46分"
         },
         {
           "title": "我国互联网普及率突破80%，生成式人工智能用户规模超6亿人",
@@ -203,6 +216,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
+        },
+        {
+          "title": "Gemini跌5%，该公司计划裁员，关闭多地的账号。",
+          "url": "https://wallstreetcn.com/livenews/3050752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         },
         {
           "title": "腾讯游戏发布寒假限玩日历，推出3款AI工具降低家长管控门槛",
@@ -358,6 +382,29 @@
           "time_info": "[16时44分 ~ 16时45分]"
         },
         {
+          "title": "I can't wait 但铁傀儡机",
+          "url": "https://search.bilibili.com/all?keyword=I%20can't%20wait%20%E4%BD%86%E9%93%81%E5%82%80%E5%84%A1%E6%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时44分 ~ 22时46分]"
+        },
+        {
+          "title": "金十整理：OpenClaw、Cowork引爆AI代理革命，AI工具将重塑未来工作逻辑和方式",
+          "url": "https://flash.jin10.com/detail/20260205222215034800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
           "title": "金十数据整理：每日人工智能动态汇总（2026-02-05）",
           "url": "https://flash.jin10.com/detail/20260205115645206800",
           "source": "金十数据",
@@ -378,6 +425,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
+        },
+        {
+          "title": "Gemini Space Station Inc.计划裁员200人，该公司将继续在美国和新加坡运营。",
+          "url": "https://wallstreetcn.com/livenews/3050744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         },
         {
           "title": "德国财政部长：AI中心将增强数字主权",
@@ -422,6 +480,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
+        },
+        {
+          "title": "OpenAI推出OpenAI Frontier。",
+          "url": "https://flash.jin10.com/detail/20260205221051792800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         },
         {
           "title": "亚马逊计划利用AI来加速电视和电影产品。（路透）",
