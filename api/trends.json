@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T16:44:19.711562+08:00",
-  "total_titles_processed": 1420,
+  "generated_at": "2026-02-06T17:45:35.986167+08:00",
+  "total_titles_processed": 1516,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "AI信仰动摇，软件与芯片股双双溃败，AMD暴跌17%，加密货币再度下挫",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时48分 ~ 16时44分]"
+          "appearance_count": 12,
+          "time_info": "[12时48分 ~ 17时45分]"
         },
         {
           "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
@@ -67,22 +67,6 @@
           "time_info": "[07时25分 ~ 15时51分]"
         },
         {
-          "title": "UP主们用AI办了场春晚",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BB%AC%E7%94%A8AI%E5%8A%9E%E4%BA%86%E5%9C%BA%E6%98%A5%E6%99%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            2,
-            23,
-            25,
-            22,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时52分 ~ 16时44分]"
-        },
-        {
           "title": "如果AI击溃了软件，“AI龙头”英伟达为何被软件股“拉下水”？",
           "url": "https://wallstreetcn.com/articles/3765006",
           "source": "华尔街见闻",
@@ -97,15 +81,33 @@
           "time_info": "[00时52分 ~ 07时25分]"
         },
         {
+          "title": "UP主们用AI办了场春晚",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BB%AC%E7%94%A8AI%E5%8A%9E%E4%BA%86%E5%9C%BA%E6%98%A5%E6%99%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            2,
+            23,
+            25,
+            22,
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 27,
+          "time_info": "[00时52分 ~ 17时45分]"
+        },
+        {
           "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3765100",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时10分 ~ 16时44分]"
+          "appearance_count": 13,
+          "time_info": "[10时10分 ~ 17时45分]"
         },
         {
           "title": "AI焦虑席卷科技板块 苹果冷静布局换来股价逆市上涨",
@@ -192,6 +194,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时52分 ~ 04时37分]"
+        },
+        {
+          "title": "微信连环封禁千问、元宝红包口令 AI春节获客大战遇阻",
+          "url": "https://www.cls.cn/detail/2282814",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时44分 ~ 17时45分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：5.3-Codex是我们首个在网络安全准备框架中达到“高”级别标准的模型。我们正在试行一个“可信访问”框架，并投入1000万美元的API信用额度以加快网络安全防御工作。",
