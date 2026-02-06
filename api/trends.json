@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T07:25:58.048818+08:00",
-  "total_titles_processed": 675,
+  "generated_at": "2026-02-06T10:10:49.006909+08:00",
+  "total_titles_processed": 851,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "AI信仰动摇，软件与芯片股双双溃败，AMD暴跌17%，加密货币再度下挫",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时52分 ~ 07时25分]"
+          "appearance_count": 15,
+          "time_info": "[00时52分 ~ 10时10分]"
         },
         {
           "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
@@ -88,7 +88,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -104,6 +104,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时39分 ~ 05时33分]"
+        },
+        {
+          "title": "马斯克再谈“太空GPU”畅想：36个月内太空会是部署AI的最便宜去处",
+          "url": "https://www.cls.cn/detail/2282247",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时25分 ~ 10时10分]"
         },
         {
           "title": "Anthropic发布新AI 金融服务公司承压",
@@ -215,6 +227,40 @@
           "time_info": "[02时52分 ~ 03时39分]"
         },
         {
+          "title": "唐宫奇案剧宣闯入ai赛道",
+          "url": "https://www.douyin.com/hot/2390538",
+          "source": "抖音",
+          "ranks": [
+            29,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时25分 ~ 10时10分]"
+        },
+        {
+          "title": "软件股抛售“导火索”又发新品：AI代理组团上班 更擅长白领工作",
+          "url": "https://www.cls.cn/detail/2282228",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时10分"
+        },
+        {
+          "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3765100",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时10分"
+        },
+        {
           "title": "加拿大央行行长麦克勒姆：加拿大企业对人工智能的采用程度仍然很低。",
           "url": "https://flash.jin10.com/detail/20260206012934439800",
           "source": "金十数据",
@@ -232,18 +278,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时25分"
-        },
-        {
-          "title": "马斯克再谈“太空GPU”畅想：36个月内太空会是部署AI的最便宜去处",
-          "url": "https://www.cls.cn/detail/2282247",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -268,6 +303,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
+        },
+        {
+          "title": "A股三大指数均跌超1%，贵金属、AI应用、油气、零售等方向跌幅居前，沪深京三市下跌个股近4500只。",
+          "url": "https://wallstreetcn.com/livenews/3051015",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时10分"
         },
         {
           "title": "OpenAI：GPT-5.3-Codex正式发布",
@@ -301,17 +347,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
-        },
-        {
-          "title": "唐宫奇案剧宣闯入ai赛道",
-          "url": "https://www.douyin.com/hot/2390538",
-          "source": "抖音",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时25分"
         }
       ]
     }
