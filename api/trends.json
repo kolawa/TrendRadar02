@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-07T05:33:56.425063+08:00",
-  "total_titles_processed": 568,
+  "generated_at": "2026-02-07T06:27:31.958582+08:00",
+  "total_titles_processed": 599,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时48分 ~ 05时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时48分 ~ 06时27分]"
         },
         {
           "title": "马斯克：如果没有AI和机器人技术，美国必破产",
@@ -27,8 +27,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时48分 ~ 05时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时48分 ~ 06时27分]"
         },
         {
           "title": "砸45亿抢AI超级入口，互联网大厂的红包大战怎么打",
@@ -38,8 +38,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时48分 ~ 05时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时48分 ~ 06时27分]"
         },
         {
           "title": "苹果计划允许第三方语音控制AI聊天机器人接入CarPlay",
@@ -49,8 +49,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时37分 ~ 05时33分]"
+          "appearance_count": 3,
+          "time_info": "[04时37分 ~ 06时27分]"
         },
         {
           "title": "Gravity AI：拟申请在纳斯达克资本市场上市，正提交IPO申请，拟发行375万股，每股发行价格暂定为4.00美元，处于4.00美元至5.00美元发行区间低端。",
@@ -60,8 +60,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时37分 ~ 05时33分]"
+          "appearance_count": 3,
+          "time_info": "[04时37分 ~ 06时27分]"
         },
         {
           "title": "据Fortune：OpenAI旗下ChatGPT应用的市场份额从2025年1月的69.1%骤降至次年的45.3%，而谷歌旗下Gemini聊天机器人应用的市场份额则从14.7%攀升至25.2%。",
@@ -71,8 +71,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时37分 ~ 05时33分]"
+          "appearance_count": 3,
+          "time_info": "[04时37分 ~ 06时27分]"
         },
         {
           "title": "据媒体报道：Vista Equity Partners在人工智能（AI）芯片初创公司SambaNova的3.5亿美元融资轮中进行了投资，英特尔公司也承诺出资至多1.5亿美元。",
@@ -81,7 +81,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
         },
@@ -119,6 +119,30 @@
           "time_info": "01时43分"
         },
         {
+          "title": "马斯克3小时深度访谈：三年内成本最低的AI在太空，Optimus是“无限印钞机”",
+          "url": "https://wallstreetcn.com/articles/3765130",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 06时27分]"
+        },
+        {
+          "title": "千问、元宝双双崩溃后 工信部发文推进算力调度 AI Infra或迎戴维斯双击",
+          "url": "https://www.cls.cn/detail/2283020",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时36分 ~ 06时27分]"
+        },
+        {
           "title": "UP主们用AI办了场春晚",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BB%AC%E7%94%A8AI%E5%8A%9E%E4%BA%86%E5%9C%BA%E6%98%A5%E6%99%9A",
           "source": "bilibili 热搜",
@@ -133,6 +157,19 @@
           "time_info": "[00时48分 ~ 03时40分]"
         },
         {
+          "title": "报道：苹果车载迎来战略转变，计划开放第三方语音AI助手",
+          "url": "https://wallstreetcn.com/livenews/3051609",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时37分 ~ 06时27分]"
+        },
+        {
           "title": "OpenAI创始人奥尔特曼：看到GPT-5.3-Codex版本如此受欢迎真是太好了。自最初的GPT-4发布以来，我们似乎还没有感受到对哪个模型如此兴奋过。",
           "url": "https://flash.jin10.com/detail/20260207004458170800",
           "source": "金十数据",
@@ -143,41 +180,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时48分 ~ 01时43分]"
-        },
-        {
-          "title": "报道：苹果车载迎来战略转变，计划开放第三方语音AI助手",
-          "url": "https://wallstreetcn.com/livenews/3051609",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时37分 ~ 05时33分]"
-        },
-        {
-          "title": "马斯克3小时深度访谈：三年内成本最低的AI在太空，Optimus是“无限印钞机”",
-          "url": "https://wallstreetcn.com/articles/3765130",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 05时33分]"
-        },
-        {
-          "title": "千问、元宝双双崩溃后 工信部发文推进算力调度 AI Infra或迎戴维斯双击",
-          "url": "https://www.cls.cn/detail/2283020",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时36分 ~ 05时33分]"
         },
         {
           "title": "AI 能救得了 SaaS 么？",
@@ -191,6 +193,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时48分 ~ 02时54分]"
+        },
+        {
+          "title": "市场消息：苹果(AAPL.O)将允许在CarPlay AI中使用外部语音控制聊天机器人。",
+          "url": "https://flash.jin10.com/detail/20260207032751728800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时37分 ~ 06时27分]"
+        },
+        {
+          "title": "黄仁勋：人工智能领域的资本支出是合理且可持续的",
+          "url": "https://flash.jin10.com/detail/20260207032153127800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时37分 ~ 06时27分]"
         },
         {
           "title": "Gen Digital首席执行官：在人工智能威胁之下，消费者既需要网络安全工具，也需要个人理财工具。",
@@ -241,28 +265,6 @@
           "time_info": "[01时43分 ~ 02时54分]"
         },
         {
-          "title": "市场消息：苹果(AAPL.O)将允许在CarPlay AI中使用外部语音控制聊天机器人。",
-          "url": "https://flash.jin10.com/detail/20260207032751728800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时37分 ~ 05时33分]"
-        },
-        {
-          "title": "黄仁勋：人工智能领域的资本支出是合理且可持续的",
-          "url": "https://flash.jin10.com/detail/20260207032153127800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时37分 ~ 05时33分]"
-        },
-        {
           "title": "媒体：AI之争又打成了奶茶大战",
           "url": "https://www.toutiao.com/trending/7603738226825645604/",
           "source": "今日头条",
@@ -272,6 +274,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时39分 ~ 03时40分]"
+        },
+        {
+          "title": "Vista Equity Partners在人工智能（AI）芯片初创公司SambaNova的3.5亿美元融资轮中进行了投资，英特尔公司也承诺出资至多1.5亿美元。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3051623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
         },
         {
           "title": "美媒：OpenAI正与阿布扎比企业洽谈，以为阿联酋打造一款专属ChatGPT",
