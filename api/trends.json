@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T19:35:59.792368+08:00",
-  "total_titles_processed": 1709,
+  "generated_at": "2026-02-06T21:03:40.343987+08:00",
+  "total_titles_processed": 1828,
   "failed_sources": [],
   "trends": [
     {
@@ -94,8 +94,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时52分 ~ 17时45分]"
+          "appearance_count": 28,
+          "time_info": "[00时52分 ~ 21时03分]"
         },
         {
           "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
@@ -107,8 +107,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时10分 ~ 19时35分]"
+          "appearance_count": 17,
+          "time_info": "[10时10分 ~ 21时03分]"
         },
         {
           "title": "AI焦虑席卷科技板块 苹果冷静布局换来股价逆市上涨",
@@ -140,11 +140,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时44分 ~ 19时35分]"
+          "appearance_count": 6,
+          "time_info": "[17时44分 ~ 21时03分]"
         },
         {
           "title": "AI恐慌蔓延，就业数据疲软加剧抛售，美三大股指跌超1%，白银暴跌19%，比特币崩跌",
@@ -177,7 +178,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         },
@@ -254,6 +255,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时39分 ~ 04时37分]"
+        },
+        {
+          "title": "一图看懂：美股“AI烧钱”大战今年继续打响",
+          "url": "https://www.cls.cn/detail/2282989",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时35分 ~ 21时03分]"
         },
         {
           "title": "高盛：甲骨文史诗级债券发售将引发AI债务狂潮",
@@ -369,17 +382,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
-        },
-        {
-          "title": "一图看懂：美股“AI烧钱”大战今年继续打响",
-          "url": "https://www.cls.cn/detail/2282989",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时35分"
         },
         {
           "title": "宏观对冲基金1月表现强劲，Haidar回报率达19%",
@@ -498,7 +500,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         },
