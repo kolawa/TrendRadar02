@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T02:38:51.934911+08:00",
-  "total_titles_processed": 364,
+  "generated_at": "2026-02-08T03:26:45.311652+08:00",
+  "total_titles_processed": 376,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 02时38分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 03时26分]"
         },
         {
           "title": "一款AI工具“血洗”全球软件股 中国SaaS何去何从？",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 02时38分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 03时26分]"
         },
         {
           "title": "UP主联合自制AI春晚",
@@ -50,8 +50,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时29分 ~ 02时38分]"
+          "appearance_count": 3,
+          "time_info": "[01时29分 ~ 03时26分]"
         },
         {
           "title": "巨头砸钱6500亿加剧担忧，黄仁勋“灭火”：AI需求火爆，庞大支出合理、可持续",
@@ -61,8 +61,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 02时38分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 03时26分]"
         },
         {
           "title": "中兴通讯、工行建行AIC入局，粤港澳基金完成500亿募资",
@@ -73,8 +73,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时38分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 03时26分]"
         },
         {
           "title": "从“AI红包大战”透视互联网流量重构：留存才是真正的考验",
@@ -94,7 +94,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
         }
