@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-09T22:55:24.631284+08:00",
-  "total_titles_processed": 1634,
+  "generated_at": "2026-02-09T23:59:20.913592+08:00",
+  "total_titles_processed": 1733,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 52,
+      "match_count": 54,
       "titles": [
         {
           "title": "AI交易“被忽视的风险”：万一，天量资本开支“花不出去”",
@@ -39,8 +39,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时06分 ~ 22时55分]"
+          "appearance_count": 13,
+          "time_info": "[15时06分 ~ 23时59分]"
         },
         {
           "title": "本周重磅日程：美非农CPI齐发，中国通胀，AI、机器人春节大战",
@@ -52,8 +52,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时24分 ~ 22时55分]"
+          "appearance_count": 16,
+          "time_info": "[10时24分 ~ 23时59分]"
         },
         {
           "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
@@ -77,8 +77,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时06分 ~ 22时55分]"
+          "appearance_count": 13,
+          "time_info": "[15时06分 ~ 23时59分]"
         },
         {
           "title": "一款AI工具“血洗”全球软件股 中国SaaS何去何从？",
@@ -116,8 +116,24 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时24分 ~ 22时55分]"
+          "appearance_count": 16,
+          "time_info": "[10时24分 ~ 23时59分]"
+        },
+        {
+          "title": "AIGC整活新春联欢会",
+          "url": "https://search.bilibili.com/all?keyword=AIGC%E6%95%B4%E6%B4%BB%E6%96%B0%E6%98%A5%E8%81%94%E6%AC%A2%E4%BC%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            1,
+            2,
+            4,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[18时05分 ~ 23时59分]"
         },
         {
           "title": "大手笔AI投资之后：亚马逊、谷歌、Meta要花光现金流了？",
@@ -131,6 +147,21 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时33分 ~ 13时02分]"
+        },
+        {
+          "title": "一图看懂｜AI应用“春节档”持续上新，下一波神仙打架已就位？",
+          "url": "https://www.cls.cn/detail/2284846",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[19时45分 ~ 23时59分]"
         },
         {
           "title": "字节又一款AI产品火了！Seedance2.0海内外刷屏 哪些行业将被颠覆？",
@@ -159,19 +190,17 @@
           "time_info": "[00时33分 ~ 10时25分]"
         },
         {
-          "title": "AIGC整活新春联欢会",
-          "url": "https://search.bilibili.com/all?keyword=AIGC%E6%95%B4%E6%B4%BB%E6%96%B0%E6%98%A5%E8%81%94%E6%AC%A2%E4%BC%9A",
-          "source": "bilibili 热搜",
+          "title": "创业板涨3%，AI应用、CPO暴涨，光伏掀涨停潮，恒科指涨1%，澜起科技IPO首日涨超60%",
+          "url": "https://wallstreetcn.com/articles/3765271",
+          "source": "华尔街见闻",
           "ranks": [
-            5,
-            1,
-            2,
-            4,
-            15
+            8,
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时05分 ~ 22时55分]"
+          "appearance_count": 11,
+          "time_info": "[16时55分 ~ 23时59分]"
         },
         {
           "title": "OpenClaw走红，个人AI代理时代真的来了",
@@ -244,33 +273,6 @@
           "time_info": "[00时33分 ~ 07时34分]"
         },
         {
-          "title": "一图看懂｜AI应用“春节档”持续上新，下一波神仙打架已就位？",
-          "url": "https://www.cls.cn/detail/2284846",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时45分 ~ 22时55分]"
-        },
-        {
-          "title": "创业板涨3%，AI应用、CPO暴涨，光伏掀涨停潮，恒科指涨1%，澜起科技IPO首日涨超60%",
-          "url": "https://wallstreetcn.com/articles/3765271",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时55分 ~ 22时55分]"
-        },
-        {
           "title": "回到60年前！硅谷大厂竞相复刻IBM模式：垂直整合成AI博弈终极答案？",
           "url": "https://www.cls.cn/detail/2284501",
           "source": "财联社热门",
@@ -285,13 +287,27 @@
           "time_info": "[18时05分 ~ 22时55分]"
         },
         {
+          "title": "【每日收评】创业板指高开高走涨近3%，全市场超4600股飘红，AI应用方向集体爆发",
+          "url": "https://www.cls.cn/detail/2284689",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时05分 ~ 23时59分]"
+        },
+        {
           "title": "法巴银行警告：人工智能威胁可能冲击美国软件公司债券",
           "url": "https://flash.jin10.com/detail/20260209223230209800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时55分"
         },
@@ -327,20 +343,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时05分"
-        },
-        {
-          "title": "【每日收评】创业板指高开高走涨近3%，全市场超4600股飘红，AI应用方向集体爆发",
-          "url": "https://www.cls.cn/detail/2284689",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时05分 ~ 22时55分]"
         },
         {
           "title": "有网友称，SpaceX正在奥斯汀和西雅图招聘工程师，以开发人工智能卫星和太空数据中心。马斯克转发相关帖子并回复称：是真的。",
@@ -442,6 +444,17 @@
           "time_info": "[10时24分 ~ 10时25分]"
         },
         {
+          "title": "不要对AI说谢谢",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%8D%E8%A6%81%E5%AF%B9AI%E8%AF%B4%E8%B0%A2%E8%B0%A2",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时58分 ~ 23时59分]"
+        },
+        {
           "title": "千家人AI购物实录",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E5%AE%B6%E4%BA%BAAI%E8%B4%AD%E7%89%A9%E5%AE%9E%E5%BD%95%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -525,7 +538,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时55分"
         },
@@ -574,13 +587,24 @@
           "time_info": "13时02分"
         },
         {
+          "title": "中科曙光：拟发行可转债募资不超80亿元，用于面向人工智能的先进算力集群系统等项目",
+          "url": "https://wallstreetcn.com/livenews/3052400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
+        },
+        {
           "title": "据The Information：截至去年秋季，xAI每月烧钱超过10亿美元。",
           "url": "https://flash.jin10.com/detail/20260209220357766800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时55分"
         },
@@ -591,7 +615,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时55分"
         },
@@ -624,7 +648,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时55分"
         }
