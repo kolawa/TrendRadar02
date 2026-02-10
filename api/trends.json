@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T05:50:54.575407+08:00",
-  "total_titles_processed": 570,
+  "generated_at": "2026-02-11T06:42:41.043585+08:00",
+  "total_titles_processed": 599,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时50分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 06时42分]"
         },
         {
           "title": "中国AI大战：“百模大战”已结束，最大的利润池归属大厂，智谱和MiniMax如何突围？",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时50分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 06时42分]"
         },
         {
           "title": "AI周星驰视频大量传播 经纪人质疑",
@@ -39,11 +39,12 @@
             9,
             10,
             23,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时50分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 06时42分]"
         },
         {
           "title": "以假乱真,奥特曼大AI时代来临",
@@ -54,19 +55,33 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时50分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 06时42分]"
         },
         {
           "title": "Claude搅动硅谷，AI开始抢企业软件饭碗了？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32567447",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时50分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 06时42分]"
+        },
+        {
+          "title": "为什么 AI 会建议我走路去洗车？AI 还提出过什么壮举？",
+          "url": "https://www.zhihu.com/question/2004524090598323141",
+          "source": "知乎",
+          "ranks": [
+            16,
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时04分 ~ 06时42分]"
         },
         {
           "title": "美联储哈玛克：现在判断人工智能会对经济产生什么影响还为时过早。",
@@ -80,17 +95,17 @@
           "time_info": "02时06分"
         },
         {
-          "title": "为什么 AI 会建议我走路去洗车？AI 还提出过什么壮举？",
-          "url": "https://www.zhihu.com/question/2004524090598323141",
-          "source": "知乎",
+          "title": "黑石加码Anthropic 坐拥两大AI巨头股份",
+          "url": "https://flash.jin10.com/detail/20260211042006504800",
+          "source": "金十数据",
           "ranks": [
-            16,
-            9,
-            17
+            2,
+            19,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时04分 ~ 05时50分]"
+          "appearance_count": 3,
+          "time_info": "[04时58分 ~ 06时42分]"
         },
         {
           "title": "美国克利夫兰联储主席Hammack：实现2%通胀目标具有至关重要的意义。 现在判断人工智能（AI）对经济的影响还言之过早。",
@@ -103,18 +118,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时06分 ~ 04时01分]"
-        },
-        {
-          "title": "黑石加码Anthropic 坐拥两大AI巨头股份",
-          "url": "https://flash.jin10.com/detail/20260211042006504800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时58分 ~ 05时50分]"
         },
         {
           "title": "AI制图骗局",
