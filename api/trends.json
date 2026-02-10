@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T04:58:40.475834+08:00",
-  "total_titles_processed": 514,
+  "generated_at": "2026-02-11T05:50:54.575407+08:00",
+  "total_titles_processed": 570,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2286121",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 04时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 05时50分]"
         },
         {
           "title": "中国AI大战：“百模大战”已结束，最大的利润池归属大厂，智谱和MiniMax如何突围？",
@@ -26,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 04时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 05时50分]"
         },
         {
           "title": "AI周星驰视频大量传播 经纪人质疑",
@@ -37,11 +38,12 @@
             18,
             9,
             10,
-            23
+            23,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 04时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 05时50分]"
         },
         {
           "title": "以假乱真,奥特曼大AI时代来临",
@@ -52,8 +54,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 04时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 05时50分]"
         },
         {
           "title": "Claude搅动硅谷，AI开始抢企业软件饭碗了？",
@@ -63,8 +65,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 04时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 05时50分]"
         },
         {
           "title": "美联储哈玛克：现在判断人工智能会对经济产生什么影响还为时过早。",
@@ -78,15 +80,17 @@
           "time_info": "02时06分"
         },
         {
-          "title": "黑石加码Anthropic 坐拥两大AI巨头股份",
-          "url": "https://flash.jin10.com/detail/20260211042006504800",
-          "source": "金十数据",
+          "title": "为什么 AI 会建议我走路去洗车？AI 还提出过什么壮举？",
+          "url": "https://www.zhihu.com/question/2004524090598323141",
+          "source": "知乎",
           "ranks": [
-            2
+            16,
+            9,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时58分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时04分 ~ 05时50分]"
         },
         {
           "title": "美国克利夫兰联储主席Hammack：实现2%通胀目标具有至关重要的意义。 现在判断人工智能（AI）对经济的影响还言之过早。",
@@ -99,6 +103,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时06分 ~ 04时01分]"
+        },
+        {
+          "title": "黑石加码Anthropic 坐拥两大AI巨头股份",
+          "url": "https://flash.jin10.com/detail/20260211042006504800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 05时50分]"
         },
         {
           "title": "AI制图骗局",
@@ -125,19 +141,6 @@
           "time_info": "[02时06分 ~ 04时01分]"
         },
         {
-          "title": "为什么 AI 会建议我走路去洗车？AI 还提出过什么壮举？",
-          "url": "https://www.zhihu.com/question/2004524090598323141",
-          "source": "知乎",
-          "ranks": [
-            16,
-            9,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时04分 ~ 04时58分]"
-        },
-        {
           "title": "影视飓风深夜发视频，未收钱过往视频却被字节用于最新模型训练，个人声音环境等数据被 AI 训练会有哪些风险？",
           "url": "https://www.zhihu.com/question/2004239051759312966",
           "source": "知乎",
@@ -146,8 +149,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 04时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 05时50分]"
         },
         {
           "title": "AI应用成为最强主线引爆传媒链",
