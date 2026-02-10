@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T06:42:41.043585+08:00",
-  "total_titles_processed": 599,
+  "generated_at": "2026-02-11T07:41:10.250274+08:00",
+  "total_titles_processed": 639,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 06时42分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 07时41分]"
         },
         {
           "title": "中国AI大战：“百模大战”已结束，最大的利润池归属大厂，智谱和MiniMax如何突围？",
           "url": "https://wallstreetcn.com/articles/3765363",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 06时42分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 07时41分]"
         },
         {
           "title": "AI周星驰视频大量传播 经纪人质疑",
@@ -43,8 +44,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 06时42分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 07时41分]"
         },
         {
           "title": "以假乱真,奥特曼大AI时代来临",
@@ -55,8 +56,22 @@
             16
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 07时41分]"
+        },
+        {
+          "title": "为什么 AI 会建议我走路去洗车？AI 还提出过什么壮举？",
+          "url": "https://www.zhihu.com/question/2004524090598323141",
+          "source": "知乎",
+          "ranks": [
+            16,
+            9,
+            17,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[00时31分 ~ 06时42分]"
+          "time_info": "[02时04分 ~ 07时41分]"
         },
         {
           "title": "Claude搅动硅谷，AI开始抢企业软件饭碗了？",
@@ -69,19 +84,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时31分 ~ 06时42分]"
-        },
-        {
-          "title": "为什么 AI 会建议我走路去洗车？AI 还提出过什么壮举？",
-          "url": "https://www.zhihu.com/question/2004524090598323141",
-          "source": "知乎",
-          "ranks": [
-            16,
-            9,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时04分 ~ 06时42分]"
         },
         {
           "title": "美联储哈玛克：现在判断人工智能会对经济产生什么影响还为时过早。",
