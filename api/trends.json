@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T16:53:44.762026+08:00",
-  "total_titles_processed": 1232,
+  "generated_at": "2026-02-11T17:56:47.815506+08:00",
+  "total_titles_processed": 1340,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
         {
           "title": "国家发改委等八部门：加快招标投标领域人工智能推广应用",
@@ -40,8 +40,31 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时29分 ~ 16时53分]"
+          "appearance_count": 8,
+          "time_info": "[10时29分 ~ 17时56分]"
+        },
+        {
+          "title": "国产AI降维打击,老外酸了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350534&amp;topic_name=%E5%9B%BD%E4%BA%A7AI%E9%99%8D%E7%BB%B4%E6%89%93%E5%87%BB%2C%E8%80%81%E5%A4%96%E9%85%B8%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时04分 ~ 17时56分]"
+        },
+        {
+          "title": "“一块布”卡住AI供应链 产业“涨价潮”带动“涨停潮”",
+          "url": "https://www.cls.cn/detail/2286740",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时04分 ~ 17时56分]"
         },
         {
           "title": "为什么 AI 会建议我走路去洗车？AI 还提出过什么壮举？",
@@ -56,17 +79,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[02时04分 ~ 13时05分]"
-        },
-        {
-          "title": "国产AI降维打击,老外酸了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350534&amp;topic_name=%E5%9B%BD%E4%BA%A7AI%E9%99%8D%E7%BB%B4%E6%89%93%E5%87%BB%2C%E8%80%81%E5%A4%96%E9%85%B8%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时04分 ~ 16时53分]"
         },
         {
           "title": "AI周星驰视频大量传播 经纪人质疑",
@@ -94,23 +106,12 @@
             16,
             22,
             23,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时31分 ~ 16时53分]"
-        },
-        {
-          "title": "“一块布”卡住AI供应链 产业“涨价潮”带动“涨停潮”",
-          "url": "https://www.cls.cn/detail/2286740",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时04分 ~ 16时53分]"
+          "appearance_count": 18,
+          "time_info": "[00时31分 ~ 17时56分]"
         },
         {
           "title": "持股持基过节，都买什么？Seedance带疯AI应用，资金再流向红利",
@@ -138,6 +139,20 @@
           "time_info": "[10时29分 ~ 15时04分]"
         },
         {
+          "title": "周星驰经纪人质疑短视频平台对 AI 生成视频侵权放任不管，这触犯了哪些法律红线？平台该如何管理？",
+          "url": "https://www.zhihu.com/question/2004629058894389561",
+          "source": "知乎",
+          "ranks": [
+            20,
+            6,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时29分 ~ 17时56分]"
+        },
+        {
           "title": "Claude搅动硅谷，AI开始抢企业软件饭碗了？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32567447",
           "source": "澎湃新闻",
@@ -150,17 +165,17 @@
           "time_info": "[00时31分 ~ 06时42分]"
         },
         {
-          "title": "周星驰经纪人质疑短视频平台对 AI 生成视频侵权放任不管，这触犯了哪些法律红线？平台该如何管理？",
-          "url": "https://www.zhihu.com/question/2004629058894389561",
-          "source": "知乎",
+          "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3765455",
+          "source": "华尔街见闻",
           "ranks": [
-            20,
-            6,
-            8
+            10,
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时29分 ~ 16时53分]"
+          "appearance_count": 6,
+          "time_info": "[13时04分 ~ 17时56分]"
         },
         {
           "title": "美联储哈玛克：现在判断人工智能会对经济产生什么影响还为时过早。",
@@ -183,18 +198,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时04分"
-        },
-        {
-          "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3765455",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时04分 ~ 16时53分]"
         },
         {
           "title": "黑石加码Anthropic 坐拥两大AI巨头股份",
@@ -258,6 +261,17 @@
           "time_info": "[00时31分 ~ 05时50分]"
         },
         {
+          "title": "腾讯是在把 AI 泛娱乐生态拱手让给字节跳动吗？",
+          "url": "https://www.zhihu.com/question/2004565156580049390",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 17时56分]"
+        },
+        {
           "title": "AI应用成为最强主线引爆传媒链",
           "url": "https://www.toutiao.com/trending/7604674566330449983/",
           "source": "今日头条",
@@ -267,6 +281,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时31分 ~ 00时32分]"
+        },
+        {
+          "title": "如何看待《黑神话：悟空》制作人冯骥谈即梦 Seedance 2.0「AIGC 的童年时代，结束了」？",
+          "url": "https://www.zhihu.com/question/2004509950915868142",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 17时56分]"
         },
         {
           "title": "有哪些和 AI 的对话瞬间，让你觉得人类还没有一败涂地？",
@@ -331,18 +356,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        },
-        {
-          "title": "腾讯是在把 AI 泛娱乐生态拱手让给字节跳动吗？",
-          "url": "https://www.zhihu.com/question/2004565156580049390",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -369,6 +383,17 @@
           "time_info": "13时05分"
         },
         {
+          "title": "四张图告诉你：缘何AI巨头在美股市场上纷纷哑火？",
+          "url": "https://www.cls.cn/detail/2286766",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
           "title": "韩国科学部长：OpenAI、三星和SK将于3月在韩国启动数据中心建设。",
           "url": "https://flash.jin10.com/detail/20260211093843055800",
           "source": "金十数据",
@@ -389,17 +414,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
-        },
-        {
-          "title": "如何看待《黑神话：悟空》制作人冯骥谈即梦 Seedance 2.0「AIGC 的童年时代，结束了」？",
-          "url": "https://www.zhihu.com/question/2004509950915868142",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
         },
         {
           "title": "美财长：沃什领导下的美联储将密切关注AI对就业的影响",
@@ -463,7 +477,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         }
