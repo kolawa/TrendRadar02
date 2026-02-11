@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-02-12T05:36:39.770625+08:00",
-  "total_titles_processed": 598,
+  "generated_at": "2026-02-12T06:32:38.390649+08:00",
+  "total_titles_processed": 655,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
-        {
-          "title": "最癫的AI赛博榨菜",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9C%80%E7%99%AB%E7%9A%84AI%E8%B5%9B%E5%8D%9A%E6%A6%A8%E8%8F%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时04分 ~ 05时36分]"
-        },
         {
           "title": "李强：全面推进人工智能科技创新、产业发展和赋能应用，培育壮大新质生产力",
           "url": "https://www.cls.cn/detail/2287511",
@@ -26,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时04分 ~ 05时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时04分 ~ 06时32分]"
         },
         {
           "title": "如何评价 2 月 11 日上线的 DeepSeek 新模型？",
@@ -37,8 +26,43 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时04分 ~ 05时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时04分 ~ 06时32分]"
+        },
+        {
+          "title": "DeepSeek模型更新！上下文提升至百万Token 可处理三体小说全集",
+          "url": "https://www.cls.cn/detail/2287578",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时04分 ~ 06时32分]"
+        },
+        {
+          "title": "UP主实测DeepSeek新模型",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8BDeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时04分 ~ 06时32分]"
+        },
+        {
+          "title": "最癫的AI赛博榨菜",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%80%E7%99%AB%E7%9A%84AI%E8%B5%9B%E5%8D%9A%E6%A6%A8%E8%8F%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时04分 ~ 06时32分]"
         },
         {
           "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
@@ -53,38 +77,16 @@
           "time_info": "[00时04分 ~ 05时36分]"
         },
         {
-          "title": "DeepSeek模型更新！上下文提升至百万Token 可处理三体小说全集",
-          "url": "https://www.cls.cn/detail/2287578",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时04分 ~ 05时36分]"
-        },
-        {
-          "title": "UP主实测DeepSeek新模型",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8BDeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时04分 ~ 05时36分]"
-        },
-        {
           "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
           "url": "https://wallstreetcn.com/articles/3765455",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时04分 ~ 05时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时04分 ~ 06时32分]"
         },
         {
           "title": "DeepSeek低调升级新模型",
@@ -94,19 +96,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时04分 ~ 05时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时04分 ~ 06时32分]"
         },
         {
           "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
           "url": "https://wallstreetcn.com/articles/3765457",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时04分 ~ 05时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时04分 ~ 06时32分]"
         },
         {
           "title": "国产AI降维打击,老外酸了",
@@ -117,8 +120,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时04分 ~ 05时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时04分 ~ 06时32分]"
         },
         {
           "title": "Seedance爆火背后：真假难辨和个人隐私受关注，AI创作如何守住边界？",
@@ -129,8 +132,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时04分 ~ 05时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时04分 ~ 06时32分]"
         },
         {
           "title": "以假乱真,奥特曼大AI时代来临",
@@ -140,8 +143,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时04分 ~ 05时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时04分 ~ 06时32分]"
         },
         {
           "title": "Meta Platforms(META.O)：推出“Dear Algo”，这是一项由人工智能驱动的功能，允许用户告知 Threads平台自己希望在一段时间内看到更多或更少特定主题的内容。",
@@ -189,6 +192,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时41分 ~ 05时36分]"
+        },
+        {
+          "title": "DeepSeek新模型来了？",
+          "url": "https://wallstreetcn.com/articles/3765514",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 06时32分]"
         },
         {
           "title": "巴西Flavio Bolsonaro：在我竞选总统一事上，Minas Gerais的Zema会是一个不错的副总统人选，但我们还没有谈及此事。",
@@ -243,7 +257,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
         },
@@ -276,9 +290,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
+        },
+        {
+          "title": "思科(CSCO.O) CEO：目前预计人工智能订单将超过50亿美元，并在2026财年从超大规模企业中确认超过30亿美元的人工智能基础设施收入。",
+          "url": "https://flash.jin10.com/detail/20260212054012505800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时32分"
         },
         {
           "title": "加拿大央行会议纪要：人工智能的狂热情绪对前景构成风险。",
@@ -353,7 +378,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
         }
