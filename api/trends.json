@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T15:54:51.578109+08:00",
-  "total_titles_processed": 1266,
+  "generated_at": "2026-02-12T16:51:55.957667+08:00",
+  "total_titles_processed": 1370,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 57,
+      "match_count": 60,
       "titles": [
         {
           "title": "李强：全面推进人工智能科技创新、产业发展和赋能应用，培育壮大新质生产力",
@@ -37,8 +37,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时34分 ~ 15时54分]"
+          "appearance_count": 9,
+          "time_info": "[07时34分 ~ 16时51分]"
         },
         {
           "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
@@ -65,20 +65,6 @@
           "time_info": "[00时04分 ~ 10时25分]"
         },
         {
-          "title": "UP主实测DeepSeek新模型",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8BDeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            4,
-            14,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时04分 ~ 15时54分]"
-        },
-        {
           "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
           "url": "https://wallstreetcn.com/articles/3765455",
           "source": "华尔街见闻",
@@ -92,6 +78,21 @@
           "time_info": "[00时04分 ~ 07时35分]"
         },
         {
+          "title": "UP主实测DeepSeek新模型",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8BDeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            4,
+            14,
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时04分 ~ 16时51分]"
+        },
+        {
           "title": "最癫的AI赛博榨菜",
           "url": "https://search.bilibili.com/all?keyword=%E6%9C%80%E7%99%AB%E7%9A%84AI%E8%B5%9B%E5%8D%9A%E6%A6%A8%E8%8F%9C",
           "source": "bilibili 热搜",
@@ -103,8 +104,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时04分 ~ 15时54分]"
+          "appearance_count": 19,
+          "time_info": "[00时04分 ~ 16时51分]"
         },
         {
           "title": "DeepSeek低调升级新模型",
@@ -115,8 +116,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时04分 ~ 15时54分]"
+          "appearance_count": 19,
+          "time_info": "[00时04分 ~ 16时51分]"
         },
         {
           "title": "DeepSeek新模型来了？",
@@ -129,8 +130,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时31分 ~ 15时54分]"
+          "appearance_count": 11,
+          "time_info": "[06时31分 ~ 16时51分]"
         },
         {
           "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
@@ -169,11 +170,12 @@
             15,
             24,
             25,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时04分 ~ 15时54分]"
+          "appearance_count": 19,
+          "time_info": "[00时04分 ~ 16时51分]"
         },
         {
           "title": "以假乱真,奥特曼大AI时代来临",
@@ -185,6 +187,18 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时04分 ~ 10时25分]"
+        },
+        {
+          "title": "“下一个AI受害者”出现了，房地产服务股遭抛售，创疫情以来最大单日跌幅",
+          "url": "https://wallstreetcn.com/articles/3765544",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时25分 ~ 16时51分]"
         },
         {
           "title": "AI基建投入持续加码 Meta斥资逾100亿美元新建1吉瓦数据中心",
@@ -200,18 +214,6 @@
           "time_info": "[10时25分 ~ 14时11分]"
         },
         {
-          "title": "“下一个AI受害者”出现了，房地产服务股遭抛售，创疫情以来最大单日跌幅",
-          "url": "https://wallstreetcn.com/articles/3765544",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时25分 ~ 15时54分]"
-        },
-        {
           "title": "传统制作成本转向算力成本？AI技术平权能给影视行业带来什么",
           "url": "https://m.thepaper.cn/newsDetail_forward_32583102",
           "source": "澎湃新闻",
@@ -223,8 +225,23 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时34分 ~ 15时54分]"
+          "appearance_count": 9,
+          "time_info": "[07时34分 ~ 16时51分]"
+        },
+        {
+          "title": "让AI集体翻车的洗车难题",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AE%A9AI%E9%9B%86%E4%BD%93%E7%BF%BB%E8%BD%A6%E7%9A%84%E6%B4%97%E8%BD%A6%E9%9A%BE%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            22,
+            25,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时25分 ~ 16时51分]"
         },
         {
           "title": "男子用AI一夜赚够一线房首付",
@@ -249,20 +266,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时59分 ~ 15时54分]"
-        },
-        {
-          "title": "让AI集体翻车的洗车难题",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AE%A9AI%E9%9B%86%E4%BD%93%E7%BF%BB%E8%BD%A6%E7%9A%84%E6%B4%97%E8%BD%A6%E9%9A%BE%E9%A2%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            22,
-            25,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时25分 ~ 15时54分]"
         },
         {
           "title": "智谱午后涨幅扩大至40%，公司上调AI编程订阅套餐价格并将推出新模型。",
@@ -320,6 +323,17 @@
           "time_info": "10时25分"
         },
         {
+          "title": "德银全球CIO：AI不是泡沫，中国资产吸引力上升",
+          "url": "https://wallstreetcn.com/livenews/3054379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
+        },
+        {
           "title": "中美AI“隔空开打”",
           "url": "https://www.toutiao.com/trending/7605571340929601066/",
           "source": "今日头条",
@@ -367,6 +381,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时41分 ~ 05时36分]"
+        },
+        {
+          "title": "美食博主手搓对抗AI",
+          "url": "https://www.douyin.com/hot/2398176",
+          "source": "抖音",
+          "ranks": [
+            16,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时54分 ~ 16时51分]"
         },
         {
           "title": "AI淘金热变成AI恐慌潮！华尔街新共识：躲开一切可能被颠覆的公司",
@@ -451,6 +477,17 @@
           "time_info": "[03时11分 ~ 04时41分]"
         },
         {
+          "title": "Seedance2.0展示中国AI潜力",
+          "url": "https://www.douyin.com/hot/2398167",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时54分 ~ 16时51分]"
+        },
+        {
           "title": "金十数据整理：每日人工智能动态汇总（2026-02-12）",
           "url": "https://flash.jin10.com/detail/20260212120054964800",
           "source": "金十数据",
@@ -517,17 +554,6 @@
           "time_info": "05时36分"
         },
         {
-          "title": "美食博主手搓对抗AI",
-          "url": "https://www.douyin.com/hot/2398176",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时54分"
-        },
-        {
           "title": "马斯克在周二深夜主持xAI全体员工会议。 马斯克讨论了该公司的重组事宜，但并非透露具体信息。（Business Insider）",
           "url": "https://wallstreetcn.com/livenews/3053889",
           "source": "华尔街见闻-快讯",
@@ -572,15 +598,15 @@
           "time_info": "06时32分"
         },
         {
-          "title": "Seedance2.0展示中国AI潜力",
-          "url": "https://www.douyin.com/hot/2398167",
-          "source": "抖音",
+          "title": "新加坡公布2026年预算案 将加码扶持本地企业、押注AI与国际贸易",
+          "url": "https://flash.jin10.com/detail/20260212161832075800",
+          "source": "金十数据",
           "ranks": [
-            20
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时54分"
+          "time_info": "16时51分"
         },
         {
           "title": "智谱盘中持续拉升，日内涨超30%，公司上调AI编程订阅套餐价格并将推出新模型。",
@@ -625,6 +651,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
+        },
+        {
+          "title": "港股收盘：恒生指数收跌0.86%，恒生科技指数指收跌1.65%。AI概念股、半导体股走高，智谱涨超28%，Minimax-WP涨超14%，兆易创新涨超20%，澜起科技涨5.56%。",
+          "url": "https://wallstreetcn.com/livenews/3054346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
         },
         {
           "title": "据Business Insider：马斯克在周二深夜主持xAI全体员工会议，讨论公司的重组事宜。",
