@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T07:32:15.113350+08:00",
-  "total_titles_processed": 667,
+  "generated_at": "2026-02-13T10:26:41.720219+08:00",
+  "total_titles_processed": 823,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 39,
+      "match_count": 49,
       "titles": [
         {
           "title": "网信部门从严整治传播无AI标识的虚假不实信息问题",
@@ -42,6 +42,18 @@
           "time_info": "[01时01分 ~ 07时32分]"
         },
         {
+          "title": "动态调整！职业教育将重点增设低空经济、人工智能等领域新专业",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32590657",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[01时01分 ~ 10时26分]"
+        },
+        {
           "title": "Deepseek被指变冷淡了",
           "url": "https://s.weibo.com/weibo?q=%23Deepseek%E8%A2%AB%E6%8C%87%E5%8F%98%E5%86%B7%E6%B7%A1%E4%BA%86%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
@@ -54,8 +66,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时01分 ~ 07时32分]"
+          "appearance_count": 12,
+          "time_info": "[01时01分 ~ 10时26分]"
         },
         {
           "title": "CPI前AI恐慌又袭，盘中标普跌超1%、思科跌超10%、物流股大跌，白银跳水超7%",
@@ -67,17 +79,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时51分 ~ 06时35分]"
-        },
-        {
-          "title": "动态调整！职业教育将重点增设低空经济、人工智能等领域新专业",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32590657",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时01分 ~ 07时32分]"
         },
         {
           "title": "中国大模型“春节档”打响！等待消费级AI出“爆款”",
@@ -113,8 +114,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时01分 ~ 07时32分]"
+          "appearance_count": 12,
+          "time_info": "[01时01分 ~ 10时26分]"
         },
         {
           "title": "UP主实测DeepSeek新模型",
@@ -125,11 +126,12 @@
             14,
             17,
             25,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时01分 ~ 07时32分]"
+          "appearance_count": 12,
+          "time_info": "[01时01分 ~ 10时26分]"
         },
         {
           "title": "AI 视频工具已经能生成导演级镜头，作为观众，你能接受 AI 生成的影视剧或动画吗？愿意买单吗？",
@@ -151,8 +153,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时01分 ~ 07时32分]"
+          "appearance_count": 12,
+          "time_info": "[01时01分 ~ 10时26分]"
         },
         {
           "title": "2026春节：中国AI的“两弹一星”时刻",
@@ -167,6 +169,19 @@
           "time_info": "[01时01分 ~ 06时35分]"
         },
         {
+          "title": "美股收盘：AI颠覆性担忧发酵 三大指数均跌超1%",
+          "url": "https://www.cls.cn/detail/2289051",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时35分 ~ 10时26分]"
+        },
+        {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，贵金属遭流动性挤压，黄金失守5000美元，白银跳水11%",
           "url": "https://wallstreetcn.com/articles/3765553",
           "source": "华尔街见闻",
@@ -176,6 +191,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时31分 ~ 07时32分]"
+        },
+        {
+          "title": "DeepSeek变冷淡了",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%8F%98%E5%86%B7%E6%B7%A1%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
+          "url": "https://wallstreetcn.com/articles/3765553",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
         },
         {
           "title": "以色列总理办公室：内塔尼亚胡将远程参加美国以色列公共事务委员会（AIPAC）年会，因此下周不会飞往华盛顿。内塔尼亚胡也不会参加特朗普组织的和平委员会会议。",
@@ -195,21 +232,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         },
         {
-          "title": "美股收盘：AI颠覆性担忧发酵 三大指数均跌超1%",
-          "url": "https://www.cls.cn/detail/2289051",
+          "title": "美股AI叙事进入下半场：从普涨狂欢到“暗礁”密布",
+          "url": "https://www.cls.cn/detail/2289007",
           "source": "财联社热门",
           "ranks": [
-            6,
             4
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时35分 ~ 07时32分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
         },
         {
           "title": "美国司法部反垄断事务主管Abigail Slater离职，此前总统特朗普的白宫要求其辞职、否则将把她免职。",
@@ -298,6 +334,18 @@
           "time_info": "[01时01分 ~ 03时51分]"
         },
         {
+          "title": "多位美国明星AI公司研究人员在离职之际拉响警报",
+          "url": "https://www.cls.cn/detail/2288921",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时31分 ~ 10时26分]"
+        },
+        {
           "title": "哈尔滨小哥为早回家过年找AI替班",
           "url": "https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E5%B0%8F%E5%93%A5%E4%B8%BA%E6%97%A9%E5%9B%9E%E5%AE%B6%E8%BF%87%E5%B9%B4%E6%89%BEAI%E6%9B%BF%E7%8F%AD",
           "source": "百度热搜",
@@ -346,17 +394,6 @@
           "time_info": "[03时51分 ~ 04时38分]"
         },
         {
-          "title": "多位美国明星AI公司研究人员在离职之际拉响警报",
-          "url": "https://www.cls.cn/detail/2288921",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时31分 ~ 07时32分]"
-        },
-        {
           "title": "市场消息：沙特阿美与微软签署谅解备忘录，推进工业人工智能发展。",
           "url": "https://flash.jin10.com/detail/20260213030906029800",
           "source": "金十数据",
@@ -380,15 +417,37 @@
           "time_info": "[07时31分 ~ 07时32分]"
         },
         {
+          "title": "Moltbook百万条评论分析：AI如何集体“吐槽”人类？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32549741",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
           "title": "AI寒流来袭：全球风险资产撤退 美债成避风港",
           "url": "https://flash.jin10.com/detail/20260213065702198800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
+        },
+        {
+          "title": "AI冲击货运江湖！罗素3000卡车运输指数盘中重挫9%",
+          "url": "https://wallstreetcn.com/articles/3765622",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
         },
         {
           "title": "OpenAI CEO Sam Altman：今天晚些时候将为Codex Pro会员推出一项特别功能。",
@@ -413,6 +472,39 @@
           "time_info": "02时03分"
         },
         {
+          "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
+          "url": "https://wallstreetcn.com/articles/3765624",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "阿里、谷歌接连“出手” AI购物元年将至？",
+          "url": "https://www.cls.cn/detail/2288802",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "OpenAI CEO：马斯克攻击我们很荒唐",
+          "url": "https://www.toutiao.com/trending/7605754485696135187/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
           "title": "谷歌：全新深度思考现已通过Gemini应用向Google AI Ultra订阅用户开放，并通过Gemini API向精选研究人员开放。",
           "url": "https://flash.jin10.com/detail/20260213002134729800",
           "source": "金十数据",
@@ -422,6 +514,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "瑞银表示信用市场尚未完全消化AI对行业的颠覆性风险",
+          "url": "https://wallstreetcn.com/livenews/3054820",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
         },
         {
           "title": "谷歌：今日发布Gemini 3深度思考重大升级。与科学家和研究人员紧密合作，推出升级版Gemini 3深度思考模型，以应对研究挑战。",
@@ -466,6 +569,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时51分"
+        },
+        {
+          "title": "美联储理事米兰：预计关税每年将带来近4000亿美元的收入。 预计潜在GDP增速将提升0.75个百分点。 政策调整和人工智能将拉动GDP增长。",
+          "url": "https://wallstreetcn.com/livenews/3054810",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
         }
       ]
     }
