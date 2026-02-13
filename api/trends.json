@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T15:14:06.724962+08:00",
-  "total_titles_processed": 1176,
+  "generated_at": "2026-02-13T16:45:07.070181+08:00",
+  "total_titles_processed": 1286,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 56,
+      "match_count": 64,
       "titles": [
         {
           "title": "网信部门从严整治传播无AI标识的虚假不实信息问题",
@@ -42,6 +42,17 @@
           "time_info": "[01时01分 ~ 07时32分]"
         },
         {
+          "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
+          "url": "https://wallstreetcn.com/articles/3765553",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时26分 ~ 16时45分]"
+        },
+        {
           "title": "美股收盘：AI颠覆性担忧发酵 三大指数均跌超1%",
           "url": "https://www.cls.cn/detail/2289051",
           "source": "财联社热门",
@@ -55,6 +66,20 @@
           "time_info": "[06时35分 ~ 15时14分]"
         },
         {
+          "title": "Moltbook百万条评论分析：AI如何集体“吐槽”人类？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32549741",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时26分 ~ 16时45分]"
+        },
+        {
           "title": "动态调整！职业教育将重点增设低空经济、人工智能等领域新专业",
           "url": "https://m.thepaper.cn/newsDetail_forward_32590657",
           "source": "澎湃新闻",
@@ -65,17 +90,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[01时01分 ~ 10时26分]"
-        },
-        {
-          "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
-          "url": "https://wallstreetcn.com/articles/3765553",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时26分 ~ 15时14分]"
         },
         {
           "title": "Deepseek被指变冷淡了",
@@ -103,19 +117,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时51分 ~ 06时35分]"
-        },
-        {
-          "title": "Moltbook百万条评论分析：AI如何集体“吐槽”人类？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32549741",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时26分 ~ 15时14分]"
         },
         {
           "title": "中国大模型“春节档”打响！等待消费级AI出“爆款”",
@@ -151,8 +152,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时01分 ~ 15时14分]"
+          "appearance_count": 20,
+          "time_info": "[01时01分 ~ 16时45分]"
         },
         {
           "title": "UP主实测DeepSeek新模型",
@@ -167,8 +168,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时01分 ~ 15时14分]"
+          "appearance_count": 20,
+          "time_info": "[01时01分 ~ 16时45分]"
         },
         {
           "title": "AI 视频工具已经能生成导演级镜头，作为观众，你能接受 AI 生成的影视剧或动画吗？愿意买单吗？",
@@ -206,6 +207,32 @@
           "time_info": "[10时26分 ~ 15时14分]"
         },
         {
+          "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
+          "url": "https://wallstreetcn.com/articles/3765624",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时26分 ~ 16时45分]"
+        },
+        {
+          "title": "AI冲击货运江湖！罗素3000卡车运输指数盘中重挫9%",
+          "url": "https://wallstreetcn.com/articles/3765622",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时26分 ~ 16时45分]"
+        },
+        {
           "title": "2026春节：中国AI的“两弹一星”时刻",
           "url": "https://www.baidu.com/s?wd=2026%E6%98%A5%E8%8A%82%EF%BC%9A%E4%B8%AD%E5%9B%BDAI%E7%9A%84%E2%80%9C%E4%B8%A4%E5%BC%B9%E4%B8%80%E6%98%9F%E2%80%9D%E6%97%B6%E5%88%BB",
           "source": "百度热搜",
@@ -216,19 +243,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时01分 ~ 06时35分]"
-        },
-        {
-          "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
-          "url": "https://wallstreetcn.com/articles/3765624",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时26分 ~ 15时14分]"
         },
         {
           "title": "多位美国明星AI公司研究人员在离职之际拉响警报",
@@ -244,19 +258,6 @@
           "time_info": "[07时31分 ~ 14时02分]"
         },
         {
-          "title": "AI冲击货运江湖！罗素3000卡车运输指数盘中重挫9%",
-          "url": "https://wallstreetcn.com/articles/3765622",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时26分 ~ 15时14分]"
-        },
-        {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，贵金属遭流动性挤压，黄金失守5000美元，白银跳水11%",
           "url": "https://wallstreetcn.com/articles/3765553",
           "source": "华尔街见闻",
@@ -266,6 +267,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时31分 ~ 07时32分]"
+        },
+        {
+          "title": "老码农裁员理由+1:被AI优化",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350655&amp;topic_name=%E8%80%81%E7%A0%81%E5%86%9C%E8%A3%81%E5%91%98%E7%90%86%E7%94%B1%2B1%3A%E8%A2%ABAI%E4%BC%98%E5%8C%96",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时44分 ~ 16时45分]"
         },
         {
           "title": "DeepSeek变冷淡了",
@@ -279,6 +291,30 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时26分 ~ 14时02分]"
+        },
+        {
+          "title": "AI整活无底线,赛文演员急了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350657&amp;topic_name=AI%E6%95%B4%E6%B4%BB%E6%97%A0%E5%BA%95%E7%BA%BF%2C%E8%B5%9B%E6%96%87%E6%BC%94%E5%91%98%E6%80%A5%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时44分 ~ 16时45分]"
+        },
+        {
+          "title": "Seedance2.0展示中国AI潜力",
+          "url": "https://www.douyin.com/hot/2398167",
+          "source": "抖音",
+          "ranks": [
+            30,
+            29,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时54分 ~ 16时45分]"
         },
         {
           "title": "以色列总理办公室：内塔尼亚胡将远程参加美国以色列公共事务委员会（AIPAC）年会，因此下周不会飞往华盛顿。内塔尼亚胡也不会参加特朗普组织的和平委员会会议。",
@@ -364,6 +400,18 @@
           "time_info": "[04时38分 ~ 05时37分]"
         },
         {
+          "title": "DeepSeek回应被指变冷淡",
+          "url": "https://www.toutiao.com/trending/7606192815403437609/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时13分 ~ 16时45分]"
+        },
+        {
           "title": "AI震荡波及金属市场 暴跌背后的程序化交易“踩踏”",
           "url": "https://flash.jin10.com/detail/20260213060006684800",
           "source": "金十数据",
@@ -389,16 +437,38 @@
           "time_info": "[01时01分 ~ 03时51分]"
         },
         {
-          "title": "Seedance2.0展示中国AI潜力",
-          "url": "https://www.douyin.com/hot/2398167",
-          "source": "抖音",
+          "title": "加剧AI恐慌！微软高管：大多数白领工作将在“未来12-18个月内”完全自动化",
+          "url": "https://wallstreetcn.com/articles/3765637",
+          "source": "华尔街见闻",
           "ranks": [
-            30,
-            29
+            10
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时54分 ~ 15时14分]"
+          "time_info": "[15时13分 ~ 16时45分]"
+        },
+        {
+          "title": "网信部门从严整治传播无AI标识的虚假不实信息问题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32593042",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时13分 ~ 16时45分]"
+        },
+        {
+          "title": "DeepSeek回应被指冷淡",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%8C%87%E5%86%B7%E6%B7%A1",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时13分 ~ 16时45分]"
         },
         {
           "title": "哈尔滨小哥为早回家过年找AI替班",
@@ -437,17 +507,6 @@
           "time_info": "[04时38分 ~ 05时37分]"
         },
         {
-          "title": "加剧AI恐慌！微软高管：大多数白领工作将在“未来12-18个月内”完全自动化",
-          "url": "https://wallstreetcn.com/articles/3765637",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时13分 ~ 15时14分]"
-        },
-        {
           "title": "沙特阿美与微软签订备忘录，帮助推进工业AI。",
           "url": "https://wallstreetcn.com/livenews/3054694",
           "source": "华尔街见闻-快讯",
@@ -458,6 +517,61 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时51分 ~ 04时38分]"
+        },
+        {
+          "title": "软件股“遭嫌弃”？亚马逊AWS CEO力挺：因AI产生的恐惧被夸大了！",
+          "url": "https://www.cls.cn/detail/2289134",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时44分 ~ 16时45分]"
+        },
+        {
+          "title": "一个2.6万亿AI独角兽诞生",
+          "url": "https://www.toutiao.com/trending/7606174592784158251/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时44分 ~ 16时45分]"
+        },
+        {
+          "title": "AI算力催生电力需求 核聚变行业资本开支进入上行周期",
+          "url": "https://www.cls.cn/detail/2289093",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时44分 ~ 16时45分]"
+        },
+        {
+          "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
+          "url": "https://www.zhihu.com/question/2005557043939993512",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时44分 ~ 16时45分]"
+        },
+        {
+          "title": "券商晨会精华：Agentic AI发展驱动需求 CPU的AI时刻已经来临",
+          "url": "https://www.cls.cn/detail/2289082",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时44分 ~ 16时45分]"
         },
         {
           "title": "市场消息：沙特阿美与微软签署谅解备忘录，推进工业人工智能发展。",
@@ -472,15 +586,15 @@
           "time_info": "[03时51分 ~ 04时38分]"
         },
         {
-          "title": "网信部门从严整治传播无AI标识的虚假不实信息问题",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32593042",
+          "title": "澎湃AI晚新闻丨2026年2月12日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32595090",
           "source": "澎湃新闻",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时13分 ~ 15时14分]"
+          "time_info": "[16时44分 ~ 16时45分]"
         },
         {
           "title": "让AI集体翻车的洗车难题",
@@ -492,28 +606,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时31分 ~ 07时32分]"
-        },
-        {
-          "title": "DeepSeek回应被指变冷淡",
-          "url": "https://www.toutiao.com/trending/7606192815403437609/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时13分 ~ 15时14分]"
-        },
-        {
-          "title": "DeepSeek回应被指冷淡",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%8C%87%E5%86%B7%E6%B7%A1",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时13分 ~ 15时14分]"
         },
         {
           "title": "AI寒流来袭：全球风险资产撤退 美债成避风港",
@@ -577,7 +669,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         },
