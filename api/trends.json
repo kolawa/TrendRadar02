@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T19:41:03.915136+08:00",
-  "total_titles_processed": 1486,
+  "generated_at": "2026-02-19T21:10:28.947588+08:00",
+  "total_titles_processed": 1583,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 53,
+      "match_count": 59,
       "titles": [
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
@@ -52,8 +52,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时54分 ~ 19时41分]"
+          "appearance_count": 13,
+          "time_info": "[12时54分 ~ 21时10分]"
         },
         {
           "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
@@ -79,8 +79,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[01时05分 ~ 19时41分]"
+          "appearance_count": 26,
+          "time_info": "[01时05分 ~ 21时10分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -95,8 +95,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时14分 ~ 19时41分]"
+          "appearance_count": 14,
+          "time_info": "[10时14分 ~ 21时10分]"
         },
         {
           "title": "公开和沃什“唱反调”？多位美联储高官称：AI提升生产力或意味着“更高的中性利率”",
@@ -126,8 +126,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[01时05分 ~ 19时41分]"
+          "appearance_count": 26,
+          "time_info": "[01时05分 ~ 21时10分]"
         },
         {
           "title": "疑似ai?鹰角整活六指琴魔",
@@ -144,8 +144,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[01时05分 ~ 19时41分]"
+          "appearance_count": 26,
+          "time_info": "[01时05分 ~ 21时10分]"
         },
         {
           "title": "盘点春晚合作公司名单，覆盖智能出行、人工智能机器人、白酒等领域",
@@ -182,6 +182,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
+        },
+        {
+          "title": "ServiceNow首席运营官Amit Zavery：如果一些软件公司未能为采用人工智能而进行业务转型，那么行业内可能会出现整合。",
+          "url": "https://wallstreetcn.com/livenews/3056641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
         },
         {
           "title": "比尔·盖茨宣布取消在印度人工智能峰会上的演讲",
@@ -257,6 +268,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时58分 ~ 04时42分]"
+        },
+        {
+          "title": "什么样的软件会被AI淘汰？",
+          "url": "https://wallstreetcn.com/articles/3765860",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时40分 ~ 21时10分]"
+        },
+        {
+          "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
+          "url": "https://wallstreetcn.com/articles/3765864",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时40分 ~ 21时10分]"
         },
         {
           "title": "印度首富承诺最高投资1100亿美元建AI基础设施",
@@ -371,17 +404,6 @@
           "time_info": "[06时36分 ~ 07时34分]"
         },
         {
-          "title": "什么样的软件会被AI淘汰？",
-          "url": "https://wallstreetcn.com/articles/3765860",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时40分 ~ 19时41分]"
-        },
-        {
           "title": "扎克伯格出庭：美国法官威胁将对任何使用AI眼镜录像的人处以蔑视法庭罪",
           "url": "https://wallstreetcn.com/livenews/3056487",
           "source": "华尔街见闻-快讯",
@@ -394,17 +416,6 @@
           "time_info": "[05时38分 ~ 06时36分]"
         },
         {
-          "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
-          "url": "https://wallstreetcn.com/articles/3765864",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时40分 ~ 19时41分]"
-        },
-        {
           "title": "Meta启动两份超级协议，来帮助应对人工智能（AI）勒索。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3056483",
           "source": "华尔街见闻-快讯",
@@ -415,6 +426,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时38分 ~ 06时36分]"
+        },
+        {
+          "title": "AI驱动存储持续迭代！三星PIM技术量产在即 或绕过CPU、GPU直接计算",
+          "url": "https://www.cls.cn/detail/2291068",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时10分]"
+        },
+        {
+          "title": "美国两大人工智能巨头CEO拒绝牵手",
+          "url": "https://www.toutiao.com/trending/7608479654936674347/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时10分]"
         },
         {
           "title": "谷歌Gemini上线音乐模型",
@@ -437,6 +470,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时01分 ~ 14时02分]"
+        },
+        {
+          "title": "傅莹回应谁能赢人工智能竞赛",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%82%85%E8%8E%B9%E5%9B%9E%E5%BA%94%E8%B0%81%E8%83%BD%E8%B5%A2%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%AB%9E%E8%B5%9B%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时10分]"
         },
         {
           "title": "美国宣布网络安全与AI风险管理倡议",
@@ -468,7 +512,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         },
@@ -616,6 +660,17 @@
           "time_info": "10时14分"
         },
         {
+          "title": "印度总理莫迪：人工智能平台必须保持其安全规则清晰透明。",
+          "url": "https://flash.jin10.com/detail/20260219194230368800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
           "title": "美国财政部宣布关于加强AI网络安全和风险管理的倡议",
           "url": "https://flash.jin10.com/detail/20260219021420835800",
           "source": "金十数据",
@@ -625,6 +680,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
+        },
+        {
+          "title": "印度总理莫迪：必须建立人工智能训练的数据框架。",
+          "url": "https://flash.jin10.com/detail/20260219194221042800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
         },
         {
           "title": "美国财政部：2月份财政部将陆续发布一套与业界及联邦、州级监管合作伙伴共同开发的六项资源，旨在确保人工智能在整个美国金融体系中的安全性和韧性。",
