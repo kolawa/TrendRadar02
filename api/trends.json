@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T22:29:49.207989+08:00",
-  "total_titles_processed": 1432,
+  "generated_at": "2026-02-21T23:28:30.158656+08:00",
+  "total_titles_processed": 1474,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,24 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 35,
-          "time_info": "[00时41分 ~ 22时29分]"
+          "appearance_count": 37,
+          "time_info": "[00时41分 ~ 23时28分]"
+        },
+        {
+          "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
+          "url": "https://www.cls.cn/detail/2292326",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[18时28分 ~ 23时28分]"
         },
         {
           "title": "实测Gemini 3.1 Pro",
@@ -34,23 +50,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[10时04分 ~ 22时29分]"
-        },
-        {
-          "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
-          "url": "https://www.cls.cn/detail/2292326",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时28分 ~ 22时29分]"
+          "appearance_count": 23,
+          "time_info": "[10时04分 ~ 23时28分]"
         },
         {
           "title": "日本首相施政演讲：打破“过度财政紧缩”，暂停食品消费税，加大投资AI等产业",
@@ -106,8 +107,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 35,
-          "time_info": "[00时41分 ~ 22时29分]"
+          "appearance_count": 37,
+          "time_info": "[00时41分 ~ 23时28分]"
         },
         {
           "title": "Seedance2.0春晚出圈，AI视频应用浮现哪些风口？",
@@ -194,8 +195,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 35,
-          "time_info": "[00时41分 ~ 22时29分]"
+          "appearance_count": 37,
+          "time_info": "[00时41分 ~ 23时28分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
