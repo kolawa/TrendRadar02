@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T15:35:01.992144+08:00",
-  "total_titles_processed": 1034,
+  "generated_at": "2026-02-21T16:34:37.957146+08:00",
+  "total_titles_processed": 1092,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时41分 ~ 15时35分]"
+          "appearance_count": 25,
+          "time_info": "[00时41分 ~ 16时34分]"
         },
         {
           "title": "实测Gemini 3.1 Pro",
@@ -30,8 +30,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时04分 ~ 15时35分]"
+          "appearance_count": 11,
+          "time_info": "[10时04分 ~ 16时34分]"
         },
         {
           "title": "日本首相施政演讲：打破“过度财政紧缩”，暂停食品消费税，加大投资AI等产业",
@@ -58,8 +58,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时29分 ~ 15时35分]"
+          "appearance_count": 14,
+          "time_info": "[06时29分 ~ 16时34分]"
         },
         {
           "title": "港股科技股分化：“AI新贵”受追捧，\"变现担忧\"拖累互联网巨头",
@@ -75,6 +75,19 @@
           "is_new": false,
           "appearance_count": 23,
           "time_info": "[00时41分 ~ 15时35分]"
+        },
+        {
+          "title": "莫迪举手全场欢呼 两大AI掌门人却各自握拳尴尬对峙",
+          "url": "https://www.cls.cn/detail/2291896",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 25,
+          "time_info": "[00时41分 ~ 16时34分]"
         },
         {
           "title": "Seedance2.0春晚出圈，AI视频应用浮现哪些风口？",
@@ -106,18 +119,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时41分 ~ 07时31分]"
-        },
-        {
-          "title": "莫迪举手全场欢呼 两大AI掌门人却各自握拳尴尬对峙",
-          "url": "https://www.cls.cn/detail/2291896",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时41分 ~ 15时35分]"
         },
         {
           "title": "如何看待微软 AI 负责人预测称，「未来 18 个月内，多数白领工作将被 AI 彻底替代」？",
@@ -167,11 +168,12 @@
             22,
             23,
             25,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时41分 ~ 15时35分]"
+          "appearance_count": 25,
+          "time_info": "[00时41分 ~ 16时34分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -181,11 +183,12 @@
             24,
             25,
             27,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时41分 ~ 15时35分]"
+          "appearance_count": 25,
+          "time_info": "[00时41分 ~ 16时34分]"
         },
         {
           "title": "OpenAI调整后毛利润率在2025年下滑至33%。 该公司仍然预计现金流将在2030年转正。（The Information）",
@@ -240,11 +243,23 @@
             9,
             10,
             16,
-            20
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时28分 ~ 16时34分]"
+        },
+        {
+          "title": "美媒嘲讽印度AI峰会如同闹剧",
+          "url": "https://www.toutiao.com/trending/7609182148255305259/",
+          "source": "今日头条",
+          "ranks": [
+            27
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时28分 ~ 15时35分]"
+          "time_info": "[15时34分 ~ 16时34分]"
         },
         {
           "title": "报道：英伟达接近向OpenAI投资300亿美元",
@@ -257,17 +272,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时29分 ~ 07时31分]"
-        },
-        {
-          "title": "美媒嘲讽印度AI峰会如同闹剧",
-          "url": "https://www.toutiao.com/trending/7609182148255305259/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时34分 ~ 15时35分]"
         },
         {
           "title": "OpenAI创始人点赞中国大模型",
