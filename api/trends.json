@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T06:27:31.373421+08:00",
-  "total_titles_processed": 399,
+  "generated_at": "2026-02-22T07:27:20.282435+08:00",
+  "total_titles_processed": 428,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 06时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时31分 ~ 07时27分]"
         },
         {
           "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 06时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时31分 ~ 07时27分]"
         },
         {
           "title": "实测Gemini 3.1 Pro",
@@ -38,11 +38,12 @@
             10,
             11,
             9,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 06时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时31分 ~ 07时27分]"
         },
         {
           "title": "莫迪举手全场欢呼 两大AI掌门人却各自握拳尴尬对峙",
@@ -53,8 +54,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 06时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时31分 ~ 07时27分]"
         },
         {
           "title": "印度AI峰会为何引发全球群嘲",
