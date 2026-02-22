@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T04:31:22.168360+08:00",
-  "total_titles_processed": 391,
+  "generated_at": "2026-02-23T05:27:54.324835+08:00",
+  "total_titles_processed": 413,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 04时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 05时27分]"
         },
         {
           "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 04时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 05时27分]"
         },
         {
           "title": "欢迎来到AI智能体新时代：未来不是“为人创造”，而是“为AI服务”",
@@ -38,8 +38,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 04时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 05时27分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
@@ -49,30 +49,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 04时31分]"
-        },
-        {
-          "title": "SK会长崔泰源警告：AI正在吞噬一切，今年千亿美元利润或瞬间变巨亏",
-          "url": "https://wallstreetcn.com/articles/3765949",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 04时31分]"
-        },
-        {
-          "title": "“内存荒”席卷全球，成AI竞赛关键瓶颈？又一硅谷大佬发声",
-          "url": "https://www.cls.cn/detail/2292342",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 04时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 05时27分]"
         },
         {
           "title": "如何看待当所有国产大模型都在 2026 春节撒钱抢用户时，DeepSeek 却默不作声继续奋战？",
@@ -82,11 +60,34 @@
             12,
             17,
             16,
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 05时27分]"
+        },
+        {
+          "title": "SK会长崔泰源警告：AI正在吞噬一切，今年千亿美元利润或瞬间变巨亏",
+          "url": "https://wallstreetcn.com/articles/3765949",
+          "source": "华尔街见闻",
+          "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 04时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 05时27分]"
+        },
+        {
+          "title": "“内存荒”席卷全球，成AI竞赛关键瓶颈？又一硅谷大佬发声",
+          "url": "https://www.cls.cn/detail/2292342",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 05时27分]"
         },
         {
           "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
@@ -96,8 +97,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 04时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 05时27分]"
         },
         {
           "title": "Seedance2.0重写全球AI版图",
@@ -106,11 +107,23 @@
           "ranks": [
             11,
             16,
-            17
+            17,
+            26
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 04时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 05时27分]"
+        },
+        {
+          "title": "苹果(AAPL.O)CEO库克暗示，苹果的下一个重大突破是视觉人工智能。",
+          "url": "https://flash.jin10.com/detail/20260223042917658800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时27分"
         }
       ]
     }
