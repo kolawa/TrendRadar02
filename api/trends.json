@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T17:34:11.608956+08:00",
-  "total_titles_processed": 966,
+  "generated_at": "2026-02-22T18:29:33.750483+08:00",
+  "total_titles_processed": 1020,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时31分 ~ 17时34分]"
+          "appearance_count": 29,
+          "time_info": "[00时31分 ~ 18时29分]"
         },
         {
           "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时31分 ~ 17时34分]"
+          "appearance_count": 29,
+          "time_info": "[00时31分 ~ 18时29分]"
         },
         {
           "title": "如何看待当所有国产大模型都在 2026 春节撒钱抢用户时，DeepSeek 却默不作声继续奋战？",
@@ -43,8 +43,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时51分 ~ 17时34分]"
+          "appearance_count": 13,
+          "time_info": "[12时51分 ~ 18时29分]"
         },
         {
           "title": "如果OpenAI估值8300亿美元，那谷歌该值多少？",
@@ -76,11 +76,12 @@
             13,
             12,
             14,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时31分 ~ 17时34分]"
+          "appearance_count": 29,
+          "time_info": "[00时31分 ~ 18时29分]"
         },
         {
           "title": "莫迪举手全场欢呼 两大AI掌门人却各自握拳尴尬对峙",
@@ -106,8 +107,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时14分 ~ 17时34分]"
+          "appearance_count": 15,
+          "time_info": "[10时14分 ~ 18时29分]"
         },
         {
           "title": "Seedance2.0重写全球AI版图",
@@ -119,11 +120,26 @@
             16,
             22,
             21,
-            23
+            23,
+            17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时14分 ~ 17时34分]"
+          "appearance_count": 15,
+          "time_info": "[10时14分 ~ 18时29分]"
+        },
+        {
+          "title": "表面风光之下，OpenAI的“四大困境”",
+          "url": "https://wallstreetcn.com/articles/3765945",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时37分 ~ 18时29分]"
         },
         {
           "title": "在现实生活与工作场景中，AI 给过你哪些「看似正确实则荒谬或难以落地」的回答？",
@@ -135,6 +151,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[14时51分 ~ 17时34分]"
+        },
+        {
+          "title": "欢迎来到AI智能体新时代：未来不是“为人创造”，而是“为AI服务”",
+          "url": "https://wallstreetcn.com/articles/3765948",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时35分 ~ 18时29分]"
         },
         {
           "title": "传言成真？英伟达对OpenAI的“1000亿美元投资”最终“打了三折”",
@@ -149,17 +178,16 @@
           "time_info": "[12时51分 ~ 15时38分]"
         },
         {
-          "title": "表面风光之下，OpenAI的“四大困境”",
-          "url": "https://wallstreetcn.com/articles/3765945",
-          "source": "华尔街见闻",
+          "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
+          "url": "https://www.cls.cn/detail/2292422",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            8,
-            7
+            13,
+            12
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[15时37分 ~ 17时34分]"
+          "time_info": "[16时35分 ~ 18时29分]"
         },
         {
           "title": "光谷重点企业春节不停工，开足马力忙生产，AI高速光模块订单排到四季度",
@@ -177,8 +205,8 @@
           "time_info": "[10时15分 ~ 15时38分]"
         },
         {
-          "title": "欢迎来到AI智能体新时代：未来不是“为人创造”，而是“为AI服务”",
-          "url": "https://wallstreetcn.com/articles/3765948",
+          "title": "SK会长崔泰源警告：AI正在吞噬一切，今年千亿美元利润或瞬间变巨亏",
+          "url": "https://wallstreetcn.com/articles/3765949",
           "source": "华尔街见闻",
           "ranks": [
             9,
@@ -186,29 +214,7 @@
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时35分 ~ 17时34分]"
-        },
-        {
-          "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
-          "url": "https://www.cls.cn/detail/2292422",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时35分 ~ 17时34分]"
-        },
-        {
-          "title": "SK会长崔泰源警告：AI正在吞噬一切，今年千亿美元利润或瞬间变巨亏",
-          "url": "https://wallstreetcn.com/articles/3765949",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时33分 ~ 17时34分]"
+          "time_info": "[17时33分 ~ 18时29分]"
         },
         {
           "title": "都想学英伟达“芯片换融资”，谷歌和AMD都要扶持“AI云”",
