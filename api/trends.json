@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T21:09:08.770331+08:00",
-  "total_titles_processed": 1442,
+  "generated_at": "2026-02-23T23:03:02.372760+08:00",
+  "total_titles_processed": 1553,
   "failed_sources": [],
   "trends": [
     {
@@ -31,6 +31,22 @@
           "time_info": "[00时32分 ~ 21时09分]"
         },
         {
+          "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
+          "url": "https://wallstreetcn.com/articles/3765976",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6,
+            4,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[14时11分 ~ 23时03分]"
+        },
+        {
           "title": "欢迎来到AI智能体新时代：未来不是“为人创造”，而是“为AI服务”",
           "url": "https://wallstreetcn.com/articles/3765948",
           "source": "华尔街见闻",
@@ -41,21 +57,6 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时32分 ~ 13时01分]"
-        },
-        {
-          "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
-          "url": "https://wallstreetcn.com/articles/3765976",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时11分 ~ 21时09分]"
         },
         {
           "title": "无视海外“AI恐慌”，中国市场狂炒AI赢家",
@@ -88,11 +89,40 @@
           "ranks": [
             10,
             8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[15时56分 ~ 23时03分]"
+        },
+        {
+          "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
+          "url": "https://www.cls.cn/detail/2292422",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 30,
+          "time_info": "[00时32分 ~ 23时03分]"
+        },
+        {
+          "title": "人工智能真的会让程序员在 5 年内失业吗？",
+          "url": "https://www.zhihu.com/question/617906623",
+          "source": "知乎",
+          "ranks": [
+            17,
+            12,
+            11,
             6
           ],
           "is_new": false,
           "appearance_count": 11,
-          "time_info": "[15时56分 ~ 21时09分]"
+          "time_info": "[16时54分 ~ 23时03分]"
         },
         {
           "title": "如何看待当所有国产大模型都在 2026 春节撒钱抢用户时，DeepSeek 却默不作声继续奋战？",
@@ -108,19 +138,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时32分 ~ 07时29分]"
-        },
-        {
-          "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
-          "url": "https://www.cls.cn/detail/2292422",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时32分 ~ 21时09分]"
         },
         {
           "title": "“内存荒”席卷全球，成AI竞赛关键瓶颈？又一硅谷大佬发声",
@@ -164,18 +181,29 @@
           "time_info": "[00时32分 ~ 06时28分]"
         },
         {
-          "title": "人工智能真的会让程序员在 5 年内失业吗？",
-          "url": "https://www.zhihu.com/question/617906623",
+          "title": "24 人团队研发新芯片每秒 17000 个 token，将对 AI 芯片市场带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2008557531367224108",
           "source": "知乎",
           "ranks": [
-            17,
             12,
-            11,
-            6
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时54分 ~ 21时09分]"
+          "appearance_count": 4,
+          "time_info": "[21时08分 ~ 23时03分]"
+        },
+        {
+          "title": "李公明｜一周画记：被AI聘用的人类……；马年人日的祝福",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32645173",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时41分 ~ 23时03分]"
         },
         {
           "title": "《飞驰人生 3》张弛宇强战胜 AI 加持的赛车，「人定胜 AI」思潮会成为新时代的愚公移山精神吗？",
@@ -188,18 +216,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[15时56分 ~ 17时58分]"
-        },
-        {
-          "title": "李公明｜一周画记：被AI聘用的人类……；马年人日的祝福",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32645173",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时41分 ~ 21时09分]"
         },
         {
           "title": "受惠于AI热潮 泰国出口创四年来最大增幅",
@@ -224,17 +240,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时27分 ~ 06时28分]"
-        },
-        {
-          "title": "24 人团队研发新芯片每秒 17000 个 token，将对 AI 芯片市场带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2008557531367224108",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时08分 ~ 21时09分]"
         },
         {
           "title": "SK海力士董事长承诺提高人工智能内存芯片产量",
