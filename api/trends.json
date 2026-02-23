@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T19:42:38.734337+08:00",
-  "total_titles_processed": 1341,
+  "generated_at": "2026-02-23T21:09:08.770331+08:00",
+  "total_titles_processed": 1442,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时32分 ~ 19时42分]"
+          "appearance_count": 30,
+          "time_info": "[00时32分 ~ 21时09分]"
         },
         {
           "title": "欢迎来到AI智能体新时代：未来不是“为人创造”，而是“为AI服务”",
@@ -50,11 +50,12 @@
             9,
             7,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时11分 ~ 19时42分]"
+          "appearance_count": 13,
+          "time_info": "[14时11分 ~ 21时09分]"
         },
         {
           "title": "无视海外“AI恐慌”，中国市场狂炒AI赢家",
@@ -81,6 +82,19 @@
           "time_info": "[00时32分 ~ 10时23分]"
         },
         {
+          "title": "高盛评\"春晚机器人\"：硬件显著进步，推动应用普及，未来关键是底层AI",
+          "url": "https://wallstreetcn.com/articles/3765970",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[15时56分 ~ 21时09分]"
+        },
+        {
           "title": "如何看待当所有国产大模型都在 2026 春节撒钱抢用户时，DeepSeek 却默不作声继续奋战？",
           "url": "https://www.zhihu.com/question/2004982651719812885",
           "source": "知乎",
@@ -96,6 +110,19 @@
           "time_info": "[00时32分 ~ 07时29分]"
         },
         {
+          "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
+          "url": "https://www.cls.cn/detail/2292422",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 28,
+          "time_info": "[00时32分 ~ 21时09分]"
+        },
+        {
           "title": "“内存荒”席卷全球，成AI竞赛关键瓶颈？又一硅谷大佬发声",
           "url": "https://www.cls.cn/detail/2292342",
           "source": "财联社热门",
@@ -103,23 +130,12 @@
             10,
             13,
             12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时32分 ~ 19时42分]"
-        },
-        {
-          "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
-          "url": "https://www.cls.cn/detail/2292422",
-          "source": "财联社热门",
-          "ranks": [
             11,
-            10
+            9
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时32分 ~ 19时42分]"
+          "appearance_count": 30,
+          "time_info": "[00时32分 ~ 21时09分]"
         },
         {
           "title": "SK会长崔泰源警告：AI正在吞噬一切，今年千亿美元利润或瞬间变巨亏",
@@ -148,19 +164,6 @@
           "time_info": "[00时32分 ~ 06时28分]"
         },
         {
-          "title": "高盛评\"春晚机器人\"：硬件显著进步，推动应用普及，未来关键是底层AI",
-          "url": "https://wallstreetcn.com/articles/3765970",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时56分 ~ 19时42分]"
-        },
-        {
           "title": "人工智能真的会让程序员在 5 年内失业吗？",
           "url": "https://www.zhihu.com/question/617906623",
           "source": "知乎",
@@ -171,8 +174,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时54分 ~ 19时42分]"
+          "appearance_count": 9,
+          "time_info": "[16时54分 ~ 21时09分]"
         },
         {
           "title": "《飞驰人生 3》张弛宇强战胜 AI 加持的赛车，「人定胜 AI」思潮会成为新时代的愚公移山精神吗？",
@@ -185,6 +188,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[15时56分 ~ 17时58分]"
+        },
+        {
+          "title": "李公明｜一周画记：被AI聘用的人类……；马年人日的祝福",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32645173",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时41分 ~ 21时09分]"
         },
         {
           "title": "受惠于AI热潮 泰国出口创四年来最大增幅",
@@ -211,6 +226,17 @@
           "time_info": "[05时27分 ~ 06时28分]"
         },
         {
+          "title": "24 人团队研发新芯片每秒 17000 个 token，将对 AI 芯片市场带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2008557531367224108",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 21时09分]"
+        },
+        {
           "title": "SK海力士董事长承诺提高人工智能内存芯片产量",
           "url": "https://flash.jin10.com/detail/20260223122126699800",
           "source": "金十数据",
@@ -233,17 +259,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时01分 ~ 14时12分]"
-        },
-        {
-          "title": "李公明｜一周画记：被AI聘用的人类……；马年人日的祝福",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32645173",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时41分 ~ 19时42分]"
         },
         {
           "title": "博主：《飞驰人生3》韩寒沈腾战胜AI焦虑",
@@ -285,7 +300,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         }
