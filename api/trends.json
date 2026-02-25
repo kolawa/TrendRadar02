@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T21:09:06.145520+08:00",
-  "total_titles_processed": 1700,
+  "generated_at": "2026-02-25T22:52:37.541183+08:00",
+  "total_titles_processed": 1837,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 71,
+      "match_count": 77,
       "titles": [
         {
           "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时34分 ~ 21时09分]"
+          "appearance_count": 18,
+          "time_info": "[07时34分 ~ 22时52分]"
         },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -75,8 +75,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[03时29分 ~ 21时09分]"
+          "appearance_count": 25,
+          "time_info": "[03时29分 ~ 22时52分]"
         },
         {
           "title": "个人“手搓”AI股票分析助手热潮掀起，全民投研时代要到来了？",
@@ -175,8 +175,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时54分 ~ 21时09分]"
+          "appearance_count": 15,
+          "time_info": "[12时54分 ~ 22时52分]"
         },
         {
           "title": "“AI末日”报告暗示亚洲科技股有望成赢家，作者点名MiniMax与智谱",
@@ -399,6 +399,18 @@
           "time_info": "[05时07分 ~ 05时38分]"
         },
         {
+          "title": "韩女子用AI精密策划诱杀致2死1伤",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%A5%B3%E5%AD%90%E7%94%A8AI%E7%B2%BE%E5%AF%86%E7%AD%96%E5%88%92%E8%AF%B1%E6%9D%80%E8%87%B42%E6%AD%BB1%E4%BC%A4",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时08分 ~ 22时52分]"
+        },
+        {
           "title": "AI短片 马上好",
           "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%20%E9%A9%AC%E4%B8%8A%E5%A5%BD",
           "source": "bilibili 热搜",
@@ -468,17 +480,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时51分 ~ 07时34分]"
-        },
-        {
-          "title": "韩女子用AI精密策划诱杀致2死1伤",
-          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%A5%B3%E5%AD%90%E7%94%A8AI%E7%B2%BE%E5%AF%86%E7%AD%96%E5%88%92%E8%AF%B1%E6%9D%80%E8%87%B42%E6%AD%BB1%E4%BC%A4",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时08分 ~ 21时09分]"
         },
         {
           "title": "“AI灭霸”Anthropic与“受害股”合作推出智能体 软件板块集体回血",
@@ -595,6 +596,17 @@
           "time_info": "05时38分"
         },
         {
+          "title": "戴尔(DELL.N)推出PowerEdge XR9700服务器，面向云无线接入网 (Cloud RAN) 和边缘人工智能 (Edge AI) 。",
+          "url": "https://flash.jin10.com/detail/20260225222134762800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
           "title": "AI恐慌暂歇，欧股涨至历史新高，日本长债收益率集体飙升，现货黄金日内涨超1%",
           "url": "https://wallstreetcn.com/articles/3766102",
           "source": "华尔街见闻",
@@ -634,9 +646,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
+        },
+        {
+          "title": "SoundHound AI Inc.在Bengaluru（印度班加罗尔）成立新的创新中心。",
+          "url": "https://wallstreetcn.com/livenews/3058919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "美联储柯林斯：对人工智能的经济影响持谨慎乐观态度。",
@@ -692,6 +715,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
+        },
+        {
+          "title": "市场消息：墨西哥选举改革将要求在竞选活动中对人工智能生成内容进行标识。",
+          "url": "https://flash.jin10.com/detail/20260225220244476800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "美国国防部长“战争部”部长Hegseth就人工智能（AI）保障措施向Anthropic提供的最后期限为周五。 Hegseth告知该公司CEO Amodei，五角大楼可能会援引《国防生产法案》（DPA）。（Axios）",
@@ -771,13 +805,24 @@
           "time_info": "03时29分"
         },
         {
+          "title": "荷兰国际：逃离人工智能动荡的投资者可能转向欧元债券",
+          "url": "https://flash.jin10.com/detail/20260225214840051800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
           "title": "摩根士丹利：人工智能恐慌为选股者带来机遇",
           "url": "https://flash.jin10.com/detail/20260225205413823800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         },
@@ -802,6 +847,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
+        },
+        {
+          "title": "城堡证券反驳Citrini报告 认为人工智能不太可能引发大规模失业",
+          "url": "https://wallstreetcn.com/livenews/3058897",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "谷歌AI Avatars和AI Voiceovers新增七种语言。 其中包括法语、德语、意大利语、葡萄牙语、西班牙语、韩语、日语。 此前，只适用于英语。",
@@ -835,6 +891,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时29分"
+        },
+        {
+          "title": "德银与高盛寻求借助人工智能“盯防”交易员不当行为",
+          "url": "https://wallstreetcn.com/livenews/3058893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "AI助盲眼镜成出行神器",
