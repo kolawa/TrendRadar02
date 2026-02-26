@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T19:42:17.470328+08:00",
-  "total_titles_processed": 1659,
+  "generated_at": "2026-02-26T21:10:30.239991+08:00",
+  "total_titles_processed": 1779,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 65,
+      "match_count": 68,
       "titles": [
         {
           "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时52分 ~ 19时42分]"
+          "appearance_count": 13,
+          "time_info": "[12时52分 ~ 21时10分]"
         },
         {
           "title": "英伟达电话会：黄仁勋高呼代理AI拐点已至，“推理即收入”，看好未来太空数据中心",
@@ -42,8 +42,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时52分 ~ 19时42分]"
+          "appearance_count": 13,
+          "time_info": "[12时52分 ~ 21时10分]"
         },
         {
           "title": "如何评价文章「文科生 72 小时杀入 GitHub 全球榜：我没写一行代码但指挥了一支 AI 军队」？",
@@ -104,11 +104,25 @@
           "url": "https://www.cls.cn/detail/2295732",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时53分 ~ 19时42分]"
+          "appearance_count": 8,
+          "time_info": "[17时53分 ~ 21时10分]"
+        },
+        {
+          "title": "椭圆变速版see you again",
+          "url": "https://search.bilibili.com/all?keyword=%E6%A4%AD%E5%9C%86%E5%8F%98%E9%80%9F%E7%89%88see%20you%20again",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时52分 ~ 21时10分]"
         },
         {
           "title": "韩女子用AI精密策划诱杀致2死1伤",
@@ -122,19 +136,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时05分 ~ 07时31分]"
-        },
-        {
-          "title": "椭圆变速版see you again",
-          "url": "https://search.bilibili.com/all?keyword=%E6%A4%AD%E5%9C%86%E5%8F%98%E9%80%9F%E7%89%88see%20you%20again",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时52分 ~ 19时42分]"
         },
         {
           "title": "英伟达大秀下一代AI系统Vera Rubin内部细节 每瓦性能提高10倍",
@@ -177,6 +178,17 @@
           "time_info": "[12时52分 ~ 19时42分]"
         },
         {
+          "title": "AI编程迎来热潮！华为、阿里加码，未来人人可成为开发者",
+          "url": "https://www.cls.cn/detail/2296230",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时10分]"
+        },
+        {
           "title": "美联储Barkin：利率政策无法解决人工智能（AI）造成的干扰。",
           "url": "https://wallstreetcn.com/livenews/3058971",
           "source": "华尔街见闻-快讯",
@@ -186,6 +198,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时06分"
+        },
+        {
+          "title": "【每日收评】三大指数震荡分化涨跌不一，AI算力链卷土重来，周期股分化加剧",
+          "url": "https://www.cls.cn/detail/2295977",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时53分 ~ 21时10分]"
         },
         {
           "title": "美联储巴尔金：美联储职责范围有限，可或许并不能解决在人工智能环境下企业兴衰起伏所引发的问题。",
@@ -210,17 +234,6 @@
           "time_info": "00时06分"
         },
         {
-          "title": "中国AI调用量首超美国，四款大模型霸榜全球前五",
-          "url": "https://wallstreetcn.com/livenews/3059542",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时42分"
-        },
-        {
           "title": "英伟达CEO黄仁勋：公司即将与OpenAI达成合作协议。",
           "url": "https://flash.jin10.com/detail/20260226062302497800",
           "source": "金十数据",
@@ -230,17 +243,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
-        },
-        {
-          "title": "浙江：建强中德合作平台 在汽车、机械制造、化工及人工智能、绿色低碳等领域加强双向投资",
-          "url": "https://wallstreetcn.com/livenews/3059541",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时42分"
         },
         {
           "title": "谷歌(GOOG.O)：聊天功能现已作为数据源在Gemini应用中可用。",
@@ -290,16 +292,28 @@
           "time_info": "[05时37分 ~ 06时36分]"
         },
         {
-          "title": "【每日收评】三大指数震荡分化涨跌不一，AI算力链卷土重来，周期股分化加剧",
-          "url": "https://www.cls.cn/detail/2295977",
-          "source": "财联社热门",
+          "title": "中国AI调用量首超美国，四款大模型霸榜全球前五",
+          "url": "https://wallstreetcn.com/livenews/3059542",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            12
+            2,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时53分 ~ 19时42分]"
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 21时10分]"
+        },
+        {
+          "title": "浙江：建强中德合作平台 在汽车、机械制造、化工及人工智能、绿色低碳等领域加强双向投资",
+          "url": "https://wallstreetcn.com/livenews/3059541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 21时10分]"
         },
         {
           "title": "如何看待 Anthropic 用 AI 改写代码致 IBM 大跌？将对软件外包和咨询行业带来哪些影响？",
@@ -323,6 +337,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时38分 ~ 05时37分]"
+        },
+        {
+          "title": "中国AI调用量首次超过美国",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BDAI%E8%B0%83%E7%94%A8%E9%87%8F%E9%A6%96%E6%AC%A1%E8%B6%85%E8%BF%87%E7%BE%8E%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时10分]"
         },
         {
           "title": "英伟达电话会：黄仁勋高呼代理AI拐点已至，“推理即收入”，当前的太空数据中心经济还是“贫瘠的”",
@@ -522,7 +547,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -621,9 +646,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
+        },
+        {
+          "title": "湖南：加快数字化升级改造 深入实施“人工智能+”“智赋万企”行动",
+          "url": "https://wallstreetcn.com/livenews/3059550",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
         },
         {
           "title": "据华尔街日报：知情人士称，Thrive行使了一项被称为“看涨期权”的投资权利。Thrive以远低于当前估值的价格收购了OpenAI的股份。",
@@ -753,7 +789,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         }
