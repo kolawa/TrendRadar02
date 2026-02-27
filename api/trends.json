@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-28T04:30:58.451519+08:00",
-  "total_titles_processed": 552,
+  "generated_at": "2026-02-28T05:32:45.827168+08:00",
+  "total_titles_processed": 601,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "超预期PPI打压降息预期，AI担忧发酵，美股指集体低开，金银油携手大涨，美债上扬，人民币贬近150点",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时42分 ~ 04时30分]"
+          "appearance_count": 9,
+          "time_info": "[00时42分 ~ 05时32分]"
         },
         {
           "title": "Block裁员近半，飙升24%！CEO：AI提升效率，未来一年大多公司会做类似调整",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时42分 ~ 04时30分]"
+          "appearance_count": 9,
+          "time_info": "[00时42分 ~ 05时32分]"
         },
         {
           "title": "AI的未来，马克思已经预言了？",
@@ -38,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时42分 ~ 04时30分]"
+          "appearance_count": 9,
+          "time_info": "[00时42分 ~ 05时32分]"
         },
         {
           "title": "AI泡沫担忧升温！英伟达财报超预期股价却盘中重挫5.7%，创三个月最大盘中跌幅",
@@ -50,8 +50,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时42分 ~ 04时30分]"
+          "appearance_count": 9,
+          "time_info": "[00时42分 ~ 05时32分]"
         },
         {
           "title": "澎湃漫评｜警惕！别被“AI孙子”骗了",
@@ -62,19 +62,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时42分 ~ 04时30分]"
+          "appearance_count": 9,
+          "time_info": "[00时42分 ~ 05时32分]"
         },
         {
           "title": "OpenAI获1100亿美元投资",
           "url": "https://www.baidu.com/s?wd=OpenAI%E8%8E%B71100%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84",
           "source": "百度热搜",
           "ranks": [
-            25
+            25,
+            24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时42分 ~ 04时30分]"
+          "appearance_count": 9,
+          "time_info": "[00时42分 ~ 05时32分]"
         },
         {
           "title": "三星之后是苹果！谷歌Gemini智能体API优先 AI手机入口之争将破局？",
@@ -85,8 +86,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 04时30分]"
+          "appearance_count": 8,
+          "time_info": "[00时42分 ~ 05时32分]"
         },
         {
           "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
@@ -97,8 +98,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时38分 ~ 04时30分]"
+          "appearance_count": 7,
+          "time_info": "[01时38分 ~ 05时32分]"
         },
         {
           "title": "椭圆变速版see you again",
@@ -107,11 +108,12 @@
           "ranks": [
             18,
             19,
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时42分 ~ 03时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 05时32分]"
         },
         {
           "title": "美国参议院要求五角大楼与Anthropic解决（与人工智能/AI权限相关的）争端。（Axios）",
@@ -139,6 +141,17 @@
           "time_info": "[03时35分 ~ 04时30分]"
         },
         {
+          "title": "中国AI调用量超越美国",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BDAI%E8%B0%83%E7%94%A8%E9%87%8F%E8%B6%85%E8%B6%8A%E7%BE%8E%E5%9B%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时29分 ~ 05时32分]"
+        },
+        {
           "title": "消息人士：布鲁克菲尔德旗下新的人工智能部门Radiant在与英国初创公司Ori合并后，估值达到13亿美元。",
           "url": "https://flash.jin10.com/detail/20260228030148266800",
           "source": "金十数据",
@@ -163,15 +176,26 @@
           "time_info": "[00时43分 ~ 01时38分]"
         },
         {
-          "title": "中国AI调用量超越美国",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BDAI%E8%B0%83%E7%94%A8%E9%87%8F%E8%B6%85%E8%B6%8A%E7%BE%8E%E5%9B%BD",
-          "source": "bilibili 热搜",
+          "title": "市场消息：黑石计划成立上市公司，专注于收购人工智能数据中心。",
+          "url": "https://flash.jin10.com/detail/20260228044640466800",
+          "source": "金十数据",
           "ranks": [
-            24
+            8
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时29分 ~ 04时30分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
+          "title": "估值7300亿美元！OpenAI完成1100亿美元融资，亚马逊投了500亿",
+          "url": "https://wallstreetcn.com/articles/3766389",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
         },
         {
           "title": "美国民主党参议员凯利：（谈Anthropic）国会必须采取行动监管人工智能，保护美国民众。",
