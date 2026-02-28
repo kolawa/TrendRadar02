@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-28T18:26:49.217858+08:00",
-  "total_titles_processed": 1645,
+  "generated_at": "2026-02-28T19:22:07.493916+08:00",
+  "total_titles_processed": 1754,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
         {
           "title": "超预期PPI打压降息预期，AI担忧发酵，美股指集体低开，金银油携手大涨，美债上扬，人民币贬近150点",
@@ -80,8 +80,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[05时32分 ~ 18时26分]"
+          "appearance_count": 20,
+          "time_info": "[05时32分 ~ 19时22分]"
         },
         {
           "title": "澎湃漫评｜警惕！别被“AI孙子”骗了",
@@ -95,8 +95,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时42分 ~ 18时26分]"
+          "appearance_count": 28,
+          "time_info": "[00时42分 ~ 19时22分]"
         },
         {
           "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
@@ -114,6 +114,20 @@
           "time_info": "[01时38分 ~ 15时30分]"
         },
         {
+          "title": "美国政府大战AI明星公司 NASA调整载人登月计划 | 环球市场",
+          "url": "https://www.cls.cn/detail/2297921",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[09时58分 ~ 19时22分]"
+        },
+        {
           "title": "中国 AI 调用量首超美国，国产算力电力大涨，英伟达市值一夜蒸发 2600 亿美元，如何解读背后市场信号？",
           "url": "https://www.zhihu.com/question/2010773992567481420",
           "source": "知乎",
@@ -122,24 +136,12 @@
             12,
             9,
             8,
-            17
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时01分 ~ 17时29分]"
-        },
-        {
-          "title": "美国政府大战AI明星公司 NASA调整载人登月计划 | 环球市场",
-          "url": "https://www.cls.cn/detail/2297921",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时58分 ~ 18时26分]"
+          "appearance_count": 14,
+          "time_info": "[12时01分 ~ 19时22分]"
         },
         {
           "title": "三星之后是苹果！谷歌Gemini智能体API优先 AI手机入口之争将破局？",
@@ -184,6 +186,19 @@
           "time_info": "[00时42分 ~ 07时27分]"
         },
         {
+          "title": "AI冲击之下，新一轮“次贷危机”来了？",
+          "url": "https://wallstreetcn.com/articles/3766407",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时29分 ~ 19时22分]"
+        },
+        {
           "title": "AI泡沫担忧升温！英伟达财报超预期股价却盘中重挫5.7%，创三个月最大盘中跌幅",
           "url": "https://wallstreetcn.com/articles/3766293",
           "source": "华尔街见闻",
@@ -196,17 +211,17 @@
           "time_info": "[00时42分 ~ 05时32分]"
         },
         {
-          "title": "AI冲击之下，新一轮“次贷危机”来了？",
-          "url": "https://wallstreetcn.com/articles/3766407",
-          "source": "华尔街见闻",
+          "title": "解读OpenAI获千亿美元投资背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
           "ranks": [
-            9,
-            7,
-            5
+            8,
+            16,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时29分 ~ 18时26分]"
+          "appearance_count": 9,
+          "time_info": "[14时41分 ~ 19时22分]"
         },
         {
           "title": "AI提供的虚拟微信号加到了真人",
@@ -223,16 +238,16 @@
           "time_info": "[12时01分 ~ 13时42分]"
         },
         {
-          "title": "解读OpenAI获千亿美元投资背后",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
+          "title": "证监会外资座谈释放信号 财联社实探外资圈：对中国资产告别观望，主动增配！AI投资暗藏新逻辑",
+          "url": "https://www.cls.cn/detail/2298037",
+          "source": "财联社热门",
           "ranks": [
-            8,
-            16
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时41分 ~ 18时26分]"
+          "appearance_count": 6,
+          "time_info": "[16时32分 ~ 19时22分]"
         },
         {
           "title": "英伟达计划推出新芯片以加快AI处理速度",
@@ -323,18 +338,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时27分 ~ 09时59分]"
-        },
-        {
-          "title": "证监会外资座谈释放信号 财联社实探外资圈：对中国资产告别观望，主动增配！AI投资暗藏新逻辑",
-          "url": "https://www.cls.cn/detail/2298037",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时32分 ~ 18时26分]"
         },
         {
           "title": "AI算力需求驱动光纤行业步入景气周期",
@@ -447,6 +450,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时02分 ~ 13时02分]"
+        },
+        {
+          "title": "AI界的“冰火两重天”：Anthropic刚被封杀 OpenAI就拿下了五角大楼",
+          "url": "https://www.cls.cn/detail/2298126",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时21分 ~ 19时22分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：我们要求美国国防部向所有人工智能公司提供这些相同条款，我们认为每个人都应该愿意接受。",
