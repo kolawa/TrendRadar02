@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T17:29:19.797016+08:00",
-  "total_titles_processed": 1527,
+  "generated_at": "2026-02-28T18:26:49.217858+08:00",
+  "total_titles_processed": 1645,
   "failed_sources": [],
   "trends": [
     {
@@ -80,8 +80,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[05时32分 ~ 17时29分]"
+          "appearance_count": 18,
+          "time_info": "[05时32分 ~ 18时26分]"
         },
         {
           "title": "澎湃漫评｜警惕！别被“AI孙子”骗了",
@@ -91,11 +91,12 @@
             12,
             11,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时42分 ~ 17时29分]"
+          "appearance_count": 26,
+          "time_info": "[00时42分 ~ 18时26分]"
         },
         {
           "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
@@ -137,8 +138,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时58分 ~ 17时29分]"
+          "appearance_count": 15,
+          "time_info": "[09时58分 ~ 18时26分]"
         },
         {
           "title": "三星之后是苹果！谷歌Gemini智能体API优先 AI手机入口之争将破局？",
@@ -195,6 +196,19 @@
           "time_info": "[00时42分 ~ 05时32分]"
         },
         {
+          "title": "AI冲击之下，新一轮“次贷危机”来了？",
+          "url": "https://wallstreetcn.com/articles/3766407",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时29分 ~ 18时26分]"
+        },
+        {
           "title": "AI提供的虚拟微信号加到了真人",
           "url": "https://www.baidu.com/s?wd=AI%E6%8F%90%E4%BE%9B%E7%9A%84%E8%99%9A%E6%8B%9F%E5%BE%AE%E4%BF%A1%E5%8F%B7%E5%8A%A0%E5%88%B0%E4%BA%86%E7%9C%9F%E4%BA%BA",
           "source": "百度热搜",
@@ -217,20 +231,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时41分 ~ 17时29分]"
-        },
-        {
-          "title": "AI冲击之下，新一轮“次贷危机”来了？",
-          "url": "https://wallstreetcn.com/articles/3766407",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时29分 ~ 17时29分]"
+          "appearance_count": 7,
+          "time_info": "[14时41分 ~ 18时26分]"
         },
         {
           "title": "英伟达计划推出新芯片以加快AI处理速度",
@@ -323,6 +325,18 @@
           "time_info": "[07时27分 ~ 09时59分]"
         },
         {
+          "title": "证监会外资座谈释放信号 财联社实探外资圈：对中国资产告别观望，主动增配！AI投资暗藏新逻辑",
+          "url": "https://www.cls.cn/detail/2298037",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时32分 ~ 18时26分]"
+        },
+        {
           "title": "AI算力需求驱动光纤行业步入景气周期",
           "url": "https://wallstreetcn.com/livenews/3060569",
           "source": "华尔街见闻-快讯",
@@ -373,17 +387,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时02分 ~ 14时41分]"
-        },
-        {
-          "title": "证监会外资座谈释放信号 财联社实探外资圈：对中国资产告别观望，主动增配！AI投资暗藏新逻辑",
-          "url": "https://www.cls.cn/detail/2298037",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时32分 ~ 17时29分]"
         },
         {
           "title": "消息人士：布鲁克菲尔德旗下新的人工智能部门Radiant在与英国初创公司Ori合并后，估值达到13亿美元。",
