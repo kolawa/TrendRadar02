@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-02T02:37:29.791070+08:00",
-  "total_titles_processed": 410,
+  "generated_at": "2026-03-02T03:24:53.227871+08:00",
+  "total_titles_processed": 452,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             17,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 02时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 03时24分]"
         },
         {
           "title": "AI短剧",
@@ -29,8 +30,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 02时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 03时24分]"
         }
       ]
     }
