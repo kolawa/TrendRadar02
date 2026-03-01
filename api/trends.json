@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T22:27:06.556200+08:00",
-  "total_titles_processed": 1762,
+  "generated_at": "2026-03-01T23:27:05.777312+08:00",
+  "total_titles_processed": 1825,
   "failed_sources": [],
   "trends": [
     {
@@ -61,8 +61,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 35,
-          "time_info": "[00时29分 ~ 22时27分]"
+          "appearance_count": 37,
+          "time_info": "[00时29分 ~ 23时27分]"
         },
         {
           "title": "最新AI军事模拟：95%对局发射核弹",
@@ -104,6 +104,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时29分 ~ 06时25分]"
+        },
+        {
+          "title": "AI短剧",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[21时40分 ~ 23时27分]"
         },
         {
           "title": "Block 裁员近半并称「大多数公司动作太慢」，AI 技术变革是否正加速行业洗牌？",
@@ -153,18 +166,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时25分 ~ 07时25分]"
-        },
-        {
-          "title": "AI短剧",
-          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时40分 ~ 22时27分]"
         },
         {
           "title": "荣耀发布人形机器人与“机器人手机”，押注AI硬件转型",
