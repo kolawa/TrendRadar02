@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T13:55:13.174687+08:00",
-  "total_titles_processed": 1090,
+  "generated_at": "2026-03-02T15:02:28.796317+08:00",
+  "total_titles_processed": 1204,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "解读OpenAI获千亿美元投资背后",
@@ -60,6 +60,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时31分 ~ 07时27分]"
+        },
+        {
+          "title": "千问AI眼镜开启预约",
+          "url": "https://www.toutiao.com/trending/7612431152581967913/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时01分 ~ 15时02分]"
         },
         {
           "title": "刘美含吐槽5家AI答案不一样",
