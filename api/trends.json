@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T15:45:09.296579+08:00",
-  "total_titles_processed": 1330,
+  "generated_at": "2026-03-03T16:44:22.540216+08:00",
+  "total_titles_processed": 1449,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 45,
+      "match_count": 48,
       "titles": [
         {
           "title": "马上评｜如何看待学生作业中的“AI味儿”",
@@ -52,11 +52,25 @@
           "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%82%E6%88%98%E5%AF%B9%E4%BC%8A%E7%A9%BA%E8%A2%AD",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时48分 ~ 15时45分]"
+          "appearance_count": 8,
+          "time_info": "[12时48分 ~ 16时44分]"
+        },
+        {
+          "title": "苹果发布iPhone 17e与新款iPad Air，定价不变主打中端市场",
+          "url": "https://wallstreetcn.com/articles/3766555",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时13分 ~ 16时44分]"
         },
         {
           "title": "演员王劲松遭 AI 盗用形象生成视频，如何界定 AI 侵权，普通人该如何防范？",
@@ -105,19 +119,6 @@
           "time_info": "[02时52分 ~ 07时28分]"
         },
         {
-          "title": "苹果发布iPhone 17e与新款iPad Air，定价不变主打中端市场",
-          "url": "https://wallstreetcn.com/articles/3766555",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时13分 ~ 15时45分]"
-        },
-        {
           "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
           "url": "https://www.cls.cn/detail/2299598",
           "source": "财联社热门",
@@ -138,6 +139,31 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "如何评价 Apple 在 3 月 2 日 晚更新的 iPad Air M4，有哪些细节值得关注？",
+          "url": "https://www.zhihu.com/question/2011932852577650327",
+          "source": "知乎",
+          "ranks": [
+            20,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时52分 ~ 16时44分]"
+        },
+        {
+          "title": "AI生成 男女身高",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%94%9F%E6%88%90%20%E7%94%B7%E5%A5%B3%E8%BA%AB%E9%AB%98&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时55分 ~ 16时44分]"
         },
         {
           "title": "摩根大通CEO戴蒙：人工智能（AI）可以将工作时长缩短至一周四天。 政府应该对使用AI的人设置年龄限制。 推动AI不会造成“赢家通吃”的局面。",
@@ -226,18 +252,6 @@
           "time_info": "[01时47分 ~ 02时53分]"
         },
         {
-          "title": "如何评价 Apple 在 3 月 2 日 晚更新的 iPad Air M4，有哪些细节值得关注？",
-          "url": "https://www.zhihu.com/question/2011932852577650327",
-          "source": "知乎",
-          "ranks": [
-            20,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时52分 ~ 15时45分]"
-        },
-        {
           "title": "中东战云密布，A股波澜不惊？十大基金公司解盘：黄金、原油、AI谁主沉浮",
           "url": "https://www.cls.cn/detail/2300191",
           "source": "财联社热门",
@@ -248,17 +262,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时28分 ~ 10时14分]"
-        },
-        {
-          "title": "AI生成 男女身高",
-          "url": "https://s.weibo.com/weibo?q=AI%E7%94%9F%E6%88%90%20%E7%94%B7%E5%A5%B3%E8%BA%AB%E9%AB%98&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时55分 ~ 15时45分]"
         },
         {
           "title": "Anthropic：已经处理好Claude Opus 4.6出现的错误。 正调查Claude.AI中出错率偏高这个问题。",
@@ -309,6 +312,17 @@
           "time_info": "[04时40分 ~ 05时37分]"
         },
         {
+          "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
+          "url": "https://www.cls.cn/detail/2300871",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时43分 ~ 16时44分]"
+        },
+        {
           "title": "市场消息：AMD的MI325芯片将被纳入美国AI加速器出口限制范围。",
           "url": "https://flash.jin10.com/detail/20260303055516565800",
           "source": "金十数据",
@@ -342,6 +356,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时13分 ~ 10时14分]"
+        },
+        {
+          "title": "从哈梅内伊遇袭看AI如何卷入真实战争｜907编辑部",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32684579",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时43分 ~ 16时44分]"
+        },
+        {
+          "title": "冲万亿的扬州首开人工智能发展大会，党政主官现场演示AI",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32684560",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时43分 ~ 16时44分]"
         },
         {
           "title": "财晓得丨播放量暴涨181倍！AI漫剧狂飙背后：资本涌入和版权争议",
@@ -450,7 +486,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时45分"
         },
@@ -538,7 +574,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时45分"
         }
