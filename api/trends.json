@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-03-03T16:44:22.540216+08:00",
-  "total_titles_processed": 1449,
+  "generated_at": "2026-03-03T17:44:25.126330+08:00",
+  "total_titles_processed": 1565,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
       "match_count": 48,
       "titles": [
+        {
+          "title": "AI参战对伊空袭",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%82%E6%88%98%E5%AF%B9%E4%BC%8A%E7%A9%BA%E8%A2%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时48分 ~ 17时44分]"
+        },
         {
           "title": "马上评｜如何看待学生作业中的“AI味儿”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32683027",
@@ -48,18 +60,6 @@
           "time_info": "[00时52分 ~ 07时28分]"
         },
         {
-          "title": "AI参战对伊空袭",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%82%E6%88%98%E5%AF%B9%E4%BC%8A%E7%A9%BA%E8%A2%AD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时48分 ~ 16时44分]"
-        },
-        {
           "title": "苹果发布iPhone 17e与新款iPad Air，定价不变主打中端市场",
           "url": "https://wallstreetcn.com/articles/3766555",
           "source": "华尔街见闻",
@@ -69,8 +69,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时13分 ~ 16时44分]"
+          "appearance_count": 12,
+          "time_info": "[10时13分 ~ 17时44分]"
         },
         {
           "title": "演员王劲松遭 AI 盗用形象生成视频，如何界定 AI 侵权，普通人该如何防范？",
@@ -204,6 +204,18 @@
           "time_info": "[12时48分 ~ 14时55分]"
         },
         {
+          "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
+          "url": "https://www.cls.cn/detail/2300871",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时43分 ~ 17时44分]"
+        },
+        {
           "title": "Anthropic：Claude.AI中出错率偏高这个问题得到解决。",
           "url": "https://wallstreetcn.com/livenews/3062084",
           "source": "华尔街见闻-快讯",
@@ -310,17 +322,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时40分 ~ 05时37分]"
-        },
-        {
-          "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
-          "url": "https://www.cls.cn/detail/2300871",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时43分 ~ 16时44分]"
         },
         {
           "title": "市场消息：AMD的MI325芯片将被纳入美国AI加速器出口限制范围。",
