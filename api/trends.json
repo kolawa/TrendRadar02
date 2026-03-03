@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T18:42:15.001637+08:00",
-  "total_titles_processed": 1677,
+  "generated_at": "2026-03-03T19:34:48.905232+08:00",
+  "total_titles_processed": 1768,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 49,
+      "match_count": 50,
       "titles": [
         {
           "title": "马上评｜如何看待学生作业中的“AI味儿”",
@@ -70,8 +70,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时13分 ~ 18时42分]"
+          "appearance_count": 15,
+          "time_info": "[10时13分 ~ 19时34分]"
         },
         {
           "title": "演员王劲松遭 AI 盗用形象生成视频，如何界定 AI 侵权，普通人该如何防范？",
@@ -120,6 +120,19 @@
           "time_info": "[02时52分 ~ 07时28分]"
         },
         {
+          "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
+          "url": "https://www.cls.cn/detail/2300871",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时43分 ~ 19时34分]"
+        },
+        {
           "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
           "url": "https://www.cls.cn/detail/2299598",
           "source": "财联社热门",
@@ -129,18 +142,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时52分 ~ 01时47分]"
-        },
-        {
-          "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
-          "url": "https://www.cls.cn/detail/2300871",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时43分 ~ 18时42分]"
         },
         {
           "title": "华为首次在海外展出全液冷AI超节点",
@@ -405,6 +406,17 @@
           "time_info": "[05时37分 ~ 07时28分]"
         },
         {
+          "title": "AI加剧“电荒” 美国电网将迎史诗级扩建 750亿美元聚焦“超高压”输电",
+          "url": "https://www.cls.cn/detail/2301441",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时34分"
+        },
+        {
           "title": "日本央行行长植田和男：为了使新时代的金融生态系统（特点是通过AI和区块链的融合产生新的金融服务）得以发展，有必要建立一种机制，以确保交易的透明度和真实性，特别是支付的安全性和稳健性。",
           "url": "https://flash.jin10.com/detail/20260303120834177800",
           "source": "金十数据",
@@ -576,7 +588,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时42分"
         },
