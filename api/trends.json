@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T21:01:44.609370+08:00",
-  "total_titles_processed": 1898,
+  "generated_at": "2026-03-04T22:03:18.273108+08:00",
+  "total_titles_processed": 1998,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 45,
+      "match_count": 47,
       "titles": [
         {
           "title": "如何释放服务消费潜力？AI发展会冲击就业岗位？委员这样看",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[12时41分 ~ 21时01分]"
+          "appearance_count": 19,
+          "time_info": "[12时41分 ~ 22时03分]"
         },
         {
           "title": "AI加剧“电荒” 美国电网将迎史诗级扩建 750亿美元聚焦“超高压”输电",
@@ -53,8 +53,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[13时45分 ~ 21时01分]"
+          "appearance_count": 17,
+          "time_info": "[13时45分 ~ 22时03分]"
         },
         {
           "title": "马云，新年现身！谈了AI",
@@ -81,11 +81,12 @@
             8,
             19,
             14,
-            26
+            26,
+            24
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[12时41分 ~ 21时01分]"
+          "appearance_count": 19,
+          "time_info": "[12时41分 ~ 22时03分]"
         },
         {
           "title": "美团首款AI浏览器陷“抄袭代码”风波？多方回应",
@@ -118,6 +119,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[16时41分 ~ 21时01分]"
+        },
+        {
+          "title": "靳东：我不刷短剧 正学习AI",
+          "url": "https://www.baidu.com/s?wd=%E9%9D%B3%E4%B8%9C%EF%BC%9A%E6%88%91%E4%B8%8D%E5%88%B7%E7%9F%AD%E5%89%A7+%E6%AD%A3%E5%AD%A6%E4%B9%A0AI",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时38分 ~ 22时03分]"
         },
         {
           "title": "代表建议为AI内容添加不可去除水印",
@@ -165,19 +179,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时30分"
-        },
-        {
-          "title": "靳东：我不刷短剧 正学习AI",
-          "url": "https://www.baidu.com/s?wd=%E9%9D%B3%E4%B8%9C%EF%BC%9A%E6%88%91%E4%B8%8D%E5%88%B7%E7%9F%AD%E5%89%A7+%E6%AD%A3%E5%AD%A6%E4%B9%A0AI",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            7,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时38分 ~ 21时01分]"
         },
         {
           "title": "美国克利夫兰联储主席Hammack：我认为我们可能要暂停一段时间了。 从政策角度来看美联储处于良好位置。 美联储的政策设定处于”中性”水平。 现在就判断人工智能对经济的影响为时过早。 通胀预期未实质性上升。 将通胀率拉回目标水平很重要。 缩减资产负债表需有条不紊。",
@@ -251,6 +252,17 @@
           "time_info": "[14时51分 ~ 16时42分]"
         },
         {
+          "title": "AI真人微短剧爆火 演员会被替代吗",
+          "url": "https://www.baidu.com/s?wd=AI%E7%9C%9F%E4%BA%BA%E5%BE%AE%E7%9F%AD%E5%89%A7%E7%88%86%E7%81%AB+%E6%BC%94%E5%91%98%E4%BC%9A%E8%A2%AB%E6%9B%BF%E4%BB%A3%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时03分]"
+        },
+        {
           "title": "英特尔任命Craig H. Barratt为董事长，接替Frank Yeary。",
           "url": "https://wallstreetcn.com/livenews/3063008",
           "source": "华尔街见闻-快讯",
@@ -297,6 +309,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时35分 ~ 05时37分]"
+        },
+        {
+          "title": "重磅揭晓！“2025 中国 AI + 应用 Top50” 优秀案例来了",
+          "url": "https://www.cls.cn/detail/2302628",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时03分]"
         },
         {
           "title": "Meta与新闻集团News Corp.达成人工智能（AI）许可协议，未来至少三年、每年将向后者支付至多0.5亿美元。（华尔街日报）",
@@ -493,7 +516,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时01分"
         },
