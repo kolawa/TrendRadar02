@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T13:46:15.330141+08:00",
-  "total_titles_processed": 1159,
+  "generated_at": "2026-03-04T14:52:30.152908+08:00",
+  "total_titles_processed": 1280,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "AI加剧“电荒” 美国电网将迎史诗级扩建 750亿美元聚焦“超高压”输电",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时52分 ~ 07时30分]"
+        },
+        {
+          "title": "如何释放服务消费潜力？AI发展会冲击就业岗位？委员这样看",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32692366",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时41分 ~ 14时52分]"
         },
         {
           "title": "19岁天才少年做AI应用年入2亿",
@@ -42,8 +53,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时52分 ~ 13时46分]"
+          "appearance_count": 19,
+          "time_info": "[00时52分 ~ 14时52分]"
         },
         {
           "title": "美团首款AI浏览器陷“抄袭代码”风波？多方回应",
@@ -55,33 +66,36 @@
             18,
             17,
             12,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时45分 ~ 13时46分]"
-        },
-        {
-          "title": "如何释放服务消费潜力？AI发展会冲击就业岗位？委员这样看",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32692366",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时41分 ~ 13时46分]"
+          "appearance_count": 17,
+          "time_info": "[01时45分 ~ 14时52分]"
         },
         {
           "title": "代表建议为AI内容添加不可去除水印",
           "url": "https://www.toutiao.com/trending/7613178493744087103/",
           "source": "今日头条",
           "ranks": [
-            5
+            5,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时45分 ~ 13时46分]"
+          "appearance_count": 4,
+          "time_info": "[13时45分 ~ 14时52分]"
+        },
+        {
+          "title": "AI猫咪的复工vlog",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%8C%AB%E5%92%AA%E7%9A%84%E5%A4%8D%E5%B7%A5vlog",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时41分 ~ 14时52分]"
         },
         {
           "title": "19岁天才少年做AI应用年入2亿",
@@ -143,23 +157,23 @@
           "time_info": "[04时35分 ~ 05时37分]"
         },
         {
+          "title": "阿里核心管理层齐聚聊AI，马云：AI拥有芯片，而人类拥有的是心",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32693730",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时45分 ~ 14时52分]"
+        },
+        {
           "title": "如何评价 Apple 在 3 月 3 日更新的 Macbook Air M5，有哪些细节值得关注？",
           "url": "https://www.zhihu.com/question/2012296941925581663",
           "source": "知乎",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时41分 ~ 13时46分]"
-        },
-        {
-          "title": "AI猫咪的复工vlog",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%8C%AB%E5%92%AA%E7%9A%84%E5%A4%8D%E5%B7%A5vlog",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            13
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -226,17 +240,6 @@
           "time_info": "[04时35分 ~ 05时37分]"
         },
         {
-          "title": "阿里核心管理层齐聚聊AI，马云：AI拥有芯片，而人类拥有的是心",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32693730",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时45分 ~ 13时46分]"
-        },
-        {
           "title": "Meta与新闻集团News Corp.达成人工智能（AI）许可协议，未来至少三年、每年将向后者支付至多0.5亿美元。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3063025",
           "source": "华尔街见闻-快讯",
@@ -258,6 +261,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时07分 ~ 10时08分]"
+        },
+        {
+          "title": "AI参战对伊空袭",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%82%E6%88%98%E5%AF%B9%E4%BC%8A%E7%A9%BA%E8%A2%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时51分 ~ 14时52分]"
         },
         {
           "title": "OpenAI正开发GitHub的替代品。（The Information）",
