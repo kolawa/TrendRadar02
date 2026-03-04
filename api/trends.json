@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T06:35:06.243531+08:00",
-  "total_titles_processed": 644,
+  "generated_at": "2026-03-05T07:33:27.697578+08:00",
+  "total_titles_processed": 686,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 20,
+      "match_count": 25,
       "titles": [
         {
           "title": "网友想用 AI 生成男女同样身高的合照，结果得到女矮男高的照片，问题出在哪？该如何修正？",
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时47分 ~ 06时35分]"
+          "appearance_count": 13,
+          "time_info": "[00时47分 ~ 07时33分]"
         },
         {
           "title": "阿里核心管理层齐聚聊AI，马云：AI拥有芯片，而人类拥有的是心",
@@ -30,8 +30,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时47分 ~ 06时35分]"
+          "appearance_count": 13,
+          "time_info": "[00时47分 ~ 07时33分]"
         },
         {
           "title": "AI真人微短剧爆火 演员会被替代吗",
@@ -41,8 +41,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时47分 ~ 06时35分]"
+          "appearance_count": 13,
+          "time_info": "[00时47分 ~ 07时33分]"
         },
         {
           "title": "重磅揭晓！“2025 中国 AI + 应用 Top50” 优秀案例来了",
@@ -53,8 +53,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时47分 ~ 06时35分]"
+          "appearance_count": 13,
+          "time_info": "[00时47分 ~ 07时33分]"
         },
         {
           "title": "国内目前使用的 AI 智能问答软件，豆包、通义千问、元宝、 kimi 、 deepseek，哪个好用？",
@@ -64,8 +64,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时47分 ~ 06时35分]"
+          "appearance_count": 13,
+          "time_info": "[00时47分 ~ 07时33分]"
         },
         {
           "title": "AI猫咪的复工vlog",
@@ -80,8 +80,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时47分 ~ 06时35分]"
+          "appearance_count": 13,
+          "time_info": "[00时47分 ~ 07时33分]"
         },
         {
           "title": "代表：所有的工种都不会被AI取代",
@@ -95,6 +95,17 @@
           "time_info": "[05时36分 ~ 05时37分]"
         },
         {
+          "title": "代表：AI不是来抢饭碗的",
+          "url": "https://www.toutiao.com/trending/7613364759950131236/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时32分 ~ 07时33分]"
+        },
+        {
           "title": "英伟达CEO黄仁勋：目前并不存在1000亿美元投资机会。 OpenAI（潜在的）IPO限制投资机会。 与OpenAI、Anthropic的协议可能是最后一轮。",
           "url": "https://wallstreetcn.com/livenews/3063822",
           "source": "华尔街见闻-快讯",
@@ -106,15 +117,15 @@
           "time_info": "02时55分"
         },
         {
-          "title": "博通：预计二季度AI芯片收入107亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3063885",
+          "title": "高盛CEO苏德巍：在人工智能（AI）前景方面，我们“看到杯子装了一半”。",
+          "url": "https://wallstreetcn.com/livenews/3063902",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时35分"
+          "time_info": "07时33分"
         },
         {
           "title": "Meta Platforms(META.O)计划开发硅芯片以训练人工智能模型，旨在提升AI能力。",
@@ -140,6 +151,18 @@
           "time_info": "[02时55分 ~ 04时35分]"
         },
         {
+          "title": "博通：预计二季度AI芯片收入107亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3063885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时35分 ~ 07时33分]"
+        },
+        {
           "title": "华为发布AI数据平台，加速企业AI落地应用",
           "url": "https://wallstreetcn.com/livenews/3063794",
           "source": "华尔街见闻-快讯",
@@ -152,6 +175,18 @@
           "time_info": "[01时41分 ~ 02时55分]"
         },
         {
+          "title": "博通营收预测令部分投资者失望，凸显AI担忧",
+          "url": "https://flash.jin10.com/detail/20260305053239942800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时35分 ~ 07时33分]"
+        },
+        {
           "title": "黄仁勋排除英伟达向OpenAI投资1000亿美元的可能性",
           "url": "https://wallstreetcn.com/livenews/3063822",
           "source": "华尔街见闻-快讯",
@@ -161,6 +196,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时40分 ~ 04时35分]"
+        },
+        {
+          "title": "OpenAI与Trade Desk Inc.（TTD）围绕广告销售启动初步的磋商。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3063894",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         },
         {
           "title": "美媒：前OpenAI高管押注制造业自动化 为AI初创公司Arda融资7000万美元",
@@ -185,15 +231,15 @@
           "time_info": "04时35分"
         },
         {
-          "title": "博通营收预测令部分投资者失望，凸显AI担忧",
-          "url": "https://flash.jin10.com/detail/20260305053239942800",
-          "source": "金十数据",
+          "title": "Meta计划研发自研芯片，来训练自家的AI模型",
+          "url": "https://wallstreetcn.com/livenews/3063889",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时35分"
+          "time_info": "07时33分"
         },
         {
           "title": "美国参议院Ron Wyden就特朗普政府在国内实施监控（国内间谍）的政策施压多家人工智能（AI）公司。",
@@ -205,6 +251,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
+        },
+        {
+          "title": "博通：预计Anthropic将在2027（财务）年度带来3 GW算力需求。 预计OpenAI将在2027年批量部署芯片。 Meta的定制芯片路线图“正在推进之中，进展不错”。",
+          "url": "https://wallstreetcn.com/livenews/3063886",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         },
         {
           "title": "据华尔街日报：知情人士称，前OpenAI首席研究官正为一家人工智能初创公司筹集7000万美元资金，该初创公司正开发一款软件，以帮助工厂实现自主运行。",
