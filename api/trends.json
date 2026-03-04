@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T15:40:05.317851+08:00",
-  "total_titles_processed": 1375,
+  "generated_at": "2026-03-04T16:42:31.205803+08:00",
+  "total_titles_processed": 1490,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "如何释放服务消费潜力？AI发展会冲击就业岗位？委员这样看",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时41分 ~ 15时40分]"
+          "appearance_count": 10,
+          "time_info": "[12时41分 ~ 16时42分]"
         },
         {
           "title": "AI加剧“电荒” 美国电网将迎史诗级扩建 750亿美元聚焦“超高压”输电",
@@ -57,6 +57,20 @@
           "time_info": "[00时52分 ~ 15时40分]"
         },
         {
+          "title": "AI猫咪的复工vlog",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%8C%AB%E5%92%AA%E7%9A%84%E5%A4%8D%E5%B7%A5vlog",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            13,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时41分 ~ 16时42分]"
+        },
+        {
           "title": "美团首款AI浏览器陷“抄袭代码”风波？多方回应",
           "url": "https://m.thepaper.cn/newsDetail_forward_32691228",
           "source": "澎湃新闻",
@@ -70,21 +84,21 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时45分 ~ 15时40分]"
+          "appearance_count": 21,
+          "time_info": "[01时45分 ~ 16时42分]"
         },
         {
-          "title": "AI猫咪的复工vlog",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%8C%AB%E5%92%AA%E7%9A%84%E5%A4%8D%E5%B7%A5vlog",
-          "source": "bilibili 热搜",
+          "title": "阿里核心管理层齐聚聊AI，马云：AI拥有芯片，而人类拥有的是心",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32693730",
+          "source": "澎湃新闻",
           "ranks": [
-            12,
-            13,
-            10
+            10,
+            11,
+            9
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[12时41分 ~ 15时40分]"
+          "time_info": "[13时45分 ~ 16时42分]"
         },
         {
           "title": "代表建议为AI内容添加不可去除水印",
@@ -97,18 +111,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时45分 ~ 14时52分]"
-        },
-        {
-          "title": "阿里核心管理层齐聚聊AI，马云：AI拥有芯片，而人类拥有的是心",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32693730",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时45分 ~ 15时40分]"
         },
         {
           "title": "19岁天才少年做AI应用年入2亿",
@@ -193,6 +195,18 @@
           "time_info": "[12时41分 ~ 13时46分]"
         },
         {
+          "title": "AI参战对伊空袭",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%82%E6%88%98%E5%AF%B9%E4%BC%8A%E7%A9%BA%E8%A2%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时51分 ~ 16时42分]"
+        },
+        {
           "title": "英特尔任命Craig H. Barratt为董事长，接替Frank Yeary。",
           "url": "https://wallstreetcn.com/livenews/3063008",
           "source": "华尔街见闻-快讯",
@@ -215,6 +229,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时32分 ~ 07时30分]"
+        },
+        {
+          "title": "突发！马云刚发声谈AI 阿里千问核心负责人林俊旸辞职",
+          "url": "https://www.cls.cn/detail/2302236",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时41分 ~ 16时42分]"
         },
         {
           "title": "澳大利亚2月AIG/PWC制造业表现指数 -15.6，前值由-19.4修正为-19。",
@@ -284,17 +309,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时39分 ~ 15时40分]"
-        },
-        {
-          "title": "AI参战对伊空袭",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%82%E6%88%98%E5%AF%B9%E4%BC%8A%E7%A9%BA%E8%A2%AD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时51分 ~ 14时52分]"
         },
         {
           "title": "OpenAI正开发GitHub的替代品。（The Information）",
@@ -457,7 +471,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
         },
