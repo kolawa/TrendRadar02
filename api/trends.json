@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T13:51:35.559086+08:00",
-  "total_titles_processed": 1118,
+  "generated_at": "2026-03-05T14:56:11.877515+08:00",
+  "total_titles_processed": 1227,
   "failed_sources": [],
   "trends": [
     {
@@ -71,11 +71,12 @@
             11,
             9,
             23,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时47分 ~ 13时51分]"
+          "appearance_count": 21,
+          "time_info": "[00时47分 ~ 14时56分]"
         },
         {
           "title": "重磅揭晓！“2025 中国 AI + 应用 Top50” 优秀案例来了",
@@ -121,6 +122,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
+        },
+        {
+          "title": "如何评价贾樟柯用 Seedance2.0 生成的短片《贾科长 Dance》？未来 AI 与影视将如何共存？",
+          "url": "https://www.zhihu.com/question/2007415716228330401",
+          "source": "知乎",
+          "ranks": [
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时46分 ~ 14时56分]"
+        },
+        {
+          "title": "黄仁勋：对OpenAI的300亿美元投资“可能是最后一次”",
+          "url": "https://www.cls.cn/detail/2303137",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时46分 ~ 14时56分]"
         },
         {
           "title": "Anthropic恢复与五角大楼的人工智能协议谈判",
@@ -179,6 +203,18 @@
           "time_info": "[02时55分 ~ 04时35分]"
         },
         {
+          "title": "一键进入AI幻想世界",
+          "url": "https://www.douyin.com/hot/2419330",
+          "source": "抖音",
+          "ranks": [
+            29,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时46分 ~ 14时55分]"
+        },
+        {
           "title": "博通：预计二季度AI芯片收入107亿美元。",
           "url": "https://wallstreetcn.com/livenews/3063885",
           "source": "华尔街见闻-快讯",
@@ -201,41 +237,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时41分 ~ 02时55分]"
-        },
-        {
-          "title": "如何评价贾樟柯用 Seedance2.0 生成的短片《贾科长 Dance》？未来 AI 与影视将如何共存？",
-          "url": "https://www.zhihu.com/question/2007415716228330401",
-          "source": "知乎",
-          "ranks": [
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时46分 ~ 13时51分]"
-        },
-        {
-          "title": "黄仁勋：对OpenAI的300亿美元投资“可能是最后一次”",
-          "url": "https://www.cls.cn/detail/2303137",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时46分 ~ 13时51分]"
-        },
-        {
-          "title": "一键进入AI幻想世界",
-          "url": "https://www.douyin.com/hot/2419330",
-          "source": "抖音",
-          "ranks": [
-            29,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时46分 ~ 13时51分]"
         },
         {
           "title": "美军被曝使用Claude AI空袭伊朗，负责情报评估与目标识别，专家发出严厉警告",
@@ -322,7 +323,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
         },
@@ -355,7 +356,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
         },
@@ -421,7 +422,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
         },
