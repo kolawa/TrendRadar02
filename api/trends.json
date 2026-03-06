@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T05:32:32.543803+08:00",
-  "total_titles_processed": 561,
+  "generated_at": "2026-03-07T06:31:49.386189+08:00",
+  "total_titles_processed": 588,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时43分 ~ 05时32分]"
+          "appearance_count": 11,
+          "time_info": "[00时43分 ~ 06时31分]"
         },
         {
           "title": "“龙虾” 炸翻AI圈！雷军下场 鹅厂排长队",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时43分 ~ 05时32分]"
+          "appearance_count": 11,
+          "time_info": "[00时43分 ~ 06时31分]"
         },
         {
           "title": "逐帧分析TES赛场Naiyou操作",
@@ -40,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时43分 ~ 05时32分]"
+          "appearance_count": 11,
+          "time_info": "[00时43分 ~ 06时31分]"
         },
         {
           "title": "破5亿播放AI短剧成本仅3000",
@@ -51,8 +51,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时43分 ~ 05时32分]"
+          "appearance_count": 11,
+          "time_info": "[00时43分 ~ 06时31分]"
         },
         {
           "title": "TES上报Naiyou不当行为",
@@ -65,8 +65,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时43分 ~ 05时32分]"
+          "appearance_count": 11,
+          "time_info": "[00时43分 ~ 06时31分]"
         },
         {
           "title": "他把AI模型卖给美军，如今却害怕成为“末日博士”",
@@ -76,8 +76,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时43分 ~ 05时32分]"
+          "appearance_count": 11,
+          "time_info": "[00时43分 ~ 06时31分]"
         },
         {
           "title": "TES 发布公告「打野选手 Naiyou 存在违反赛事公平性行为」，对此你有什么想说的？",
@@ -96,11 +96,12 @@
           "source": "微博",
           "ranks": [
             21,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时43分 ~ 05时32分]"
+          "appearance_count": 11,
+          "time_info": "[00时43分 ~ 06时31分]"
         },
         {
           "title": "OpenAI推出一款旨在帮助安全团队发现并修复大型数据库漏洞的人工智能代理Codex Security。",
@@ -181,7 +182,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时32分"
         },
