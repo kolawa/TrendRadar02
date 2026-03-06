@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-07T06:31:49.386189+08:00",
-  "total_titles_processed": 588,
+  "generated_at": "2026-03-07T07:30:52.473076+08:00",
+  "total_titles_processed": 616,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "真实锐评TES打野Naiyou被调查",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时43分 ~ 06时31分]"
+          "appearance_count": 13,
+          "time_info": "[00时43分 ~ 07时30分]"
         },
         {
           "title": "“龙虾” 炸翻AI圈！雷军下场 鹅厂排长队",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时43分 ~ 06时31分]"
+          "appearance_count": 13,
+          "time_info": "[00时43分 ~ 07时30分]"
         },
         {
           "title": "逐帧分析TES赛场Naiyou操作",
@@ -40,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时43分 ~ 06时31分]"
+          "appearance_count": 13,
+          "time_info": "[00时43分 ~ 07时30分]"
         },
         {
           "title": "破5亿播放AI短剧成本仅3000",
@@ -51,8 +51,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时43分 ~ 06时31分]"
+          "appearance_count": 13,
+          "time_info": "[00时43分 ~ 07时30分]"
         },
         {
           "title": "TES上报Naiyou不当行为",
@@ -62,11 +62,12 @@
             7,
             14,
             16,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时43分 ~ 06时31分]"
+          "appearance_count": 13,
+          "time_info": "[00时43分 ~ 07时30分]"
         },
         {
           "title": "他把AI模型卖给美军，如今却害怕成为“末日博士”",
@@ -76,8 +77,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时43分 ~ 06时31分]"
+          "appearance_count": 13,
+          "time_info": "[00时43分 ~ 07时30分]"
         },
         {
           "title": "TES 发布公告「打野选手 Naiyou 存在违反赛事公平性行为」，对此你有什么想说的？",
@@ -97,11 +98,12 @@
           "ranks": [
             21,
             22,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时43分 ~ 06时31分]"
+          "appearance_count": 13,
+          "time_info": "[00时43分 ~ 07时30分]"
         },
         {
           "title": "OpenAI推出一款旨在帮助安全团队发现并修复大型数据库漏洞的人工智能代理Codex Security。",
@@ -163,6 +165,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时43分 ~ 01时37分]"
+        },
+        {
+          "title": "在 AI 能秒答一切的时代，人的核心竞争力到底是什么？",
+          "url": "https://www.zhihu.com/question/1992302419741266883",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时29分 ~ 07时30分]"
         },
         {
           "title": "国产AI短剧《霍去病》火到海外",
