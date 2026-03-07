@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-07T15:31:56.404820+08:00",
-  "total_titles_processed": 1129,
+  "generated_at": "2026-03-07T16:35:07.125933+08:00",
+  "total_titles_processed": 1230,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "逐帧分析TES赛场Naiyou操作",
@@ -21,6 +21,18 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时43分 ~ 12时23分]"
+        },
+        {
+          "title": "养龙虾，今年最大AI风暴",
+          "url": "https://wallstreetcn.com/articles/3766910",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时02分 ~ 16时35分]"
         },
         {
           "title": "真实锐评TES打野Naiyou被调查",
@@ -46,20 +58,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时43分 ~ 15时31分]"
-        },
-        {
-          "title": "养龙虾，今年最大AI风暴",
-          "url": "https://wallstreetcn.com/articles/3766910",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时02分 ~ 15时31分]"
+          "appearance_count": 23,
+          "time_info": "[00时43分 ~ 16时35分]"
         },
         {
           "title": "破5亿播放AI短剧成本仅3000",
@@ -148,8 +148,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时22分 ~ 15时31分]"
+          "appearance_count": 9,
+          "time_info": "[12时22分 ~ 16时35分]"
         },
         {
           "title": "破5亿播放AI短剧成本仅3000元",
@@ -270,6 +270,17 @@
           "time_info": "[12时22分 ~ 12时23分]"
         },
         {
+          "title": "AI 短剧与 AI 漫剧正以低成本、高效率迅速崛起，这会颠覆传统短剧行业吗？此新兴行业未来前景如何？",
+          "url": "https://www.zhihu.com/question/2004583095244911914",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
+        },
+        {
           "title": "俄研究机构训练人工智能识别早期乳腺癌",
           "url": "https://wallstreetcn.com/livenews/3065585",
           "source": "华尔街见闻-快讯",
@@ -354,7 +365,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         },
@@ -387,7 +398,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         }
