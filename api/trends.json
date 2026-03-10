@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T02:54:04.867408+08:00",
-  "total_titles_processed": 462,
+  "generated_at": "2026-03-11T04:03:50.310104+08:00",
+  "total_titles_processed": 507,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "高校出手,AI龙虾被禁",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 02时54分]"
+          "appearance_count": 7,
+          "time_info": "[00时36分 ~ 04时03分]"
         },
         {
           "title": "两会现场 我问了AI这样一个问题",
@@ -26,8 +26,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 02时54分]"
+          "appearance_count": 7,
+          "time_info": "[00时36分 ~ 04时03分]"
         },
         {
           "title": "英伟达下场！将推“类OpenClaw式”AI智能体开源平台",
@@ -38,8 +38,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 02时54分]"
+          "appearance_count": 7,
+          "time_info": "[00时36分 ~ 04时03分]"
         },
         {
           "title": "AI背锅,内存降价遥遥无期",
@@ -49,8 +49,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 02时54分]"
+          "appearance_count": 7,
+          "time_info": "[00时36分 ~ 04时03分]"
         },
         {
           "title": "brahma AI与谷歌云构建合作伙伴关系。",
@@ -62,6 +62,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        },
+        {
+          "title": "马斯克旗下xAI获准在美国密西西比修建发电站。 但目前，该公司的排污问题让人感到忧心忡忡。",
+          "url": "https://wallstreetcn.com/livenews/3067532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时03分"
         },
         {
           "title": "工信部提醒AI养虾安全风险",
@@ -118,6 +129,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
+        },
+        {
+          "title": "马斯克的xAI获得在密西西比州建设发电厂的许可，尽管存在污染担忧。",
+          "url": "https://flash.jin10.com/detail/20260311031339518800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时03分"
         },
         {
           "title": "特朗普可能在本周晚些时候下令切断与人工智能公司Anthropic的联系。",
