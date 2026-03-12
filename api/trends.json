@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-12T18:41:50.747528+08:00",
-  "total_titles_processed": 1627,
+  "generated_at": "2026-03-12T19:34:16.121506+08:00",
+  "total_titles_processed": 1712,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 40,
+      "match_count": 45,
       "titles": [
         {
           "title": "央行：深化业技融合 积极稳妥、安全有序推进金融领域人工智能应用",
@@ -46,6 +46,19 @@
           "time_info": "[12时48分 ~ 17时45分]"
         },
         {
+          "title": "代表建议避免青少年过早使用 AI ，不允许青少年使用 AI 做作业，如何看待此建议？日常生活中应如何实现？",
+          "url": "https://www.zhihu.com/question/2015022862625415833",
+          "source": "知乎",
+          "ranks": [
+            12,
+            10,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时58分 ~ 19时34分]"
+        },
+        {
           "title": "会见企业家丨齐向东：不应忽视“龙虾”热潮背后的三大AI安全风险",
           "url": "https://m.thepaper.cn/newsDetail_forward_32733403",
           "source": "澎湃新闻",
@@ -74,8 +87,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时55分 ~ 18时41分]"
+          "appearance_count": 20,
+          "time_info": "[00时55分 ~ 19时34分]"
         },
         {
           "title": "建议AI应用设计多考虑残疾人",
@@ -115,19 +128,6 @@
           "time_info": "[00时55分 ~ 07时29分]"
         },
         {
-          "title": "代表建议避免青少年过早使用 AI ，不允许青少年使用 AI 做作业，如何看待此建议？日常生活中应如何实现？",
-          "url": "https://www.zhihu.com/question/2015022862625415833",
-          "source": "知乎",
-          "ranks": [
-            12,
-            10,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时58分 ~ 18时41分]"
-        },
-        {
           "title": "MiniMax 市值超越百度，智谱市值超京东，如何看待资本市场给予 AI 企业更高溢价？",
           "url": "https://www.zhihu.com/question/2015029846779065089",
           "source": "知乎",
@@ -137,8 +137,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时51分 ~ 18时41分]"
+          "appearance_count": 7,
+          "time_info": "[15时51分 ~ 19时34分]"
         },
         {
           "title": "美国国防部：我们将继续加快人工智能的部署。",
@@ -174,6 +174,17 @@
           "time_info": "14时59分"
         },
         {
+          "title": "工信部就《人工智能产品服务搜索智能体能力技术要求》等83项行业标准计划项目公开征求意见。（工信部网站）",
+          "url": "https://wallstreetcn.com/livenews/3068863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时34分"
+        },
+        {
           "title": "金十数据整理：每日人工智能动态汇总（2026-03-12）",
           "url": "https://flash.jin10.com/detail/20260312120026460800",
           "source": "金十数据",
@@ -206,8 +217,20 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时46分 ~ 19时34分]"
+        },
+        {
+          "title": "美金融巨头为AI基建花上亿培训水电工",
+          "url": "https://www.toutiao.com/trending/7616268055123722303/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            29
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时46分 ~ 18时41分]"
+          "time_info": "[18时41分 ~ 19时34分]"
         },
         {
           "title": "SkillHub上线 腾讯推出“中国专供”的AI Skills社区",
@@ -246,6 +269,18 @@
           "time_info": "[17时45分 ~ 18时41分]"
         },
         {
+          "title": "真爱美家：公司关注到有关媒体在网络上流传关于公司被收购后将“变更主营业务”“被借壳”的传闻。经公司核实，公司的主营业务仍为毛毯为主的家用纺织品研发、设计、生产与销售，不涉及人工智能业务，公司主营业务未发生重大变化。控股股东亦不存在将其控制的资产在未来36个月内通过上市公司借壳上市的计划或安排。",
+          "url": "https://wallstreetcn.com/livenews/3068832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时41分 ~ 19时34分]"
+        },
+        {
           "title": "Salesforce 250亿美元发债需求疲软，折射AI焦虑",
           "url": "https://wallstreetcn.com/livenews/3068362",
           "source": "华尔街见闻-快讯",
@@ -256,6 +291,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时29分 ~ 07时29分]"
+        },
+        {
+          "title": "“乐山大佛是大禹雕像”系AI生成",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E6%98%AF%E5%A4%A7%E7%A6%B9%E9%9B%95%E5%83%8F%E2%80%9D%E7%B3%BBAI%E7%94%9F%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时33分 ~ 19时34分]"
         },
         {
           "title": "AI龙虾安全风险真的那么可怕吗",
@@ -269,6 +315,17 @@
           "time_info": "[07时28分 ~ 07时29分]"
         },
         {
+          "title": "AI演员都出片场花絮了",
+          "url": "https://s.weibo.com/weibo?q=AI%E6%BC%94%E5%91%98%E9%83%BD%E5%87%BA%E7%89%87%E5%9C%BA%E8%8A%B1%E7%B5%AE%E4%BA%86&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时33分 ~ 19时34分]"
+        },
+        {
           "title": "涨幅高达400%！腾讯云官宣AI模型调价 “龙虾”爆火或强化Token通胀",
           "url": "https://www.cls.cn/detail/2309524",
           "source": "财联社热门",
@@ -280,28 +337,6 @@
           "time_info": "00时55分"
         },
         {
-          "title": "美金融巨头为AI基建花上亿培训水电工",
-          "url": "https://www.toutiao.com/trending/7616268055123722303/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时41分"
-        },
-        {
-          "title": "真爱美家：公司关注到有关媒体在网络上流传关于公司被收购后将“变更主营业务”“被借壳”的传闻。经公司核实，公司的主营业务仍为毛毯为主的家用纺织品研发、设计、生产与销售，不涉及人工智能业务，公司主营业务未发生重大变化。控股股东亦不存在将其控制的资产在未来36个月内通过上市公司借壳上市的计划或安排。",
-          "url": "https://wallstreetcn.com/livenews/3068832",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时41分"
-        },
-        {
           "title": "今年加快研究人工智能立法",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%8A%A0%E5%BF%AB%E7%A0%94%E7%A9%B6%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%AB%8B%E6%B3%95%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -311,6 +346,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时46分"
+        },
+        {
+          "title": "市场消息：Palantir和英伟达联手打造主权AI操作系统参考。",
+          "url": "https://flash.jin10.com/detail/20260312191021075800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时34分"
+        },
+        {
+          "title": "两名英伟达高管加入AI投资机构Era",
+          "url": "https://flash.jin10.com/detail/20260312190736649800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时34分"
         },
         {
           "title": "谷歌和特斯拉组建“电网利用联盟” AI缺电逻辑有望持续演绎",
@@ -440,7 +497,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时41分"
         },
