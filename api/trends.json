@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-12T21:04:30.738273+08:00",
-  "total_titles_processed": 1831,
+  "generated_at": "2026-03-12T22:52:32.566135+08:00",
+  "total_titles_processed": 1958,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 48,
+      "match_count": 49,
       "titles": [
         {
           "title": "央行：深化业技融合 积极稳妥、安全有序推进金融领域人工智能应用",
@@ -46,6 +46,20 @@
           "time_info": "[14时58分 ~ 21时04分]"
         },
         {
+          "title": "MiniMax 市值超越百度，智谱市值超京东，如何看待资本市场给予 AI 企业更高溢价？",
+          "url": "https://www.zhihu.com/question/2015029846779065089",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5,
+            10,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[15时51分 ~ 22时52分]"
+        },
+        {
           "title": "2026AWE探营：家电AI化，大模型“养龙虾”，机器人、智能眼镜齐亮相",
           "url": "https://www.cls.cn/detail/2310365",
           "source": "财联社热门",
@@ -58,19 +72,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[12时48分 ~ 17时45分]"
-        },
-        {
-          "title": "MiniMax 市值超越百度，智谱市值超京东，如何看待资本市场给予 AI 企业更高溢价？",
-          "url": "https://www.zhihu.com/question/2015029846779065089",
-          "source": "知乎",
-          "ranks": [
-            7,
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时51分 ~ 21时04分]"
         },
         {
           "title": "会见企业家丨齐向东：不应忽视“龙虾”热潮背后的三大AI安全风险",
@@ -102,8 +103,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时55分 ~ 21时04分]"
+          "appearance_count": 24,
+          "time_info": "[00时55分 ~ 22时52分]"
         },
         {
           "title": "建议AI应用设计多考虑残疾人",
@@ -165,6 +166,17 @@
           "time_info": "10时12分"
         },
         {
+          "title": "“乐山大佛是大禹雕像”系AI生成",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E6%98%AF%E5%A4%A7%E7%A6%B9%E9%9B%95%E5%83%8F%E2%80%9D%E7%B3%BBAI%E7%94%9F%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时33分 ~ 22时52分]"
+        },
+        {
           "title": "英伟达将豪掷260亿美元开发AI大模型",
           "url": "https://wallstreetcn.com/livenews/3068642",
           "source": "华尔街见闻-快讯",
@@ -221,17 +233,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[16时46分 ~ 19时34分]"
-        },
-        {
-          "title": "“乐山大佛是大禹雕像”系AI生成",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E6%98%AF%E5%A4%A7%E7%A6%B9%E9%9B%95%E5%83%8F%E2%80%9D%E7%B3%BBAI%E7%94%9F%E6%88%90",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时33分 ~ 21时04分]"
         },
         {
           "title": "美金融巨头为AI基建花上亿培训水电工",
@@ -367,7 +368,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时04分"
         },
@@ -392,6 +393,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
+        },
+        {
+          "title": "标普：AI扰动不会引发软件行业评级下调潮",
+          "url": "https://wallstreetcn.com/livenews/3069007",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "两名英伟达高管加入AI投资机构Era",
