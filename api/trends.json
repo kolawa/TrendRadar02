@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T17:42:04.091310+08:00",
-  "total_titles_processed": 1491,
+  "generated_at": "2026-03-13T18:40:10.903601+08:00",
+  "total_titles_processed": 1598,
   "failed_sources": [],
   "trends": [
     {
@@ -43,8 +43,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时09分 ~ 17时42分]"
+          "appearance_count": 13,
+          "time_info": "[10时09分 ~ 18时40分]"
         },
         {
           "title": "MiniMax 市值超越百度，智谱市值超京东，如何看待资本市场给予 AI 企业更高溢价？",
@@ -88,6 +88,20 @@
           "time_info": "[00时01分 ~ 10时10分]"
         },
         {
+          "title": "竖屏市场格局突变，真人短剧项目骤减，AI 漫剧迎爆发式增长规模突破 200 亿，怎样看待未来发展趋势？",
+          "url": "https://www.zhihu.com/question/2012836051480178728",
+          "source": "知乎",
+          "ranks": [
+            20,
+            4,
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时47分 ~ 18时40分]"
+        },
+        {
           "title": "理想汽车 2025 年净利润 11 亿元，连续三年盈利，AI 相关投入占比 50%，怎样看其业绩表现？",
           "url": "https://www.zhihu.com/question/2015481604898858354",
           "source": "知乎",
@@ -100,17 +114,15 @@
           "time_info": "[13时51分 ~ 16时42分]"
         },
         {
-          "title": "竖屏市场格局突变，真人短剧项目骤减，AI 漫剧迎爆发式增长规模突破 200 亿，怎样看待未来发展趋势？",
-          "url": "https://www.zhihu.com/question/2012836051480178728",
+          "title": "为什么说「2026 年，AI 在疯狂寻找物理外壳」？你看到哪些好玩有趣的 AI 硬件产品？",
+          "url": "https://www.zhihu.com/question/2002762540602581922",
           "source": "知乎",
           "ranks": [
-            20,
-            4,
-            2
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时47分 ~ 17时42分]"
+          "appearance_count": 7,
+          "time_info": "[15时47分 ~ 18时40分]"
         },
         {
           "title": "据Business Insider：xAI联合创始人Zihang Dai本周早些时候已离开公司。",
@@ -122,17 +134,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
-        },
-        {
-          "title": "为什么说「2026 年，AI 在疯狂寻找物理外壳」？你看到哪些好玩有趣的 AI 硬件产品？",
-          "url": "https://www.zhihu.com/question/2002762540602581922",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时47分 ~ 17时42分]"
         },
         {
           "title": "xAI正在招聘Cursor公司的两位高级主管Andrew Milich和Jason Ginsberg。",
@@ -371,7 +372,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
         },
