@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-03-15T06:29:48.429069+08:00",
-  "total_titles_processed": 424,
-  "failed_sources": [],
+  "generated_at": "2026-03-15T07:31:20.263906+08:00",
+  "total_titles_processed": 435,
+  "failed_sources": [
+    "bilibili-hot-search"
+  ],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "AI语料“投毒”产业链揭秘①只花100元，虚构的保健品就被大模型“推荐”了",
@@ -17,8 +19,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 06时29分]"
+          "appearance_count": 13,
+          "time_info": "[00时34分 ~ 07时31分]"
         },
         {
           "title": "“算电协同”含金量还在提升！AI的HALO时刻来了？",
@@ -28,19 +30,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 06时29分]"
+          "appearance_count": 13,
+          "time_info": "[00时34分 ~ 07时31分]"
         },
         {
           "title": "Meta据称拟裁员20%，扎克伯格曾谈AI效率：一个人顶一个团队！",
           "url": "https://wallstreetcn.com/articles/3767512",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 06时29分]"
+          "appearance_count": 13,
+          "time_info": "[00时34分 ~ 07时31分]"
         },
         {
           "title": "AI带路寻美食,吧友吃到自闭",
@@ -50,8 +53,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 06时29分]"
+          "appearance_count": 13,
+          "time_info": "[00时34分 ~ 07时31分]"
         },
         {
           "title": "据The Information：因与好莱坞存在版权纠纷，字节跳动暂停推出视频AI模型。",
@@ -66,6 +69,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时35分 ~ 03时30分]"
+        },
+        {
+          "title": "突然撤回“AI芯片出口许可”草案，特朗普政府监管再生变数！",
+          "url": "https://wallstreetcn.com/articles/3767515",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时29分 ~ 07时31分]"
         }
       ]
     }
