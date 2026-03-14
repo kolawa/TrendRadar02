@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-14T21:49:24.448456+08:00",
-  "total_titles_processed": 1537,
+  "generated_at": "2026-03-14T22:32:49.002704+08:00",
+  "total_titles_processed": 1572,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[12时44分 ~ 21时49分]"
+          "appearance_count": 18,
+          "time_info": "[12时44分 ~ 22时32分]"
         },
         {
           "title": "DeepSeek V4 为什么还不发布？",
@@ -58,11 +58,12 @@
             9,
             8,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[13时47分 ~ 21时49分]"
+          "appearance_count": 17,
+          "time_info": "[13时47分 ~ 22时32分]"
         },
         {
           "title": "AI带路寻美食,吧友吃到自闭",
@@ -77,11 +78,12 @@
             18,
             20,
             19,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 33,
-          "time_info": "[00时42分 ~ 21时49分]"
+          "appearance_count": 34,
+          "time_info": "[00时42分 ~ 22时32分]"
         },
         {
           "title": "张颂文硬气回应AI冲击影视行业",
@@ -194,6 +196,17 @@
           "time_info": "[01时37分 ~ 03时39分]"
         },
         {
+          "title": "Meta据称拟裁员20%，扎克伯格曾谈AI效率：一个人顶一个团队！",
+          "url": "https://wallstreetcn.com/articles/3767512",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时48分 ~ 22时32分]"
+        },
+        {
           "title": "美国官员：自与伊朗开战以来，军方已向中东部署近10,000架人工智能无人机。",
           "url": "https://flash.jin10.com/detail/20260314041906690800",
           "source": "金十数据",
@@ -218,15 +231,16 @@
           "time_info": "[10时08分 ~ 13时48分]"
         },
         {
-          "title": "Meta据称拟裁员20%，扎克伯格曾谈AI效率：一个人顶一个团队！",
-          "url": "https://wallstreetcn.com/articles/3767512",
-          "source": "华尔街见闻",
+          "title": "人工智能替代了大部分工作后，我们该做什么？",
+          "url": "https://www.zhihu.com/question/60274282",
+          "source": "知乎",
           "ranks": [
-            9
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时48分 ~ 21时49分]"
+          "appearance_count": 3,
+          "time_info": "[20时55分 ~ 22时32分]"
         },
         {
           "title": "美国商务部撤回拟议的AI芯片出口管制新规",
@@ -285,17 +299,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时39分 ~ 04时38分]"
-        },
-        {
-          "title": "人工智能替代了大部分工作后，我们该做什么？",
-          "url": "https://www.zhihu.com/question/60274282",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时55分 ~ 20时56分]"
         },
         {
           "title": "报道：Meta计划因AI成本攀升而实施大规模裁员",
