@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-03-14T18:32:17.022570+08:00",
-  "total_titles_processed": 1284,
+  "generated_at": "2026-03-14T19:27:23.149981+08:00",
+  "total_titles_processed": 1350,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
+        {
+          "title": "鹅厂抄袭AI龙虾,创始人开喷",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351810&amp;topic_name=%E9%B9%85%E5%8E%82%E6%8A%84%E8%A2%ADAI%E9%BE%99%E8%99%BE%2C%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%BC%80%E5%96%B7",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时51分 ~ 19时27分]"
+        },
         {
           "title": "“算电协同”含金量还在提升！AI的HALO时刻来了？",
           "url": "https://www.cls.cn/detail/2312637",
@@ -17,8 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时44分 ~ 18时32分]"
+          "appearance_count": 13,
+          "time_info": "[12时44分 ~ 19时27分]"
         },
         {
           "title": "DeepSeek V4 为什么还不发布？",
@@ -35,19 +48,6 @@
           "time_info": "[00时42分 ~ 10时08分]"
         },
         {
-          "title": "鹅厂抄袭AI龙虾,创始人开喷",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351810&amp;topic_name=%E9%B9%85%E5%8E%82%E6%8A%84%E8%A2%ADAI%E9%BE%99%E8%99%BE%2C%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%BC%80%E5%96%B7",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时51分 ~ 18时32分]"
-        },
-        {
           "title": "AI语料“投毒”产业链揭秘①只花100元，虚构的保健品就被大模型“推荐”了",
           "url": "https://m.thepaper.cn/newsDetail_forward_32760391",
           "source": "澎湃新闻",
@@ -56,11 +56,12 @@
             17,
             11,
             9,
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时47分 ~ 18时32分]"
+          "appearance_count": 12,
+          "time_info": "[13时47分 ~ 19时27分]"
         },
         {
           "title": "AI带路寻美食,吧友吃到自闭",
@@ -73,11 +74,12 @@
             14,
             17,
             18,
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时42分 ~ 18时32分]"
+          "appearance_count": 29,
+          "time_info": "[00时42分 ~ 19时27分]"
         },
         {
           "title": "张颂文硬气回应AI冲击影视行业",
@@ -109,8 +111,19 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时42分 ~ 15时36分]"
+          "appearance_count": 21,
+          "time_info": "[00时42分 ~ 19时27分]"
+        },
+        {
+          "title": "AI时代青少年该掌握哪些能力",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E6%97%B6%E4%BB%A3%E9%9D%92%E5%B0%91%E5%B9%B4%E8%AF%A5%E6%8E%8C%E6%8F%A1%E5%93%AA%E4%BA%9B%E8%83%BD%E5%8A%9B%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时35分 ~ 19时27分]"
         },
         {
           "title": "据《白鲸实验室》报道，DeepSeek V4和姚顺雨领衔操刀的混元新模型，均预计将于下个月（2026年4月）发布。",
@@ -126,6 +139,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时08分 ~ 15时37分]"
+        },
+        {
+          "title": "十五五要新建新型研究型大学，超常规布局人工智能等急需学科，加强基础学科等本硕博衔接培养，释放哪些信号？",
+          "url": "https://www.zhihu.com/question/2015916136630281791",
+          "source": "知乎",
+          "ranks": [
+            17,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时35分 ~ 19时27分]"
         },
         {
           "title": "马斯克誓言重建 xAI，又一联合创始人离职",
@@ -165,29 +190,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时37分 ~ 03时39分]"
-        },
-        {
-          "title": "AI时代青少年该掌握哪些能力",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E6%97%B6%E4%BB%A3%E9%9D%92%E5%B0%91%E5%B9%B4%E8%AF%A5%E6%8E%8C%E6%8F%A1%E5%93%AA%E4%BA%9B%E8%83%BD%E5%8A%9B%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时35分 ~ 18时32分]"
-        },
-        {
-          "title": "十五五要新建新型研究型大学，超常规布局人工智能等急需学科，加强基础学科等本硕博衔接培养，释放哪些信号？",
-          "url": "https://www.zhihu.com/question/2015916136630281791",
-          "source": "知乎",
-          "ranks": [
-            17,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时35分 ~ 18时32分]"
         },
         {
           "title": "美国官员：自与伊朗开战以来，军方已向中东部署近10,000架人工智能无人机。",
@@ -247,6 +249,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时32分 ~ 10时08分]"
+        },
+        {
+          "title": "xAI联创团队几乎全跑了！马斯克致歉并放话“数字擎天柱”半年上线",
+          "url": "https://www.cls.cn/detail/2312736",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时26分 ~ 19时27分]"
         },
         {
           "title": "Mosaic股价跌幅扩大至5.9%。",
