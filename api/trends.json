@@ -1,9 +1,7 @@
 {
-  "generated_at": "2026-03-15T07:31:20.263906+08:00",
-  "total_titles_processed": 435,
-  "failed_sources": [
-    "bilibili-hot-search"
-  ],
+  "generated_at": "2026-03-15T10:32:52.910062+08:00",
+  "total_titles_processed": 590,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
@@ -19,19 +17,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时34分 ~ 07时31分]"
+          "appearance_count": 14,
+          "time_info": "[00时34分 ~ 10时32分]"
         },
         {
           "title": "“算电协同”含金量还在提升！AI的HALO时刻来了？",
           "url": "https://www.cls.cn/detail/2312637",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时34分 ~ 07时31分]"
+          "appearance_count": 14,
+          "time_info": "[00时34分 ~ 10时32分]"
         },
         {
           "title": "Meta据称拟裁员20%，扎克伯格曾谈AI效率：一个人顶一个团队！",
@@ -39,11 +38,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时34分 ~ 07时31分]"
+          "appearance_count": 14,
+          "time_info": "[00时34分 ~ 10时32分]"
         },
         {
           "title": "AI带路寻美食,吧友吃到自闭",
@@ -53,8 +53,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时34分 ~ 07时31分]"
+          "appearance_count": 14,
+          "time_info": "[00时34分 ~ 10时32分]"
         },
         {
           "title": "据The Information：因与好莱坞存在版权纠纷，字节跳动暂停推出视频AI模型。",
@@ -75,11 +75,12 @@
           "url": "https://wallstreetcn.com/articles/3767515",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时29分 ~ 07时31分]"
+          "appearance_count": 3,
+          "time_info": "[07时29分 ~ 10时32分]"
         }
       ]
     }
