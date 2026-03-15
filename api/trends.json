@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-16T06:32:05.456441+08:00",
-  "total_titles_processed": 508,
+  "generated_at": "2026-03-16T07:32:32.723159+08:00",
+  "total_titles_processed": 539,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "“3·15”晚会：起底荐股分成骗局 给AI大模型投毒已成产业链",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时35分 ~ 06时32分]"
+          "appearance_count": 14,
+          "time_info": "[00时35分 ~ 07时32分]"
         },
         {
           "title": "系好安全带！最重磅的中美会谈、美日欧央行决议、AI大会和巨头财报，都在这一周",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时35分 ~ 06时32分]"
+          "appearance_count": 14,
+          "time_info": "[00时35分 ~ 07时32分]"
         },
         {
           "title": "315曝光AI大模型遭投毒操控",
@@ -39,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时35分 ~ 06时32分]"
+          "appearance_count": 14,
+          "time_info": "[00时35分 ~ 07时32分]"
         },
         {
           "title": "给AI投毒",
@@ -68,11 +68,12 @@
             9,
             12,
             13,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时29分 ~ 06时32分]"
+          "appearance_count": 12,
+          "time_info": "[01时29分 ~ 07时32分]"
         },
         {
           "title": "六指内塔尼亚胡是AI替身？真相来了",
@@ -83,8 +84,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时35分 ~ 06时32分]"
+          "appearance_count": 14,
+          "time_info": "[00时35分 ~ 07时32分]"
         },
         {
           "title": "实测AI推荐如何被操控",
@@ -94,11 +95,12 @@
             22,
             16,
             25,
-            30
+            30,
+            29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 06时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时35分 ~ 07时32分]"
         },
         {
           "title": "315晚会曝光“AI投毒产业链”",
@@ -108,11 +110,12 @@
             23,
             26,
             29,
-            25
+            25,
+            18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时35分 ~ 06时32分]"
+          "appearance_count": 14,
+          "time_info": "[00时35分 ~ 07时32分]"
         },
         {
           "title": "AI带路寻美食,吧友吃到自闭",
@@ -123,8 +126,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时35分 ~ 06时32分]"
+          "appearance_count": 14,
+          "time_info": "[00时35分 ~ 07时32分]"
         },
         {
           "title": "315晚会曝光“AI投毒产业链”",
@@ -144,11 +147,12 @@
           "ranks": [
             2,
             5,
-            16
+            16,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时42分 ~ 06时32分]"
+          "appearance_count": 6,
+          "time_info": "[02时42分 ~ 07时32分]"
         },
         {
           "title": "“Apollo-9手环怎么样？”315曝光AI大模型“投毒”后实测：千问拒答，DeepSeek翻车",
@@ -165,6 +169,18 @@
           "time_info": "[00时36分 ~ 05时31分]"
         },
         {
+          "title": "AI时代家长如何教育孩子",
+          "url": "https://www.toutiao.com/trending/7616957895850246154/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时41分 ~ 07时32分]"
+        },
+        {
           "title": "315晚会曝光AI大模型被投毒",
           "url": "https://s.weibo.com/weibo?q=%23315%E6%99%9A%E4%BC%9A%E6%9B%9D%E5%85%89AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%A2%AB%E6%8A%95%E6%AF%92%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -176,17 +192,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时29分 ~ 05时31分]"
-        },
-        {
-          "title": "AI时代家长如何教育孩子",
-          "url": "https://www.toutiao.com/trending/7616957895850246154/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时41分 ~ 04时32分]"
         },
         {
           "title": "真正的美版“台积电”？马斯克称特斯拉“AI芯片超级工厂”7天内启动",
@@ -210,6 +215,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时36分 ~ 01时31分]"
+        },
+        {
+          "title": "你问AI得到的答案可能是广告",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BD%A0%E9%97%AEAI%E5%BE%97%E5%88%B0%E7%9A%84%E7%AD%94%E6%A1%88%E5%8F%AF%E8%83%BD%E6%98%AF%E5%B9%BF%E5%91%8A%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时31分 ~ 07时32分]"
         },
         {
           "title": "美国交通部长Duffy：我们准备就霍尔木兹海峡通航问题提供保险。 Caine正分析（美国军队）何时才能安全地（提供）护航。 可能会在一天之后开始提供护航，也可能还要一周。",
