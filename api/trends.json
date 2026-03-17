@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T04:42:20.989305+08:00",
-  "total_titles_processed": 527,
+  "generated_at": "2026-03-18T05:42:10.236238+08:00",
+  "total_titles_processed": 586,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "AI味太冲,英伟达DLSS5翻车",
@@ -15,20 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 04时42分]"
-        },
-        {
-          "title": "苹果 3 月 16 日新发布的 AirPods Max 2，它相比 1 有哪些升级？",
-          "url": "https://www.zhihu.com/question/2016992148197750088",
-          "source": "知乎",
-          "ranks": [
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时59分 ~ 04时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 05时42分]"
         },
         {
           "title": "315 曝光「AI 投毒」后 GEO 换马甲生意照做，暴露出哪些问题？怎样才能彻底铲除 GEO 黑产？",
@@ -37,22 +25,37 @@
           "ranks": [
             12,
             9,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 04时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 05时42分]"
         },
         {
           "title": "15只硬科技基金获批，精准投向AI与战略新兴产业，增量资金蓄势待发",
           "url": "https://www.cls.cn/detail/2315814",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 05时42分]"
+        },
+        {
+          "title": "苹果 3 月 16 日新发布的 AirPods Max 2，它相比 1 有哪些升级？",
+          "url": "https://www.zhihu.com/question/2016992148197750088",
+          "source": "知乎",
+          "ranks": [
+            5,
+            13,
+            10
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[00时26分 ~ 04时42分]"
+          "time_info": "[01时59分 ~ 05时42分]"
         },
         {
           "title": "于谦说怕AI偷看相册",
@@ -64,8 +67,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 04时42分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 05时42分]"
         },
         {
           "title": "亚马逊股价走高，最新上涨1%，报214美元以上，此前报道称，该公司首席执行官预计到2036年，人工智能将使亚马逊云服务的销售额翻一番，达到6000亿美元。",
@@ -77,6 +80,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
+        },
+        {
+          "title": "必和必拓集团任命Brandon Craig为首席执行官，自7月1日起接替Mike Henry。",
+          "url": "https://flash.jin10.com/detail/20260318052306073800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
         },
         {
           "title": "36 岁程序员，被 AI 写代码吓到了，如果再不转型，我几年内会失业吗？",
@@ -147,6 +161,17 @@
           "time_info": "02时01分"
         },
         {
+          "title": "OpenAI正筹备上市，有望于年底前实现。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3071904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
           "title": "欧莱雅：与英伟达携手，借助预测性人工智能科学加速美妆研发。",
           "url": "https://flash.jin10.com/detail/20260318011537189800",
           "source": "金十数据",
@@ -164,7 +189,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
         },
@@ -186,7 +211,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
         },
@@ -200,6 +225,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
+        },
+        {
+          "title": "据CNBC：OpenAI正筹备上市，有望于年底前实现。",
+          "url": "https://flash.jin10.com/detail/20260318044954930800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
         },
         {
           "title": "英伟达(NVDA.O)：AT&T与思科和英伟达合作，为物联网构建人工智能网格",
