@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T21:08:53.295027+08:00",
-  "total_titles_processed": 1771,
+  "generated_at": "2026-03-19T22:51:59.616813+08:00",
+  "total_titles_processed": 1893,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 55,
+      "match_count": 56,
       "titles": [
         {
           "title": "腾讯、阿里都开始给员工发 Token，鼓励使用 AI 工具工作，Token 以后会成为大厂福利标配吗？",
@@ -23,6 +23,18 @@
           "time_info": "[01时02分 ~ 07时33分]"
         },
         {
+          "title": "50年前石油危机启示录：最可怕的是中东战火刺破AI泡沫？",
+          "url": "https://www.cls.cn/detail/2317944",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时44分 ~ 22时51分]"
+        },
+        {
           "title": "网传以后男二以下的角色都用 AI 做，不用真人演员，可能性多大？当前的技术条件支持吗？",
           "url": "https://www.zhihu.com/question/2017543464514974274",
           "source": "知乎",
@@ -38,31 +50,6 @@
           "time_info": "[01时02分 ~ 07时33分]"
         },
         {
-          "title": "50年前石油危机启示录：最可怕的是中东战火刺破AI泡沫？",
-          "url": "https://www.cls.cn/detail/2317944",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时44分 ~ 21时08分]"
-        },
-        {
-          "title": "如何看待央视网发布的动画短片《AI 奇谈 | 止戈为武：流金谷无「鹰」家》？",
-          "url": "https://www.zhihu.com/question/2017531069054869898",
-          "source": "知乎",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时44分 ~ 21时08分]"
-        },
-        {
           "title": "全球AI需求激增、Token调用量上扬 阿里云部分产品最高涨34%",
           "url": "https://www.cls.cn/detail/2316633",
           "source": "财联社热门",
@@ -75,6 +62,20 @@
           "time_info": "[01时02分 ~ 07时32分]"
         },
         {
+          "title": "如何看待央视网发布的动画短片《AI 奇谈 | 止戈为武：流金谷无「鹰」家》？",
+          "url": "https://www.zhihu.com/question/2017531069054869898",
+          "source": "知乎",
+          "ranks": [
+            4,
+            3,
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时44分 ~ 22时51分]"
+        },
+        {
           "title": "腾讯电话会：马化腾首谈“养虾”构想，今年AI投资至少翻倍，智能体将催生去中心化新生态",
           "url": "https://wallstreetcn.com/articles/3767836",
           "source": "华尔街见闻",
@@ -85,8 +86,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[01时02分 ~ 21时08分]"
+          "appearance_count": 26,
+          "time_info": "[01时02分 ~ 22时51分]"
         },
         {
           "title": "AI短片流金谷恩仇录",
@@ -172,6 +173,23 @@
           "time_info": "[10时24分 ~ 21时08分]"
         },
         {
+          "title": "AI万物皆可龙抬头",
+          "url": "https://www.douyin.com/hot/2435867",
+          "source": "抖音",
+          "ranks": [
+            13,
+            17,
+            19,
+            14,
+            15,
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时11分 ~ 22时51分]"
+        },
+        {
           "title": "日本AI造假,套壳DeepSeek",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351991&amp;topic_name=%E6%97%A5%E6%9C%ACAI%E9%80%A0%E5%81%87%2C%E5%A5%97%E5%A3%B3DeepSeek",
           "source": "贴吧",
@@ -215,20 +233,18 @@
           "time_info": "[10时24分 ~ 15时12分]"
         },
         {
-          "title": "AI万物皆可龙抬头",
-          "url": "https://www.douyin.com/hot/2435867",
-          "source": "抖音",
+          "title": "AI龙虾大战我的世界",
+          "url": "https://search.bilibili.com/all?keyword=AI%E9%BE%99%E8%99%BE%E5%A4%A7%E6%88%98%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C",
+          "source": "bilibili 热搜",
           "ranks": [
-            13,
-            17,
-            19,
-            14,
             15,
-            16
+            16,
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时11分 ~ 21时08分]"
+          "appearance_count": 8,
+          "time_info": "[16时44分 ~ 22时51分]"
         },
         {
           "title": "苹果高管走访“果链”：看了欣旺达和富士康，要推“AI+”课程培训员工",
@@ -253,19 +269,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时02分 ~ 07时33分]"
-        },
-        {
-          "title": "AI龙虾大战我的世界",
-          "url": "https://search.bilibili.com/all?keyword=AI%E9%BE%99%E8%99%BE%E5%A4%A7%E6%88%98%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            16,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时44分 ~ 21时08分]"
         },
         {
           "title": "普通人如何防范AI投毒",
@@ -319,7 +322,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时08分"
         },
@@ -336,6 +339,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[15时12分 ~ 18时44分]"
+        },
+        {
+          "title": "AI艺人被指撞脸多位明星",
+          "url": "https://www.baidu.com/s?wd=AI%E8%89%BA%E4%BA%BA%E8%A2%AB%E6%8C%87%E6%92%9E%E8%84%B8%E5%A4%9A%E4%BD%8D%E6%98%8E%E6%98%9F",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            17,
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时44分 ~ 22时51分]"
         },
         {
           "title": "网易回应外包裁员称信息不实，此前网易被曝计划「使用 AI 清退全裁部外包员工」，具体怎么回事？",
@@ -359,19 +376,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时56分 ~ 14时02分]"
-        },
-        {
-          "title": "AI艺人被指撞脸多位明星",
-          "url": "https://www.baidu.com/s?wd=AI%E8%89%BA%E4%BA%BA%E8%A2%AB%E6%8C%87%E6%92%9E%E8%84%B8%E5%A4%9A%E4%BD%8D%E6%98%8E%E6%98%9F",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            17,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时44分 ~ 21时08分]"
         },
         {
           "title": "AI演员 粉丝",
@@ -433,6 +437,18 @@
           "time_info": "[16时45分 ~ 17时46分]"
         },
         {
+          "title": "一图看懂AI产业链哪些环节在涨价：算力、存储、大模型…...",
+          "url": "https://www.cls.cn/detail/2318157",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 22时51分]"
+        },
+        {
           "title": "AI演员 假人感",
           "url": "https://s.weibo.com/weibo?q=AI%E6%BC%94%E5%91%98%20%E5%81%87%E4%BA%BA%E6%84%9F&t=31&band_rank=12&Refer=top",
           "source": "微博",
@@ -442,6 +458,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时24分 ~ 10时25分]"
+        },
+        {
+          "title": "小米凌晨模型三连发：罗福莉称为智能体时代打造，曾被误认为DeepSeek V4",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32793883",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 22时51分]"
         },
         {
           "title": "网易回应外包裁员称信息不实，此前网易被曝计划「使用 AI 清退全部外包员工」，具体怎么回事？",
@@ -464,6 +492,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时37分 ~ 19时38分]"
+        },
+        {
+          "title": "央视AI短片《流金谷恩仇录》爆火",
+          "url": "https://www.toutiao.com/trending/7618387888183836715/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 22时51分]"
         },
         {
           "title": "短剧方称男二以下AI演员无法实现",
@@ -494,7 +533,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时08分"
         },
@@ -505,7 +544,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时08分"
         },
@@ -543,17 +582,6 @@
           "time_info": "14时02分"
         },
         {
-          "title": "一图看懂AI产业链哪些环节在涨价：算力、存储、大模型…...",
-          "url": "https://www.cls.cn/detail/2318157",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时08分"
-        },
-        {
           "title": "集邦咨询：AI动能稳健，预估2026年晶圆代工产值年增24.8%，部分制程涨价浮现",
           "url": "https://wallstreetcn.com/livenews/3072987",
           "source": "华尔街见闻-快讯",
@@ -563,17 +591,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
-        },
-        {
-          "title": "小米凌晨模型三连发：罗福莉称为智能体时代打造，曾被误认为DeepSeek V4",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32793883",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时08分"
         },
         {
           "title": "华为李鹏：到2030年，中国AI相关产业规模将突破10万亿元",
@@ -588,14 +605,14 @@
         },
         {
           "title": "央视AI短片《流金谷恩仇录》爆火",
-          "url": "https://www.toutiao.com/trending/7618387888183836715/",
-          "source": "今日头条",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86AI%E7%9F%AD%E7%89%87%E3%80%8A%E6%B5%81%E9%87%91%E8%B0%B7%E6%81%A9%E4%BB%87%E5%BD%95%E3%80%8B%E7%88%86%E7%81%AB",
+          "source": "百度热搜",
           "ranks": [
             20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时08分"
+          "time_info": "22时51分"
         },
         {
           "title": "XR研究院：千问AI眼镜开售首周线上份额超70%",
