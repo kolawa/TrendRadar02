@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-21T13:43:25.180128+08:00",
-  "total_titles_processed": 958,
+  "generated_at": "2026-03-21T14:47:38.913807+08:00",
+  "total_titles_processed": 1028,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
@@ -27,11 +27,12 @@
             2,
             4,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时46分 ~ 13时43分]"
+          "appearance_count": 21,
+          "time_info": "[00时46分 ~ 14时47分]"
         },
         {
           "title": "程序员利用 ChatGPT 设计癌症疫苗拯救爱犬，「肿瘤真的缩小了」，这一事件有哪些意义或影响？",
@@ -61,11 +62,12 @@
             20,
             18,
             17,
-            5
+            5,
+            16
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时46分 ~ 13时43分]"
+          "appearance_count": 21,
+          "time_info": "[00时46分 ~ 14时47分]"
         },
         {
           "title": "配音圈集体声讨,抵制AI盗声",
@@ -75,11 +77,12 @@
             7,
             9,
             13,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时46分 ~ 13时43分]"
+          "appearance_count": 21,
+          "time_info": "[00时46分 ~ 14时47分]"
         },
         {
           "title": "AI龙虾大战我的世界",
@@ -128,6 +131,18 @@
           "time_info": "[02时53分 ~ 12时28分]"
         },
         {
+          "title": "如何评价耀客推出 AI 演员秦凌岳、林汐颜，被指撞脸翟子路、赵今麦张子枫？AI 艺人仿真人版权边界如何界定？",
+          "url": "https://www.zhihu.com/question/2017644548151616976",
+          "source": "知乎",
+          "ranks": [
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时27分 ~ 14时47分]"
+        },
+        {
           "title": "博主用AI手搓应用1个多月赚近九千",
           "url": "https://www.baidu.com/s?wd=%E5%8D%9A%E4%B8%BB%E7%94%A8AI%E6%89%8B%E6%90%93%E5%BA%94%E7%94%A81%E4%B8%AA%E5%A4%9A%E6%9C%88%E8%B5%9A%E8%BF%91%E4%B9%9D%E5%8D%83",
           "source": "百度热搜",
@@ -142,16 +157,16 @@
           "time_info": "[00时46分 ~ 07时32分]"
         },
         {
-          "title": "如何评价耀客推出 AI 演员秦凌岳、林汐颜，被指撞脸翟子路、赵今麦张子枫？AI 艺人仿真人版权边界如何界定？",
-          "url": "https://www.zhihu.com/question/2017644548151616976",
-          "source": "知乎",
+          "title": "抵制没用 AI演员已经杀进影视圈",
+          "url": "https://www.baidu.com/s?wd=%E6%8A%B5%E5%88%B6%E6%B2%A1%E7%94%A8+AI%E6%BC%94%E5%91%98%E5%B7%B2%E7%BB%8F%E6%9D%80%E8%BF%9B%E5%BD%B1%E8%A7%86%E5%9C%88",
+          "source": "百度热搜",
           "ranks": [
-            17,
-            14
+            5,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时27分 ~ 13时43分]"
+          "appearance_count": 2,
+          "time_info": "[14时46分 ~ 14时47分]"
         },
         {
           "title": "周五（3月20日），存储芯片与硬件供应链指数跌4.93%，报113.25点，本周累计上涨5.14%，整体呈现出M形走势。 北美科技软件股指数ETF收跌1.74%，报82.99美元，本周累跌1.43%，延续上周跌4.30%的表现。 信息科技指数跌3.42%，报269.03点，本周累涨0.24%。 人工智能（AI）赢家指数跌4.02%，报281.73点，本周累跌0.09%。 AI软件先驱指数跌2.18%，报98.04点，本周累跌1.37%。",
@@ -165,6 +180,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时33分 ~ 07时32分]"
+        },
+        {
+          "title": "Palantir人工智能系统获美国防部关键项目地位",
+          "url": "https://flash.jin10.com/detail/20260321113458071800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时28分 ~ 14时47分]"
         },
         {
           "title": "我用AI盲猜周杰伦新歌",
@@ -190,16 +218,15 @@
           "time_info": "[01时37分 ~ 02时53分]"
         },
         {
-          "title": "Palantir人工智能系统获美国防部关键项目地位",
-          "url": "https://flash.jin10.com/detail/20260321113458071800",
-          "source": "金十数据",
+          "title": "如何看待 ICML 2026 因审稿人违规使用 AI 而一次性桌拒 497 篇论文？",
+          "url": "https://www.zhihu.com/question/2017816580403246847",
+          "source": "知乎",
           "ranks": [
-            9,
-            15
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时28分 ~ 13时43分]"
+          "time_info": "[14时46分 ~ 14时47分]"
         },
         {
           "title": "AI时代教育将被如何改写",
