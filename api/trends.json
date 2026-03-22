@@ -1,14 +1,11 @@
 {
-  "generated_at": "2026-03-22T22:32:05.392168+08:00",
-  "total_titles_processed": 1406,
-  "failed_sources": [
-    "toutiao",
-    "wallstreetcn-hot"
-  ],
+  "generated_at": "2026-03-22T23:29:30.158177+08:00",
+  "total_titles_processed": 1465,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "AI演员为啥遭网友抵制",
@@ -23,8 +20,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时25分 ~ 22时32分]"
+          "appearance_count": 19,
+          "time_info": "[10时25分 ~ 23时29分]"
         },
         {
           "title": "季冠霖发文抵制AI",
@@ -71,8 +68,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 32,
-          "time_info": "[00时32分 ~ 22时32分]"
+          "appearance_count": 34,
+          "time_info": "[00时32分 ~ 23时29分]"
         },
         {
           "title": "配音圈集体声讨,抵制AI盗声",
@@ -89,8 +86,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 32,
-          "time_info": "[00时32分 ~ 22时32分]"
+          "appearance_count": 34,
+          "time_info": "[00时32分 ~ 23时29分]"
         },
         {
           "title": "OpenAI计划在2026年底前将员工人数增至8,000人，以缩小与竞争对手Anthropic的差距。（英国金融时报）",
@@ -116,6 +113,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[07时27分 ~ 14时55分]"
+        },
+        {
+          "title": "跑马拉松护航的民警居然是AI机器人",
+          "url": "https://www.baidu.com/s?wd=%E8%B7%91%E9%A9%AC%E6%8B%89%E6%9D%BE%E6%8A%A4%E8%88%AA%E7%9A%84%E6%B0%91%E8%AD%A6%E5%B1%85%E7%84%B6%E6%98%AFAI%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[21时46分 ~ 23时29分]"
         },
         {
           "title": "库克说AI是对人能力的放大而非取代 不要惧怕要拥抱AI",
@@ -233,17 +242,6 @@
           "time_info": "[00时33分 ~ 01时28分]"
         },
         {
-          "title": "跑马拉松护航的民警居然是AI机器人",
-          "url": "https://www.baidu.com/s?wd=%E8%B7%91%E9%A9%AC%E6%8B%89%E6%9D%BE%E6%8A%A4%E8%88%AA%E7%9A%84%E6%B0%91%E8%AD%A6%E5%B1%85%E7%84%B6%E6%98%AFAI%E6%9C%BA%E5%99%A8%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时46分 ~ 22时32分]"
-        },
-        {
           "title": "韩文秀：全方位应对人工智能冲击，促进高质量充分就业",
           "url": "https://flash.jin10.com/detail/20260322112847753800",
           "source": "金十数据",
@@ -255,6 +253,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时54分 ~ 14时55分]"
+        },
+        {
+          "title": "AI算力需求将超1.3万亿美元！华为加码“企业龙虾” 涉及多家上市公司",
+          "url": "https://www.cls.cn/detail/2320476",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时28分 ~ 23时29分]"
         },
         {
           "title": "华为肖德刚：AI与存储密不可分，加速迈入双向赋能新阶段",
