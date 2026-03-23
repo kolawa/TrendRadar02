@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-23T16:59:48.786469+08:00",
-  "total_titles_processed": 1168,
+  "generated_at": "2026-03-23T18:11:04.170319+08:00",
+  "total_titles_processed": 1287,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "跑马拉松护航的民警居然是AI机器人",
@@ -65,11 +65,12 @@
             2,
             6,
             8,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时26分 ~ 16时59分]"
+          "appearance_count": 8,
+          "time_info": "[10时26分 ~ 18时11分]"
         },
         {
           "title": "世界周刊之当AI决定扣动扳机",
@@ -145,6 +146,17 @@
           "time_info": "[15时13分 ~ 15时14分]"
         },
         {
+          "title": "霍启刚形象被AI盗用",
+          "url": "https://www.baidu.com/s?wd=%E9%9C%8D%E5%90%AF%E5%88%9A%E5%BD%A2%E8%B1%A1%E8%A2%ABAI%E7%9B%97%E7%94%A8",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时10分 ~ 18时11分]"
+        },
+        {
           "title": "扎克伯格打造CEO代理 公司内部已出现“AI代理社交”",
           "url": "https://flash.jin10.com/detail/20260323065446993800",
           "source": "金十数据",
@@ -162,7 +174,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时59分"
         },
