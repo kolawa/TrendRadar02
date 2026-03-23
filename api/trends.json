@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-23T15:14:07.379578+08:00",
-  "total_titles_processed": 1020,
+  "generated_at": "2026-03-23T16:59:48.786469+08:00",
+  "total_titles_processed": 1168,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "跑马拉松护航的民警居然是AI机器人",
@@ -64,22 +64,12 @@
           "ranks": [
             2,
             6,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时26分 ~ 15时14分]"
-        },
-        {
-          "title": "iPhone Air使用报告",
-          "url": "https://search.bilibili.com/all?keyword=iPhone%20Air%E4%BD%BF%E7%94%A8%E6%8A%A5%E5%91%8A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时13分 ~ 15时14分]"
+          "appearance_count": 6,
+          "time_info": "[10时26分 ~ 16时59分]"
         },
         {
           "title": "世界周刊之当AI决定扣动扳机",
@@ -104,6 +94,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
+        },
+        {
+          "title": "iPhone Air使用报告",
+          "url": "https://search.bilibili.com/all?keyword=iPhone%20Air%E4%BD%BF%E7%94%A8%E6%8A%A5%E5%91%8A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时13分 ~ 16时59分]"
         },
         {
           "title": "AI智能体加速落地，业内：商业保险迎补位时刻",
@@ -152,6 +154,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "高盛：AI或是美股最后的抛售来源",
+          "url": "https://www.toutiao.com/trending/7620340271837875763/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
         },
         {
           "title": "据华尔街日报：Meta Platforms(META.O)CEO扎克伯格正在打造一个CEO人工智能代理，以帮助他处理工作事务。",
