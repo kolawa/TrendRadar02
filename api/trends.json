@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-23T13:06:02.831177+08:00",
-  "total_titles_processed": 869,
+  "generated_at": "2026-03-23T15:14:07.379578+08:00",
+  "total_titles_processed": 1020,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "跑马拉松护航的民警居然是AI机器人",
@@ -37,11 +37,12 @@
           "ranks": [
             25,
             24,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时33分 ~ 13时06分]"
+          "appearance_count": 17,
+          "time_info": "[00时33分 ~ 15时14分]"
         },
         {
           "title": "配音圈集体声讨,抵制AI盗声",
@@ -57,6 +58,30 @@
           "time_info": "[00时33分 ~ 10时26分]"
         },
         {
+          "title": "DeepSeek郭达雅被曝离职",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E9%83%AD%E8%BE%BE%E9%9B%85%E8%A2%AB%E6%9B%9D%E7%A6%BB%E8%81%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时26分 ~ 15时14分]"
+        },
+        {
+          "title": "iPhone Air使用报告",
+          "url": "https://search.bilibili.com/all?keyword=iPhone%20Air%E4%BD%BF%E7%94%A8%E6%8A%A5%E5%91%8A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时13分 ~ 15时14分]"
+        },
+        {
           "title": "世界周刊之当AI决定扣动扳机",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E5%91%A8%E5%88%8A%E4%B9%8B%E5%BD%93AI%E5%86%B3%E5%AE%9A%E6%89%A3%E5%8A%A8%E6%89%B3%E6%9C%BA",
           "source": "bilibili 热搜",
@@ -68,18 +93,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时33分 ~ 10时26分]"
-        },
-        {
-          "title": "DeepSeek郭达雅被曝离职",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E9%83%AD%E8%BE%BE%E9%9B%85%E8%A2%AB%E6%9B%9D%E7%A6%BB%E8%81%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时26分 ~ 13时06分]"
         },
         {
           "title": "跑马拉松护航的民警居然是AI机器人",
@@ -117,6 +130,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时31分 ~ 10时26分]"
+        },
+        {
+          "title": "美透露误击伊朗小学原因：AI决策失误",
+          "url": "https://www.toutiao.com/trending/7619991717072371753/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时13分 ~ 15时14分]"
         },
         {
           "title": "扎克伯格打造CEO代理 公司内部已出现“AI代理社交”",
@@ -158,7 +182,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
         },
@@ -169,7 +193,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
         }
