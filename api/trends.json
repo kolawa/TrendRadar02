@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-24T21:15:54.470690+08:00",
-  "total_titles_processed": 1843,
+  "generated_at": "2026-03-24T23:02:51.479435+08:00",
+  "total_titles_processed": 1972,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 33,
+      "match_count": 37,
       "titles": [
         {
           "title": "国内首个！新型储能AI分析平台投用 新能源消纳电量提升30%",
@@ -33,11 +33,12 @@
             6,
             7,
             8,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时55分 ~ 21时15分]"
+          "appearance_count": 14,
+          "time_info": "[12时55分 ~ 23时02分]"
         },
         {
           "title": "普通人如何制作AI视频",
@@ -62,11 +63,12 @@
             10,
             11,
             12,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时54分 ~ 21时15分]"
+          "appearance_count": 12,
+          "time_info": "[15时54分 ~ 23时02分]"
         },
         {
           "title": "DeepSeek郭达雅被曝离职",
@@ -77,11 +79,12 @@
             12,
             9,
             13,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时03分 ~ 21时15分]"
+          "appearance_count": 25,
+          "time_info": "[00时03分 ~ 23时02分]"
         },
         {
           "title": "如何看待阿里达摩院发布玄铁 C950 刷新 RISC-V 全球性能纪录，AI 时代 CPU 的重要性是否被低估了？",
@@ -98,6 +101,29 @@
           "time_info": "[15时54分 ~ 19时48分]"
         },
         {
+          "title": "马上评｜“去人化”的AI影视，你还会看吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32819970",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时58分 ~ 23时02分]"
+        },
+        {
+          "title": "官方定调！AI时代“词元经济”崛起",
+          "url": "https://www.cls.cn/detail/2322996",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时15分 ~ 23时02分]"
+        },
+        {
           "title": "欧洲央行首席经济学家：欧洲金融体系不适配人工智能时代",
           "url": "https://flash.jin10.com/detail/20260324024205486800",
           "source": "金十数据",
@@ -109,27 +135,16 @@
           "time_info": "02时58分"
         },
         {
-          "title": "马上评｜“去人化”的AI影视，你还会看吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32819970",
-          "source": "澎湃新闻",
+          "title": "给AI龙虾装上双手打游戏",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BB%99AI%E9%BE%99%E8%99%BE%E8%A3%85%E4%B8%8A%E5%8F%8C%E6%89%8B%E6%89%93%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
           "ranks": [
-            20,
-            18
+            12,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时58分 ~ 21时15分]"
-        },
-        {
-          "title": "官方定调！AI时代“词元经济”崛起",
-          "url": "https://www.cls.cn/detail/2322996",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时15分"
+          "appearance_count": 5,
+          "time_info": "[19时47分 ~ 23时02分]"
         },
         {
           "title": "内娱影视行业AI化是好是坏",
@@ -154,18 +169,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时10分 ~ 14时02分]"
-        },
-        {
-          "title": "给AI龙虾装上双手打游戏",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BB%99AI%E9%BE%99%E8%99%BE%E8%A3%85%E4%B8%8A%E5%8F%8C%E6%89%8B%E6%89%93%E6%B8%B8%E6%88%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时47分 ~ 21时15分]"
         },
         {
           "title": "“去人化”的AI影视 你还会看吗",
@@ -203,6 +206,17 @@
           "time_info": "[02时58分 ~ 03时53分]"
         },
         {
+          "title": "报告称AI将全面取代这六大岗位",
+          "url": "https://www.toutiao.com/trending/7620795844911959606/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时01分 ~ 23时02分]"
+        },
+        {
           "title": "在 AI 产业链上，利润最终会流向数据中心、大模型还是下游应用？",
           "url": "https://www.zhihu.com/question/2016829250926243974",
           "source": "知乎",
@@ -212,6 +226,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时10分 ~ 10时11分]"
+        },
+        {
+          "title": "美国白宫科技事务顾问Michael Kratsios在科技论坛上讲话：建议推行国家监督管理AI的方式。 （谈及近日向国会山移交的AI监管框架）AI监管应当（有助于）保护儿童（隐私）。 AI制度还应该保护“电力费率支付者”（或称“电费缴交户”，Electric Ratepayer）和知识产权（IP）。",
+          "url": "https://wallstreetcn.com/livenews/3076050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "泰凌微：公司不是Ray-Ban的供应商；公司部分产品可以用于AI眼镜，但目前尚未有相应的终端产品落地。",
@@ -275,7 +300,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
         },
@@ -289,6 +314,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
+        },
+        {
+          "title": "美国白宫AI事务主管David Sacks在华盛顿特区科技论坛上讲话，为总统特朗普“允许向海湾地区多个国家出口销售芯片”的计划辩解。",
+          "url": "https://wallstreetcn.com/livenews/3076046",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "小米集团：2025年智能电动汽车及AI等创新业务分部收入同比增长223.8%",
@@ -355,6 +391,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
+        },
+        {
+          "title": "OpenAI高管Lightcap：存储芯片供应短缺成为扩张的瓶颈。 对于AI（业务）成长而言，能源（电力）是另外一个潜在的瓶颈。",
+          "url": "https://wallstreetcn.com/livenews/3076032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "港股AI应用产业股持续拉升，MINIMAX-W(00100.HK)涨超12%，智谱(02513.HK)涨超10%，金山云(03896.HK)、腾讯控股(00700.HK)、阿里巴巴(09988.HK)涨超3%。",
