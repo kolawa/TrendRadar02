@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-25T18:52:43.871765+08:00",
-  "total_titles_processed": 1655,
+  "generated_at": "2026-03-25T19:44:16.998403+08:00",
+  "total_titles_processed": 1741,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 65,
+      "match_count": 67,
       "titles": [
         {
           "title": "官方定调！AI时代“词元经济”崛起",
@@ -27,11 +27,12 @@
             5,
             4,
             3,
-            8
+            8,
+            18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时55分 ~ 18时52分]"
+          "appearance_count": 11,
+          "time_info": "[12时55分 ~ 19时44分]"
         },
         {
           "title": "OpenAI宣布关停Sora",
@@ -45,8 +46,24 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时24分 ~ 18时52分]"
+          "appearance_count": 12,
+          "time_info": "[10时24分 ~ 19时44分]"
+        },
+        {
+          "title": "Token AI时代的新KPI",
+          "url": "https://search.bilibili.com/all?keyword=Token%20AI%E6%97%B6%E4%BB%A3%E7%9A%84%E6%96%B0KPI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            10,
+            7,
+            17,
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时55分 ~ 19时44分]"
         },
         {
           "title": "马上评｜“去人化”的AI影视，你还会看吗？",
@@ -79,8 +96,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时15分 ~ 18时52分]"
+          "appearance_count": 23,
+          "time_info": "[00时15分 ~ 19时44分]"
         },
         {
           "title": "报告称AI将全面取代这六大岗位",
@@ -139,6 +156,21 @@
           "time_info": "[00时15分 ~ 10时24分]"
         },
         {
+          "title": "光模块获点名！深圳部署AI高质量发展：服务器全链条出货要跨越式增长",
+          "url": "https://www.cls.cn/detail/2323916",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时03分 ~ 19时44分]"
+        },
+        {
           "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
           "url": "https://www.cls.cn/detail/2323711",
           "source": "财联社热门",
@@ -152,34 +184,17 @@
           "time_info": "[10时24分 ~ 17时56分]"
         },
         {
-          "title": "Token AI时代的新KPI",
-          "url": "https://search.bilibili.com/all?keyword=Token%20AI%E6%97%B6%E4%BB%A3%E7%9A%84%E6%96%B0KPI",
-          "source": "bilibili 热搜",
+          "title": "小米电话会：未来三年AI领域投入600亿，内存涨价“尽力消化不排除传导”，汽车出海时间表不变",
+          "url": "https://wallstreetcn.com/articles/3768269",
+          "source": "华尔街见闻",
           "ranks": [
-            14,
             10,
-            7,
-            17,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时55分 ~ 18时52分]"
-        },
-        {
-          "title": "光模块获点名！深圳部署AI高质量发展：服务器全链条出货要跨越式增长",
-          "url": "https://www.cls.cn/detail/2323916",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
             8,
-            6,
-            7
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时03分 ~ 18时52分]"
+          "appearance_count": 8,
+          "time_info": "[07时35分 ~ 19时44分]"
         },
         {
           "title": "这就是中国AI产业链的硬核实力",
@@ -194,17 +209,16 @@
           "time_info": "[10时24分 ~ 14时04分]"
         },
         {
-          "title": "小米电话会：未来三年AI领域投入600亿，内存涨价“尽力消化不排除传导”，汽车出海时间表不变",
-          "url": "https://wallstreetcn.com/articles/3768269",
-          "source": "华尔街见闻",
+          "title": "我是来自德国的游戏制作人 Kai ，想问问中国玩家如何评价我们做的游戏《困兽之国》？",
+          "url": "https://www.zhihu.com/question/2010673619001419372",
+          "source": "知乎",
           "ranks": [
-            10,
-            8,
-            9
+            20,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时35分 ~ 18时52分]"
+          "appearance_count": 5,
+          "time_info": "[16时54分 ~ 19时44分]"
         },
         {
           "title": "AI时代最离谱的KPI",
@@ -251,6 +265,17 @@
           "time_info": "16时55分"
         },
         {
+          "title": "美军错误情报叠加 AI 决策致使「战斧」导弹误击伊朗小学，如何看待战争中使用 AI？AI 决策的边界在哪里？",
+          "url": "https://www.zhihu.com/question/2019437515753398973",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时54分 ~ 19时44分]"
+        },
+        {
           "title": "苹果计划通过Siri应用、全新界面以及iOS 27中的“问Siri”按钮，重启其人工智能战略。",
           "url": "https://flash.jin10.com/detail/20260325025306673800",
           "source": "金十数据",
@@ -282,6 +307,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时55分"
+        },
+        {
+          "title": "程一笑：截至26年1月可灵AI ARR已超3亿美元，预计今年收入翻倍以上增长",
+          "url": "https://flash.jin10.com/detail/20260325193948964800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         },
         {
           "title": "京东开源基础大模型JoyAI-LLM Flash的Instruct版本，适配近期火爆的“龙虾”",
@@ -343,15 +379,17 @@
           "time_info": "[04时44分 ~ 05时40分]"
         },
         {
-          "title": "美军错误情报叠加 AI 决策致使「战斧」导弹误击伊朗小学，如何看待战争中使用 AI？AI 决策的边界在哪里？",
-          "url": "https://www.zhihu.com/question/2019437515753398973",
-          "source": "知乎",
+          "title": "媒体评AI短片《雪山救狐狸》爆火",
+          "url": "https://www.toutiao.com/trending/7621087757850381830/",
+          "source": "今日头条",
           "ranks": [
-            16
+            20,
+            23,
+            26
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[15时54分 ~ 18时52分]"
+          "time_info": "[17时56分 ~ 19时44分]"
         },
         {
           "title": "亚马逊传闻引爆软件板块恐慌 “AI颠覆逻辑”再度升温",
@@ -375,17 +413,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时34分 ~ 07时35分]"
-        },
-        {
-          "title": "我是来自德国的游戏制作人 Kai ，想问问中国玩家如何评价我们做的游戏《困兽之国》？",
-          "url": "https://www.zhihu.com/question/2010673619001419372",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时54分 ~ 18时52分]"
         },
         {
           "title": "报道：OpenAI完成了新款AI模型的初步开发，Altman将专注供应链和打造数据中心",
@@ -432,18 +459,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时55分 ~ 12时56分]"
-        },
-        {
-          "title": "媒体评AI短片《雪山救狐狸》爆火",
-          "url": "https://www.toutiao.com/trending/7621087757850381830/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时56分 ~ 18时52分]"
         },
         {
           "title": "据The Information：OpenAI创始人奥尔特曼调整职责分工，并筹备推出SPUD新型人工智能模型。",
@@ -697,6 +712,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "工信部公开征求《人工智能 安全治理 模型上下文协议应用安全要求》等121项行业标准计划项目意见。",
+          "url": "https://flash.jin10.com/detail/20260325191248950800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         },
         {
           "title": "据华尔街日报 ：此举是OpenAI在今年第四季度可能进行首次公开募股之前，为重新聚焦于商业和编程业务而采取的众多措施之一。",
