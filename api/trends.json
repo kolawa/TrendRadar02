@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-26T19:53:05.745564+08:00",
-  "total_titles_processed": 1527,
+  "generated_at": "2026-03-26T21:20:32.521636+08:00",
+  "total_titles_processed": 1654,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时29分 ~ 19时53分]"
+          "appearance_count": 12,
+          "time_info": "[10时29分 ~ 21时20分]"
         },
         {
           "title": "Token AI时代的新KPI",
@@ -33,8 +33,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时21分 ~ 19时53分]"
+          "appearance_count": 23,
+          "time_info": "[00时21分 ~ 21时20分]"
         },
         {
           "title": "OpenAI宣布关停Sora",
@@ -49,8 +49,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时21分 ~ 19时53分]"
+          "appearance_count": 23,
+          "time_info": "[00时21分 ~ 21时20分]"
         },
         {
           "title": "短剧演员成AI技术第一批“牺牲品”",
