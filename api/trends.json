@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-28T03:44:07.730990+08:00",
-  "total_titles_processed": 496,
+  "generated_at": "2026-03-28T04:42:23.172522+08:00",
+  "total_titles_processed": 551,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "一行代码破甲,AI水军现原形",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 03时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时58分 ~ 04时42分]"
         },
         {
           "title": "中国人工智能走在世界前列",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 03时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时58分 ~ 04时42分]"
         },
         {
           "title": "中国AI模型调用量爆发式增长",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 03时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时58分 ~ 04时42分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -48,8 +48,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 03时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时58分 ~ 04时42分]"
         },
         {
           "title": "AI 短剧《雪山救狐狸》为什么火了？它戳中了什么点？",
@@ -73,8 +73,34 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 03时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时58分 ~ 04时42分]"
+        },
+        {
+          "title": "湘女多情AI陶喆版",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B9%98%E5%A5%B3%E5%A4%9A%E6%83%85AI%E9%99%B6%E5%96%86%E7%89%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时58分 ~ 04时42分]"
+        },
+        {
+          "title": "LPL宣布naiyou假赛被终身禁赛",
+          "url": "https://search.bilibili.com/all?keyword=LPL%E5%AE%A3%E5%B8%83naiyou%E5%81%87%E8%B5%9B%E8%A2%AB%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时58分 ~ 04时42分]"
         },
         {
           "title": "苹果(AAPL.O)：聘请前谷歌高管莉莲·林孔担任人工智能产品营销副总裁。",
@@ -88,28 +114,17 @@
           "time_info": "01时53分"
         },
         {
-          "title": "湘女多情AI陶喆版",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B9%98%E5%A5%B3%E5%A4%9A%E6%83%85AI%E9%99%B6%E5%96%86%E7%89%88",
-          "source": "bilibili 热搜",
+          "title": "Science 封面论文称「人工智能的谄媚影响人的思维方式」，这种「谄媚」还会产生哪些其他影响？",
+          "url": "https://www.zhihu.com/question/2020941462666305824",
+          "source": "知乎",
           "ranks": [
-            9,
-            11
+            14,
+            10,
+            16
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时58分 ~ 03时44分]"
-        },
-        {
-          "title": "LPL宣布naiyou假赛被终身禁赛",
-          "url": "https://search.bilibili.com/all?keyword=LPL%E5%AE%A3%E5%B8%83naiyou%E5%81%87%E8%B5%9B%E8%A2%AB%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 03时44分]"
+          "time_info": "[02时58分 ~ 04时42分]"
         },
         {
           "title": "Naiyou终身禁赛",
@@ -125,16 +140,15 @@
           "time_info": "[00时58分 ~ 03时44分]"
         },
         {
-          "title": "Science 封面论文称「人工智能的谄媚影响人的思维方式」，这种「谄媚」还会产生哪些其他影响？",
-          "url": "https://www.zhihu.com/question/2020941462666305824",
-          "source": "知乎",
+          "title": "据英国金融时报：因AI驱动的短缺交易回落，内存芯片股票市值蒸发1000亿美元。",
+          "url": "https://flash.jin10.com/detail/20260328034557564800",
+          "source": "金十数据",
           "ranks": [
-            14,
-            10
+            21
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时58分 ~ 03时44分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
         }
       ]
     }
