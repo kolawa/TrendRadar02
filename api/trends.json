@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-28T01:53:59.365205+08:00",
-  "total_titles_processed": 384,
+  "generated_at": "2026-03-28T02:59:12.035445+08:00",
+  "total_titles_processed": 447,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "一行代码破甲,AI水军现原形",
@@ -15,19 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时53分]"
-        },
-        {
-          "title": "AI 短剧《雪山救狐狸》为什么火了？它戳中了什么点？",
-          "url": "https://www.zhihu.com/question/2017224899635142906",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 02时59分]"
         },
         {
           "title": "中国人工智能走在世界前列",
@@ -37,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 02时59分]"
         },
         {
           "title": "中国AI模型调用量爆发式增长",
@@ -48,8 +37,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 02时59分]"
+        },
+        {
+          "title": "AI 短剧《雪山救狐狸》为什么火了？它戳中了什么点？",
+          "url": "https://www.zhihu.com/question/2017224899635142906",
+          "source": "知乎",
+          "ranks": [
+            2,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 02时59分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -59,8 +61,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 02时59分]"
         },
         {
           "title": "苹果(AAPL.O)：聘请前谷歌高管莉莲·林孔担任人工智能产品营销副总裁。",
@@ -69,7 +71,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
         },
@@ -81,8 +83,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 02时59分]"
         },
         {
           "title": "湘女多情AI陶喆版",
@@ -93,19 +95,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 02时59分]"
         },
         {
           "title": "LPL宣布naiyou假赛被终身禁赛",
           "url": "https://search.bilibili.com/all?keyword=LPL%E5%AE%A3%E5%B8%83naiyou%E5%81%87%E8%B5%9B%E8%A2%AB%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B",
           "source": "bilibili 热搜",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 02时59分]"
         },
         {
           "title": "Naiyou终身禁赛",
@@ -113,11 +116,23 @@
           "source": "抖音",
           "ranks": [
             16,
-            18
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 02时59分]"
+        },
+        {
+          "title": "Science 封面论文称「人工智能的谄媚影响人的思维方式」，这种「谄媚」还会产生哪些其他影响？",
+          "url": "https://www.zhihu.com/question/2020941462666305824",
+          "source": "知乎",
+          "ranks": [
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时53分]"
+          "time_info": "[02时58分 ~ 02时59分]"
         }
       ]
     }
