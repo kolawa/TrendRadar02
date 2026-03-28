@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T07:36:04.520753+08:00",
-  "total_titles_processed": 649,
+  "generated_at": "2026-03-28T10:14:42.818346+08:00",
+  "total_titles_processed": 811,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时58分 ~ 07时36分]"
+          "appearance_count": 14,
+          "time_info": "[00时58分 ~ 10时14分]"
         },
         {
           "title": "中国人工智能走在世界前列",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时58分 ~ 07时36分]"
+          "appearance_count": 14,
+          "time_info": "[00时58分 ~ 10时14分]"
         },
         {
           "title": "中国AI模型调用量爆发式增长",
@@ -37,19 +37,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时58分 ~ 07时36分]"
+          "appearance_count": 14,
+          "time_info": "[00时58分 ~ 10时14分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352430&amp;topic_name=%E5%81%87%E8%B5%9B%E6%8C%A8%E9%87%8D%E6%8B%B3%2Cnaiyou%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B",
           "source": "贴吧",
           "ranks": [
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时58分 ~ 07时36分]"
+          "appearance_count": 14,
+          "time_info": "[00时58分 ~ 10时14分]"
         },
         {
           "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
@@ -71,11 +72,12 @@
             11,
             16,
             18,
-            17
+            17,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时58分 ~ 06时35分]"
+          "appearance_count": 12,
+          "time_info": "[00时58分 ~ 10时14分]"
         },
         {
           "title": "LPL宣布naiyou假赛被终身禁赛",
