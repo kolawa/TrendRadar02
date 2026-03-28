@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T16:42:21.041519+08:00",
-  "total_titles_processed": 1186,
+  "generated_at": "2026-03-28T17:40:53.205738+08:00",
+  "total_titles_processed": 1253,
   "failed_sources": [],
   "trends": [
     {
@@ -38,11 +38,12 @@
             9,
             11,
             12,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时58分 ~ 16时42分]"
+          "appearance_count": 23,
+          "time_info": "[00时58分 ~ 17时40分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -54,11 +55,12 @@
             11,
             13,
             14,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时58分 ~ 16时42分]"
+          "appearance_count": 23,
+          "time_info": "[00时58分 ~ 17时40分]"
         },
         {
           "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
@@ -126,8 +128,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时54分 ~ 16时42分]"
+          "appearance_count": 9,
+          "time_info": "[12时54分 ~ 17时40分]"
         },
         {
           "title": "Science 封面论文称「人工智能的谄媚影响人的思维方式」，这种「谄媚」还会产生哪些其他影响？",
@@ -175,11 +177,12 @@
             5,
             9,
             13,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时55分 ~ 16时42分]"
+          "appearance_count": 5,
+          "time_info": "[12时55分 ~ 17时40分]"
         },
         {
           "title": "AI神游!原神现六指派蒙",
@@ -187,11 +190,12 @@
           "source": "贴吧",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时08分 ~ 16时42分]"
+          "appearance_count": 5,
+          "time_info": "[15时08分 ~ 17时40分]"
         },
         {
           "title": "人工智能机器人实验室（AI Robotics Lab）洽谈按110亿美元估值融资。",
