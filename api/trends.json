@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-29T21:00:16.072572+08:00",
-  "total_titles_processed": 1254,
+  "generated_at": "2026-03-29T21:58:04.172904+08:00",
+  "total_titles_processed": 1301,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
@@ -20,8 +20,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时12分 ~ 21时00分]"
+          "appearance_count": 14,
+          "time_info": "[13时12分 ~ 21时58分]"
+        },
+        {
+          "title": "AI勇闯二游圈,引爆米库论战",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352478&amp;topic_name=AI%E5%8B%87%E9%97%AF%E4%BA%8C%E6%B8%B8%E5%9C%88%2C%E5%BC%95%E7%88%86%E7%B1%B3%E5%BA%93%E8%AE%BA%E6%88%98",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时36分 ~ 21时58分]"
         },
         {
           "title": "一个视频了解AI常识",
@@ -35,11 +46,12 @@
             10,
             7,
             22,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时37分 ~ 21时00分]"
+          "appearance_count": 20,
+          "time_info": "[00时37分 ~ 21时58分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -54,8 +66,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时34分 ~ 21时00分]"
+          "appearance_count": 15,
+          "time_info": "[10时34分 ~ 21时58分]"
         },
         {
           "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
@@ -69,19 +81,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时37分 ~ 19时32分]"
-        },
-        {
-          "title": "AI勇闯二游圈,引爆米库论战",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352478&amp;topic_name=AI%E5%8B%87%E9%97%AF%E4%BA%8C%E6%B8%B8%E5%9C%88%2C%E5%BC%95%E7%88%86%E7%B1%B3%E5%BA%93%E8%AE%BA%E6%88%98",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时36分 ~ 21时00分]"
+          "appearance_count": 25,
+          "time_info": "[00时37分 ~ 21时58分]"
         },
         {
           "title": "AI神游!原神现六指派蒙",
@@ -97,8 +98,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时37分 ~ 21时00分]"
+          "appearance_count": 27,
+          "time_info": "[00时37分 ~ 21时58分]"
         },
         {
           "title": "一行代码破甲,AI水军现原形",
@@ -128,6 +129,19 @@
           "time_info": "[00时37分 ~ 15时07分]"
         },
         {
+          "title": "伊朗战争的账单，“AI牛市”来买？",
+          "url": "https://wallstreetcn.com/articles/3768662",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时39分 ~ 21时58分]"
+        },
+        {
           "title": "人工智能会取代哪些岗位？",
           "url": "https://www.zhihu.com/question/2019355746328932969",
           "source": "知乎",
@@ -152,19 +166,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时37分 ~ 07时34分]"
-        },
-        {
-          "title": "伊朗战争的账单，“AI牛市”来买？",
-          "url": "https://wallstreetcn.com/articles/3768662",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时39分 ~ 21时00分]"
         },
         {
           "title": "上海人工智能实验室联合相关主体启动“超智融合算力”平台",
@@ -220,6 +221,17 @@
           "time_info": "[01时32分 ~ 02时43分]"
         },
         {
+          "title": "所有“联创”均离职，马斯克“彻底重组”xAI",
+          "url": "https://wallstreetcn.com/articles/3768659",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时59分 ~ 21时58分]"
+        },
+        {
           "title": "就是你是RAIN也得接孩子放学",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B0%B1%E6%98%AF%E4%BD%A0%E6%98%AFRAIN%E4%B9%9F%E5%BE%97%E6%8E%A5%E5%AD%A9%E5%AD%90%E6%94%BE%E5%AD%A6%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -232,15 +244,15 @@
           "time_info": "[06时31分 ~ 07时34分]"
         },
         {
-          "title": "所有“联创”均离职，马斯克“彻底重组”xAI",
-          "url": "https://wallstreetcn.com/articles/3768659",
-          "source": "华尔街见闻",
+          "title": "DeepSeek崩了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=15&Refer=top",
+          "source": "微博",
           "ranks": [
-            10
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时59分 ~ 21时00分]"
+          "time_info": "[21时57分 ~ 21时58分]"
         },
         {
           "title": "AI债务风险风向标：甲骨文债券CDS创新高",
