@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-31T06:38:57.673476+08:00",
-  "total_titles_processed": 583,
+  "generated_at": "2026-03-31T07:37:52.270357+08:00",
+  "total_titles_processed": 668,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             23,
             22,
             14,
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时58分 ~ 06时38分]"
+          "appearance_count": 10,
+          "time_info": "[00时58分 ~ 07时37分]"
         },
         {
           "title": "AI勇闯二游圈,引爆米库论战",
@@ -31,8 +32,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时58分 ~ 06时38分]"
+          "appearance_count": 10,
+          "time_info": "[00时58分 ~ 07时37分]"
         },
         {
           "title": "DeepSeek崩溃10多小时为何是“好事”",
@@ -46,8 +47,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时58分 ~ 06时38分]"
+          "appearance_count": 8,
+          "time_info": "[01时58分 ~ 07时37分]"
         },
         {
           "title": "复旦教授解析AI冲击职场真相",
@@ -58,8 +59,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 06时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 07时37分]"
         },
         {
           "title": "美联储威廉姆斯：人工智能应该创造大量就业岗位，应让人们为这些岗位做好准备。",
