@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-30T15:45:50.751004+08:00",
-  "total_titles_processed": 1066,
+  "generated_at": "2026-03-30T17:15:50.403755+08:00",
+  "total_titles_processed": 1204,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
@@ -20,19 +20,6 @@
           "time_info": "[00时37分 ~ 07时36分]"
         },
         {
-          "title": "AI勇闯二游圈,引爆米库论战",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352478&amp;topic_name=AI%E5%8B%87%E9%97%AF%E4%BA%8C%E6%B8%B8%E5%9C%88%2C%E5%BC%95%E7%88%86%E7%B1%B3%E5%BA%93%E8%AE%BA%E6%88%98",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时37分 ~ 15时45分]"
-        },
-        {
           "title": "DeepSeek崩了",
           "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -44,6 +31,20 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时37分 ~ 07时36分]"
+        },
+        {
+          "title": "AI勇闯二游圈,引爆米库论战",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352478&amp;topic_name=AI%E5%8B%87%E9%97%AF%E4%BA%8C%E6%B8%B8%E5%9C%88%2C%E5%BC%95%E7%88%86%E7%B1%B3%E5%BA%93%E8%AE%BA%E6%88%98",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            8,
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时37分 ~ 17时15分]"
         },
         {
           "title": "伊朗战争的账单，“AI牛市”来买？",
@@ -91,11 +92,12 @@
             24,
             22,
             20,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时37分 ~ 15时45分]"
+          "appearance_count": 19,
+          "time_info": "[00时37分 ~ 17时15分]"
         },
         {
           "title": "Anthropic警告称，Mythos增加了网络攻击的可能性。 官员们针对即将发布的那些AI模型的网络攻击能力发出警告。（Axios）",
@@ -152,8 +154,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时27分 ~ 15时45分]"
+          "appearance_count": 3,
+          "time_info": "[13时27分 ~ 17时15分]"
         },
         {
           "title": "3 月 29 日大量用户反映 DeepSeek 服务出现异常，在宕机 12 小时后恢复服务，怎么回事？",
@@ -164,8 +166,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时27分 ~ 15时45分]"
+          "appearance_count": 3,
+          "time_info": "[13时27分 ~ 17时15分]"
         },
         {
           "title": "DeepSeek宕机12小时后恢复服务",
@@ -175,8 +177,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时27分 ~ 15时45分]"
+          "appearance_count": 3,
+          "time_info": "[13时27分 ~ 17时15分]"
         },
         {
           "title": "DeepSeek恢复服务",
@@ -256,6 +258,17 @@
           "time_info": "10时37分"
         },
         {
+          "title": "韩红秀牙缝自证“不是AI人”",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E7%BA%A2%E7%A7%80%E7%89%99%E7%BC%9D%E8%87%AA%E8%AF%81%E2%80%9C%E4%B8%8D%E6%98%AFAI%E4%BA%BA%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
+        },
+        {
           "title": "DeepSeek升级模型",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%8D%87%E7%BA%A7%E6%A8%A1%E5%9E%8B%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -273,7 +286,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时45分"
         }
