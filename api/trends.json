@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-31T21:23:04.887900+08:00",
-  "total_titles_processed": 1669,
+  "generated_at": "2026-03-31T23:04:31.485999+08:00",
+  "total_titles_processed": 1792,
   "failed_sources": [],
   "trends": [
     {
@@ -30,11 +30,12 @@
             6,
             7,
             10,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时13分 ~ 21时23分]"
+          "appearance_count": 12,
+          "time_info": "[13时13分 ~ 23时04分]"
         },
         {
           "title": "功勋翻译下岗,AI包揽游戏翻译",
@@ -46,11 +47,12 @@
             12,
             15,
             18,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时13分 ~ 21时23分]"
+          "appearance_count": 12,
+          "time_info": "[13时13分 ~ 23时04分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -116,11 +118,12 @@
           "ranks": [
             4,
             25,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时54分 ~ 21时23分]"
+          "appearance_count": 6,
+          "time_info": "[18时54分 ~ 23时03分]"
         },
         {
           "title": "国行版苹果AI",
@@ -279,7 +282,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时23分"
         },
@@ -345,7 +348,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时23分"
         },
@@ -367,7 +370,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时23分"
         },
