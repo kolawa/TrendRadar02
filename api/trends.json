@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T13:27:31.027924+08:00",
-  "total_titles_processed": 1056,
+  "generated_at": "2026-04-01T15:24:14.578403+08:00",
+  "total_titles_processed": 1199,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "凌晨3点上班,AI卷疯打工人",
@@ -14,11 +14,12 @@
           "ranks": [
             14,
             15,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时59分 ~ 13时27分]"
+          "appearance_count": 18,
+          "time_info": "[00时59分 ~ 15时24分]"
         },
         {
           "title": "功勋翻译下岗,AI包揽游戏翻译",
@@ -26,11 +27,12 @@
           "source": "贴吧",
           "ranks": [
             22,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时59分 ~ 13时27分]"
+          "appearance_count": 18,
+          "time_info": "[00时59分 ~ 15时24分]"
         },
         {
           "title": "男子靠AI开一人公司年营收达150万",
@@ -44,6 +46,19 @@
           "time_info": "[10时42分 ~ 10时43分]"
         },
         {
+          "title": "3 月 31 日 DeepSeek 服务中断一小时后恢复，什么情况？最近的三天两「崩」可能是什么原因？",
+          "url": "https://www.zhihu.com/question/2022371409997947809",
+          "source": "知乎",
+          "ranks": [
+            8,
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时42分 ~ 15时24分]"
+        },
+        {
           "title": "OpenAI完成1220亿美元融资，估值达8520亿美元",
           "url": "https://flash.jin10.com/detail/20260401041908272800",
           "source": "金十数据",
@@ -54,18 +69,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时45分 ~ 05时42分]"
-        },
-        {
-          "title": "3 月 31 日 DeepSeek 服务中断一小时后恢复，什么情况？最近的三天两「崩」可能是什么原因？",
-          "url": "https://www.zhihu.com/question/2022371409997947809",
-          "source": "知乎",
-          "ranks": [
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时42分 ~ 13时27分]"
         },
         {
           "title": "借助AI监控伊朗高官后“定点清除”：以色列如何替美国“干脏活”",
@@ -89,6 +92,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时42分 ~ 13时27分]"
+        },
+        {
+          "title": "创纪录！OpenAI完成1220亿美元融资 投后估值达8520亿美元",
+          "url": "https://www.cls.cn/detail/2331423",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时26分 ~ 15时24分]"
         },
         {
           "title": "苹果客服回应撤回国行AI",
@@ -136,15 +151,15 @@
           "time_info": "[10时42分 ~ 10时43分]"
         },
         {
-          "title": "创纪录！OpenAI完成1220亿美元融资 投后估值达8520亿美元",
-          "url": "https://www.cls.cn/detail/2331423",
-          "source": "财联社热门",
+          "title": "如何解读 OpenAI 完成 1220 亿美元融资，投后估值 8520 亿美元，此轮融资有哪些意义？",
+          "url": "https://www.zhihu.com/question/2022593285970027591",
+          "source": "知乎",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时26分 ~ 13时27分]"
+          "time_info": "[15时23分 ~ 15时24分]"
         },
         {
           "title": "OpenAI按8520亿美元估值完成本轮1220亿美元规模的融资",
@@ -157,6 +172,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时45分 ~ 05时42分]"
+        },
+        {
+          "title": "《华尔街日报》披露 Sora 关停内幕，每日亏百万、用户数腰斩，这暴露了 AI 视频赛道哪些致命问题？",
+          "url": "https://www.zhihu.com/question/2021993627107292496",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时23分 ~ 15时24分]"
         },
         {
           "title": "据Axios：OpenAI在最近的一次私募融资中向个人投资者出售了约30亿美元的股份。",
@@ -187,7 +213,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
         },
