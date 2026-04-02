@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T04:38:39.785643+08:00",
-  "total_titles_processed": 547,
+  "generated_at": "2026-04-03T05:41:24.608332+08:00",
+  "total_titles_processed": 578,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 04时38分]"
+          "appearance_count": 10,
+          "time_info": "[00时06分 ~ 05时41分]"
         },
         {
           "title": "独家｜“AI仿写文”差点进了学生读物，作家刘亮程下场打假",
@@ -27,8 +27,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 04时38分]"
+          "appearance_count": 10,
+          "time_info": "[00时06分 ~ 05时41分]"
         },
         {
           "title": "市场消息：OpenAI收购TBPN。",
@@ -73,7 +73,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时38分"
         },
