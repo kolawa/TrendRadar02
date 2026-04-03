@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T19:40:19.050479+08:00",
-  "total_titles_processed": 1603,
+  "generated_at": "2026-04-03T21:07:49.911378+08:00",
+  "total_titles_processed": 1734,
   "failed_sources": [],
   "trends": [
     {
@@ -32,11 +32,12 @@
             19,
             20,
             22,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时06分 ~ 19时40分]"
+          "appearance_count": 26,
+          "time_info": "[00时06分 ~ 21时07分]"
         },
         {
           "title": "同事被优化后 AI 分身在群里回消息、写代码，这种「数字分身」会侵犯离职员工权益吗？可能带来哪些问题？",
@@ -81,7 +82,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
