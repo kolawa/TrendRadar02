@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T13:07:36.480517+08:00",
-  "total_titles_processed": 1025,
+  "generated_at": "2026-04-03T15:13:09.239851+08:00",
+  "total_titles_processed": 1156,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,25 @@
           "ranks": [
             8,
             10,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时06分 ~ 13时07分]"
+          "appearance_count": 18,
+          "time_info": "[00时06分 ~ 15时13分]"
+        },
+        {
+          "title": "如何评价 Google 发布的开源大模型 Gemma4？使用体验怎么样？",
+          "url": "https://www.zhihu.com/question/2023204569811828949",
+          "source": "知乎",
+          "ranks": [
+            10,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时29分 ~ 15时13分]"
         },
         {
           "title": "市场消息：OpenAI收购TBPN。",
@@ -43,18 +57,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
-        },
-        {
-          "title": "如何评价 Google 发布的开源大模型 Gemma4？使用体验怎么样？",
-          "url": "https://www.zhihu.com/question/2023204569811828949",
-          "source": "知乎",
-          "ranks": [
-            10,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时29分 ~ 13时07分]"
         },
         {
           "title": "AI重塑短剧制作模式，行业洗牌催生新投资风口",
