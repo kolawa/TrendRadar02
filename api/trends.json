@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-04T10:14:48.851005+08:00",
-  "total_titles_processed": 704,
+  "generated_at": "2026-04-04T12:52:49.996934+08:00",
+  "total_titles_processed": 844,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "Claude源码能否让全球AI工具大升级",
@@ -16,11 +16,12 @@
             3,
             4,
             8,
-            9
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时42分 ~ 10时14分]"
+          "appearance_count": 14,
+          "time_info": "[00时42分 ~ 12时52分]"
         },
         {
           "title": "新版软著申请表要求不得使用 AI 编写代码或文档，违者纳入征信记录，对行业有哪些影响？",
@@ -36,8 +37,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时51分 ~ 10时14分]"
+          "appearance_count": 11,
+          "time_info": "[02时51分 ~ 12时52分]"
         },
         {
           "title": "40岁男子AI成瘾无法接受版本更新",
@@ -63,11 +64,23 @@
           "source": "贴吧",
           "ranks": [
             25,
-            29
+            29,
+            28
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时42分 ~ 10时14分]"
+          "appearance_count": 14,
+          "time_info": "[00时42分 ~ 12时52分]"
+        },
+        {
+          "title": "千问AI打车上线后周环比增长超1500%",
+          "url": "https://wallstreetcn.com/livenews/3082383",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
         },
         {
           "title": "谷歌推出Veo 3.1 Lite版本，并在VertexAI平台新增Veo超分辨率升级功能。",
@@ -82,6 +95,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时51分 ~ 05时36分]"
+        },
+        {
+          "title": "江苏：加快打造人工智能创新发展高地 大力支持OPC创新创业",
+          "url": "https://wallstreetcn.com/livenews/3082360",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时14分 ~ 12时52分]"
         },
         {
           "title": "除了外卖，美团其实投了大半个中国 AI 独角兽，如何看待美团在 AI 领域的投资布局？",
@@ -107,23 +132,12 @@
         },
         {
           "title": "江苏：加快打造人工智能创新发展高地 大力支持OPC创新创业",
-          "url": "https://wallstreetcn.com/livenews/3082360",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时14分"
-        },
-        {
-          "title": "江苏：加快打造人工智能创新发展高地 大力支持OPC创新创业",
           "url": "https://flash.jin10.com/detail/20260404085049313800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
         }
