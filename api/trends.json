@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-08T04:56:51.123833+08:00",
-  "total_titles_processed": 527,
+  "generated_at": "2026-04-08T05:47:20.088420+08:00",
+  "total_titles_processed": 584,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 04时56分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 05时47分]"
         },
         {
           "title": "大魔王迎战硬刚马斯克AI",
@@ -26,8 +26,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 04时56分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 05时47分]"
         },
         {
           "title": "曝ChatGPT6本月发布",
@@ -38,8 +38,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 04时56分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 05时47分]"
         },
         {
           "title": "Anthropic正创建一个名为Project Glasswing的倡议，允许苹果、亚马逊测试更加强大的AI模型Mythos。",
@@ -60,7 +60,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时56分"
         }
