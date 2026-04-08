@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-09T06:41:56.047345+08:00",
-  "total_titles_processed": 586,
+  "generated_at": "2026-04-09T07:41:43.337910+08:00",
+  "total_titles_processed": 657,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时04分 ~ 06时41分]"
+          "appearance_count": 10,
+          "time_info": "[01时04分 ~ 07时41分]"
         },
         {
           "title": "曝ChatGPT6本月发布",
@@ -28,8 +28,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时04分 ~ 06时41分]"
+          "appearance_count": 10,
+          "time_info": "[01时04分 ~ 07时41分]"
         },
         {
           "title": "AI染指鬼灭,日网友气急跳脚",
@@ -39,8 +39,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时04分 ~ 06时41分]"
+          "appearance_count": 10,
+          "time_info": "[01时04分 ~ 07时41分]"
         },
         {
           "title": "少儿编程班称「四岁学编程，赢在 AI 起跑线」收费上万，上课用 scratch 搭积木，这种课程靠谱吗？",
@@ -130,7 +130,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时41分"
         },
@@ -141,7 +141,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时41分"
         },
@@ -152,7 +152,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时41分"
         }
