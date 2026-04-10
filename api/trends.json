@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T21:15:11.611485+08:00",
-  "total_titles_processed": 1750,
+  "generated_at": "2026-04-10T22:51:13.615160+08:00",
+  "total_titles_processed": 1883,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 51,
+      "match_count": 54,
       "titles": [
         {
           "title": "假作真时真亦假：美以伊战事陷入AI信息迷雾",
@@ -36,30 +36,32 @@
           "time_info": "[00时20分 ~ 15时45分]"
         },
         {
-          "title": "AI换脸偷声侵权，那么大模型训练呢？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32934233",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时27分 ~ 21时15分]"
-        },
-        {
           "title": "人工智能将纳入教师资格考试和认证内容",
           "url": "https://m.thepaper.cn/newsDetail_forward_32939934",
           "source": "澎湃新闻",
           "ranks": [
             10,
             7,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时27分 ~ 21时15分]"
+          "appearance_count": 13,
+          "time_info": "[13时27分 ~ 22时51分]"
+        },
+        {
+          "title": "AI换脸偷声侵权，那么大模型训练呢？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32934233",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            6,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[13时27分 ~ 22时51分]"
         },
         {
           "title": "【焦点复盘】沪指窄幅震荡收十字星，AI应用端大面积退潮，OCS产业链获持续热捧",
@@ -83,11 +85,12 @@
             10,
             16,
             19,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时27分 ~ 21时15分]"
+          "appearance_count": 13,
+          "time_info": "[13时27分 ~ 22时51分]"
         },
         {
           "title": "【VIP资讯星推官】除了光纤外，还有哪些AI分支景气度上行？",
@@ -200,6 +203,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
+        },
+        {
+          "title": "CoreWeave下跌11%，根据最新协议，该公司的AI算力将支持Anthropic的Claude。",
+          "url": "https://wallstreetcn.com/livenews/3085991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         },
         {
           "title": "微信回应夫妻用AI写公众号年赚200万",
@@ -413,6 +427,17 @@
           "time_info": "[15时44分 ~ 15时45分]"
         },
         {
+          "title": "据德国商报：消息人士称，OpenAI 将受欧盟《数字服务法》（DSA）监管，并被归类为超大型在线搜索引擎。",
+          "url": "https://flash.jin10.com/detail/20260410221958864800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
           "title": "亚马逊考虑向其他公司出售其AI芯片",
           "url": "https://wallstreetcn.com/livenews/3085230",
           "source": "华尔街见闻-快讯",
@@ -433,6 +458,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "据德国商报：消息人士称，欧盟委员会计划未来对ChatGPT实施更严格的监管。",
+          "url": "https://flash.jin10.com/detail/20260410221739226800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         },
         {
           "title": "OpenAI告诉投资者，其计算能力优于Anthropic。",
