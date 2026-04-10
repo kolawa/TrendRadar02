@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T19:53:13.924055+08:00",
-  "total_titles_processed": 1608,
+  "generated_at": "2026-04-10T21:15:11.611485+08:00",
+  "total_titles_processed": 1750,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 50,
+      "match_count": 51,
       "titles": [
         {
           "title": "假作真时真亦假：美以伊战事陷入AI信息迷雾",
@@ -36,6 +36,32 @@
           "time_info": "[00时20分 ~ 15时45分]"
         },
         {
+          "title": "AI换脸偷声侵权，那么大模型训练呢？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32934233",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[13时27分 ~ 21时15分]"
+        },
+        {
+          "title": "人工智能将纳入教师资格考试和认证内容",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32939934",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[13时27分 ~ 21时15分]"
+        },
+        {
           "title": "【焦点复盘】沪指窄幅震荡收十字星，AI应用端大面积退潮，OCS产业链获持续热捧",
           "url": "https://www.cls.cn/detail/2339282",
           "source": "财联社热门",
@@ -47,6 +73,21 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时20分 ~ 07时40分]"
+        },
+        {
+          "title": "人工智能将纳入教师资格考试",
+          "url": "https://www.douyin.com/hot/2461467",
+          "source": "抖音",
+          "ranks": [
+            15,
+            10,
+            16,
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[13时27分 ~ 21时15分]"
         },
         {
           "title": "【VIP资讯星推官】除了光纤外，还有哪些AI分支景气度上行？",
@@ -72,8 +113,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[02时01分 ~ 10时40分]"
+          "appearance_count": 15,
+          "time_info": "[02时01分 ~ 21时15分]"
         },
         {
           "title": "玩具也要闯闯AI赛道",
@@ -102,47 +143,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时20分 ~ 10时40分]"
-        },
-        {
-          "title": "AI换脸偷声侵权，那么大模型训练呢？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32934233",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时27分 ~ 19时53分]"
-        },
-        {
-          "title": "人工智能将纳入教师资格考试和认证内容",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32939934",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时27分 ~ 19时53分]"
-        },
-        {
-          "title": "人工智能将纳入教师资格考试",
-          "url": "https://www.douyin.com/hot/2461467",
-          "source": "抖音",
-          "ranks": [
-            15,
-            10,
-            16,
-            19,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时27分 ~ 19时53分]"
         },
         {
           "title": "夫妻称用AI写公众号年赚200万被封号",
@@ -343,6 +343,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时39分 ~ 10时40分]"
+        },
+        {
+          "title": "王自如聊中美AI模型上新",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E8%81%8A%E4%B8%AD%E7%BE%8EAI%E6%A8%A1%E5%9E%8B%E4%B8%8A%E6%96%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时14分 ~ 21时15分]"
         },
         {
           "title": "微信回应夫妻用AI写公众号年赚200万",
