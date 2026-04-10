@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T04:49:46.602140+08:00",
-  "total_titles_processed": 520,
+  "generated_at": "2026-04-11T05:41:55.406555+08:00",
+  "total_titles_processed": 546,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 04时49分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 05时41分]"
         },
         {
           "title": "AI换脸偷声侵权，那么大模型训练呢？",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 04时49分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 05时41分]"
         },
         {
           "title": "人工智能将纳入教师资格考试",
@@ -36,11 +36,12 @@
           "ranks": [
             17,
             20,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 04时49分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 05时41分]"
         },
         {
           "title": "据CNBC：美国副总统万斯和美国财长贝森特在Anthropic发布Mytho之前就AI安全问题质询科技巨头。",
@@ -49,9 +50,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 05时41分]"
         },
         {
           "title": "据福克斯新闻：OpenAI的一位发言人证实，一名嫌疑人向OpenAI创始人奥尔特曼的住所投掷了一枚燃烧瓶，目前该嫌疑人已被警方拘留。",
@@ -106,7 +107,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         },
@@ -117,7 +118,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         },
