@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T03:37:21.485986+08:00",
-  "total_titles_processed": 443,
+  "generated_at": "2026-04-12T04:37:03.625175+08:00",
+  "total_titles_processed": 455,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 03时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时40分 ~ 04时37分]"
         },
         {
           "title": "AI恐慌的“标志性事件”：Altman家里差点被炸了",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 03时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时40分 ~ 04时37分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
@@ -39,8 +39,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 03时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时40分 ~ 04时37分]"
         },
         {
           "title": "我也来试一下这个wait",
@@ -49,11 +49,12 @@
           "ranks": [
             17,
             25,
-            24
+            24,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 03时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时40分 ~ 04时37分]"
         },
         {
           "title": "人工智能卖瓜",
@@ -61,11 +62,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             20,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时40分 ~ 03时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时40分 ~ 04时37分]"
         },
         {
           "title": "郑丽文一行在北京参访了解人工智能发展，感叹两岸合作对人类贡献将不可限量。（新华社）",
