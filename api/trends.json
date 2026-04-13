@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-13T16:07:09.833678+08:00",
-  "total_titles_processed": 1086,
+  "generated_at": "2026-04-13T19:05:24.035989+08:00",
+  "total_titles_processed": 1265,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "国产AI模型为何大多免费",
@@ -29,6 +29,19 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时41分 ~ 10时48分]"
+        },
+        {
+          "title": "太乙真人配音演员声音被 AI 偷走，合作告吹，当声音被轻易复制，配音演员该如何保护自己的饭碗与权益？",
+          "url": "https://www.zhihu.com/question/2026361952214017900",
+          "source": "知乎",
+          "ranks": [
+            4,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时47分 ~ 19时05分]"
         },
         {
           "title": "境外涉黄AI软件绕过监管流入国内",
@@ -74,18 +87,6 @@
           "time_info": "[00时41分 ~ 06时37分]"
         },
         {
-          "title": "太乙真人配音演员声音被 AI 偷走，合作告吹，当声音被轻易复制，配音演员该如何保护自己的饭碗与权益？",
-          "url": "https://www.zhihu.com/question/2026361952214017900",
-          "source": "知乎",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时47分 ~ 16时07分]"
-        },
-        {
           "title": "AI 会有情绪吗？",
           "url": "https://www.zhihu.com/question/583568899",
           "source": "知乎",
@@ -104,11 +105,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时44分 ~ 16时07分]"
+          "appearance_count": 5,
+          "time_info": "[13时44分 ~ 19时05分]"
         },
         {
           "title": "多款AI应用存在涉黄生成漏洞",
@@ -123,6 +125,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时53分 ~ 07时38分]"
+        },
+        {
+          "title": "守护未成年,AI伴侣全禁售",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353157&amp;topic_name=%E5%AE%88%E6%8A%A4%E6%9C%AA%E6%88%90%E5%B9%B4%2CAI%E4%BC%B4%E4%BE%A3%E5%85%A8%E7%A6%81%E5%94%AE",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时04分 ~ 19时05分]"
         },
         {
           "title": "战争间歇期的四个缩圈方向：AI硬件、资源、周期涨价和红利",
@@ -155,11 +168,23 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32957872",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时06分 ~ 16时07分]"
+          "appearance_count": 4,
+          "time_info": "[16时06分 ~ 19时05分]"
+        },
+        {
+          "title": "国芯科技与中国人民大学签约 将共研AI安全推理一体机",
+          "url": "https://flash.jin10.com/detail/20260413185111179800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
         },
         {
           "title": "软银等日本大型企业成立新公司，致力于人工智能研发。",
@@ -190,7 +215,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时07分"
         },
@@ -201,7 +226,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时07分"
         },
