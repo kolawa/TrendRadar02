@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T03:19:20.171257+08:00",
-  "total_titles_processed": 407,
+  "generated_at": "2026-04-15T04:57:15.677398+08:00",
+  "total_titles_processed": 478,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 11,
+      "match_count": 16,
       "titles": [
         {
           "title": "【每日收评】沪指涨近1%站上4000点，AI产业链集体爆发，存储芯片、PCB联袂领涨",
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 04时57分]"
         },
         {
           "title": "英伟达推出全球首个开源量子AI模型",
@@ -27,19 +27,32 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 04时57分]"
         },
         {
           "title": "月薪3万，去内蒙草原给DeepSeek守机房",
           "url": "https://wallstreetcn.com/articles/3769935",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 04时57分]"
+        },
+        {
+          "title": "UP主揭秘AI短剧制作流程",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8F%AD%E7%A7%98AI%E7%9F%AD%E5%89%A7%E5%88%B6%E4%BD%9C%E6%B5%81%E7%A8%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 04时57分]"
         },
         {
           "title": "当AI算力不再便宜：云服务价格“只降不升”行业惯例被打破意味着什么",
@@ -49,19 +62,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 03时19分]"
-        },
-        {
-          "title": "UP主揭秘AI短剧制作流程",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8F%AD%E7%A7%98AI%E7%9F%AD%E5%89%A7%E5%88%B6%E4%BD%9C%E6%B5%81%E7%A8%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 04时57分]"
         },
         {
           "title": "守护未成年,AI伴侣全禁售",
@@ -71,8 +73,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 04时57分]"
         },
         {
           "title": "央视重锤!AI造黄产业链被扒",
@@ -82,8 +84,41 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 04时57分]"
+        },
+        {
+          "title": "加拿大AI部长会见Anthropic PBC的领导层。",
+          "url": "https://wallstreetcn.com/livenews/3087961",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "Lumen Technologies的CEO Johnson：AI机器人正在占领网络。",
+          "url": "https://wallstreetcn.com/livenews/3087960",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "全球AI芯片被一家味精厂卡脖子？份额超95%，英伟达也得排队抢产能",
+          "url": "https://wallstreetcn.com/articles/3769939",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时56分 ~ 04时57分]"
         },
         {
           "title": "什么是AI幻觉",
@@ -108,13 +143,35 @@
           "time_info": "01时11分"
         },
         {
+          "title": "OpenAI向有限群体发布网络安全模型，与Mythos展开角逐",
+          "url": "https://wallstreetcn.com/livenews/3087952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "IMF总裁格奥尔基耶娃：担忧石油冲击分散了人们对包括人工智能和金融稳定风险在内的紧迫问题的关注。",
+          "url": "https://flash.jin10.com/detail/20260415042309980800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
           "title": "Adobe跌幅扩大至2.1%，报道称Anthropic正准备发布新款AI设计工具。 北美科技软件股指数ETF涨幅收窄至不足0.6%。",
           "url": "https://wallstreetcn.com/livenews/3087919",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
         },
@@ -125,7 +182,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
         }
