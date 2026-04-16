@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-17T05:45:41.135229+08:00",
-  "total_titles_processed": 508,
+  "generated_at": "2026-04-17T06:42:51.915164+08:00",
+  "total_titles_processed": 541,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时16分 ~ 05时45分]"
+          "appearance_count": 8,
+          "time_info": "[01时16分 ~ 06时42分]"
         },
         {
           "title": "警惕人工智能让人类陷入“自恋”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32976727",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时16分 ~ 05时45分]"
+          "appearance_count": 8,
+          "time_info": "[01时16分 ~ 06时42分]"
         },
         {
           "title": "“AI需求极其强劲”！台积电法说会实录：供不应求将持续至至少2027年",
@@ -38,8 +39,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时16分 ~ 05时45分]"
+          "appearance_count": 8,
+          "time_info": "[01时16分 ~ 06时42分]"
         },
         {
           "title": "AI需求强劲支撑涨势 美股三大期指小幅走高 | 今夜看点",
@@ -50,8 +51,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时16分 ~ 05时45分]"
+          "appearance_count": 8,
+          "time_info": "[01时16分 ~ 06时42分]"
         },
         {
           "title": "AI承诺赔10万,用户索赔败诉",
@@ -61,8 +62,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时16分 ~ 05时45分]"
+          "appearance_count": 8,
+          "time_info": "[01时16分 ~ 06时42分]"
         },
         {
           "title": "玩家AI生图捧洛克,网友一秒戳穿",
@@ -72,8 +73,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时16分 ~ 05时45分]"
+          "appearance_count": 8,
+          "time_info": "[01时16分 ~ 06时42分]"
         },
         {
           "title": "据伊朗改革派报纸《Shargh Daily》报道，在经历48天的互联网中断后，谷歌搜索在伊朗已恢复访问，但部分谷歌服务仍无法使用。伊朗半官方通讯社法尔斯通讯社也报道称，“几分钟前，谷歌搜索引擎已重新向用户开放”，但补充称部分用户仍面临连接中断和网络波动问题。",
@@ -109,6 +110,18 @@
           "time_info": "03时18分"
         },
         {
+          "title": "解读AI蒸馏攻防战",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBAI%E8%92%B8%E9%A6%8F%E6%94%BB%E9%98%B2%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时45分 ~ 06时42分]"
+        },
+        {
           "title": "OpenAI：推出新模型GPT-Rosalind，旨在服务于生命科学研究。该模型最初将以研究预览版的形式提供给部分企业客户。",
           "url": "https://flash.jin10.com/detail/20260417030201225800",
           "source": "金十数据",
@@ -129,17 +142,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
-        },
-        {
-          "title": "解读AI蒸馏攻防战",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBAI%E8%92%B8%E9%A6%8F%E6%94%BB%E9%98%B2%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时45分"
         },
         {
           "title": "Upscale AI洽谈获得20亿美元估值，该公司的投资者包括老虎环球。",
