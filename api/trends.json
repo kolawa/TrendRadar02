@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T06:42:51.915164+08:00",
-  "total_titles_processed": 541,
+  "generated_at": "2026-04-17T07:43:13.493290+08:00",
+  "total_titles_processed": 626,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "番茄作者AI代笔,读者白追",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时16分 ~ 06时42分]"
+          "appearance_count": 10,
+          "time_info": "[01时16分 ~ 07时43分]"
         },
         {
           "title": "警惕人工智能让人类陷入“自恋”",
@@ -27,8 +27,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时16分 ~ 06时42分]"
+          "appearance_count": 10,
+          "time_info": "[01时16分 ~ 07时43分]"
         },
         {
           "title": "“AI需求极其强劲”！台积电法说会实录：供不应求将持续至至少2027年",
@@ -39,8 +39,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时16分 ~ 06时42分]"
+          "appearance_count": 10,
+          "time_info": "[01时16分 ~ 07时43分]"
         },
         {
           "title": "AI需求强劲支撑涨势 美股三大期指小幅走高 | 今夜看点",
@@ -51,8 +51,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时16分 ~ 06时42分]"
+          "appearance_count": 10,
+          "time_info": "[01时16分 ~ 07时43分]"
         },
         {
           "title": "AI承诺赔10万,用户索赔败诉",
@@ -62,8 +62,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时16分 ~ 06时42分]"
+          "appearance_count": 10,
+          "time_info": "[01时16分 ~ 07时43分]"
         },
         {
           "title": "玩家AI生图捧洛克,网友一秒戳穿",
@@ -73,8 +73,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时16分 ~ 06时42分]"
+          "appearance_count": 10,
+          "time_info": "[01时16分 ~ 07时43分]"
         },
         {
           "title": "据伊朗改革派报纸《Shargh Daily》报道，在经历48天的互联网中断后，谷歌搜索在伊朗已恢复访问，但部分谷歌服务仍无法使用。伊朗半官方通讯社法尔斯通讯社也报道称，“几分钟前，谷歌搜索引擎已重新向用户开放”，但补充称部分用户仍面临连接中断和网络波动问题。",
@@ -120,6 +120,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时45分 ~ 06时42分]"
+        },
+        {
+          "title": "曝常春藤名校用打字机对抗AI",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%9D%E5%B8%B8%E6%98%A5%E8%97%A4%E5%90%8D%E6%A0%A1%E7%94%A8%E6%89%93%E5%AD%97%E6%9C%BA%E5%AF%B9%E6%8A%97AI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时42分 ~ 07时43分]"
         },
         {
           "title": "OpenAI：推出新模型GPT-Rosalind，旨在服务于生命科学研究。该模型最初将以研究预览版的形式提供给部分企业客户。",
