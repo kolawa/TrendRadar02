@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-18T19:37:31.635137+08:00",
-  "total_titles_processed": 1365,
+  "generated_at": "2026-04-18T21:06:47.060577+08:00",
+  "total_titles_processed": 1459,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "刺猬猫AI文霸榜,作者魔法对轰",
@@ -17,8 +17,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时08分 ~ 19时37分]"
+          "appearance_count": 12,
+          "time_info": "[13时08分 ~ 21时06分]"
         },
         {
           "title": "AI入侵产业,2D国漫公司倒闭",
@@ -31,11 +31,12 @@
             12,
             14,
             15,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时05分 ~ 19时37分]"
+          "appearance_count": 28,
+          "time_info": "[00时05分 ~ 21时06分]"
         },
         {
           "title": "梁文锋被曝史上首次融资！DeepSeek V4彻底摆脱英伟达",
@@ -47,8 +48,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时08分 ~ 19时37分]"
+          "appearance_count": 12,
+          "time_info": "[13时08分 ~ 21时06分]"
         },
         {
           "title": "高盛：AI的未来，要有光！",
@@ -82,11 +83,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时54分 ~ 19时37分]"
+          "appearance_count": 8,
+          "time_info": "[16时54分 ~ 21时06分]"
         },
         {
           "title": "16岁学生用AI两小时制作一个小程序",
@@ -293,6 +295,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时32分 ~ 13时09分]"
+        },
+        {
+          "title": "起点百分之十的新书使用 AI 润色，起点会因为 AI 文而完蛋吗？",
+          "url": "https://www.zhihu.com/question/2028416884643472906",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
         },
         {
           "title": "AI驱动核能需求，美国瞄准纳米比亚铀矿",
