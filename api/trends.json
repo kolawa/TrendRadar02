@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-20T01:38:41.608125+08:00",
-  "total_titles_processed": 354,
+  "generated_at": "2026-04-20T02:55:14.954923+08:00",
+  "total_titles_processed": 393,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "如何看待网传 DeepSeek V4 即将发布并提出「去 CUDA 化」？",
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时38分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 02时55分]"
         },
         {
           "title": "DeepSeek 开启首次对外融资，其在多名核心研究员跳槽之下为何会选择此时，从商业资本角度你怎么看？",
@@ -25,11 +26,12 @@
           "source": "知乎",
           "ranks": [
             14,
-            15
+            15,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时38分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 02时55分]"
         },
         {
           "title": "up主转战AI动画遭手绘党声讨",
@@ -39,8 +41,52 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时38分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 02时55分]"
+        },
+        {
+          "title": "刺猬猫AI文霸榜,作者魔法对轰",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353412&amp;topic_name=%E5%88%BA%E7%8C%AC%E7%8C%ABAI%E6%96%87%E9%9C%B8%E6%A6%9C%2C%E4%BD%9C%E8%80%85%E9%AD%94%E6%B3%95%E5%AF%B9%E8%BD%B0",
+          "source": "贴吧",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 02时55分]"
+        },
+        {
+          "title": "DeepSeek被曝融资20亿",
+          "url": "https://www.toutiao.com/trending/7630341053001829938/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 02时55分]"
+        },
+        {
+          "title": "AI入侵产业,2D国漫公司倒闭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353402&amp;topic_name=AI%E5%85%A5%E4%BE%B5%E4%BA%A7%E4%B8%9A%2C2D%E5%9B%BD%E6%BC%AB%E5%85%AC%E5%8F%B8%E5%80%92%E9%97%AD",
+          "source": "贴吧",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 02时55分]"
+        },
+        {
+          "title": "谷歌公司与迈威尔科技洽谈打造新款AI芯片。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3090615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 02时55分]"
         },
         {
           "title": "怎样能够一眼分辨出是 AI 生成的文章？",
@@ -55,48 +101,15 @@
           "time_info": "[00时43分 ~ 01时38分]"
         },
         {
-          "title": "刺猬猫AI文霸榜,作者魔法对轰",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353412&amp;topic_name=%E5%88%BA%E7%8C%AC%E7%8C%ABAI%E6%96%87%E9%9C%B8%E6%A6%9C%2C%E4%BD%9C%E8%80%85%E9%AD%94%E6%B3%95%E5%AF%B9%E8%BD%B0",
-          "source": "贴吧",
+          "title": "在战锤 40k 里，机械神甫那些跳大神操作真的对人工智能有用吗?",
+          "url": "https://www.zhihu.com/question/659215909",
+          "source": "知乎",
           "ranks": [
-            22
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时38分]"
-        },
-        {
-          "title": "DeepSeek被曝融资20亿",
-          "url": "https://www.toutiao.com/trending/7630341053001829938/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时38分]"
-        },
-        {
-          "title": "谷歌公司与迈威尔科技洽谈打造新款AI芯片。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3090615",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时38分]"
-        },
-        {
-          "title": "AI入侵产业,2D国漫公司倒闭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353402&amp;topic_name=AI%E5%85%A5%E4%BE%B5%E4%BA%A7%E4%B8%9A%2C2D%E5%9B%BD%E6%BC%AB%E5%85%AC%E5%8F%B8%E5%80%92%E9%97%AD",
-          "source": "贴吧",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时38分]"
+          "time_info": "[02时54分 ~ 02时55分]"
         },
         {
           "title": "国投智能：公司已构建全链条AI安全能力体系",
