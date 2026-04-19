@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-20T00:43:48.066760+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-20T01:38:41.608125+08:00",
+  "total_titles_processed": 354,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://www.zhihu.com/question/2028817450829976782",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时38分]"
         },
         {
           "title": "DeepSeek 开启首次对外融资，其在多名核心研究员跳槽之下为何会选择此时，从商业资本角度你怎么看？",
           "url": "https://www.zhihu.com/question/2029139595183367444",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时38分]"
         },
         {
           "title": "up主转战AI动画遭手绘党声讨",
@@ -37,19 +39,20 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时38分]"
         },
         {
           "title": "怎样能够一眼分辨出是 AI 生成的文章？",
           "url": "https://www.zhihu.com/question/3022969383",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时38分]"
         },
         {
           "title": "刺猬猫AI文霸榜,作者魔法对轰",
@@ -59,19 +62,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "国投智能：公司已构建全链条AI安全能力体系",
-          "url": "https://flash.jin10.com/detail/20260419221748740800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时38分]"
         },
         {
           "title": "DeepSeek被曝融资20亿",
@@ -81,8 +73,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时38分]"
         },
         {
           "title": "谷歌公司与迈威尔科技洽谈打造新款AI芯片。（The Information）",
@@ -92,8 +84,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时38分]"
         },
         {
           "title": "AI入侵产业,2D国漫公司倒闭",
@@ -101,6 +93,17 @@
           "source": "贴吧",
           "ranks": [
             29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时38分]"
+        },
+        {
+          "title": "国投智能：公司已构建全链条AI安全能力体系",
+          "url": "https://flash.jin10.com/detail/20260419221748740800",
+          "source": "金十数据",
+          "ranks": [
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
