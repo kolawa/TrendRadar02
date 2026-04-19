@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T18:42:20.448015+08:00",
-  "total_titles_processed": 1047,
+  "generated_at": "2026-04-19T19:37:39.745501+08:00",
+  "total_titles_processed": 1122,
   "failed_sources": [],
   "trends": [
     {
@@ -42,8 +42,24 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时31分 ~ 18时42分]"
+          "appearance_count": 10,
+          "time_info": "[13时31分 ~ 19时37分]"
+        },
+        {
+          "title": "多名核心人员流失，AGI梦想不敌商业化现实？DeepSeek开启首次外部融资",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33002057",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12,
+            11,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时47分 ~ 19时37分]"
         },
         {
           "title": "DeepSeek被曝融资20亿",
@@ -70,8 +86,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时43分 ~ 18时42分]"
+          "appearance_count": 22,
+          "time_info": "[00时43分 ~ 19时37分]"
         },
         {
           "title": "粉红蓝莓是AI生成的吗",
@@ -102,8 +118,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时43分 ~ 18时42分]"
+          "appearance_count": 22,
+          "time_info": "[00时43分 ~ 19时37分]"
         },
         {
           "title": "AI入侵产业,2D国漫公司倒闭",
@@ -116,24 +132,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时43分 ~ 18时42分]"
-        },
-        {
-          "title": "多名核心人员流失，AGI梦想不敌商业化现实？DeepSeek开启首次外部融资",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33002057",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            12,
-            11,
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时47分 ~ 18时42分]"
+          "appearance_count": 22,
+          "time_info": "[00时43分 ~ 19时37分]"
         },
         {
           "title": "DeepSeek被曝启动融资",
@@ -160,6 +160,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时47分 ~ 15时23分]"
+        },
+        {
+          "title": "DeepSeek被曝融资20亿",
+          "url": "https://www.toutiao.com/trending/7630341053001829938/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            24,
+            27,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时57分 ~ 19时37分]"
         },
         {
           "title": "AIDC供电，短期靠燃机“救火”，长期靠这三条路线",
@@ -195,19 +209,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时31分 ~ 15时23分]"
-        },
-        {
-          "title": "DeepSeek被曝融资20亿",
-          "url": "https://www.toutiao.com/trending/7630341053001829938/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时57分 ~ 18时42分]"
         },
         {
           "title": "特朗普对伊博格碱（Ibogaine）研究发表评论：政府正在投入资金用于对伊博格碱的研究。",
