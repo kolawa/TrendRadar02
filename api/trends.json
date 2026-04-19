@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-20T03:44:13.415137+08:00",
-  "total_titles_processed": 429,
+  "generated_at": "2026-04-20T04:41:25.372642+08:00",
+  "total_titles_processed": 452,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 03时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时43分 ~ 04时41分]"
         },
         {
           "title": "DeepSeek 开启首次对外融资，其在多名核心研究员跳槽之下为何会选择此时，从商业资本角度你怎么看？",
@@ -31,8 +31,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 03时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时43分 ~ 04时41分]"
         },
         {
           "title": "up主转战AI动画遭手绘党声讨",
@@ -42,8 +42,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 03时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时43分 ~ 04时41分]"
         },
         {
           "title": "刺猬猫AI文霸榜,作者魔法对轰",
@@ -53,8 +53,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 03时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时43分 ~ 04时41分]"
         },
         {
           "title": "DeepSeek被曝融资20亿",
@@ -65,8 +65,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 03时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时43分 ~ 04时41分]"
         },
         {
           "title": "AI入侵产业,2D国漫公司倒闭",
@@ -76,8 +76,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 03时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时43分 ~ 04时41分]"
         },
         {
           "title": "在战锤 40k 里，机械神甫那些跳大神操作真的对人工智能有用吗?",
@@ -88,8 +88,19 @@
             16
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时54分 ~ 04时41分]"
+        },
+        {
+          "title": "我们要不要向AI说谢谢？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33005512",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[02时54分 ~ 03时44分]"
+          "time_info": "[03时43分 ~ 04时41分]"
         },
         {
           "title": "谷歌公司与迈威尔科技洽谈打造新款AI芯片。（The Information）",
@@ -113,17 +124,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时43分 ~ 01时38分]"
-        },
-        {
-          "title": "我们要不要向AI说谢谢？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33005512",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时43分 ~ 03时44分]"
         },
         {
           "title": "国投智能：公司已构建全链条AI安全能力体系",
