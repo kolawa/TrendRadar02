@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T07:45:00.987513+08:00",
-  "total_titles_processed": 693,
+  "generated_at": "2026-04-21T10:42:02.885081+08:00",
+  "total_titles_processed": 870,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 21,
+      "match_count": 28,
       "titles": [
         {
           "title": "七嘴八舌 | 爱奇艺的“先斩后奏”，才是这场“AI艺人库”风波的雷点",
@@ -14,11 +14,12 @@
           "ranks": [
             10,
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时11分 ~ 07时45分]"
+          "appearance_count": 15,
+          "time_info": "[00时11分 ~ 10时42分]"
         },
         {
           "title": "陈哲远、曾舜晞等百位演员入驻爱奇艺 AI 艺人库，明知可能分走自己饭碗，演员们为何还要入场？",
@@ -55,22 +56,24 @@
           "source": "贴吧",
           "ranks": [
             7,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时11分 ~ 07时45分]"
+          "appearance_count": 15,
+          "time_info": "[00时11分 ~ 10时42分]"
         },
         {
           "title": "沪指涨近0.8%，商业航天、光纤集体爆发，立讯精密涨停，恒科指涨0.5%，AI应用大涨、群核科技飙涨100%",
           "url": "https://wallstreetcn.com/articles/3770370",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时11分 ~ 07时45分]"
+          "appearance_count": 15,
+          "time_info": "[00时11分 ~ 10时42分]"
         },
         {
           "title": "钉钉 CEO 称严禁员工写文档、做会议纪要，沟通仅用白板，全靠 AI 自动整理，这种办公理念怎么样？",
@@ -144,6 +147,17 @@
           "time_info": "[00时11分 ~ 07时45分]"
         },
         {
+          "title": "爱奇艺再回应AI艺人库",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E5%86%8D%E5%9B%9E%E5%BA%94AI%E8%89%BA%E4%BA%BA%E5%BA%93%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时41分 ~ 10时42分]"
+        },
+        {
           "title": "马上评｜“AI艺人库”来了，爱奇艺到底在打什么算盘",
           "url": "https://m.thepaper.cn/newsDetail_forward_33011850",
           "source": "澎湃新闻",
@@ -155,6 +169,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[04时50分 ~ 07时45分]"
+        },
+        {
+          "title": "AI短剧是如何诞生的",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E5%89%A7%E6%98%AF%E5%A6%82%E4%BD%95%E8%AF%9E%E7%94%9F%E7%9A%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时41分 ~ 10时42分]"
         },
         {
           "title": "华为首款鸿蒙AI眼镜亮相，Pura 90系列定价持平上代，余承东：单机成本涨1500元，扛不住可能涨价！",
@@ -185,7 +210,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -226,6 +251,39 @@
           "time_info": "[06时45分 ~ 07时45分]"
         },
         {
+          "title": "于和伟、张若昀等接连否认入驻爱奇艺 AI 艺人库，到底是怎么回事？AI 艺人库可能涉及哪些法律风险？",
+          "url": "https://www.zhihu.com/question/2029619054642557288",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时41分 ~ 10时42分]"
+        },
+        {
+          "title": "AI 投入猛增，字节跳动去年净利下滑超 70%，如何解读该业绩？是暂时战略牺牲还是经营基本面出问题了？",
+          "url": "https://www.zhihu.com/question/2029573487086362973",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时41分 ~ 10时42分]"
+        },
+        {
+          "title": "爱奇艺AI艺人库争议背后：为何要推进，如何保证演员和观众权益？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33011865",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时41分 ~ 10时42分]"
+        },
+        {
           "title": "爱奇艺 CEO 龚宇称 AI 影视化无法阻挡，真人实拍可能成为非物质文化遗产，你认同他的观点吗？",
           "url": "https://www.zhihu.com/question/2029557729014933493",
           "source": "知乎",
@@ -237,6 +295,17 @@
           "time_info": "[00时11分 ~ 00时12分]"
         },
         {
+          "title": "如何看待 OpenAI 近期小范围内测的 GPT-image-2 生图模型？",
+          "url": "https://www.zhihu.com/question/2028780908405170838",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时41分 ~ 10时42分]"
+        },
+        {
           "title": "苏醒说AI艺人这方向真的对么",
           "url": "https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E8%AF%B4AI%E8%89%BA%E4%BA%BA%E8%BF%99%E6%96%B9%E5%90%91%E7%9C%9F%E7%9A%84%E5%AF%B9%E4%B9%88%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -246,6 +315,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时11分 ~ 00时12分]"
+        },
+        {
+          "title": "工信部：一季度工业机器人产量同比增长33.2% 无人机、AI眼镜等日益丰富",
+          "url": "https://flash.jin10.com/detail/20260421101838075800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
         },
         {
           "title": "AI核能开发商Fermi股价下跌，该公司CEO突然离职",
