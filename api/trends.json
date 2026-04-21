@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T10:42:02.885081+08:00",
-  "total_titles_processed": 870,
+  "generated_at": "2026-04-21T13:31:02.807925+08:00",
+  "total_titles_processed": 1035,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "七嘴八舌 | 爱奇艺的“先斩后奏”，才是这场“AI艺人库”风波的雷点",
@@ -18,8 +18,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时11分 ~ 10时42分]"
+          "appearance_count": 17,
+          "time_info": "[00时11分 ~ 13时31分]"
         },
         {
           "title": "陈哲远、曾舜晞等百位演员入驻爱奇艺 AI 艺人库，明知可能分走自己饭碗，演员们为何还要入场？",
@@ -57,11 +57,12 @@
           "ranks": [
             7,
             9,
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时11分 ~ 10时42分]"
+          "appearance_count": 17,
+          "time_info": "[00时11分 ~ 13时31分]"
         },
         {
           "title": "沪指涨近0.8%，商业航天、光纤集体爆发，立讯精密涨停，恒科指涨0.5%，AI应用大涨、群核科技飙涨100%",
@@ -69,11 +70,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时11分 ~ 10时42分]"
+          "appearance_count": 17,
+          "time_info": "[00时11分 ~ 13时31分]"
         },
         {
           "title": "钉钉 CEO 称严禁员工写文档、做会议纪要，沟通仅用白板，全靠 AI 自动整理，这种办公理念怎么样？",
@@ -175,11 +177,35 @@
           "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E5%89%A7%E6%98%AF%E5%A6%82%E4%BD%95%E8%AF%9E%E7%94%9F%E7%9A%84",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时41分 ~ 13时31分]"
+        },
+        {
+          "title": "拆解AI艺人库背后野心",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8B%86%E8%A7%A3AI%E8%89%BA%E4%BA%BA%E5%BA%93%E8%83%8C%E5%90%8E%E9%87%8E%E5%BF%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时41分 ~ 10时42分]"
+          "time_info": "[13时29分 ~ 13时31分]"
+        },
+        {
+          "title": "AI 投入猛增，字节跳动去年净利下滑超 70%，如何解读该业绩？是暂时战略牺牲还是经营基本面出问题了？",
+          "url": "https://www.zhihu.com/question/2029573487086362973",
+          "source": "知乎",
+          "ranks": [
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时41分 ~ 13时31分]"
         },
         {
           "title": "华为首款鸿蒙AI眼镜亮相，Pura 90系列定价持平上代，余承东：单机成本涨1500元，扛不住可能涨价！",
@@ -215,6 +241,18 @@
           "time_info": "07时45分"
         },
         {
+          "title": "于和伟、张若昀等接连否认入驻爱奇艺 AI 艺人库，到底是怎么回事？AI 艺人库可能涉及哪些法律风险？",
+          "url": "https://www.zhihu.com/question/2029619054642557288",
+          "source": "知乎",
+          "ranks": [
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时41分 ~ 13时31分]"
+        },
+        {
           "title": "曝王楚然早就融了AI",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%8E%8B%E6%A5%9A%E7%84%B6%E6%97%A9%E5%B0%B1%E8%9E%8D%E4%BA%86AI%23&t=31&band_rank=13&Refer=top",
           "source": "微博",
@@ -225,6 +263,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时11分 ~ 07时45分]"
+        },
+        {
+          "title": "爱奇艺AI艺人库争议背后：为何要推进，如何保证演员和观众权益？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33011865",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时41分 ~ 13时31分]"
         },
         {
           "title": "观众为何对AI表演集体不买账",
@@ -251,39 +301,6 @@
           "time_info": "[06时45分 ~ 07时45分]"
         },
         {
-          "title": "于和伟、张若昀等接连否认入驻爱奇艺 AI 艺人库，到底是怎么回事？AI 艺人库可能涉及哪些法律风险？",
-          "url": "https://www.zhihu.com/question/2029619054642557288",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时41分 ~ 10时42分]"
-        },
-        {
-          "title": "AI 投入猛增，字节跳动去年净利下滑超 70%，如何解读该业绩？是暂时战略牺牲还是经营基本面出问题了？",
-          "url": "https://www.zhihu.com/question/2029573487086362973",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时41分 ~ 10时42分]"
-        },
-        {
-          "title": "爱奇艺AI艺人库争议背后：为何要推进，如何保证演员和观众权益？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33011865",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时41分 ~ 10时42分]"
-        },
-        {
           "title": "爱奇艺 CEO 龚宇称 AI 影视化无法阻挡，真人实拍可能成为非物质文化遗产，你认同他的观点吗？",
           "url": "https://www.zhihu.com/question/2029557729014933493",
           "source": "知乎",
@@ -293,6 +310,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时11分 ~ 00时12分]"
+        },
+        {
+          "title": "在 AI 生成内容泛滥的时代，审美教育是多余的吗？理想的审美教育应该是什么样？",
+          "url": "https://www.zhihu.com/question/2029487128267036372",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 13时31分]"
         },
         {
           "title": "如何看待 OpenAI 近期小范围内测的 GPT-image-2 生图模型？",
@@ -323,7 +351,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
         },
@@ -337,6 +365,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
+        },
+        {
+          "title": "我国自主量子计算机“本源悟空”形成搭载人工智能运算能力",
+          "url": "https://flash.jin10.com/detail/20260421124724522800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         },
         {
           "title": "亚马逊(AMZN.O)： Anthropic将获得5吉瓦的亚马逊Trainium芯片。",
