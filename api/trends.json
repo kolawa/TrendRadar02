@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-22T15:50:52.046729+08:00",
-  "total_titles_processed": 1134,
+  "generated_at": "2026-04-22T17:23:17.692475+08:00",
+  "total_titles_processed": 1273,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 38,
+      "match_count": 50,
       "titles": [
         {
           "title": "国务院重磅部署！事关AI、算力、6G、卫星互联网等",
@@ -81,6 +81,18 @@
           "time_info": "[11时02分 ~ 15时50分]"
         },
         {
+          "title": "核心拒绝AI,异环美术光速滑跪",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353572&amp;topic_name=%E6%A0%B8%E5%BF%83%E6%8B%92%E7%BB%9DAI%2C%E5%BC%82%E7%8E%AF%E7%BE%8E%E6%9C%AF%E5%85%89%E9%80%9F%E6%BB%91%E8%B7%AA",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时34分 ~ 17时23分]"
+        },
+        {
           "title": "唐国强授权生成「数字版唐国强」，直言 AI 未来会比真人更完美，如何看待这种「主动拥抱替代」的态度？",
           "url": "https://www.zhihu.com/question/2029861890638045761",
           "source": "知乎",
@@ -104,6 +116,17 @@
           "time_info": "01时05分"
         },
         {
+          "title": "意大利能源服务公司Saipem首席执行官：中东局势可能会增加旨在多元化供应的基础设施需求。",
+          "url": "https://flash.jin10.com/detail/20260422171502504800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
+        },
+        {
           "title": "苹果公司候任CEO Ternus：我们将再次改变世界。 AI将创造“几乎无限的潜力”。 在我任期内，公司的使命不会变化。",
           "url": "https://wallstreetcn.com/livenews/3092049",
           "source": "华尔街见闻-快讯",
@@ -113,6 +136,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "为什么说中国大厂的 AI 战，归根结底是阿里 VS 字节？",
+          "url": "https://www.zhihu.com/question/1984557341190873580",
+          "source": "知乎",
+          "ranks": [
+            18,
+            16,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时02分 ~ 17时23分]"
+        },
+        {
+          "title": "如果“AI艺人”真的来了，观众能接受吗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33020911",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时02分 ~ 17时23分]"
         },
         {
           "title": "金十数据整理：每日科技要闻速递（4月22日）】<br/>人工智能：<br/><span class=\"section-news\">1. Anthropic旗下Mythos模型遭未授权用户入侵访问。</span><br/><span class=\"section-news\">2. 我国自主量子计算机“本源悟空”形成搭载人工智能运算能力。</span><br/><span class=\"section-news\">3. 特斯拉车机语音大模型服务完成备案。</span><br/><span class=\"section-news\">4. SpaceX：有权以600亿美元收购人工智能编程助手Cursor。</span><br/><span class=\"section-news\">5. OpenAI：ChatGPT Images 2.0即日起向所有ChatGPT和Codex用户开放。</span><br/>其他：<br/><span class=\"section-news\">1. 一季度工业机器人产量同比增长33.2%。</span><br/><span class=\"section-news\">2. 打击“囤积居奇” 工信部将引导存储器企业加强渠道管理。</span><br/><span class=\"section-news\">3. 亚马逊推出GLP-1减重项目 承诺\"快速、便捷\"获取药物。</span><br/><span class=\"section-news\">4. 工信部：万兆光网试点项目建设有序推进 试点目标完成情况良好。</span><br/><span class=\"section-news\">5. 宁德时代发布第三代神行超充电池，宁德时代钠电池年内将实现大规模量产。 </span>",
@@ -137,18 +188,6 @@
           "time_info": "11时02分"
         },
         {
-          "title": "核心拒绝AI,异环美术光速滑跪",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353572&amp;topic_name=%E6%A0%B8%E5%BF%83%E6%8B%92%E7%BB%9DAI%2C%E5%BC%82%E7%8E%AF%E7%BE%8E%E6%9C%AF%E5%85%89%E9%80%9F%E6%BB%91%E8%B7%AA",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时34分 ~ 15时50分]"
-        },
-        {
           "title": "Meta将跟踪美国员工工作流程数据，从而进行AI训练。（路透）",
           "url": "https://wallstreetcn.com/livenews/3092003",
           "source": "华尔街见闻-快讯",
@@ -166,7 +205,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时50分"
         },
@@ -195,32 +234,6 @@
           "time_info": "[04时56分 ~ 05时48分]"
         },
         {
-          "title": "为什么说中国大厂的 AI 战，归根结底是阿里 VS 字节？",
-          "url": "https://www.zhihu.com/question/1984557341190873580",
-          "source": "知乎",
-          "ranks": [
-            18,
-            16,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时02分 ~ 15时50分]"
-        },
-        {
-          "title": "如果“AI艺人”真的来了，观众能接受吗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33020911",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时02分 ~ 15时50分]"
-        },
-        {
           "title": "《灵魂摆渡》电影全AI生成",
           "url": "https://www.baidu.com/s?wd=%E3%80%8A%E7%81%B5%E9%AD%82%E6%91%86%E6%B8%A1%E3%80%8B%E7%94%B5%E5%BD%B1%E5%85%A8AI%E7%94%9F%E6%88%90",
           "source": "百度热搜",
@@ -242,6 +255,39 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时40分 ~ 07时37分]"
+        },
+        {
+          "title": "【每日收评】沪指重返4100点，创业板综指创历史新高，AI算力链再迎全线爆发",
+          "url": "https://www.cls.cn/detail/2352172",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 17时23分]"
+        },
+        {
+          "title": "丈夫用AI做“跳河轻生”图 妻子报警",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%88%E5%A4%AB%E7%94%A8AI%E5%81%9A%E2%80%9C%E8%B7%B3%E6%B2%B3%E8%BD%BB%E7%94%9F%E2%80%9D%E5%9B%BE+%E5%A6%BB%E5%AD%90%E6%8A%A5%E8%AD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 17时23分]"
+        },
+        {
+          "title": "特斯拉财报即将来袭！华尔街前瞻：AI叙事能否扭转股价颓势？",
+          "url": "https://www.cls.cn/detail/2351734",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 17时23分]"
         },
         {
           "title": "SpaceX在上市文件中警示：太空AI项目技术未经验证，商业前景存疑",
@@ -266,6 +312,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时48分 ~ 06时40分]"
+        },
+        {
+          "title": "“金穹”、“黄金舰队”、AI，五角大楼公布史上最大规模军费预算",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33025322",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 17时23分]"
         },
         {
           "title": "库克卸任：4万亿市值与AI失落的十年",
@@ -301,6 +358,17 @@
           "time_info": "01时05分"
         },
         {
+          "title": "意大利能源服务公司Saipem首席执行官：集团将在6月和7月为卡塔尔的两个项目运输物资，并需穿越霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260422171112836800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
+        },
+        {
           "title": "美联储主席提名人沃什：对人工智能将改善产出更有信心，而对其对劳动力市场的影响则不那么确定。",
           "url": "https://flash.jin10.com/detail/20260422003435028800",
           "source": "金十数据",
@@ -334,6 +402,17 @@
           "time_info": "11时02分"
         },
         {
+          "title": "OpenAI向美国政府及五眼联盟盟友简报新型网络产品。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3092463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
+        },
+        {
           "title": "美联储理事沃勒：需要更大的灵活性来捕捉效率并管理风险，例如网络安全，将人工智能融入我们的系统流程中。",
           "url": "https://flash.jin10.com/detail/20260422023729287800",
           "source": "金十数据",
@@ -345,6 +424,28 @@
           "time_info": "03时15分"
         },
         {
+          "title": "广东：重点布局人形机器人设计制造 推动人工智能与机器人“大脑”“小脑”及机身协同研发",
+          "url": "https://wallstreetcn.com/livenews/3092458",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
+        },
+        {
+          "title": "广东：推动脑机接口和具身智能等人工智能前沿技术的融合",
+          "url": "https://wallstreetcn.com/livenews/3092456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
+        },
+        {
           "title": "内部备忘录显示，Meta Platforms(META.O)将安装追踪软件到美国员工的电脑上，以捕获工作流程数据用于人工智能训练。",
           "url": "https://flash.jin10.com/detail/20260422002743422800",
           "source": "金十数据",
@@ -354,6 +455,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
+        },
+        {
+          "title": "据AXIOS：OpenAI已就一款新的网络安全产品向美国联邦政府及“五眼联盟”进行了简报。",
+          "url": "https://flash.jin10.com/detail/20260422170328232800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
         },
         {
           "title": "美联储主席提名人沃什：美联储应该更加深入地挖掘人工智能（AI）的生产力意义。 数据中心产能将把需求提高几个百分点。",
@@ -411,6 +523,17 @@
           "time_info": "13时35分"
         },
         {
+          "title": "英伟达近期已向韩国主要电力设备企业提出，希望将数据中心基础设施设计为基于约800V直流的系统，目前其正与韩国企业私下推进讨论数据中心具体合作方案讨论。 (韩国The Asia Business Daily)",
+          "url": "https://wallstreetcn.com/livenews/3092442",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
+        },
+        {
           "title": "基石资本张维：对“AI泡沫”要区分产业泡沫和金融泡沫",
           "url": "https://flash.jin10.com/detail/20260422102218933800",
           "source": "金十数据",
@@ -442,6 +565,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "据日经新闻：三星电子及其工会正因薪酬问题走向对峙，一场大规模员工集会计划于周四在平泽半导体园区举行，该园区生产该公司用于人工智能的先进存储芯片。三星电子三大工会计划联合举行此次集会，并表示预计约有3.7万名成员参与。",
+          "url": "https://flash.jin10.com/detail/20260422165555471800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
         }
       ]
     }
