@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-04-24T19:59:17.745159+08:00",
-  "total_titles_processed": 1488,
+  "generated_at": "2026-04-24T21:53:41.668926+08:00",
+  "total_titles_processed": 1631,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 73,
+      "match_count": 81,
       "titles": [
-        {
-          "title": "DeepSeek V4 发布",
-          "url": "https://www.douyin.com/hot/2477208",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时37分 ~ 19时59分]"
-        },
         {
           "title": "DeepSeek V4 预览版本上线并同步开源，哪些亮点值得关注？",
           "url": "https://www.zhihu.com/question/2030963929510310856",
@@ -26,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时37分 ~ 19时59分]"
+          "appearance_count": 9,
+          "time_info": "[13时37分 ~ 21时53分]"
         },
         {
           "title": "DeepSeek V4预览版发布：显存和算力需求大降，Agent能力领跑国内开源，体验超越Sonnet 4.5",
@@ -38,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时37分 ~ 19时59分]"
+          "appearance_count": 9,
+          "time_info": "[13时37分 ~ 21时53分]"
         },
         {
           "title": "“CPU重归AI核心地位”！英特尔财报会实录：半导体市场规模已近万亿美元",
@@ -78,11 +67,24 @@
             5,
             7,
             8,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时22分 ~ 19时59分]"
+          "appearance_count": 19,
+          "time_info": "[01时22分 ~ 21时53分]"
+        },
+        {
+          "title": "DeepSeek V4 发布",
+          "url": "https://www.douyin.com/hot/2477208",
+          "source": "抖音",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时37分 ~ 21时53分]"
         },
         {
           "title": "DeepSeek-V4预览版上线 对计算和显存的需求降低 百万字上下文成标配",
@@ -98,6 +100,21 @@
           "time_info": "[13时37分 ~ 19时59分]"
         },
         {
+          "title": "万字回顾DeepSeek演进之路",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E5%9B%9E%E9%A1%BEDeepSeek%E6%BC%94%E8%BF%9B%E4%B9%8B%E8%B7%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            5,
+            7,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时37分 ~ 21时53分]"
+        },
+        {
           "title": "人民海军成立77周年丨“吉野号已击毁”！AI让福建舰与北洋水师同框",
           "url": "https://m.thepaper.cn/newsDetail_forward_33032397",
           "source": "澎湃新闻",
@@ -111,18 +128,29 @@
           "time_info": "[01时22分 ~ 07时48分]"
         },
         {
-          "title": "万字回顾DeepSeek演进之路",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E5%9B%9E%E9%A1%BEDeepSeek%E6%BC%94%E8%BF%9B%E4%B9%8B%E8%B7%AF",
-          "source": "bilibili 热搜",
+          "title": "DeepSeek-V4发布！迈入百万上下文时代 华为昇腾超节点全面支持",
+          "url": "https://www.cls.cn/detail/2354690",
+          "source": "财联社热门",
           "ranks": [
-            4,
+            11,
             5,
-            7,
-            13
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时37分 ~ 19时59分]"
+          "appearance_count": 7,
+          "time_info": "[16时06分 ~ 21时53分]"
+        },
+        {
+          "title": "AI图以假乱真,恐怖谷效应拉满",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353704&amp;topic_name=AI%E5%9B%BE%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E6%81%90%E6%80%96%E8%B0%B7%E6%95%88%E5%BA%94%E6%8B%89%E6%BB%A1",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时23分 ~ 21时53分]"
         },
         {
           "title": "如何看待腾讯、阿里洽谈投资 DeepSeek 的消息，估值超过 200 亿美元合理吗？",
@@ -152,6 +180,20 @@
           "time_info": "[01时22分 ~ 10时44分]"
         },
         {
+          "title": "DeepSeek-V4虽迟但到！百万上下文成标配 华为昇腾和英伟达均被写进其技术报告",
+          "url": "https://www.cls.cn/detail/2354737",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时06分 ~ 21时53分]"
+        },
+        {
           "title": "特斯拉电话会：超预期上调2026年资本开支，AI5芯片提前流片，“Optimus将是史上最大的产品”",
           "url": "https://wallstreetcn.com/articles/3770653",
           "source": "华尔街见闻",
@@ -165,41 +207,29 @@
           "time_info": "[01时22分 ~ 07时48分]"
         },
         {
-          "title": "AI图以假乱真,恐怖谷效应拉满",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353704&amp;topic_name=AI%E5%9B%BE%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E6%81%90%E6%80%96%E8%B0%B7%E6%95%88%E5%BA%94%E6%8B%89%E6%BB%A1",
-          "source": "贴吧",
+          "title": "DeepSeek-V4 已公布，如何评价 DeepSeek-V4 的价格？",
+          "url": "https://www.zhihu.com/question/2030963912749924411",
+          "source": "知乎",
           "ranks": [
-            1
+            8,
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时23分 ~ 19时59分]"
+          "appearance_count": 5,
+          "time_info": "[18时23分 ~ 21时53分]"
         },
         {
-          "title": "DeepSeek-V4发布！迈入百万上下文时代 华为昇腾超节点全面支持",
-          "url": "https://www.cls.cn/detail/2354690",
+          "title": "外交部：中方坚决反对美方污蔑抹黑中国人工智能产业发展成就",
+          "url": "https://www.cls.cn/detail/2354727",
           "source": "财联社热门",
           "ranks": [
-            11,
-            5,
+            6,
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时06分 ~ 19时59分]"
-        },
-        {
-          "title": "DeepSeek-V4虽迟但到！百万上下文成标配 华为昇腾和英伟达均被写进其技术报告",
-          "url": "https://www.cls.cn/detail/2354737",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时06分 ~ 19时59分]"
+          "appearance_count": 5,
+          "time_info": "[18时23分 ~ 21时53分]"
         },
         {
           "title": "这些图片居然都是AI的",
@@ -218,23 +248,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             6,
-            1
+            1,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时23分 ~ 19时59分]"
-        },
-        {
-          "title": "DeepSeek-V4 已公布，如何评价 DeepSeek-V4 的价格？",
-          "url": "https://www.zhihu.com/question/2030963912749924411",
-          "source": "知乎",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时23分 ~ 19时59分]"
+          "appearance_count": 5,
+          "time_info": "[18时23分 ~ 21时53分]"
         },
         {
           "title": "DeepSeek-V4 预览版正式上线",
@@ -297,6 +316,18 @@
           "time_info": "[16时06分 ~ 19时59分]"
         },
         {
+          "title": "一图看懂 | 站在“光”里，苏州这些上市公司藏着AI算力密码",
+          "url": "https://www.cls.cn/detail/2355054",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时58分 ~ 21时53分]"
+        },
+        {
           "title": "智源FlagOS完成DeepSeek-V4八款芯片Day0适配，覆盖昇腾、海光、摩尔线程等",
           "url": "https://wallstreetcn.com/livenews/3093943",
           "source": "华尔街见闻-快讯",
@@ -321,15 +352,53 @@
           "time_info": "[10时44分 ~ 16时07分]"
         },
         {
-          "title": "外交部：中方坚决反对美方污蔑抹黑中国人工智能产业发展成就",
-          "url": "https://www.cls.cn/detail/2354727",
-          "source": "财联社热门",
+          "title": "英特尔Q1电话会：AI业务猛增40%，CEO高呼“CPU重返AI核心”，AI推理将CPU比例推向1:4",
+          "url": "https://wallstreetcn.com/articles/3770753",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时23分 ~ 19时59分]"
+          "appearance_count": 5,
+          "time_info": "[18时23分 ~ 21时53分]"
+        },
+        {
+          "title": "DeepSeek V4强在哪里",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E5%BC%BA%E5%9C%A8%E5%93%AA%E9%87%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时23分 ~ 21时53分]"
+        },
+        {
+          "title": "【焦点复盘】三大指数缩量调整失守5日线，商业航天概念持续退潮，新版DeepSeek激活国产算力链",
+          "url": "https://www.cls.cn/detail/2354937",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时23分 ~ 21时53分]"
+        },
+        {
+          "title": "DeepSeekV4预览版本上线",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E9%A2%84%E8%A7%88%E7%89%88%E6%9C%AC%E4%B8%8A%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时37分 ~ 21时53分]"
         },
         {
           "title": "周四（4月23日），美股存储芯片与硬件供应链指数跌0.20%，报144.48点，在震荡上行行情中，北京时间23:42刷新日高至148.53点，随后震荡下行，01:46刷新日低至142.59点。 信息科技指数跌1.24%，报329.36点。 人工智能（AI）赢家指数跌0.92%，报348.16点。 AI软件先驱指数跌6.81%，报95.68点，跳空低开后持续低位窄幅震荡，形成长尾L形走势。",
@@ -356,29 +425,6 @@
           "time_info": "[13时37分 ~ 16时07分]"
         },
         {
-          "title": "英特尔Q1电话会：AI业务猛增40%，CEO高呼“CPU重返AI核心”，AI推理将CPU比例推向1:4",
-          "url": "https://wallstreetcn.com/articles/3770753",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时23分 ~ 19时59分]"
-        },
-        {
-          "title": "DeepSeek V4强在哪里",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E5%BC%BA%E5%9C%A8%E5%93%AA%E9%87%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时23分 ~ 19时59分]"
-        },
-        {
           "title": "SpaceX又一“IPO重磅炸弹”：未来靠企业AI“吃饭”，而非太空飞船！",
           "url": "https://www.cls.cn/detail/2354474",
           "source": "财联社热门",
@@ -389,18 +435,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时06分 ~ 18时24分]"
-        },
-        {
-          "title": "【焦点复盘】三大指数缩量调整失守5日线，商业航天概念持续退潮，新版DeepSeek激活国产算力链",
-          "url": "https://www.cls.cn/detail/2354937",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时23分 ~ 19时59分]"
         },
         {
           "title": "DeepSeek v4 百万上下文",
@@ -436,29 +470,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[18时23分 ~ 19时59分]"
-        },
-        {
-          "title": "DeepSeekV4预览版本上线",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E9%A2%84%E8%A7%88%E7%89%88%E6%9C%AC%E4%B8%8A%E7%BA%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时37分 ~ 19时59分]"
-        },
-        {
-          "title": "一图看懂 | 站在“光”里，苏州这些上市公司藏着AI算力密码",
-          "url": "https://www.cls.cn/detail/2355054",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时58分 ~ 19时59分]"
         },
         {
           "title": "DeepSeek融资为何谁都不想错过",
@@ -607,6 +618,17 @@
           "time_info": "[13时37分 ~ 13时38分]"
         },
         {
+          "title": "DeepSeekV4和GPT5.5谁更强",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E5%92%8CGPT5.5%E8%B0%81%E6%9B%B4%E5%BC%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
           "title": "如何评价 OpenAI 最新发布的 GPT-5.5 模型？",
           "url": "https://www.zhihu.com/question/2030834616181970293",
           "source": "知乎",
@@ -627,6 +649,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
+        },
+        {
+          "title": "DeepSeekV4 价格屠夫",
+          "url": "https://s.weibo.com/weibo?q=DeepSeekV4%20%E4%BB%B7%E6%A0%BC%E5%B1%A0%E5%A4%AB&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
+          "title": "强瑞技术：拟投资18亿元购买土地使用权并建设人工智能产业研发智造总部",
+          "url": "https://flash.jin10.com/detail/20260424213626251800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
         },
         {
           "title": "可灵AI原生4K直出功能上线，提升影视工业级视频制作效率",
@@ -695,6 +739,17 @@
           "time_info": "10时44分"
         },
         {
+          "title": "微软：马来西亚深化与微软的人工智能合作伙伴关系，该倡议旨在加强马来西亚的人工智能就绪程度。",
+          "url": "https://wallstreetcn.com/livenews/3094102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
           "title": "DeepSeek-V4-Flash上线华为云",
           "url": "https://flash.jin10.com/detail/20260424154111852800",
           "source": "金十数据",
@@ -761,6 +816,28 @@
           "time_info": "05时49分"
         },
         {
+          "title": "工会表示，任何对精神航空（Spirit Airlines）的联邦救助必须确保员工不被裁员或减薪。",
+          "url": "https://flash.jin10.com/detail/20260424212909877800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
+          "title": "实测DeepSeek V4",
+          "url": "https://www.douyin.com/hot/2477701",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
           "title": "AI驱动需求回升 英特尔一季度营收超预期",
           "url": "https://flash.jin10.com/detail/20260424051240495800",
           "source": "金十数据",
@@ -792,6 +869,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
+        },
+        {
+          "title": "DeepSeek V4揭开AI内卷终局",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E6%8F%AD%E5%BC%80AI%E5%86%85%E5%8D%B7%E7%BB%88%E5%B1%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
         },
         {
           "title": "OpenAI：发布GPT‑5.5，并配备迄今为止最强大的一套安全防护措施。",
@@ -849,13 +937,24 @@
           "time_info": "13时38分"
         },
         {
+          "title": "小米高管称所有岗位都可能被AI替代",
+          "url": "https://www.toutiao.com/trending/7632268659670453770/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
           "title": "阿里国际旗下Accio Work已接入DeepSeek V4",
           "url": "https://wallstreetcn.com/livenews/3094009",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         }
