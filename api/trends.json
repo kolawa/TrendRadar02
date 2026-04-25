@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T16:56:19.512943+08:00",
-  "total_titles_processed": 1064,
+  "generated_at": "2026-04-25T17:55:44.621217+08:00",
+  "total_titles_processed": 1120,
   "failed_sources": [],
   "trends": [
     {
@@ -69,8 +69,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时41分 ~ 16时56分]"
+          "appearance_count": 11,
+          "time_info": "[06时41分 ~ 17时55分]"
         },
         {
           "title": "实测DeepSeek V4",
@@ -129,8 +129,21 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时59分 ~ 16时56分]"
+          "appearance_count": 23,
+          "time_info": "[00时59分 ~ 17时55分]"
+        },
+        {
+          "title": "如何看待 DeepSeek V4 发布当天英伟达市值重回 5 万亿美元？",
+          "url": "https://www.zhihu.com/question/2031152992817243775",
+          "source": "知乎",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时13分 ~ 17时55分]"
         },
         {
           "title": "DeepSeek-V4 已公布，如何评价 DeepSeek-V4 的价格？",
@@ -149,6 +162,18 @@
           "time_info": "[00时59分 ~ 10时33分]"
         },
         {
+          "title": "DeepSeekV4更新了啥",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E6%9B%B4%E6%96%B0%E4%BA%86%E5%95%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时13分 ~ 17时55分]"
+        },
+        {
           "title": "DeepSeek V4揭开AI内卷终局",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E6%8F%AD%E5%BC%80AI%E5%86%85%E5%8D%B7%E7%BB%88%E5%B1%80",
           "source": "bilibili 热搜",
@@ -165,29 +190,19 @@
           "time_info": "[00时59分 ~ 10时33分]"
         },
         {
-          "title": "如何看待 DeepSeek V4 发布当天英伟达市值重回 5 万亿美元？",
-          "url": "https://www.zhihu.com/question/2031152992817243775",
-          "source": "知乎",
+          "title": "戛纳电影宫的中国AI时刻",
+          "url": "https://www.douyin.com/hot/2476611",
+          "source": "抖音",
           "ranks": [
-            4,
-            3,
-            2
+            17,
+            12,
+            13,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时13分 ~ 16时56分]"
-        },
-        {
-          "title": "DeepSeekV4更新了啥",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E6%9B%B4%E6%96%B0%E4%BA%86%E5%95%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时13分 ~ 16时56分]"
+          "appearance_count": 10,
+          "time_info": "[03时54分 ~ 17时55分]"
         },
         {
           "title": "罚没已超33亿，证监会新一轮打击财务造假，强化财务舞弊监管AI大模型应用",
@@ -214,8 +229,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时59分 ~ 16时56分]"
+          "appearance_count": 23,
+          "time_info": "[00时59分 ~ 17时55分]"
         },
         {
           "title": "DeepSeekV4预览版本上线",
@@ -306,18 +321,18 @@
           "time_info": "[00时59分 ~ 06时41分]"
         },
         {
-          "title": "戛纳电影宫的中国AI时刻",
-          "url": "https://www.douyin.com/hot/2476611",
-          "source": "抖音",
+          "title": "DeepSeek如何适配国产芯片",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%A6%82%E4%BD%95%E9%80%82%E9%85%8D%E5%9B%BD%E4%BA%A7%E8%8A%AF%E7%89%87",
+          "source": "bilibili 热搜",
           "ranks": [
-            17,
+            1,
+            8,
             12,
-            13,
-            6
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时54分 ~ 16时56分]"
+          "appearance_count": 8,
+          "time_info": "[10时33分 ~ 17时55分]"
         },
         {
           "title": "第一次对AI感到恐惧",
@@ -326,24 +341,25 @@
           "ranks": [
             17,
             4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时13分 ~ 16时56分]"
-        },
-        {
-          "title": "DeepSeek如何适配国产芯片",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%A6%82%E4%BD%95%E9%80%82%E9%85%8D%E5%9B%BD%E4%BA%A7%E8%8A%AF%E7%89%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            8,
-            12
+            5,
+            6
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[10时33分 ~ 16时56分]"
+          "time_info": "[13时13分 ~ 17时55分]"
+        },
+        {
+          "title": "谷歌豪掷400亿锁定Anthropic：AI两强格局成型，御三家时代终结",
+          "url": "https://wallstreetcn.com/articles/3770859",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时13分 ~ 17时55分]"
         },
         {
           "title": "DeepSeek V4 预览版本上线并同步开源，哪些亮点值得关注？",
@@ -357,6 +373,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时59分 ~ 02时56分]"
+        },
+        {
+          "title": "网警打谣|利用AI编造泸州楼房倒塌者被罚",
+          "url": "https://www.toutiao.com/trending/7632545381678878254/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时13分 ~ 17时55分]"
         },
         {
           "title": "研究称 7 款顶级 AI 模型为保护同伴，集体出现撒谎、篡研文件等行为，这种抱团欺骗会带来多大风险？",
@@ -385,15 +412,46 @@
           "time_info": "[00时59分 ~ 06时41分]"
         },
         {
-          "title": "网警打谣|利用AI编造泸州楼房倒塌者被罚",
-          "url": "https://www.toutiao.com/trending/7632545381678878254/",
-          "source": "今日头条",
+          "title": "华为昇腾超节点支持DeepSeek V4模型，寒武纪也适配完成",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33044189",
+          "source": "澎湃新闻",
           "ranks": [
-            6
+            18,
+            17,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时13分 ~ 17时55分]"
+        },
+        {
+          "title": "软银准备为AI数据中心制造电池",
+          "url": "https://wallstreetcn.com/livenews/3094321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13,
+            17,
+            24,
+            29,
+            30
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[13时13分 ~ 16时56分]"
+          "time_info": "[07时42分 ~ 17时55分]"
+        },
+        {
+          "title": "OpenAI创始人就未向警方举报枪击案嫌疑人一事致歉",
+          "url": "https://flash.jin10.com/detail/20260425162059332800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时56分 ~ 17时55分]"
         },
         {
           "title": "利用AI编造四川泸州楼房倒塌者被罚",
@@ -405,18 +463,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时13分 ~ 13时14分]"
-        },
-        {
-          "title": "谷歌豪掷400亿锁定Anthropic：AI两强格局成型，御三家时代终结",
-          "url": "https://wallstreetcn.com/articles/3770859",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时13分 ~ 16时56分]"
         },
         {
           "title": "月之暗面与DeepSeek的“听牌”时刻",
@@ -431,45 +477,6 @@
           "time_info": "[00时59分 ~ 01时56分]"
         },
         {
-          "title": "OpenAI创始人就未向警方举报枪击案嫌疑人一事致歉",
-          "url": "https://flash.jin10.com/detail/20260425162059332800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时56分"
-        },
-        {
-          "title": "华为昇腾超节点支持DeepSeek V4模型，寒武纪也适配完成",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33044189",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时13分 ~ 16时56分]"
-        },
-        {
-          "title": "软银准备为AI数据中心制造电池",
-          "url": "https://wallstreetcn.com/livenews/3094321",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            13,
-            17,
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时42分 ~ 16时56分]"
-        },
-        {
           "title": "黄仁勋要求英伟达所有员工用OpenAI",
           "url": "https://www.toutiao.com/trending/7632491668544949786/",
           "source": "今日头条",
@@ -479,6 +486,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
+        },
+        {
+          "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
+          "url": "https://wallstreetcn.com/articles/3770880",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时55分 ~ 17时55分]"
         },
         {
           "title": "DeepSeek V4初体验——读《三体》三部曲烧了54万token",
@@ -542,6 +561,19 @@
           "time_info": "[04时52分 ~ 06时41分]"
         },
         {
+          "title": "元戎CEO周光：目标成为物理世界的AI基础设施",
+          "url": "https://wallstreetcn.com/livenews/3094343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时20分 ~ 17时55分]"
+        },
+        {
           "title": "DeepSeek V4：一次注意力机制的结构性颠覆",
           "url": "https://wallstreetcn.com/articles/3770791",
           "source": "华尔街见闻",
@@ -551,6 +583,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时41分 ~ 10时33分]"
+        },
+        {
+          "title": "AI热潮推动核能投资升温 X-Energy上市首日股价大涨27%",
+          "url": "https://www.cls.cn/detail/2355592",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时55分 ~ 17时55分]"
         },
         {
           "title": "DeepSeek V4 发布",
@@ -577,27 +621,16 @@
           "time_info": "[10时33分 ~ 13时14分]"
         },
         {
-          "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
-          "url": "https://wallstreetcn.com/articles/3770880",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时55分 ~ 16时56分]"
-        },
-        {
-          "title": "元戎CEO周光：目标成为物理世界的AI基础设施",
-          "url": "https://wallstreetcn.com/livenews/3094343",
-          "source": "华尔街见闻-快讯",
+          "title": "百度智能云上线DeepSeek-V4",
+          "url": "https://flash.jin10.com/detail/20260425155339949800",
+          "source": "金十数据",
           "ranks": [
             6,
-            11
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时20分 ~ 16时56分]"
+          "time_info": "[16时56分 ~ 17时55分]"
         },
         {
           "title": "网友在daiso买了个小狗不会用的东西",
@@ -610,17 +643,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时19分 ~ 15时20分]"
-        },
-        {
-          "title": "AI热潮推动核能投资升温 X-Energy上市首日股价大涨27%",
-          "url": "https://www.cls.cn/detail/2355592",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时55分 ~ 16时56分]"
         },
         {
           "title": "据知情人士透露，AI初创公司Human Intelligence洽谈融资1亿美元。（彭博）",
@@ -644,17 +666,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时55分 ~ 16时56分]"
-        },
-        {
-          "title": "百度智能云上线DeepSeek-V4",
-          "url": "https://flash.jin10.com/detail/20260425155339949800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时56分"
         },
         {
           "title": "OpenAI：GPT-5.5 和 GPT-5.5 Pro现已在API中可用。",
