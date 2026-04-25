@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T06:39:31.273969+08:00",
-  "total_titles_processed": 485,
+  "generated_at": "2026-04-26T07:40:57.460908+08:00",
+  "total_titles_processed": 516,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时43分 ~ 06时39分]"
+          "appearance_count": 13,
+          "time_info": "[00时43分 ~ 07时40分]"
         },
         {
           "title": "DeepSeek v4 全面支持百万上下文 token，这意味着什么？到底有多厉害？",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时43分 ~ 06时39分]"
+          "appearance_count": 13,
+          "time_info": "[00时43分 ~ 07时40分]"
         },
         {
           "title": "谷歌豪掷400亿锁定Anthropic：AI两强格局成型，御三家时代终结",
@@ -37,22 +37,24 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时43分 ~ 06时39分]"
+          "appearance_count": 13,
+          "time_info": "[00时43分 ~ 07时40分]"
         },
         {
           "title": "沐曦股份携手FlagOS、上海人工智能实验室，完成DeepSeek-V4 Day 0适配",
           "url": "https://wallstreetcn.com/livenews/3094410",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 06时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 07时40分]"
         },
         {
           "title": "AI图以假乱真,恐怖谷效应拉满",
@@ -62,8 +64,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时43分 ~ 06时39分]"
+          "appearance_count": 13,
+          "time_info": "[00时43分 ~ 07时40分]"
         },
         {
           "title": "马上评｜为什么说“AI霸总”比“秀才”们更可怕",
@@ -87,8 +89,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时43分 ~ 06时39分]"
+          "appearance_count": 13,
+          "time_info": "[00时43分 ~ 07时40分]"
         },
         {
           "title": "AI出图太逼真,二游圈炸锅",
@@ -98,8 +100,20 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时43分 ~ 06时39分]"
+          "appearance_count": 13,
+          "time_info": "[00时43分 ~ 07时40分]"
+        },
+        {
+          "title": "AI帮忙投资靠谱吗",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%B8%AE%E5%BF%99%E6%8A%95%E8%B5%84%E9%9D%A0%E8%B0%B1%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 07时40分]"
         },
         {
           "title": "DeepSeek-V4和GPT-5.5实测对决",
@@ -107,17 +121,6 @@
           "source": "今日头条",
           "ranks": [
             6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 00时44分]"
-        },
-        {
-          "title": "AI帮忙投资靠谱吗",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%B8%AE%E5%BF%99%E6%8A%95%E8%B5%84%E9%9D%A0%E8%B0%B1%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19
           ],
           "is_new": false,
           "appearance_count": 2,
