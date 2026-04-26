@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-27T04:41:17.924325+08:00",
-  "total_titles_processed": 415,
+  "generated_at": "2026-04-27T05:40:38.013610+08:00",
+  "total_titles_processed": 428,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "龙虾官宣接入DeepSeekV4",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 04时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 05时40分]"
         },
         {
           "title": "一条视频看懂DeepSeek V4",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 04时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 05时40分]"
         },
         {
           "title": "高盛：DeepSeek V4对中国AI意味着什么？",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 04时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 05时40分]"
         },
         {
           "title": "沉默的DeepSeek，和不被定义的中国大模型",
@@ -50,8 +50,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 04时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 05时40分]"
         },
         {
           "title": "DeepSeek V4发布意味着什么",
@@ -63,8 +63,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 04时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 05时40分]"
         },
         {
           "title": "DeepSeek输入缓存降价",
@@ -75,8 +75,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 04时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时45分 ~ 05时40分]"
         },
         {
           "title": "AI 编程从「vibe coding」到「wish coding」，迎来 C 端拐点，这意味着什么？",
@@ -85,11 +85,12 @@
           "ranks": [
             13,
             7,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 04时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 05时40分]"
         },
         {
           "title": "专家热议AI短剧以规范促发展",
@@ -100,11 +101,12 @@
             14,
             20,
             10,
-            8
+            8,
+            18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 04时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 05时40分]"
         },
         {
           "title": "DeepSeek V4全面评测",
@@ -114,11 +116,12 @@
             23,
             21,
             8,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 04时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 05时40分]"
         },
         {
           "title": "AI行情之后，市场开始面对真正的变量：能源价格上移",
@@ -128,8 +131,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 04时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 05时40分]"
         },
         {
           "title": "经济日报评“AI艺人库”：技术狂奔岂能突破人文底线",
@@ -141,8 +144,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 04时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 05时40分]"
         },
         {
           "title": "DeepSeek输入缓存降价",
@@ -153,8 +156,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 04时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 05时40分]"
         },
         {
           "title": "AI图以假乱真,恐怖谷效应拉满",
@@ -164,8 +167,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 04时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 05时40分]"
         },
         {
           "title": "加拿大曼尼托巴省拟禁止未成年人使用社交媒体及AI聊天机器人",
@@ -175,11 +178,12 @@
             1,
             11,
             19,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时41分 ~ 04时41分]"
+          "appearance_count": 5,
+          "time_info": "[01时41分 ~ 05时40分]"
         },
         {
           "title": "DeepSeek V4成OpenClaw默认模型",
@@ -193,6 +197,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时44分 ~ 03时51分]"
+        },
+        {
+          "title": "DeepSeekV4脱离英伟达了吗",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E8%84%B1%E7%A6%BB%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%BA%86%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时39分 ~ 05时40分]"
         }
       ]
     }
