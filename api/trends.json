@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-29T16:27:51.977132+08:00",
-  "total_titles_processed": 1122,
+  "generated_at": "2026-04-29T18:58:37.995984+08:00",
+  "total_titles_processed": 1288,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 53,
+      "match_count": 56,
       "titles": [
         {
           "title": "DeepSeek 为什么选择在内蒙古自建数据中心，而不是租用阿里云、腾讯云等大厂的算力资源？",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时53分 ~ 07时05分]"
+        },
+        {
+          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
+          "url": "https://wallstreetcn.com/articles/3771095",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时57分 ~ 18时58分]"
         },
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，纳指盘初跌1.2%，半导体集体回调，WTI涨破百元大关，金银下挫",
@@ -81,15 +92,17 @@
           "time_info": "[00时53分 ~ 13时58分]"
         },
         {
-          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
-          "url": "https://wallstreetcn.com/articles/3771095",
+          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
+          "url": "https://wallstreetcn.com/articles/3771151",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            10,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时57分 ~ 16时27分]"
+          "appearance_count": 8,
+          "time_info": "[07时04分 ~ 18时58分]"
         },
         {
           "title": "如何评价红果下架播放量 8 亿的 AI 短剧《菩提临世》？问题出在哪？AI 短剧创作要注意什么？",
@@ -130,17 +143,17 @@
           "time_info": "[10时57分 ~ 16时27分]"
         },
         {
-          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
-          "url": "https://wallstreetcn.com/articles/3771151",
-          "source": "华尔街见闻",
+          "title": "《灵魂摆渡》电影全 AI 生成，原班幕后坐镇，演员全换 AI 建模，能延续过往的情怀吗？你还会去看吗？",
+          "url": "https://www.zhihu.com/question/2030222424457703714",
+          "source": "知乎",
           "ranks": [
-            10,
-            6,
-            5
+            9,
+            4,
+            20
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[07时04分 ~ 16时27分]"
+          "time_info": "[10时57分 ~ 18时58分]"
         },
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股债齐跌，半导体集体回调，WTI涨破百元大关，金银下挫",
@@ -152,18 +165,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时04分 ~ 07时05分]"
-        },
-        {
-          "title": "《灵魂摆渡》电影全 AI 生成，原班幕后坐镇，演员全换 AI 建模，能延续过往的情怀吗？你还会去看吗？",
-          "url": "https://www.zhihu.com/question/2030222424457703714",
-          "source": "知乎",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时57分 ~ 16时27分]"
         },
         {
           "title": "OpenAI的Codex登陆亚马逊Bedrock平台",
@@ -186,6 +187,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
+        },
+        {
+          "title": "从硅谷视角看DeepSeekV4",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E7%A1%85%E8%B0%B7%E8%A7%86%E8%A7%92%E7%9C%8BDeepSeekV4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时58分 ~ 18时58分]"
         },
         {
           "title": "据知情人士透露，黑石集团旗下QTS要求银行业提供20亿美元资金，用于保障（来自公用事业行业）AI电力供应。（彭博）",
@@ -211,16 +225,17 @@
           "time_info": "[00时54分 ~ 02时19分]"
         },
         {
-          "title": "从硅谷视角看DeepSeekV4",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E7%A1%85%E8%B0%B7%E8%A7%86%E8%A7%92%E7%9C%8BDeepSeekV4",
-          "source": "bilibili 热搜",
+          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
+          "url": "https://wallstreetcn.com/articles/3771182",
+          "source": "华尔街见闻",
           "ranks": [
-            9,
-            4
+            10,
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时58分 ~ 16时27分]"
+          "appearance_count": 4,
+          "time_info": "[13时58分 ~ 18时58分]"
         },
         {
           "title": "岗位被AI替代怎么办？杭州发布指引",
@@ -236,16 +251,27 @@
           "time_info": "[02时19分 ~ 10时58分]"
         },
         {
-          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
-          "url": "https://wallstreetcn.com/articles/3771182",
-          "source": "华尔街见闻",
+          "title": "6家券商抢先部署DeepSeek V4，2小时接入、24小时上线，新一轮竞速开始",
+          "url": "https://www.cls.cn/detail/2359433",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            8
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时27分 ~ 18时58分]"
+        },
+        {
+          "title": "中美AI竞争的本质差距在哪",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8EAI%E7%AB%9E%E4%BA%89%E7%9A%84%E6%9C%AC%E8%B4%A8%E5%B7%AE%E8%B7%9D%E5%9C%A8%E5%93%AA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时58分 ~ 16时27分]"
+          "time_info": "[18时57分 ~ 18时58分]"
         },
         {
           "title": "AI算力需求持续爆发，工业富联Q1营收同比增长57%，净利润增长103%｜财报见闻",
@@ -257,6 +283,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时57分 ~ 10时58分]"
+        },
+        {
+          "title": "智谱、Minimax即将进入恒生科技和港股通--AI重塑港股的时刻来了",
+          "url": "https://wallstreetcn.com/articles/3771194",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时57分 ~ 18时58分]"
         },
         {
           "title": "如何评价 DeepSeek V4 降价的事？",
@@ -281,6 +318,17 @@
           "time_info": "[10时57分 ~ 10时58分]"
         },
         {
+          "title": "澎湃AI晚新闻丨2026年4月28日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33072106",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时57分 ~ 18时58分]"
+        },
+        {
           "title": "DeepSeekV4Pro优惠延期",
           "url": "https://search.bilibili.com/all?keyword=DeepSeekV4Pro%E4%BC%98%E6%83%A0%E5%BB%B6%E6%9C%9F",
           "source": "bilibili 热搜",
@@ -292,24 +340,13 @@
           "time_info": "[10时57分 ~ 10时58分]"
         },
         {
-          "title": "6家券商抢先部署DeepSeek V4，2小时接入、24小时上线，新一轮竞速开始",
-          "url": "https://www.cls.cn/detail/2359433",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        },
-        {
           "title": "马斯克称奥尔特曼是“小偷”，OpenAI反驳",
           "url": "https://news.ifeng.com/c/8sifWoWmOAa",
           "source": "凤凰网",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -595,7 +632,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
