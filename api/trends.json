@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T21:22:41.841764+08:00",
-  "total_titles_processed": 1396,
+  "generated_at": "2026-05-01T22:58:01.874083+08:00",
+  "total_titles_processed": 1539,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "DeepSeek破底价,友商瑟瑟发抖",
@@ -17,11 +17,12 @@
             7,
             9,
             11,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时23分 ~ 21时22分]"
+          "appearance_count": 18,
+          "time_info": "[01时23分 ~ 22时58分]"
         },
         {
           "title": "AI古代铠甲勇士完结篇",
@@ -30,11 +31,12 @@
           "ranks": [
             2,
             16,
-            18
+            18,
+            30
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时31分 ~ 21时22分]"
+          "appearance_count": 11,
+          "time_info": "[11时31分 ~ 22时58分]"
         },
         {
           "title": "时代杂志评选2026年十大最具影响力AI公司 字节、阿里、智谱上榜",
@@ -48,8 +50,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时55分 ~ 21时22分]"
+          "appearance_count": 13,
+          "time_info": "[06时55分 ~ 22时58分]"
         },
         {
           "title": "云计算三巨头验证AI商业化前景 日元汇率剧烈波动 | 今夜看点",
@@ -74,11 +76,12 @@
             25,
             27,
             28,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时23分 ~ 21时22分]"
+          "appearance_count": 18,
+          "time_info": "[01时23分 ~ 22时58分]"
         },
         {
           "title": "从硅谷视角看DeepSeekV4",
@@ -247,6 +250,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时55分 ~ 07时55分]"
+        },
+        {
+          "title": "谷歌、卡特彼勒成“大赢家”，AI和财报压倒战争，4月的美股创2020年以来最强",
+          "url": "https://wallstreetcn.com/articles/3771451",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时57分 ~ 22时58分]"
         },
         {
           "title": "OpenAI 被曝联手联发科、高通开发手机芯片，高通涨逾 10%，这对 AI 手机市场来说意味着什么？",
@@ -420,7 +434,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时22分"
         },
@@ -442,7 +456,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时22分"
         },
@@ -453,7 +467,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时22分"
         }
