@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T11:32:11.766367+08:00",
-  "total_titles_processed": 798,
+  "generated_at": "2026-05-01T14:39:07.838221+08:00",
+  "total_titles_processed": 962,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 30,
+      "match_count": 33,
       "titles": [
         {
           "title": "DeepSeek破底价,友商瑟瑟发抖",
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             2,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时23分 ~ 11时32分]"
+          "appearance_count": 11,
+          "time_info": "[01时23分 ~ 14时39分]"
         },
         {
           "title": "云计算三巨头验证AI商业化前景 日元汇率剧烈波动 | 今夜看点",
@@ -26,11 +27,25 @@
           "ranks": [
             8,
             10,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时23分 ~ 11时32分]"
+          "appearance_count": 11,
+          "time_info": "[01时23分 ~ 14时39分]"
+        },
+        {
+          "title": "AI魔改黑袍,星光姐被玩坏",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353890&amp;topic_name=AI%E9%AD%94%E6%94%B9%E9%BB%91%E8%A2%8D%2C%E6%98%9F%E5%85%89%E5%A7%90%E8%A2%AB%E7%8E%A9%E5%9D%8F",
+          "source": "贴吧",
+          "ranks": [
+            20,
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时23分 ~ 14时39分]"
         },
         {
           "title": "从硅谷视角看DeepSeekV4",
@@ -39,18 +54,6 @@
           "ranks": [
             11,
             12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时23分 ~ 11时32分]"
-        },
-        {
-          "title": "AI魔改黑袍,星光姐被玩坏",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353890&amp;topic_name=AI%E9%AD%94%E6%94%B9%E9%BB%91%E8%A2%8D%2C%E6%98%9F%E5%85%89%E5%A7%90%E8%A2%AB%E7%8E%A9%E5%9D%8F",
-          "source": "贴吧",
-          "ranks": [
-            20,
-            25
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -82,15 +85,40 @@
           "time_info": "[01时23分 ~ 07时55分]"
         },
         {
+          "title": "美议员邀中国科学家给AI“设卡”，美国舆论炸锅",
+          "url": "https://news.ifeng.com/c/8slj4BER3rc",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时38分 ~ 14时39分]"
+        },
+        {
           "title": "AI古代铠甲勇士完结篇",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%A4%E4%BB%A3%E9%93%A0%E7%94%B2%E5%8B%87%E5%A3%AB%E5%AE%8C%E7%BB%93%E7%AF%87",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 11时32分]"
+          "appearance_count": 4,
+          "time_info": "[11时31分 ~ 14时39分]"
+        },
+        {
+          "title": "时代杂志评选2026年十大最具影响力AI公司 字节、阿里、智谱上榜",
+          "url": "https://www.cls.cn/detail/2361533",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时55分 ~ 14时39分]"
         },
         {
           "title": "深圳14岁男孩用AI备考押中奥赛题",
@@ -155,19 +183,6 @@
           "time_info": "[05时03分 ~ 06时55分]"
         },
         {
-          "title": "时代杂志评选2026年十大最具影响力AI公司 字节、阿里、智谱上榜",
-          "url": "https://www.cls.cn/detail/2361533",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时55分 ~ 11时32分]"
-        },
-        {
           "title": "人民日报：不能让AI生成内容误导公众",
           "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BC%9A%E4%B8%8D%E8%83%BD%E8%AE%A9AI%E7%94%9F%E6%88%90%E5%86%85%E5%AE%B9%E8%AF%AF%E5%AF%BC%E5%85%AC%E4%BC%97",
           "source": "百度热搜",
@@ -177,6 +192,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时31分 ~ 11时32分]"
+        },
+        {
+          "title": "DeepSeek多模态正式发布",
+          "url": "https://www.douyin.com/hot/2485029",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时38分 ~ 14时39分]"
+        },
+        {
+          "title": "女子被AI误导闯入响尾蛇窝",
+          "url": "https://www.toutiao.com/trending/7634484856417468470/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时38分 ~ 14时39分]"
         },
         {
           "title": "扎克伯格：销售放缓归咎于战争，裁员则因AI成本",
@@ -274,7 +311,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         },
@@ -351,7 +388,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         }
