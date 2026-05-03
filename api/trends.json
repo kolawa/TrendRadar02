@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T22:52:24.654548+08:00",
-  "total_titles_processed": 1295,
+  "generated_at": "2026-05-03T23:50:38.341628+08:00",
+  "total_titles_processed": 1349,
   "failed_sources": [],
   "trends": [
     {
@@ -18,35 +18,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时51分 ~ 22时52分]"
-        },
-        {
-          "title": "云南的水果像极了AI生成的",
-          "url": "https://www.douyin.com/hot/2486796",
-          "source": "抖音",
-          "ranks": [
-            4,
-            5,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时59分 ~ 22时52分]"
-        },
-        {
-          "title": "“AI铲子”统治市场，下一个赢家是谁？高盛和SemiAnalysis激辩“核心分歧”",
-          "url": "https://wallstreetcn.com/articles/3771504",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时11分 ~ 22时52分]"
+          "appearance_count": 28,
+          "time_info": "[00时51分 ~ 23时50分]"
         },
         {
           "title": "湖南广电 AI播新闻",
@@ -59,8 +32,59 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时48分 ~ 22时52分]"
+          "appearance_count": 10,
+          "time_info": "[16时48分 ~ 23时50分]"
+        },
+        {
+          "title": "云南的水果像极了AI生成的",
+          "url": "https://www.douyin.com/hot/2486796",
+          "source": "抖音",
+          "ranks": [
+            4,
+            5,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[10时59分 ~ 23时50分]"
+        },
+        {
+          "title": "35 岁男子收到岗位被 AI 取代通知，拒绝大幅降薪后被单位开除，法院判处公司支付赔偿金，怎样解读？",
+          "url": "https://www.zhihu.com/question/2034241896516510290",
+          "source": "知乎",
+          "ranks": [
+            12,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[18时06分 ~ 23时50分]"
+        },
+        {
+          "title": "“AI铲子”统治市场，下一个赢家是谁？高盛和SemiAnalysis激辩“核心分歧”",
+          "url": "https://wallstreetcn.com/articles/3771504",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[14时11分 ~ 23时50分]"
+        },
+        {
+          "title": "高盛合伙人：“AI叙事”统治市场，但别忘记“云大厂已将100%现金流用于资本开支”",
+          "url": "https://wallstreetcn.com/articles/3771503",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时48分 ~ 23时50分]"
         },
         {
           "title": "专访｜赵又廷：别让AI取代我就行",
@@ -73,6 +97,18 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时51分 ~ 11时00分]"
+        },
+        {
+          "title": "两年前质疑“AI花太多、赚太少”，高盛研究主管承认“看错了”，但“铲子已被充分定价，现在看多云”",
+          "url": "https://wallstreetcn.com/articles/3771505",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时48分 ~ 23时50分]"
         },
         {
           "title": "“我真是个傻瓜”，马斯克大战OpenAI索赔1500亿美元",
@@ -97,24 +133,12 @@
             18,
             19,
             20,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时51分 ~ 22时52分]"
-        },
-        {
-          "title": "35 岁男子收到岗位被 AI 取代通知，拒绝大幅降薪后被单位开除，法院判处公司支付赔偿金，怎样解读？",
-          "url": "https://www.zhihu.com/question/2034241896516510290",
-          "source": "知乎",
-          "ranks": [
-            12,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时06分 ~ 22时52分]"
+          "appearance_count": 28,
+          "time_info": "[00时51分 ~ 23时50分]"
         },
         {
           "title": "如何看待 deepseek v4 pro2.5 折特价延长到 5 月 31 日？",
@@ -191,27 +215,18 @@
           "time_info": "[00时52分 ~ 07时46分]"
         },
         {
-          "title": "高盛合伙人：“AI叙事”统治市场，但别忘记“云大厂已将100%现金流用于资本开支”",
-          "url": "https://wallstreetcn.com/articles/3771503",
-          "source": "华尔街见闻",
+          "title": "和AI玩猜历史人物游戏",
+          "url": "https://search.bilibili.com/all?keyword=%E5%92%8CAI%E7%8E%A9%E7%8C%9C%E5%8E%86%E5%8F%B2%E4%BA%BA%E7%89%A9%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
           "ranks": [
-            7
+            4,
+            25,
+            21,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时48分 ~ 22时52分]"
-        },
-        {
-          "title": "两年前质疑“AI花太多、赚太少”，高盛研究主管承认“看错了”，但“铲子已被充分定价，现在看多云”",
-          "url": "https://wallstreetcn.com/articles/3771505",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时48分 ~ 22时52分]"
+          "appearance_count": 7,
+          "time_info": "[19时44分 ~ 23时50分]"
         },
         {
           "title": "伯克希尔拒绝跟风押注AI，CEO延续巴菲特一贯的投资哲学",
@@ -258,17 +273,15 @@
           "time_info": "[00时52分 ~ 07时46分]"
         },
         {
-          "title": "和AI玩猜历史人物游戏",
-          "url": "https://search.bilibili.com/all?keyword=%E5%92%8CAI%E7%8E%A9%E7%8C%9C%E5%8E%86%E5%8F%B2%E4%BA%BA%E7%89%A9%E6%B8%B8%E6%88%8F",
-          "source": "bilibili 热搜",
+          "title": "美国财长贝森特：特朗普应该因英特尔投资获利而受到表扬。 人们应该担心人工智能可能对银行进行黑客攻击。",
+          "url": "https://wallstreetcn.com/livenews/3098298",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            25,
-            21
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时44分 ~ 22时52分]"
+          "appearance_count": 2,
+          "time_info": "[22时52分 ~ 23时50分]"
         },
         {
           "title": "美联储古尔斯比：尽管各界热议人工智能中心建设，但真正拉动经济的仍是消费者需求。 ​​​",
@@ -283,17 +296,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时02分 ~ 07时46分]"
-        },
-        {
-          "title": "美国财长贝森特：特朗普应该因英特尔投资获利而受到表扬。 人们应该担心人工智能可能对银行进行黑客攻击。",
-          "url": "https://wallstreetcn.com/livenews/3098298",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时52分"
         },
         {
           "title": "DeepSeek员工为何不加班",
@@ -346,6 +348,18 @@
           "time_info": "[07时45分 ~ 11时00分]"
         },
         {
+          "title": "博主：美军早就开始用AI进行实战了",
+          "url": "https://www.toutiao.com/trending/7635578022698946102/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时51分 ~ 23时50分]"
+        },
+        {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850519&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/VtW9z1ztEzuPtatCWeS0x.jpg/lite\" height=\"120\"/></a>",
           "url": "https://flash.jin10.com/detail/20260503120602300800",
           "source": "金十数据",
@@ -379,17 +393,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时59分 ~ 11时00分]"
-        },
-        {
-          "title": "博主：美军早就开始用AI进行实战了",
-          "url": "https://www.toutiao.com/trending/7635578022698946102/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时51分 ~ 22时52分]"
         },
         {
           "title": "AI驱动电力需求爆发 伯克希尔能源业务迎增长窗口",
