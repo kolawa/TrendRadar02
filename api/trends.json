@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T17:24:18.091641+08:00",
-  "total_titles_processed": 1209,
+  "generated_at": "2026-05-08T19:18:38.358744+08:00",
+  "total_titles_processed": 1350,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 34,
+      "match_count": 38,
       "titles": [
         {
           "title": "“人工智能+”走向智能经济新形态",
@@ -29,8 +29,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时25分 ~ 17时24分]"
+          "appearance_count": 14,
+          "time_info": "[02时25分 ~ 19时18分]"
         },
         {
           "title": "三角洲如何忽悠AI送礼",
@@ -60,6 +60,19 @@
           "time_info": "[00时52分 ~ 04时16分]"
         },
         {
+          "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时58分 ~ 19时18分]"
+        },
+        {
           "title": "美股收盘：三大指数集体收跌 AI应用和软件板块逆势走强",
           "url": "https://www.cls.cn/detail/2365503",
           "source": "财联社热门",
@@ -82,19 +95,6 @@
           "time_info": "[10时58分 ~ 10时59分]"
         },
         {
-          "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            15,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时58分 ~ 17时24分]"
-        },
-        {
           "title": "美媒披露：有美国组织高价雇网红抹黑中国AI产业，相关资金来自美AI巨头",
           "url": "https://wallstreetcn.com/livenews/3100252",
           "source": "华尔街见闻-快讯",
@@ -104,6 +104,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
+        },
+        {
+          "title": "SK 海力士因 AI 热潮发数百万元人均奖金，三星员工因待遇落差拟罢工，如何评价？反映了怎样的行业现状？",
+          "url": "https://www.zhihu.com/question/2035827414475993469",
+          "source": "知乎",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时23分 ~ 19时18分]"
         },
         {
           "title": "AI四小龙估值破万亿",
@@ -116,6 +128,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时34分 ~ 15时45分]"
+        },
+        {
+          "title": "华尔街“传奇大佬”都铎琼斯：AI牛市“还能再持续一两年”，沃什“绝不可能”让美联储降息",
+          "url": "https://wallstreetcn.com/articles/3771771",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时23分 ~ 19时18分]"
+        },
+        {
+          "title": "券商All in AI要多大财力？IT投入实力较量最新排行榜",
+          "url": "https://www.cls.cn/detail/2365785",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时23分 ~ 19时18分]"
         },
         {
           "title": "知名爆料人：苹果首款AI视觉TWS设备已进入开发后期阶段",
@@ -152,39 +187,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时34分 ~ 15时45分]"
-        },
-        {
-          "title": "华尔街“传奇大佬”都铎琼斯：AI牛市“还能再持续一两年”，沃什“绝不可能”让美联储降息",
-          "url": "https://wallstreetcn.com/articles/3771771",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时23分 ~ 17时24分]"
-        },
-        {
-          "title": "券商All in AI要多大财力？IT投入实力较量最新排行榜",
-          "url": "https://www.cls.cn/detail/2365785",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时23分 ~ 17时24分]"
-        },
-        {
-          "title": "SK 海力士因 AI 热潮发数百万元人均奖金，三星员工因待遇落差拟罢工，如何评价？反映了怎样的行业现状？",
-          "url": "https://www.zhihu.com/question/2035827414475993469",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时23分 ~ 17时24分]"
         },
         {
           "title": "GAI专辑先行曲星梦",
@@ -308,6 +310,17 @@
           "time_info": "04时16分"
         },
         {
+          "title": "大普微：受AI商业化节奏、云计算投入及下游应用景气度变化影响，AI带动的企业级SSD存储需求发展存在一定的波动和不确定性。",
+          "url": "https://wallstreetcn.com/livenews/3100649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
           "title": "Anthropic 与 SpaceX 达成算力与太空开发合作，AI 巨头开始抱团，对此你怎么看？",
           "url": "https://www.zhihu.com/question/2035645446962549472",
           "source": "知乎",
@@ -347,9 +360,31 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
+        },
+        {
+          "title": "DeepSeek网页及API相关服务已恢复",
+          "url": "https://wallstreetcn.com/livenews/3100642",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
+          "title": "南威软件：公司智算运营相关的AI工具仍处于测试阶段，尚未正式发版",
+          "url": "https://flash.jin10.com/detail/20260508182018476800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         },
         {
           "title": "四部门：到2030年，人工智能算力设施的清洁能源供给保障能力和能源领域人工智能应用水平大幅提升",
@@ -358,7 +393,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
         },
@@ -372,6 +407,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
+        },
+        {
+          "title": "三部门：引导国内人工智能开源社区加强智能体布局，开展智能体与开源芯片、开源操作系统、开源大模型兼容适配",
+          "url": "https://flash.jin10.com/detail/20260508181508907800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         },
         {
           "title": "DeepSeek估值450亿美元",
