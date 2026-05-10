@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-11T06:51:58.138143+08:00",
-  "total_titles_processed": 522,
+  "generated_at": "2026-05-11T07:55:04.614296+08:00",
+  "total_titles_processed": 589,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时58分 ~ 06时51分]"
+          "appearance_count": 12,
+          "time_info": "[00时58分 ~ 07时55分]"
         },
         {
           "title": "美联储高官：如果AI成了，那会加息；如果AI败了，那会滞胀",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时58分 ~ 06时51分]"
+          "appearance_count": 12,
+          "time_info": "[00时58分 ~ 07时55分]"
         },
         {
           "title": "DeepSeek 大范围开放识图模式，你能用了吗？体验感如何？",
@@ -37,11 +37,12 @@
           "ranks": [
             7,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时58分 ~ 06时51分]"
+          "appearance_count": 12,
+          "time_info": "[00时58分 ~ 07时55分]"
         },
         {
           "title": "AI时代如何评价各专业",
@@ -50,11 +51,12 @@
           "ranks": [
             6,
             9,
-            10
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时58分 ~ 06时51分]"
+          "appearance_count": 12,
+          "time_info": "[00时58分 ~ 07时55分]"
         },
         {
           "title": "妈妈的AI在岁月里具象",
@@ -75,11 +77,12 @@
           "url": "https://www.cls.cn/detail/2367107",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时58分 ~ 06时51分]"
+          "appearance_count": 12,
+          "time_info": "[00时58分 ~ 07时55分]"
         },
         {
           "title": "周末要闻汇总：DeepSeek据悉拟募资最高500亿元人民币；证监会查处2起财务造假案件",
@@ -87,11 +90,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时58分 ~ 06时51分]"
+          "appearance_count": 12,
+          "time_info": "[00时58分 ~ 07时55分]"
         },
         {
           "title": "GAI新歌太费口红",
@@ -103,11 +107,12 @@
             14,
             17,
             18,
-            19
+            19,
+            15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时58分 ~ 06时51分]"
+          "appearance_count": 12,
+          "time_info": "[00时58分 ~ 07时55分]"
         },
         {
           "title": "DeepSeek睁眼,开放识图模式",
@@ -118,8 +123,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时58分 ~ 06时51分]"
+          "appearance_count": 12,
+          "time_info": "[00时58分 ~ 07时55分]"
         },
         {
           "title": "南京大学校长谈AI教育悖论：把开放的课程装进了旧框架，形成“马车拉蒸汽机”",
@@ -140,11 +145,12 @@
           "ranks": [
             28,
             20,
-            22
+            22,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 03时07分]"
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 07时55分]"
         },
         {
           "title": "Kimi与DeepSeek到底谁更值钱",
@@ -198,7 +204,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时51分"
         },
