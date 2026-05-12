@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-12T12:02:40.259514+08:00",
-  "total_titles_processed": 821,
+  "generated_at": "2026-05-12T14:45:22.234464+08:00",
+  "total_titles_processed": 966,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "把AI用到了最有意义的场合",
@@ -19,8 +19,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时26分 ~ 12时02分]"
+          "appearance_count": 13,
+          "time_info": "[01时26分 ~ 14时45分]"
         },
         {
           "title": "AI时代如何评价各专业",
@@ -33,11 +33,12 @@
             24,
             25,
             18,
-            17
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时26分 ~ 12时02分]"
+          "appearance_count": 13,
+          "time_info": "[01时26分 ~ 14时45分]"
         },
         {
           "title": "AI原创短片国产爱死机",
@@ -54,8 +55,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时26分 ~ 12时02分]"
+          "appearance_count": 13,
+          "time_info": "[01时26分 ~ 14时45分]"
         },
         {
           "title": "论文严查AI使用率是否合理",
@@ -65,11 +66,12 @@
             22,
             29,
             26,
-            21
+            21,
+            18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时26分 ~ 08时01分]"
+          "appearance_count": 11,
+          "time_info": "[01时26分 ~ 14时45分]"
         },
         {
           "title": "韩国政策高层：AI产业的超额利润应返还全民，提议设立“公民红利”",
@@ -79,8 +81,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时02分]"
+          "appearance_count": 4,
+          "time_info": "[12时01分 ~ 14时45分]"
         },
         {
           "title": "【每日收评】沪指涨超1%站上4200点，两市成交额突破3.5万亿，半导体、AI硬件持续爆发",
@@ -100,9 +102,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
+        },
+        {
+          "title": "从加法到减法：人工智能时代最难的，不是创新，而是割舍",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33149674",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时01分 ~ 14时45分]"
         },
         {
           "title": "AI正把韩国推成全球最疯狂牛市",
@@ -117,6 +131,28 @@
           "time_info": "[03时50分 ~ 08时01分]"
         },
         {
+          "title": "“全民分红”来临？韩国政策高层提议将AI超额利润回馈给全体公民",
+          "url": "https://www.cls.cn/detail/2368705",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时44分 ~ 14时45分]"
+        },
+        {
+          "title": "贾跃亭出任 FF 全球 CEO，公司将升为物理 AI 生态公司，这是什么概念，市场为何愿意不断为其梦想买单？",
+          "url": "https://www.zhihu.com/question/2037128887558207003",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时44分 ~ 14时45分]"
+        },
+        {
           "title": "周一（5月11日），美股人工智能（AI）赢家指数涨1.97%，报400.80点，成分股Lumentum涨16.52%，高意公司Coherent涨13.25%，康宁公司涨10.94%涨幅第三大，戴尔、超微电脑领跌。 AI软件先驱指数跌0.75%，报105.26点，成分股C3.ai收跌3.95%，Datadog则涨1.08%。",
           "url": "https://wallstreetcn.com/livenews/3101858",
           "source": "华尔街见闻-快讯",
@@ -129,15 +165,15 @@
           "time_info": "[05时20分 ~ 06时57分]"
         },
         {
-          "title": "从加法到减法：人工智能时代最难的，不是创新，而是割舍",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33149674",
-          "source": "澎湃新闻",
+          "title": "国产AI爱死机到底怎么做出来的",
+          "url": "https://www.douyin.com/hot/2495617",
+          "source": "抖音",
           "ranks": [
-            19
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时02分]"
+          "time_info": "[14时44分 ~ 14时45分]"
         },
         {
           "title": "CORTIS新歌ACAI的MV来了",
@@ -190,7 +226,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -201,7 +237,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -234,7 +270,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -245,7 +281,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -256,7 +292,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -267,7 +303,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -289,7 +325,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -300,7 +336,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         }
