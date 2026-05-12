@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-13T03:55:52.264274+08:00",
-  "total_titles_processed": 391,
+  "generated_at": "2026-05-13T05:23:00.984014+08:00",
+  "total_titles_processed": 453,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时22分 ~ 03时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时22分 ~ 05时23分]"
         },
         {
           "title": "从加法到减法：人工智能时代最难的，不是创新，而是割舍",
@@ -26,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时22分 ~ 03时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时22分 ~ 05时23分]"
         },
         {
           "title": "原油、AI芯片、房租“三连击”，今晚美国CPI恐“热辣滚烫”",
@@ -38,8 +38,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时22分 ~ 03时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时22分 ~ 05时23分]"
         },
         {
           "title": "这轮AI行情是“泡沫”还是“新起点”？多家卖方最新研判",
@@ -49,8 +49,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时22分 ~ 03时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时22分 ~ 05时23分]"
         },
         {
           "title": "论文严查AI使用率是否合理",
@@ -58,11 +58,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             16,
-            21
+            21,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时22分 ~ 03时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时22分 ~ 05时23分]"
         },
         {
           "title": "AI原创短片国产爱死机",
@@ -73,8 +74,19 @@
             16
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时22分 ~ 05时23分]"
+        },
+        {
+          "title": "Ai 时代，现在还有人在坚持古法编程吗？",
+          "url": "https://www.zhihu.com/question/2031495233876251385",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时22分 ~ 03时55分]"
+          "time_info": "[03时55分 ~ 05时23分]"
         },
         {
           "title": "汤森路透（Thomson Reuters）一度跌超过5%，该公司正将Anthropic的Claude整合至其人工智能法律工具CoCounsel Legal中。",
@@ -83,7 +95,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时55分"
         },
@@ -94,18 +106,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时55分"
-        },
-        {
-          "title": "Ai 时代，现在还有人在坚持古法编程吗？",
-          "url": "https://www.zhihu.com/question/2031495233876251385",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时55分"
         },
@@ -116,7 +117,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时55分"
         },
@@ -127,7 +128,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时55分"
         },
@@ -138,7 +139,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时55分"
         }
