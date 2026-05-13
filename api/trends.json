@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-13T20:06:54.180833+08:00",
-  "total_titles_processed": 1277,
+  "generated_at": "2026-05-13T23:47:28.000113+08:00",
+  "total_titles_processed": 1446,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 47,
+      "match_count": 63,
       "titles": [
         {
           "title": "韩国政策高层：AI产业的超额利润应返还全民，提议设立“公民红利”",
@@ -94,6 +94,19 @@
           "time_info": "[01时22分 ~ 07时04分]"
         },
         {
+          "title": "AI续写轻音少女第三季",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%BB%AD%E5%86%99%E8%BD%BB%E9%9F%B3%E5%B0%91%E5%A5%B3%E7%AC%AC%E4%B8%89%E5%AD%A3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            22,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时46分 ~ 23时47分]"
+        },
+        {
           "title": "功率半导体密集涨价！AI数据中心成最大推手 业内预计供需紧张短期难解",
           "url": "https://www.cls.cn/detail/2369925",
           "source": "财联社热门",
@@ -106,16 +119,15 @@
           "time_info": "[14时55分 ~ 20时06分]"
         },
         {
-          "title": "AI续写轻音少女第三季",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%BB%AD%E5%86%99%E8%BD%BB%E9%9F%B3%E5%B0%91%E5%A5%B3%E7%AC%AC%E4%B8%89%E5%AD%A3",
-          "source": "bilibili 热搜",
+          "title": "马化腾回应AI掉队",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%8C%96%E8%85%BE%E5%9B%9E%E5%BA%94AI%E6%8E%89%E9%98%9F%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
           "ranks": [
-            2,
-            22
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时46分 ~ 20时06分]"
+          "appearance_count": 2,
+          "time_info": "[23时46分 ~ 23时47分]"
         },
         {
           "title": "封神2特效 不如AI",
@@ -139,6 +151,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时47分"
+        },
+        {
+          "title": "高校硬查AI率,复旦教授怒了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354246&amp;topic_name=%E9%AB%98%E6%A0%A1%E7%A1%AC%E6%9F%A5AI%E7%8E%87%2C%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%E6%80%92%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时46分 ~ 23时47分]"
         },
         {
           "title": "DeepSeek-TUI 霸榜 GitHub，小白不到 10 元开发应用，将带来哪些影响？",
@@ -165,16 +189,16 @@
           "time_info": "[11时32分 ~ 14时55分]"
         },
         {
-          "title": "高校硬查AI率,复旦教授怒了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354246&amp;topic_name=%E9%AB%98%E6%A0%A1%E7%A1%AC%E6%9F%A5AI%E7%8E%87%2C%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%E6%80%92%E4%BA%86",
-          "source": "贴吧",
+          "title": "阿里巴巴Q1营收小幅增长，云收入同比增长38%，首次披露AI产品收入规模 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3772187",
+          "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时46分 ~ 20时06分]"
+          "time_info": "[20时06分 ~ 23时47分]"
         },
         {
           "title": "韩国AI红利：闪崩之后，悬念才刚开始",
@@ -186,6 +210,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时32分 ~ 14时55分]"
+        },
+        {
+          "title": "马化腾：1年前以为上了AI的船结果发现漏水，现在站上去但坐不下",
+          "url": "https://tech.ifeng.com/c/8t5w0wxVfbb",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时06分 ~ 23时47分]"
         },
         {
           "title": "贾跃亭出任 FF 全球 CEO，公司将升为物理 AI 生态公司，这是什么概念，市场为何愿意不断为其梦想买单？",
@@ -223,6 +258,17 @@
           "time_info": "[03时55分 ~ 05时23分]"
         },
         {
+          "title": "阿里电话会：AI ARR年底超过300亿元，服务器“没有一张卡是闲置的” ，资本支出将超过3800亿元",
+          "url": "https://wallstreetcn.com/articles/3772197",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时46分 ~ 23时47分]"
+        },
+        {
           "title": "Create2026百度AI开发者大会",
           "url": "https://www.baidu.com/s?wd=Create2026%E7%99%BE%E5%BA%A6AI%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E4%BC%9A",
           "source": "百度热搜",
@@ -232,6 +278,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时32分 ~ 11时33分]"
+        },
+        {
+          "title": "马化腾：一年前以为上了AI的船结果发现漏水了，现在站上去但还坐不下去",
+          "url": "https://wallstreetcn.com/articles/3772184",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时46分 ~ 23时47分]"
         },
         {
           "title": "AI世界的“原油期货”要来了：芝商所官宣将推出算力期货市场",
@@ -245,15 +302,48 @@
           "time_info": "[11时32分 ~ 11时33分]"
         },
         {
+          "title": "AI假扮女儿打电话：妈妈开门",
+          "url": "https://www.baidu.com/s?wd=AI%E5%81%87%E6%89%AE%E5%A5%B3%E5%84%BF%E6%89%93%E7%94%B5%E8%AF%9D%EF%BC%9A%E5%A6%88%E5%A6%88%E5%BC%80%E9%97%A8",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时46分 ~ 23时47分]"
+        },
+        {
           "title": "OpenAI合作传闻四起，联发科回应：在看大模型合作新机会",
           "url": "https://flash.jin10.com/detail/20260513192439649800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时06分"
+        },
+        {
+          "title": "金十提示：加拿大央行外部副行长亚历克斯波洛斯在渥太华发表关于人工智能和生产力的演讲。",
+          "url": "https://flash.jin10.com/detail/20260513230820580800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
+          "title": "加拿大央行：人工智能应用仍处于早期阶段。",
+          "url": "https://flash.jin10.com/detail/20260513230659223800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
         },
         {
           "title": "阿里巴巴CEO：预计约一年后，AI相关收入将突破50%，成为推动云收入增长的主要引擎。 公司正在看到AI模型及应用服务收入实现“指数级增长”，这一增长由基础模型服务和AI原生软件共同驱动。 模型服务平台上的Token消耗量环比大幅增长。 代理工作负载激增，显著提升了围绕CPU存储和容器构建的传统云产品需求。 我们的技术投入正开始带来商业回报。 我们目前的（AI）供给能力无法完全满足不断增长的需求。",
@@ -262,20 +352,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时06分"
         },
         {
-          "title": "阿里巴巴Q1营收小幅增长，云收入同比增长38%，首次披露AI产品收入规模 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3772187",
-          "source": "华尔街见闻",
+          "title": "加拿大央行：广泛使用人工智能可能会提高生产力，从而导致工资上涨、成本节约，并减轻通胀压力。",
+          "url": "https://flash.jin10.com/detail/20260513230647188800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时06分"
+          "time_info": "23时47分"
         },
         {
           "title": "AI转型加速，腾讯Q1营收同比增9%，净利润大增21%，资本开支达370亿元｜财报见闻",
@@ -284,9 +374,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时06分"
+        },
+        {
+          "title": "加拿大央行：预计部分职位将被人工智能取代，正密切关注就业市场数据以寻找变化迹象。",
+          "url": "https://flash.jin10.com/detail/20260513230636813800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
         },
         {
           "title": "吴泳铭：阿里AI跨越初期投入阶段，正式迈入商业化回报周期",
@@ -295,20 +396,42 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时06分"
         },
         {
-          "title": "马化腾：1年前以为上了AI的船结果发现漏水，现在站上去但坐不下",
-          "url": "https://tech.ifeng.com/c/8t5w0wxVfbb",
-          "source": "凤凰网",
+          "title": "加拿大央行：金融服务和医疗保健行业正在利用人工智能处理日常任务。",
+          "url": "https://flash.jin10.com/detail/20260513230612766800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时06分"
+          "time_info": "23时47分"
+        },
+        {
+          "title": "加拿大央行：人工智能有潜力提升生产力和生活水平。",
+          "url": "https://flash.jin10.com/detail/20260513230548253800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
+          "title": "加拿大央行：人工智能并未导致加拿大出现大规模失业。",
+          "url": "https://flash.jin10.com/detail/20260513230541161800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
         },
         {
           "title": "脉脉：2026年1-4月AI岗位增长8.7倍",
@@ -317,9 +440,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时06分"
+        },
+        {
+          "title": "加拿大央行：大约12%的加拿大企业使用人工智能，行业间差异明显。",
+          "url": "https://flash.jin10.com/detail/20260513230534577800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
         },
         {
           "title": "报道：AI芯片制造商Cerebras的IPO发行价将高于160美元",
@@ -333,6 +467,17 @@
           "time_info": "07时04分"
         },
         {
+          "title": "加拿大央行：人工智能可能会改变人们的工作方式，但不会导致工作岗位减少。",
+          "url": "https://flash.jin10.com/detail/20260513230530217800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
           "title": "据日经新闻：美国芯片巨头德州仪器(TXN.O)的一位高管表示，该公司正在扩大其全球制造规模，包括在日本和马来西亚，以增加其“基础”半导体的内部生产，从而支持蓬勃发展的人工智能基础设施市场。",
           "url": "https://flash.jin10.com/detail/20260513104350538800",
           "source": "金十数据",
@@ -342,6 +487,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
+        },
+        {
+          "title": "加拿大央行：人工智能带来小幅生产率提升的迹象正在显现。",
+          "url": "https://flash.jin10.com/detail/20260513230526856800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
         },
         {
           "title": "据The Information：Anthropic正在与开发工具初创公司Stainless进行深入洽谈，收购金额至少为3亿美元。",
@@ -383,9 +539,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时06分"
+        },
+        {
+          "title": "加拿大央行：大约12%的受访加拿大企业使用人工智能（AI），在各行业的分部并不均衡。 诸多迹象表明，AI正带来生产力的小幅增长。 AI具备提振生产力、提高生活标准的潜力。 AI可能会改变人们的工作，但不会造成就业机会缩水。 AI尚未造成加拿大大规模失业。",
+          "url": "https://wallstreetcn.com/livenews/3103116",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
         },
         {
           "title": "Meta：将为竞争对手的人工智能聊天机器人提供一个月的WhatsApp免费访问权限。",
@@ -460,7 +627,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时06分"
         },
@@ -493,7 +660,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时06分"
         },
@@ -540,6 +707,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时55分"
+        },
+        {
+          "title": "Meta Platforms(META.O)推出与Meta AI的无痕聊天功能。",
+          "url": "https://flash.jin10.com/detail/20260513224717829800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
         }
       ]
     }
