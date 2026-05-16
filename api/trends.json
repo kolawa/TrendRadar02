@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-16T19:53:32.464732+08:00",
-  "total_titles_processed": 1224,
+  "generated_at": "2026-05-16T21:25:30.225914+08:00",
+  "total_titles_processed": 1300,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
@@ -14,11 +14,24 @@
           "ranks": [
             8,
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[06时56分 ~ 19时53分]"
+          "appearance_count": 16,
+          "time_info": "[06时56分 ~ 21时25分]"
+        },
+        {
+          "title": "中国顶流私募Q1调仓揭秘：重仓AI和半导体 中概核心稳中有调",
+          "url": "https://www.cls.cn/detail/2373131",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时04分 ~ 21时25分]"
         },
         {
           "title": "为什么我们总怪父母没抓住房产和互联网红利，可轮到自己面对 AI 时代红利时，也没好好抓住？",
@@ -33,18 +46,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时29分 ~ 10时59分]"
-        },
-        {
-          "title": "中国顶流私募Q1调仓揭秘：重仓AI和半导体 中概核心稳中有调",
-          "url": "https://www.cls.cn/detail/2373131",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时04分 ~ 19时53分]"
         },
         {
           "title": "Deepseek不语 只是一味跟团",
@@ -70,11 +71,12 @@
             14,
             15,
             16,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时29分 ~ 19时53分]"
+          "appearance_count": 21,
+          "time_info": "[01时29分 ~ 21时25分]"
         },
         {
           "title": "全球通胀加剧债市风暴，动摇AI牛市，“现在一切取决于石油”",
@@ -85,8 +87,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时48分 ~ 19时53分]"
+          "appearance_count": 8,
+          "time_info": "[16时48分 ~ 21时25分]"
+        },
+        {
+          "title": "桥头断裂人群四散奔逃？男子用AI恶意造谣“张家界玻璃桥坍塌”被刑拘",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33183822",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时48分 ~ 21时25分]"
         },
         {
           "title": "【美联储：鲍威尔将担任临时主席，直至凯文·沃什宣誓就职】美联储理事会周五在一份声明中表示，已任命杰罗姆·鲍威尔担任临时主席（chair pro tempore），直至其继任者凯文·沃什（Kevin Warsh）正式宣誓就职。 鲍威尔的主席任期于本周五届满。 美联储表示：“任命现任主席担任临时主席的这一临时举措，与以往历届主席更替期间的惯例保持一致。”",
@@ -100,15 +113,17 @@
           "time_info": "05时03分"
         },
         {
-          "title": "桥头断裂人群四散奔逃？男子用AI恶意造谣“张家界玻璃桥坍塌”被刑拘",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33183822",
-          "source": "澎湃新闻",
+          "title": "张凌赫Mai晚宴合照",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%ABMai%E6%99%9A%E5%AE%B4%E5%90%88%E7%85%A7%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
           "ranks": [
-            14
+            16,
+            18,
+            27
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[16时48分 ~ 19时53分]"
+          "time_info": "[18时17分 ~ 21时25分]"
         },
         {
           "title": "周五（5月15日），美股人工智能（AI）赢家指数跌3.07%，报389.89点，本周累跌0.81%，整体呈现出M形走势。 AI软件先驱指数涨1.94%，报105.57点，本周累跌0.45%，整体呈现出V形走势。",
@@ -160,18 +175,6 @@
           "time_info": "[05时03分 ~ 06时57分]"
         },
         {
-          "title": "张凌赫Mai晚宴合照",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%ABMai%E6%99%9A%E5%AE%B4%E5%90%88%E7%85%A7%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时17分 ~ 19时53分]"
-        },
-        {
           "title": "AI热潮催生2026最大IPO！“英伟达挑战者”Cerebras首秀盘中翻倍高涨",
           "url": "https://wallstreetcn.com/articles/3772300",
           "source": "华尔街见闻",
@@ -218,6 +221,30 @@
           "time_info": "[06时56分 ~ 06时57分]"
         },
         {
+          "title": "市场消息：OpenAI与马耳他达成合作，向所有公民提供ChatGPT Plus服务。",
+          "url": "https://flash.jin10.com/detail/20260516184026768800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时53分 ~ 21时25分]"
+        },
+        {
+          "title": "OpenAI与马耳他达成协议，所有马耳他民众都能使用ChatGPT Plus",
+          "url": "https://wallstreetcn.com/livenews/3104794",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时53分 ~ 21时25分]"
+        },
+        {
           "title": "美国总统特朗普：AI是一个了不起的东西。",
           "url": "https://wallstreetcn.com/livenews/3104655",
           "source": "华尔街见闻-快讯",
@@ -239,6 +266,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时58分 ~ 10时59分]"
+        },
+        {
+          "title": "为什么 Deepseek 在输入 <think 后会匹配到疑似其他对话?",
+          "url": "https://www.zhihu.com/question/2038402853274915914",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时24分 ~ 21时25分]"
         },
         {
           "title": "高校生录视频获赞“AI建模脸”出圈",
@@ -273,28 +311,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时17分 ~ 18时18分]"
-        },
-        {
-          "title": "市场消息：OpenAI与马耳他达成合作，向所有公民提供ChatGPT Plus服务。",
-          "url": "https://flash.jin10.com/detail/20260516184026768800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时53分"
-        },
-        {
-          "title": "OpenAI与马耳他达成协议，所有马耳他民众都能使用ChatGPT Plus",
-          "url": "https://wallstreetcn.com/livenews/3104794",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时53分"
         },
         {
           "title": "OpenAI联手Plaid，为大众提供量身定制的财务咨询",
