@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-05-23T01:53:40.850896+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-05-23T03:48:10.465224+08:00",
+  "total_titles_processed": 388,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "如何看待 DeepSeek V4 Pro 模型价格于 5 月 31 日结束 2.5 折优惠，调整为原定价的 1/4？",
           "url": "https://www.zhihu.com/question/2041260640740927118",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时53分"
+          "appearance_count": 3,
+          "time_info": "[01时53分 ~ 03时48分]"
         },
         {
           "title": "AI浪潮提振全球股市，道指新高，量子计算股拉升，老虎证券、富途大跌逾30%，油价涨势暂歇",
@@ -26,19 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时53分"
-        },
-        {
-          "title": "印度成AI时代最大输家了吗",
-          "url": "https://www.toutiao.com/trending/7642712941673844275/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时53分"
+          "appearance_count": 3,
+          "time_info": "[01时53分 ~ 03时48分]"
         },
         {
           "title": "【每日收评】创业板指高开高走涨超2%，PCB等AI硬件全线爆发",
@@ -48,8 +38,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时53分"
+          "appearance_count": 3,
+          "time_info": "[01时53分 ~ 03时48分]"
+        },
+        {
+          "title": "郝哥李广奇回应AI买瓜",
+          "url": "https://search.bilibili.com/all?keyword=%E9%83%9D%E5%93%A5%E6%9D%8E%E5%B9%BF%E5%A5%87%E5%9B%9E%E5%BA%94AI%E4%B9%B0%E7%93%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时53分 ~ 03时48分]"
         },
         {
           "title": "AI还原祖国人注射V1后的战斗力",
@@ -59,19 +61,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时53分"
-        },
-        {
-          "title": "郝哥李广奇回应AI买瓜",
-          "url": "https://search.bilibili.com/all?keyword=%E9%83%9D%E5%93%A5%E6%9D%8E%E5%B9%BF%E5%A5%87%E5%9B%9E%E5%BA%94AI%E4%B9%B0%E7%93%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时53分"
+          "appearance_count": 3,
+          "time_info": "[01时53分 ~ 03时48分]"
         },
         {
           "title": "如何看待达摩院、北大最新 Nature 成果，AI 绘制中国首张高精度风光分布图，这对新能源行业有何价值？",
@@ -79,6 +70,28 @@
           "source": "知乎",
           "ranks": [
             20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时53分 ~ 03时48分]"
+        },
+        {
+          "title": "夏奇拉来批daidai作业啦",
+          "url": "https://www.douyin.com/hot/2508674",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时47分 ~ 03时48分]"
+        },
+        {
+          "title": "印度成AI时代最大输家了吗",
+          "url": "https://www.toutiao.com/trending/7642712941673844275/",
+          "source": "今日头条",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
