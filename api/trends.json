@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-24T06:56:45.832298+08:00",
-  "total_titles_processed": 483,
+  "generated_at": "2026-05-24T08:00:25.584138+08:00",
+  "total_titles_processed": 518,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "deepseek狂降价,友商被卷哭",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时56分]"
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 08时00分]"
         },
         {
           "title": "从“两弹一星”到AI时代，我们如何谈论科学家精神？",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时56分]"
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 08时00分]"
         },
         {
           "title": "DeepSeek宣布：永久降价",
@@ -39,8 +39,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时56分]"
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 08时00分]"
         },
         {
           "title": "SpaceX、OpenAI、Anthropic“超级IPO”扎堆，美银：这是超级泡沫的重演",
@@ -49,11 +49,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时56分]"
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 08时00分]"
         },
         {
           "title": "永久2.5折！DeepSeek宣布V4-Pro模型API降价",
@@ -62,11 +63,12 @@
           "ranks": [
             18,
             15,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时56分]"
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 08时00分]"
         },
         {
           "title": "AI 泡沫还能持续多久？",
@@ -90,8 +92,19 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 06时56分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 08时00分]"
+        },
+        {
+          "title": "摩根大通一线调研：中国AI“赚钱时刻”来了，工作流层的价值开始超越基础模型",
+          "url": "https://wallstreetcn.com/articles/3772976",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时59分 ~ 08时00分]"
         },
         {
           "title": "你觉得 ai 会完全替代人类吗？",
