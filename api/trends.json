@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-25T04:58:37.772726+08:00",
-  "total_titles_processed": 426,
+  "generated_at": "2026-05-25T06:00:47.930041+08:00",
+  "total_titles_processed": 444,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 04时58分]"
-        },
-        {
-          "title": "【早报】国家数据局将把推动词元经济发展纳入工作体系；DeepSeek宣布永久降价",
-          "url": "https://www.cls.cn/detail/2379922",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 04时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 06时00分]"
         },
         {
           "title": "什么情况下，本轮AI大行情会结束？",
@@ -38,8 +27,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 04时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 06时00分]"
+        },
+        {
+          "title": "【早报】国家数据局将把推动词元经济发展纳入工作体系；DeepSeek宣布永久降价",
+          "url": "https://www.cls.cn/detail/2379922",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 06时00分]"
         },
         {
           "title": "梁文锋与DeepSeek的十万亿美元棋盘",
@@ -49,8 +50,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 04时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 06时00分]"
         },
         {
           "title": "deepseek狂降价,友商被卷哭",
@@ -60,8 +61,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 04时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 06时00分]"
         },
         {
           "title": "欧洲央行将呼吁银行业解决因人工智能（AI）而暴露出来的瑕疵。 欧洲央行计划强调Anthropic模型Mythos构成的威胁的严重程度。 欧洲央行将于周二召开银行业会议讨论网络安全事宜。（英国金融时报）",
@@ -72,8 +73,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 04时58分]"
+          "appearance_count": 3,
+          "time_info": "[03时19分 ~ 06时00分]"
         },
         {
           "title": "世界杯主题曲Dai Dai MV正式上线",
