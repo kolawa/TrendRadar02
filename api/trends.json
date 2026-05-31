@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-01T06:02:28.268039+08:00",
-  "total_titles_processed": 455,
+  "generated_at": "2026-06-01T07:14:50.861266+08:00",
+  "total_titles_processed": 518,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "周末要闻汇总：全国首个绿色算力全栈AI平台上线；MiniMax启动A股上市辅导",
@@ -15,19 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时10分 ~ 06时02分]"
-        },
-        {
-          "title": "如何看待 DeepSeek 在 2026.5.29 晚限制修改输入次数？",
-          "url": "https://www.zhihu.com/question/2043802300246915002",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时10分 ~ 06时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时10分 ~ 07时14分]"
         },
         {
           "title": "高盛加入“AI瓶颈交易”：MLCC是新存储，已成AI服务器“第三大成本项”",
@@ -38,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时10分 ~ 06时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时10分 ~ 07时14分]"
         },
         {
           "title": "全国首个绿色算力全栈AI平台上线",
@@ -49,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时10分 ~ 06时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时10分 ~ 07时14分]"
         },
         {
           "title": "当胡彦斌1个月写出APP，AI时代已经扑面而来",
@@ -60,8 +49,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时10分 ~ 06时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时10分 ~ 07时14分]"
+        },
+        {
+          "title": "如何看待 DeepSeek 在 2026.5.29 晚限制修改输入次数？",
+          "url": "https://www.zhihu.com/question/2043802300246915002",
+          "source": "知乎",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时10分 ~ 07时14分]"
         },
         {
           "title": "如何看待哈佛最年轻华人正教授尹希，爆出入职 open AI？",
@@ -70,11 +71,12 @@
           "ranks": [
             12,
             9,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时04分 ~ 06时02分]"
+          "appearance_count": 5,
+          "time_info": "[02时04分 ~ 07时14分]"
         },
         {
           "title": "GitHub不装了，用户炸锅了！AI编程的低价时代结束，从此按token计费",
@@ -85,8 +87,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时10分 ~ 06时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时10分 ~ 07时14分]"
+        },
+        {
+          "title": "黄仁勋预告“PC新时代”：英伟达不想只卖GPU了，开始抢下一代AI PC入口",
+          "url": "https://wallstreetcn.com/articles/3773517",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
         },
         {
           "title": "OpenAI模型推翻80年的数学经典猜想，引发学界震动",
@@ -97,8 +110,21 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时10分 ~ 06时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时10分 ~ 07时14分]"
+        },
+        {
+          "title": "黄仁勋称 AI 时代无需过度纠结「学什么专业」，工作中所需的「人性」部分无法被 AI 取代，如何看待这一观点？",
+          "url": "https://www.zhihu.com/question/2044518201330073873",
+          "source": "知乎",
+          "ranks": [
+            20,
+            16,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时10分 ~ 07时14分]"
         },
         {
           "title": "让小孩学AI是浪费时间吗",
@@ -107,18 +133,6 @@
           "ranks": [
             16,
             30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时10分 ~ 06时02分]"
-        },
-        {
-          "title": "黄仁勋称 AI 时代无需过度纠结「学什么专业」，工作中所需的「人性」部分无法被 AI 取代，如何看待这一观点？",
-          "url": "https://www.zhihu.com/question/2044518201330073873",
-          "source": "知乎",
-          "ranks": [
-            20,
-            16
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -134,6 +148,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时10分"
+        },
+        {
+          "title": "人民日报钟声：推动人工智能成为中美合作的新疆域",
+          "url": "https://flash.jin10.com/detail/20260601062043762800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
         },
         {
           "title": "国泰海通：维持海外AI算力及应用产业链“增持”评级",
