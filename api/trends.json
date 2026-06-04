@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-06-04T16:50:30.951449+08:00",
-  "total_titles_processed": 911,
+  "generated_at": "2026-06-04T19:56:28.547087+08:00",
+  "total_titles_processed": 1088,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 43,
+      "match_count": 45,
       "titles": [
+        {
+          "title": "AI脸泛滥成灾,建模师没活了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354826&amp;topic_name=AI%E8%84%B8%E6%B3%9B%E6%BB%A5%E6%88%90%E7%81%BE%2C%E5%BB%BA%E6%A8%A1%E5%B8%88%E6%B2%A1%E6%B4%BB%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            8,
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[02时45分 ~ 19时56分]"
+        },
         {
           "title": "腾讯云宣布 DeepSeek-V4 系列模型降价，最高降幅达 97.5%，将带来哪些影响？",
           "url": "https://www.zhihu.com/question/2045220633466725057",
@@ -18,19 +32,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时45分 ~ 07时46分]"
-        },
-        {
-          "title": "AI脸泛滥成灾,建模师没活了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354826&amp;topic_name=AI%E8%84%B8%E6%B3%9B%E6%BB%A5%E6%88%90%E7%81%BE%2C%E5%BB%BA%E6%A8%A1%E5%B8%88%E6%B2%A1%E6%B4%BB%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时45分 ~ 16时50分]"
         },
         {
           "title": "达里奥警告：AI热潮已显现典型泡沫特征 最终难逃破裂命运",
@@ -69,6 +70,31 @@
           "time_info": "[12时06分 ~ 16时50分]"
         },
         {
+          "title": "网友称对 AI 脸生理性厌恶，你有同感吗？为什么会出现这种现象？",
+          "url": "https://www.zhihu.com/question/2045546609027408734",
+          "source": "知乎",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时06分 ~ 19时56分]"
+        },
+        {
+          "title": "黄仁勋向全球富豪家族力荐AI：回报“疯狂可观”，还在质疑的人才是“疯子”！",
+          "url": "https://wallstreetcn.com/articles/3773784",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时45分 ~ 19时56分]"
+        },
+        {
           "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
           "url": "https://wallstreetcn.com/articles/3773650",
           "source": "华尔街见闻",
@@ -105,29 +131,52 @@
           "time_info": "[02时45分 ~ 12时07分]"
         },
         {
-          "title": "网友称对 AI 脸生理性厌恶，你有同感吗？为什么会出现这种现象？",
-          "url": "https://www.zhihu.com/question/2045546609027408734",
-          "source": "知乎",
+          "title": "黄仁勋最早今晚抵韩！行程曝光：与科技大佬烤肉谈AI、首次亮相综艺……",
+          "url": "https://www.cls.cn/detail/2390517",
+          "source": "财联社热门",
           "ranks": [
-            8,
-            3
+            7,
+            1
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时06分 ~ 16时50分]"
+          "time_info": "[16时49分 ~ 19时56分]"
         },
         {
-          "title": "黄仁勋向全球富豪家族力荐AI：回报“疯狂可观”，还在质疑的人才是“疯子”！",
-          "url": "https://wallstreetcn.com/articles/3773784",
+          "title": "博通上季营收超预期增48%再创新高，AI收入指引逊色，盘后跌超10%| 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3773812",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            7,
-            8
+            6,
+            7
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[07时45分 ~ 16时50分]"
+          "time_info": "[12时06分 ~ 19时56分]"
+        },
+        {
+          "title": "微信开放手机厂商智能体接入 AI手机迎来“最优解”？",
+          "url": "https://www.cls.cn/detail/2390370",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时49分 ~ 19时56分]"
+        },
+        {
+          "title": "AI需求猛如虎！台积电CEO：数年内都无法满足芯片需求",
+          "url": "https://www.cls.cn/detail/2390489",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时49分 ~ 19时56分]"
         },
         {
           "title": "博通首席执行官：第二季度非人工智能半导体收入增长6%。",
@@ -223,16 +272,28 @@
           "time_info": "[02时45分 ~ 07时46分]"
         },
         {
-          "title": "博通上季营收超预期增48%再创新高，AI收入指引逊色，盘后跌超10%| 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3773812",
+          "title": "桥水达利欧：随着财富转化为现金，AI泡沫终将破裂",
+          "url": "https://wallstreetcn.com/articles/3773802",
           "source": "华尔街见闻",
           "ranks": [
-            6,
-            7
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时06分 ~ 16时50分]"
+          "time_info": "[16时49分 ~ 19时56分]"
+        },
+        {
+          "title": "2030年AI耗水量够13亿人用一年",
+          "url": "https://s.weibo.com/weibo?q=%232030%E5%B9%B4AI%E8%80%97%E6%B0%B4%E9%87%8F%E5%A4%9F13%E4%BA%BF%E4%BA%BA%E7%94%A8%E4%B8%80%E5%B9%B4%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时49分 ~ 19时56分]"
         },
         {
           "title": "OpenAI 遭美国州政府起诉，ChatGPT 涉嫌帮助策划校园枪击案，诱导用户形成依赖，平台该不该担责？",
@@ -246,59 +307,15 @@
           "time_info": "[02时45分 ~ 05时51分]"
         },
         {
-          "title": "微信开放手机厂商智能体接入 AI手机迎来“最优解”？",
-          "url": "https://www.cls.cn/detail/2390370",
+          "title": "【焦点复盘】科创50冲高回落涨0.69%，AI硬件端强者恒强，大消费板块遭重挫",
+          "url": "https://www.cls.cn/detail/2390870",
           "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时49分 ~ 16时50分]"
-        },
-        {
-          "title": "黄仁勋最早今晚抵韩！行程曝光：与科技大佬烤肉谈AI、首次亮相综艺……",
-          "url": "https://www.cls.cn/detail/2390517",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时49分 ~ 16时50分]"
-        },
-        {
-          "title": "桥水达利欧：随着财富转化为现金，AI泡沫终将破裂",
-          "url": "https://wallstreetcn.com/articles/3773802",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时49分 ~ 16时50分]"
-        },
-        {
-          "title": "AI需求猛如虎！台积电CEO：数年内都无法满足芯片需求",
-          "url": "https://www.cls.cn/detail/2390489",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时49分 ~ 16时50分]"
-        },
-        {
-          "title": "2030年AI耗水量够13亿人用一年",
-          "url": "https://s.weibo.com/weibo?q=%232030%E5%B9%B4AI%E8%80%97%E6%B0%B4%E9%87%8F%E5%A4%9F13%E4%BA%BF%E4%BA%BA%E7%94%A8%E4%B8%80%E5%B9%B4%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时49分 ~ 16时50分]"
+          "time_info": "[19时55分 ~ 19时56分]"
         },
         {
           "title": "近日有学生发现，同一篇论文在知网 AI 率为 3%，但在维普却高达 67% ，差异为何如此之大？",
@@ -310,6 +327,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时06分 ~ 12时07分]"
+        },
+        {
+          "title": "男子AI写歌月收入十几万",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90AI%E5%86%99%E6%AD%8C%E6%9C%88%E6%94%B6%E5%85%A5%E5%8D%81%E5%87%A0%E4%B8%87%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时55分 ~ 19时56分]"
         },
         {
           "title": "博通首席执行官：预计第三季度非人工智能半导体收入约为45亿美元。谷歌合作关系仍然是非常重要的。",
@@ -340,7 +368,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
         },
