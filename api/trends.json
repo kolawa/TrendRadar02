@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-06T03:58:41.029910+08:00",
-  "total_titles_processed": 383,
+  "generated_at": "2026-06-06T05:29:22.167776+08:00",
+  "total_titles_processed": 453,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "罕见！“AI巨头”呼吁全球暂停AI开发，警告模型正逐步具备“自我升级”能力",
@@ -15,19 +15,32 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时56分 ~ 03时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时56分 ~ 05时29分]"
         },
         {
           "title": "AI交易降温，纳指走V仍收跌，道指创新高，博通大跌超12%，原油下挫，金银反弹",
           "url": "https://wallstreetcn.com/articles/3773843",
           "source": "华尔街见闻",
           "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时56分 ~ 05时29分]"
+        },
+        {
+          "title": "非农大超预期，美债收益率全线拉升，纳指重挫3.2%，AI剧烈回调，WTI原油下跌3.3%",
+          "url": "https://wallstreetcn.com/articles/3773946",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
             4
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时56分 ~ 03时58分]"
+          "time_info": "[03时58分 ~ 05时29分]"
         },
         {
           "title": "非农大超预期，美债收益率短线拉升，AI降温纳指开盘跌超1.2%，WTI原油跌1%，现货白银跌超2.5%",
@@ -41,15 +54,27 @@
           "time_info": "[01时56分 ~ 01时57分]"
         },
         {
-          "title": "非农大超预期，美债收益率全线拉升，纳指重挫3.2%，AI剧烈回调，WTI原油下跌3.3%",
-          "url": "https://wallstreetcn.com/articles/3773946",
+          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
+          "url": "https://wallstreetcn.com/articles/3773921",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时58分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时56分 ~ 05时29分]"
+        },
+        {
+          "title": "【焦点复盘】沪指冲高回落失守半年线，TMT产业链遭深幅回调，物理AI概念逆势活跃",
+          "url": "https://www.cls.cn/detail/2391959",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时56分 ~ 05时29分]"
         },
         {
           "title": "英国央行行长贝利：人工智能将比以往的创新更快地实现增长。",
@@ -58,31 +83,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时58分"
-        },
-        {
-          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
-          "url": "https://wallstreetcn.com/articles/3773921",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时56分 ~ 03时58分]"
-        },
-        {
-          "title": "【焦点复盘】沪指冲高回落失守半年线，TMT产业链遭深幅回调，物理AI概念逆势活跃",
-          "url": "https://www.cls.cn/detail/2391959",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时56分 ~ 03时58分]"
         },
         {
           "title": "Anthropic：高昂的计算成本是推动IPO的主因，呼吁全球暂缓前沿AI研发",
@@ -92,8 +95,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时56分 ~ 03时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时56分 ~ 05时29分]"
         },
         {
           "title": "马上评｜该对AI外呼骚扰电话出手了",
@@ -104,8 +107,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时56分 ~ 03时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时56分 ~ 05时29分]"
         },
         {
           "title": "严防作弊!高考期间AI搜题关停",
@@ -115,8 +118,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时56分 ~ 03时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时56分 ~ 05时29分]"
         },
         {
           "title": "【每日收评】创业板指放量跌超3%，多只AI硬件权重遭遇重挫，机器人概念逆势爆发",
@@ -126,8 +129,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时56分 ~ 03时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时56分 ~ 05时29分]"
+        },
+        {
+          "title": "英媒：Meta拟通过股票发行筹集数百亿美元资金 以支持在AI领域的雄心",
+          "url": "https://flash.jin10.com/detail/20260606041131799800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
         },
         {
           "title": "英国央行行长贝利：（关于人工智能）过去的经验表明，创新需要时间才能影响增长。",
@@ -136,7 +150,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时58分"
         },
@@ -147,7 +161,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时58分"
         },
@@ -158,7 +172,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时58分"
         },
@@ -169,7 +183,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时58分"
         },
@@ -180,7 +194,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时58分"
         },
@@ -191,7 +205,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时58分"
         }
