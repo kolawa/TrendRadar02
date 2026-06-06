@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-06T19:29:13.866787+08:00",
-  "total_titles_processed": 1175,
+  "generated_at": "2026-06-06T21:46:24.711695+08:00",
+  "total_titles_processed": 1305,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,24 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时11分 ~ 19时29分]"
+          "appearance_count": 12,
+          "time_info": "[07时11分 ~ 21时46分]"
+        },
+        {
+          "title": "黑色星期五！“人人赚钱”的全球AI大牛市遭遇“当头棒喝”",
+          "url": "https://wallstreetcn.com/articles/3774007",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时54分 ~ 21时46分]"
         },
         {
           "title": "马上评｜该对AI外呼骚扰电话出手了",
@@ -47,16 +60,18 @@
           "time_info": "[01时56分 ~ 07时12分]"
         },
         {
-          "title": "黑色星期五！“人人赚钱”的全球AI大牛市遭遇“当头棒喝”",
-          "url": "https://wallstreetcn.com/articles/3774007",
-          "source": "华尔街见闻",
+          "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
+          "url": "https://www.cls.cn/detail/2392488",
+          "source": "财联社热门",
           "ranks": [
-            5,
-            3
+            13,
+            11,
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时54分 ~ 19时29分]"
+          "appearance_count": 10,
+          "time_info": "[11时35分 ~ 21时46分]"
         },
         {
           "title": "严防作弊!高考期间AI搜题关停",
@@ -67,11 +82,12 @@
             16,
             19,
             20,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时56分 ~ 19时29分]"
+          "appearance_count": 17,
+          "time_info": "[01时56分 ~ 21时46分]"
         },
         {
           "title": "AI交易降温，纳指走V仍收跌，道指创新高，博通大跌超12%，原油下挫，金银反弹",
@@ -105,24 +121,12 @@
           "source": "微博",
           "ranks": [
             2,
-            5
+            5,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时27分 ~ 19时29分]"
-        },
-        {
-          "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
-          "url": "https://www.cls.cn/detail/2392488",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时35分 ~ 19时29分]"
+          "appearance_count": 6,
+          "time_info": "[17时27分 ~ 21时46分]"
         },
         {
           "title": "抖音副总裁回应豆包误判蘑菇致用户中毒，称 AI 回应仅供参考，如何看待这一回应？这件事豆包该背锅吗？",
@@ -313,7 +317,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -346,7 +350,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
