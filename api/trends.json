@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-11T06:53:28.441129+08:00",
-  "total_titles_processed": 487,
+  "generated_at": "2026-06-11T08:17:54.806638+08:00",
+  "total_titles_processed": 614,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时58分 ~ 06时53分]"
-        },
-        {
-          "title": "事关光电芯片、OCS、CPO…… 工信部聚焦“AI+通信” 打造智算网络体系",
-          "url": "https://www.cls.cn/detail/2396017",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时58分 ~ 06时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时58分 ~ 08时17分]"
         },
         {
           "title": "当患者开始带着AI回答来就诊：打破医患信息差还是增加风险？责任如何界定？",
@@ -39,8 +28,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时58分 ~ 06时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时58分 ~ 08时17分]"
+        },
+        {
+          "title": "事关光电芯片、OCS、CPO…… 工信部聚焦“AI+通信” 打造智算网络体系",
+          "url": "https://www.cls.cn/detail/2396017",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时58分 ~ 08时17分]"
         },
         {
           "title": "AI需求驱动有色、计算机等涨价，中国5月PPI同比涨3.9%创四年新高，CPI同比增1.2%",
@@ -48,22 +49,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时58分 ~ 06时53分]"
-        },
-        {
-          "title": "市场消息：OpenAI与Visa(V.N)合作，允许人工智能代理在线购物。",
-          "url": "https://flash.jin10.com/detail/20260611014950889800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
+          "appearance_count": 7,
+          "time_info": "[01时58分 ~ 08时17分]"
         },
         {
           "title": "于娜看到已故老公AI形象崩溃大哭",
@@ -75,19 +66,31 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时58分 ~ 06时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时58分 ~ 08时17分]"
         },
         {
           "title": "于娜看到已故丈夫AI形象崩溃大哭",
           "url": "https://www.baidu.com/s?wd=%E4%BA%8E%E5%A8%9C%E7%9C%8B%E5%88%B0%E5%B7%B2%E6%95%85%E4%B8%88%E5%A4%ABAI%E5%BD%A2%E8%B1%A1%E5%B4%A9%E6%BA%83%E5%A4%A7%E5%93%AD",
           "source": "百度热搜",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时58分 ~ 06时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时58分 ~ 08时17分]"
+        },
+        {
+          "title": "市场消息：OpenAI与Visa(V.N)合作，允许人工智能代理在线购物。",
+          "url": "https://flash.jin10.com/detail/20260611014950889800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时59分"
         },
         {
           "title": "AI获“付款授权”：OpenAI联手Visa开启智能体在线购物新时代",
@@ -108,8 +111,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时58分 ~ 06时53分]"
+          "appearance_count": 5,
+          "time_info": "[01时58分 ~ 08时17分]"
         },
         {
           "title": "夏奇拉邀请你来跳Dai Dai",
@@ -140,7 +143,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时53分"
         },
@@ -151,7 +154,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时53分"
         },
