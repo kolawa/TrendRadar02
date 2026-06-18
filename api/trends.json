@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-18T17:15:30.047909+08:00",
-  "total_titles_processed": 972,
+  "generated_at": "2026-06-18T20:55:15.550485+08:00",
+  "total_titles_processed": 1151,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 28,
+      "match_count": 33,
       "titles": [
         {
           "title": "一天涨出一个巴菲特！AI加持，马斯克身家涨到飞起",
@@ -15,11 +15,12 @@
             13,
             9,
             6,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时08分 ~ 17时15分]"
+          "appearance_count": 9,
+          "time_info": "[05时08分 ~ 20时55分]"
         },
         {
           "title": "悬在市场上空的“三大利空”：沃什“鹰鸽不明”，AI“武器化监管”，美股史上最大股票发行潮",
@@ -34,15 +35,15 @@
           "time_info": "[02时46分 ~ 07时52分]"
         },
         {
-          "title": "商务部：会同相关部门落实落细各项政策举措，持续推动人工智能与消费深度融合",
-          "url": "https://wallstreetcn.com/livenews/3121577",
-          "source": "华尔街见闻-快讯",
+          "title": "让AI走进千家万户",
+          "url": "https://www.baidu.com/s?wd=%E8%AE%A9AI%E8%B5%B0%E8%BF%9B%E5%8D%83%E5%AE%B6%E4%B8%87%E6%88%B7",
+          "source": "百度热搜",
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
         },
         {
           "title": "如何看待 6 月 16 日 DeepSeek 网页端 /App 中的「快速模式」思维链发生明显变化？",
@@ -50,11 +51,45 @@
           "source": "知乎",
           "ranks": [
             5,
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时04分 ~ 17时15分]"
+          "appearance_count": 5,
+          "time_info": "[12时04分 ~ 20时55分]"
+        },
+        {
+          "title": "商务部等八部门发布《关于加快“人工智能+消费”发展的实施意见》",
+          "url": "https://www.cls.cn/detail/2403573",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
+        },
+        {
+          "title": "商务部：会同相关部门落实落细各项政策举措，持续推动人工智能与消费深度融合",
+          "url": "https://wallstreetcn.com/livenews/3121577",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时15分"
+        },
+        {
+          "title": "欧洲央行首席经济学家连恩：我们认为，人工智能已在投资数据中显现出来。",
+          "url": "https://flash.jin10.com/detail/20260618204158416800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
         },
         {
           "title": "HR 吐槽面试遇到豆包味很浓的应届生，全程依赖豆包 AI 作答，如何看待这一现象？暴露出哪些问题？",
@@ -91,6 +126,30 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时46分 ~ 07时52分]"
+        },
+        {
+          "title": "AI内存极限再创突破！SK海力士宣布交付12层HBM4E样品",
+          "url": "https://www.cls.cn/detail/2403255",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时14分 ~ 20时55分]"
+        },
+        {
+          "title": "用AI打开端午的一百种方式",
+          "url": "https://www.douyin.com/hot/2539388",
+          "source": "抖音",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时14分 ~ 20时55分]"
         },
         {
           "title": "为什么 AI 写的代码没人说有 AI 味儿，但是 AI 写的文章就一眼看出 AI 味儿？",
@@ -150,26 +209,15 @@
           "time_info": "[17时14分 ~ 17时15分]"
         },
         {
-          "title": "用AI打开端午的一百种方式",
-          "url": "https://www.douyin.com/hot/2539388",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时14分 ~ 17时15分]"
-        },
-        {
-          "title": "AI内存极限再创突破！SK海力士宣布交付12层HBM4E样品",
-          "url": "https://www.cls.cn/detail/2403255",
+          "title": "【每日收评】科创50放量涨近4%，AI硬件与半导体持续火爆，多只科技权重续创历史新高",
+          "url": "https://www.cls.cn/detail/2403645",
           "source": "财联社热门",
           "ranks": [
-            13
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时14分 ~ 17时15分]"
+          "time_info": "[20时54分 ~ 20时55分]"
         },
         {
           "title": "端午和周星驰拍上AI食神大片了",
@@ -192,6 +240,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
+        },
+        {
+          "title": "商务部等8部门：加快推出新一代人工智能手机、智能电脑等智能家居产品",
+          "url": "https://wallstreetcn.com/livenews/3121699",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
         },
         {
           "title": "AirPods五大升级",
@@ -222,7 +281,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
@@ -266,7 +325,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
