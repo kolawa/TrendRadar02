@@ -1,33 +1,46 @@
 {
-  "generated_at": "2026-06-20T02:02:01.616027+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-20T04:02:01.782533+08:00",
+  "total_titles_processed": 367,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "AI写作涌入市场，“人”的信任和感动何处安放？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33412460",
           "source": "澎湃新闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时00分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[02时00分 ~ 04时02分]"
         },
         {
           "title": "美参议员桑德斯：对美国大型AI公司一次性征收50%股权税，设立主权财富基金",
           "url": "https://wallstreetcn.com/articles/3775053",
           "source": "华尔街见闻",
           "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时00分 ~ 04时02分]"
+        },
+        {
+          "title": "SemiAnalysis：半数2026年美国数据中心将取消？这是被\"AI编码\"出来的假警报",
+          "url": "https://wallstreetcn.com/articles/3775091",
+          "source": "华尔街见闻",
+          "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时00分 ~ 02时02分]"
+          "time_info": "[04时01分 ~ 04时02分]"
         }
       ]
     }
