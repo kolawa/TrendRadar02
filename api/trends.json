@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-19T19:25:16.021601+08:00",
-  "total_titles_processed": 1065,
+  "generated_at": "2026-06-19T23:20:59.792845+08:00",
+  "total_titles_processed": 1245,
   "failed_sources": [],
   "trends": [
     {
@@ -73,6 +73,19 @@
           "time_info": "[08时28分 ~ 19时25分]"
         },
         {
+          "title": "AI写作涌入市场，“人”的信任和感动何处安放？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33412460",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时21分 ~ 23时20分]"
+        },
+        {
           "title": "【每日收评】科创50放量涨近4%，AI硬件与半导体持续火爆，多只科技权重续创历史新高",
           "url": "https://www.cls.cn/detail/2403645",
           "source": "财联社热门",
@@ -132,18 +145,6 @@
           "time_info": "01时13分"
         },
         {
-          "title": "AI写作涌入市场，“人”的信任和感动何处安放？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33412460",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时21分 ~ 19时25分]"
-        },
-        {
           "title": "周四（6月18日），美股人工智能（AI）赢家指数涨4.57%，报457.59点，时隔一个交易日再创收盘历史新高。 成分股中，Bloom能源收涨15.41%，闪迪、Astera Labs、康宁公司、超微电脑涨11.54%-10.37%紧随其后，微软涨0.13%涨幅最小，天弘股份跌2.06%跌幅第三大，Lumentum跌2.30%，戴尔科技跌2.34%。",
           "url": "https://wallstreetcn.com/livenews/3121914",
           "source": "华尔街见闻-快讯",
@@ -190,6 +191,18 @@
           "time_info": "[08时28分 ~ 14时22分]"
         },
         {
+          "title": "剑指英伟达！报道：亚马逊洽谈向其他公司出售自研AI芯片",
+          "url": "https://wallstreetcn.com/articles/3775047",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时24分 ~ 23时20分]"
+        },
+        {
           "title": "5月证券APP月活1.82亿，月活增速谁最强？新一轮卡位在AI Skill",
           "url": "https://www.cls.cn/detail/2403949",
           "source": "财联社热门",
@@ -200,17 +213,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时34分 ~ 06时23分]"
-        },
-        {
-          "title": "剑指英伟达！报道：亚马逊洽谈向其他公司出售自研AI芯片",
-          "url": "https://wallstreetcn.com/articles/3775047",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时24分 ~ 19时25分]"
         },
         {
           "title": "知名作家承认新书AI写作比重占一半",
@@ -241,7 +243,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
@@ -274,7 +276,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
