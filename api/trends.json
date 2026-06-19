@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-20T04:02:01.782533+08:00",
-  "total_titles_processed": 367,
+  "generated_at": "2026-06-20T05:18:00.148790+08:00",
+  "total_titles_processed": 420,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时00分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[02时00分 ~ 05时18分]"
         },
         {
           "title": "美参议员桑德斯：对美国大型AI公司一次性征收50%股权税，设立主权财富基金",
@@ -36,11 +36,12 @@
           "url": "https://wallstreetcn.com/articles/3775091",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时01分 ~ 04时02分]"
+          "appearance_count": 4,
+          "time_info": "[04时01分 ~ 05时18分]"
         }
       ]
     }
