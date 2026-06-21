@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-21T18:32:24.989062+08:00",
-  "total_titles_processed": 921,
+  "generated_at": "2026-06-21T21:08:18.735751+08:00",
+  "total_titles_processed": 1060,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "“新美联储通讯社”：1996还是1999？沃什的第一场考验是“如何看AI”",
@@ -46,6 +46,19 @@
           "time_info": "[00时20分 ~ 08时09分]"
         },
         {
+          "title": "企业端开始“算力降本”之际，高盛警告5.3万亿AI资本支出正逼近信贷饱和！",
+          "url": "https://wallstreetcn.com/articles/3775121",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时03分 ~ 21时08分]"
+        },
+        {
           "title": "经纬度：让AI走进千家万户，人工智能消费按下加速键",
           "url": "https://m.thepaper.cn/newsDetail_forward_33415864",
           "source": "澎湃新闻",
@@ -58,18 +71,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时20分 ~ 08时09分]"
-        },
-        {
-          "title": "企业端开始“算力降本”之际，高盛警告5.3万亿AI资本支出正逼近信贷饱和！",
-          "url": "https://wallstreetcn.com/articles/3775121",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时03分 ~ 18时32分]"
         },
         {
           "title": "AI Agent时代的云基础设施是怎样的？你需要理解“Agent Runtime完整飞轮”",
@@ -94,6 +95,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时08分 ~ 08时09分]"
+        },
+        {
+          "title": "下周重磅日程：“美联储最爱通胀指标”、英伟达股东大会、OpenAI或发新模型、美光财报",
+          "url": "https://wallstreetcn.com/articles/3775117",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时03分 ~ 21时08分]"
         },
         {
           "title": "谐音歌词版WAIYA",
@@ -156,16 +170,39 @@
           "time_info": "[08时08分 ~ 18时32分]"
         },
         {
-          "title": "下周重磅日程：“美联储最爱通胀指标”、英伟达股东大会、OpenAI或发新模型、美光财报",
-          "url": "https://wallstreetcn.com/articles/3775117",
-          "source": "华尔街见闻",
+          "title": "对话丨被AI震动的两年人生，数学博士生的新难题：如何证明自己？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33407734",
+          "source": "澎湃新闻",
           "ranks": [
-            8,
-            9
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时03分 ~ 18时32分]"
+          "appearance_count": 4,
+          "time_info": "[18时31分 ~ 21时08分]"
+        },
+        {
+          "title": "父亲节用AI表达爱",
+          "url": "https://www.douyin.com/hot/2542302",
+          "source": "抖音",
+          "ranks": [
+            28,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时31分 ~ 21时08分]"
+        },
+        {
+          "title": "“大空头”查诺斯：当前AI产业链存在巨大“财务不匹配”，“AI云”实际是租赁中介，看空SpaceX",
+          "url": "https://wallstreetcn.com/articles/3775129",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
         },
         {
           "title": "AI算力的物理基石：PTFE从“塑料王”到“M10高速互联刚需材料”的范式跃迁",
@@ -179,17 +216,6 @@
           "time_info": "[08时08分 ~ 08时09分]"
         },
         {
-          "title": "对话丨被AI震动的两年人生，数学博士生的新难题：如何证明自己？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33407734",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 18时32分]"
-        },
-        {
           "title": "AI短剧严重“缺脸” 500元买一张脸",
           "url": "https://www.toutiao.com/trending/7653430042109853737/",
           "source": "今日头条",
@@ -201,15 +227,15 @@
           "time_info": "[18时31分 ~ 18时32分]"
         },
         {
-          "title": "父亲节用AI表达爱",
-          "url": "https://www.douyin.com/hot/2542302",
-          "source": "抖音",
+          "title": "微信“小微”来了！数百万个小程序有了AI“总控台”",
+          "url": "https://www.cls.cn/detail/2404757",
+          "source": "财联社热门",
           "ranks": [
-            28
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时31分 ~ 18时32分]"
+          "time_info": "[21时07分 ~ 21时08分]"
         },
         {
           "title": "OpenAI被查、Anthropic被限，AI炒作漏算了什么？",
