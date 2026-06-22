@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-22T18:40:24.208178+08:00",
-  "total_titles_processed": 1002,
+  "generated_at": "2026-06-22T23:53:28.801534+08:00",
+  "total_titles_processed": 1185,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 17,
+      "match_count": 22,
       "titles": [
         {
           "title": "下周重磅日程：“美联储最爱通胀指标”、英伟达股东大会、OpenAI或发新模型、美光财报",
@@ -95,37 +95,51 @@
           "time_info": "07时15分"
         },
         {
-          "title": "DeepSeek 2.0时刻？智谱市值突破万亿港元，GLM-5.2刷屏华尔街",
-          "url": "https://wallstreetcn.com/articles/3775170",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时39分 ~ 18时40分]"
-        },
-        {
           "title": "【焦点复盘】沪指放量长阳收复30日均线，全市场超200股涨逾10%，AI上游材料方向持续火爆",
           "url": "https://www.cls.cn/detail/2405734",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时39分 ~ 18时40分]"
+          "appearance_count": 4,
+          "time_info": "[18时39分 ~ 23时53分]"
+        },
+        {
+          "title": "DeepSeek 2.0时刻？智谱市值突破万亿港元，GLM-5.2刷屏华尔街",
+          "url": "https://wallstreetcn.com/articles/3775170",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时39分 ~ 23时53分]"
         },
         {
           "title": "数学博士生 2 年研究被 AI 抢发，这种现象会越来越普遍吗？如何看待 AI 对数学研究的冲击？",
           "url": "https://www.zhihu.com/question/2052067691926484153",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时39分 ~ 23时53分]"
+        },
+        {
+          "title": "规模腰斩后，半夏投资发声：坚守低估值内需资产，AI泡沫破裂的触发条件已经出现",
+          "url": "https://wallstreetcn.com/articles/3775200",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时39分 ~ 18时40分]"
+          "time_info": "[23时52分 ~ 23时53分]"
         },
         {
           "title": "【午报】三大指数集体收红，有色金属等AI上游材料概念持续活跃，大金融板块爆发",
@@ -173,6 +187,17 @@
           "time_info": "12时20分"
         },
         {
+          "title": "SpaceX与Reflection AI签署价值逾60亿美元算力协议",
+          "url": "https://flash.jin10.com/detail/20260622231332439800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
           "title": "外资巨头年中投资展望出炉，A股AI板块被视为“价值洼地”",
           "url": "https://wallstreetcn.com/livenews/3122399",
           "source": "华尔街见闻-快讯",
@@ -184,13 +209,46 @@
           "time_info": "07时15分"
         },
         {
+          "title": "SpaceX与美国开源人工智能（AI）初创公司Reflection签署价值至多63亿美元的算力协议。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3122934",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
+          "title": "据CNBC：SpaceX(SPCX.O)与美国AI初创公司Reflection签署算力协议，交易金额最高达63亿美元。",
+          "url": "https://flash.jin10.com/detail/20260622230518744800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
+          "title": "Getty Images一度涨超133%，公司与OpenAI达成“展示协议”。",
+          "url": "https://wallstreetcn.com/livenews/3122931",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
           "title": "国际铝业协会（IAI）：5月份全球原铝产量为615万公吨。",
           "url": "https://flash.jin10.com/detail/20260622180158027800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
