@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-29T07:04:23.125659+08:00",
-  "total_titles_processed": 475,
+  "generated_at": "2026-06-29T12:03:11.337574+08:00",
+  "total_titles_processed": 719,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "教师杨某某论文图表被指有AI生成水印，兰州大学成立调查组",
@@ -15,8 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时13分 ~ 07时04分]"
+          "appearance_count": 9,
+          "time_info": "[01时13分 ~ 12时03分]"
+        },
+        {
+          "title": "算力告急：谷歌悄然对Meta实施Gemini使用上限",
+          "url": "https://wallstreetcn.com/articles/3775694",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时13分 ~ 12时03分]"
         },
         {
           "title": "人民日报评“AI脸看腻了”",
@@ -54,26 +66,16 @@
           "time_info": "[01时13分 ~ 07时04分]"
         },
         {
-          "title": "算力告急：谷歌悄然对Meta实施Gemini使用上限",
-          "url": "https://wallstreetcn.com/articles/3775694",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时13分 ~ 07时04分]"
-        },
-        {
           "title": "美国科技企业悄然转向中国AI模型，Coinbase带头用上GLM与Kimi",
           "url": "https://wallstreetcn.com/articles/3775696",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时13分 ~ 07时04分]"
+          "appearance_count": 9,
+          "time_info": "[01时13分 ~ 12时03分]"
         },
         {
           "title": "大模型推理最高提速85%！DeepSeek发表重磅论文 提出两项互补机制",
@@ -106,7 +108,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
         },
@@ -146,6 +148,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时13分 ~ 03时23分]"
+        },
+        {
+          "title": "“央行中的央行”拉响AI泡沫警报：万亿美元资本支出狂潮恐演变为漫长崩盘",
+          "url": "https://wallstreetcn.com/articles/3775705",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 12时03分]"
         },
         {
           "title": "豆包和DeepSeek的博弈",
