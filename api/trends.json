@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-05T06:01:53.067415+08:00",
-  "total_titles_processed": 483,
+  "generated_at": "2026-07-05T07:07:17.507610+08:00",
+  "total_titles_processed": 504,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 06时01分]"
+          "appearance_count": 9,
+          "time_info": "[00时03分 ~ 07时07分]"
         },
         {
           "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 06时01分]"
+          "appearance_count": 9,
+          "time_info": "[00时03分 ~ 07时07分]"
         },
         {
           "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
@@ -40,8 +40,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时04分 ~ 07时07分]"
+        },
+        {
+          "title": "为什么现在 DeepSeek 快速模式豆包化？",
+          "url": "https://www.zhihu.com/question/2050992107284964141",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时06分 ~ 07时07分]"
         },
         {
           "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
@@ -61,7 +72,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         }
