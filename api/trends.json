@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-05T20:18:23.388045+08:00",
-  "total_titles_processed": 1103,
+  "generated_at": "2026-07-05T22:45:14.023354+08:00",
+  "total_titles_processed": 1220,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
@@ -35,6 +35,20 @@
           "time_info": "[00时03分 ~ 07时07分]"
         },
         {
+          "title": "OpenAI塌房！Scaling law原作曝bug，万亿算力全白烧",
+          "url": "https://wallstreetcn.com/articles/3776218",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时27分 ~ 22时45分]"
+        },
+        {
           "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
           "url": "https://wallstreetcn.com/livenews/3128944",
           "source": "华尔街见闻-快讯",
@@ -49,28 +63,29 @@
           "time_info": "[00时04分 ~ 18时14分]"
         },
         {
-          "title": "OpenAI塌房！Scaling law原作曝bug，万亿算力全白烧",
-          "url": "https://wallstreetcn.com/articles/3776218",
+          "title": "HBM之父金正浩：AI的本质是内存，GPU真正工作的时间只有10%",
+          "url": "https://wallstreetcn.com/articles/3776219",
           "source": "华尔街见闻",
           "ranks": [
+            8,
             5,
-            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时27分 ~ 20时18分]"
+          "appearance_count": 5,
+          "time_info": "[18时14分 ~ 22时45分]"
         },
         {
           "title": "智能体下线,AI女友凉了？",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355914&amp;topic_name=%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8B%E7%BA%BF%2CAI%E5%A5%B3%E5%8F%8B%E5%87%89%E4%BA%86%EF%BC%9F",
           "source": "贴吧",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时14分 ~ 20时18分]"
+          "appearance_count": 5,
+          "time_info": "[18时14分 ~ 22时45分]"
         },
         {
           "title": "“AI+”OPC供需生态对接会在珠海举行",
@@ -84,28 +99,29 @@
           "time_info": "11时29分"
         },
         {
-          "title": "HBM之父金正浩：AI的本质是内存，GPU真正工作的时间只有10%",
-          "url": "https://wallstreetcn.com/articles/3776219",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时14分 ~ 20时18分]"
-        },
-        {
           "title": "鸿海：展望第三季度，人工智能机架出货量预计将保持增长；整体运营前景预计季度和同比都会增长。",
           "url": "https://wallstreetcn.com/livenews/3128984",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            14
+            14,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时14分 ~ 20时18分]"
+          "appearance_count": 3,
+          "time_info": "[18时14分 ~ 22时45分]"
+        },
+        {
+          "title": "AI称野蘑菇无毒 9岁娃吃完抢救8天",
+          "url": "https://www.baidu.com/s?wd=AI%E7%A7%B0%E9%87%8E%E8%98%91%E8%8F%87%E6%97%A0%E6%AF%92+9%E5%B2%81%E5%A8%83%E5%90%83%E5%AE%8C%E6%8A%A2%E6%95%918%E5%A4%A9",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时17分 ~ 22时45分]"
         },
         {
           "title": "苹果AI功能未能引爆换机潮，瑞银调查显示用户升级意愿持续下滑",
@@ -131,15 +147,26 @@
           "time_info": "[07时06分 ~ 07时07分]"
         },
         {
-          "title": "AI称野蘑菇无毒 9岁娃吃完抢救8天",
-          "url": "https://www.baidu.com/s?wd=AI%E7%A7%B0%E9%87%8E%E8%98%91%E8%8F%87%E6%97%A0%E6%AF%92+9%E5%B2%81%E5%A8%83%E5%90%83%E5%AE%8C%E6%8A%A2%E6%95%918%E5%A4%A9",
-          "source": "百度热搜",
+          "title": "2026中国互联网大会将举办，聚焦AI产业化落地、算力互联互通等核心议题",
+          "url": "https://wallstreetcn.com/livenews/3129011",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            29
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时17分 ~ 20时18分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
+          "title": "SK海力士寻求通过在美上市吸引更多AI投资者",
+          "url": "https://flash.jin10.com/detail/20260705221127542800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
         },
         {
           "title": "嘉实基金王贵重：对中国科技资产及国内AI加速追赶趋势持积极乐观态度",
