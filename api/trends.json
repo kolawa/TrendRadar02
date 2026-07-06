@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-07T03:59:43.314848+08:00",
-  "total_titles_processed": 389,
+  "generated_at": "2026-07-07T05:42:54.484889+08:00",
+  "total_titles_processed": 485,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "WorkBuddy爆了，微信AI也来了——腾讯AI找到“新船票”了吗？",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 03时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时45分 ~ 05时42分]"
         },
         {
           "title": "英国监管机构审查凸显金融服务AI风险",
@@ -35,11 +35,12 @@
           "url": "https://wallstreetcn.com/articles/3776262",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 03时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时45分 ~ 05时42分]"
         },
         {
           "title": "智能体下线,AI女友凉了？",
@@ -49,8 +50,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 03时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时45分 ~ 05时42分]"
         },
         {
           "title": "AI预测葡萄牙vs西班牙赛果",
@@ -70,9 +71,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
+        },
+        {
+          "title": "南向资金追踪｜单日净买超205亿港元创近一个半月新高 AI硬件概念股反被抛售",
+          "url": "https://www.cls.cn/detail/2418217",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
         },
         {
           "title": "【腾讯正式发布升级版人工智能模型混元Hy3】腾讯在微信公众号发布声明，正式发布混元模型Hy3。声明称，Hy3是在今年4月发布的预览版基础上的升级版本。",
@@ -106,6 +118,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
+        },
+        {
+          "title": "xAI将旗下X账号更名为SpaceXAI。",
+          "url": "https://flash.jin10.com/detail/20260707042933753800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
         }
       ]
     }
