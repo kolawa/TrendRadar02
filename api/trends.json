@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-07-06T06:03:45.604242+08:00",
-  "total_titles_processed": 454,
+  "generated_at": "2026-07-06T08:08:11.819453+08:00",
+  "total_titles_processed": 600,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
       "match_count": 9,
       "titles": [
+        {
+          "title": "HBM之父金正浩：AI的本质是内存，GPU真正工作的时间只有10%",
+          "url": "https://wallstreetcn.com/articles/3776219",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时10分 ~ 08时08分]"
+        },
         {
           "title": "OpenAI塌房！Scaling law原作曝bug，万亿算力全白烧",
           "url": "https://wallstreetcn.com/articles/3776218",
@@ -16,20 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时10分 ~ 06时03分]"
-        },
-        {
-          "title": "HBM之父金正浩：AI的本质是内存，GPU真正工作的时间只有10%",
-          "url": "https://wallstreetcn.com/articles/3776219",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时10分 ~ 06时03分]"
+          "appearance_count": 8,
+          "time_info": "[00时10分 ~ 08时08分]"
         },
         {
           "title": "智能体下线,AI女友凉了？",
@@ -37,11 +38,26 @@
           "source": "贴吧",
           "ranks": [
             9,
-            10
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时10分 ~ 08时08分]"
+        },
+        {
+          "title": "有业绩支撑的非AI板块修复在即？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2417353",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            10,
+            8
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时10分 ~ 06时03分]"
+          "time_info": "[02时04分 ~ 08时08分]"
         },
         {
           "title": "英国监管机构：金融服务业AI正引发“军备竞赛” 需扩大监管范围",
@@ -50,7 +66,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
         },
@@ -64,19 +80,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时11分 ~ 06时03分]"
-        },
-        {
-          "title": "有业绩支撑的非AI板块修复在即？十大券商策略来了",
-          "url": "https://www.cls.cn/detail/2417353",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时04分 ~ 06时03分]"
         },
         {
           "title": "电诈人员用AI同时和100多人聊天",
