@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-07T18:58:41.463540+08:00",
-  "total_titles_processed": 1145,
+  "generated_at": "2026-07-07T21:25:04.951653+08:00",
+  "total_titles_processed": 1311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 38,
+      "match_count": 40,
       "titles": [
         {
           "title": "如何看待华为首批天才少年计划入选者李博杰吐槽 DeepSeek 的面试流程拖沓，被面试官指控抄袭？",
@@ -16,8 +16,34 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时40分 ~ 18时58分]"
+          "appearance_count": 5,
+          "time_info": "[15时40分 ~ 21时25分]"
+        },
+        {
+          "title": "英伟达回应新一代AI服务器系统延期发布传闻：产品路线图未变",
+          "url": "https://wallstreetcn.com/articles/3776319",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时27分 ~ 21时25分]"
+        },
+        {
+          "title": "世界人工智能大会下周开幕！华为最大规模超节点真机、全球首款AI智能体手机等首秀",
+          "url": "https://www.cls.cn/detail/2418905",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时40分 ~ 21时25分]"
         },
         {
           "title": "撤出美股七巨头，押注中国AI！华尔街正在赌上一场“东升西落”？",
@@ -56,19 +82,6 @@
           "time_info": "[11时27分 ~ 15时40分]"
         },
         {
-          "title": "英伟达回应新一代AI服务器系统延期发布传闻：产品路线图未变",
-          "url": "https://wallstreetcn.com/articles/3776319",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时27分 ~ 18时58分]"
-        },
-        {
           "title": "国家发展改革委将在2026世界人工智能大会发布两项成果",
           "url": "https://wallstreetcn.com/livenews/3129712",
           "source": "华尔街见闻-快讯",
@@ -78,18 +91,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
-        },
-        {
-          "title": "世界人工智能大会下周开幕！华为最大规模超节点真机、全球首款AI智能体手机等首秀",
-          "url": "https://www.cls.cn/detail/2418905",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时40分 ~ 18时58分]"
         },
         {
           "title": "2025年上海规上AI企业产业规模超6370亿元 同比增长39.5%",
@@ -161,6 +162,30 @@
           "time_info": "[01时45分 ~ 03时59分]"
         },
         {
+          "title": "前华为“天才少年”公开发文称DeepSeek面试流程不规范",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33531570",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时57分 ~ 21时25分]"
+        },
+        {
+          "title": "前华为“天才少年”公开吐槽DeepSeek面试流程",
+          "url": "https://tech.ifeng.com/c/8uYAqpu54ML",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时57分 ~ 21时25分]"
+        },
+        {
           "title": "AI情绪反弹，美股上扬，存储概念股走高，西部数据涨超5%，美元走强",
           "url": "https://wallstreetcn.com/articles/3776262",
           "source": "华尔街见闻",
@@ -207,6 +232,17 @@
           "time_info": "[11时27分 ~ 11时28分]"
         },
         {
+          "title": "“我们没有看空英伟达”！SemiAnalysis又发小作文：“AI央行”英伟达撬动7万亿债务雪球",
+          "url": "https://wallstreetcn.com/articles/3776368",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时24分 ~ 21时25分]"
+        },
+        {
           "title": "科技股遭对冲基金连抛四周，高盛交易员：“买入一切AI”时代终结！",
           "url": "https://wallstreetcn.com/articles/3776266",
           "source": "华尔街见闻",
@@ -218,26 +254,15 @@
           "time_info": "[11时27分 ~ 11时28分]"
         },
         {
-          "title": "前华为“天才少年”公开吐槽DeepSeek面试流程",
-          "url": "https://tech.ifeng.com/c/8uYAqpu54ML",
-          "source": "凤凰网",
+          "title": "全球首款AI智能体手机",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%BEAI%E6%99%BA%E8%83%BD%E4%BD%93%E6%89%8B%E6%9C%BA%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
           "ranks": [
-            11
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时57分 ~ 18时58分]"
-        },
-        {
-          "title": "前华为“天才少年”公开发文称DeepSeek面试流程不规范",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33531570",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时57分 ~ 18时58分]"
+          "time_info": "[21时24分 ~ 21时25分]"
         },
         {
           "title": "前华为天才少年吐槽DeepSeek面试",
@@ -323,7 +348,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时58分"
         },
@@ -433,7 +458,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时58分"
         }
