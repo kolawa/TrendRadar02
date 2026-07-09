@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T20:05:15.377375+08:00",
-  "total_titles_processed": 1255,
+  "generated_at": "2026-07-09T23:32:41.453418+08:00",
+  "total_titles_processed": 1435,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 40,
+      "match_count": 46,
       "titles": [
         {
           "title": "我国人工智能产业加速发展壮大",
@@ -17,6 +17,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时40分 ~ 08时12分]"
+        },
+        {
+          "title": "美联储会议纪要：通胀担忧加剧，少数官员支持6月加息，AI跻身三大通胀风险",
+          "url": "https://wallstreetcn.com/articles/3776500",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时59分 ~ 23时32分]"
         },
         {
           "title": "恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发",
@@ -44,8 +57,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时40分 ~ 20时05分]"
+          "appearance_count": 17,
+          "time_info": "[00时40分 ~ 23时32分]"
         },
         {
           "title": "日本合体搞AI试图突围中美",
@@ -86,17 +99,15 @@
           "time_info": "[12时59分 ~ 20时05分]"
         },
         {
-          "title": "美联储会议纪要：通胀担忧加剧，少数官员支持6月加息，AI跻身三大通胀风险",
-          "url": "https://wallstreetcn.com/articles/3776500",
+          "title": "午后大反击！创业板暴涨超4%，科创50狂飙8%，中芯国际创新高，港股AI大模型双雄分化，智谱涨11%、MINIMAX大跌18%",
+          "url": "https://wallstreetcn.com/articles/3776526",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            5,
-            4
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时59分 ~ 20时05分]"
+          "appearance_count": 4,
+          "time_info": "[20时04分 ~ 23时32分]"
         },
         {
           "title": "吐槽 DeepSeek 面试的华为天才少年李博杰被投资人控诉诈骗，李博杰称始终履行职责，哪些信息值得关注？",
@@ -139,15 +150,17 @@
           "time_info": "[00时40分 ~ 06时08分]"
         },
         {
-          "title": "午后大反击！创业板暴涨超4%，科创50狂飙8%，中芯国际创新高，港股AI大模型双雄分化，智谱涨11%、MINIMAX大跌18%",
-          "url": "https://wallstreetcn.com/articles/3776526",
+          "title": "韩股跌入熊市，高盛建议客户“转投中国AI产业链”",
+          "url": "https://wallstreetcn.com/articles/3776515",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            8,
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时04分 ~ 20时05分]"
+          "appearance_count": 6,
+          "time_info": "[16时28分 ~ 23时32分]"
         },
         {
           "title": "淡马锡CIO：人工智能硬件基础设施领域蕴藏着巨大机遇。",
@@ -161,6 +174,17 @@
           "time_info": "13时01分"
         },
         {
+          "title": "【美光上调美国投资计划至2500亿美元，押注AI存储芯片需求】美光科技表示，计划将对美国新工厂的支出增至2500亿美元，以满足全球人工智能热潮推动的存储芯片需求激增。此举意味着在美光此前宣布的2000亿美元支持承诺上再增加500亿美元，用于扩大国内芯片制造规模，其中包括在纽约州、爱达荷州和弗吉尼亚州的项目。这笔支出预计将持续到2035年，并支持美光在未来十年内实现40%的DRAM产品在美国生产的目标。",
+          "url": "https://wallstreetcn.com/livenews/3131453",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "淡马锡CIO：加大对以实物资产为主的企业（如基础设施和大宗商品）的投资比重，这类企业受人工智能影响的风险较小。",
           "url": "https://flash.jin10.com/detail/20260709123334652800",
           "source": "金十数据",
@@ -170,18 +194,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
-        },
-        {
-          "title": "韩股跌入熊市，高盛建议客户“转投中国AI产业链”",
-          "url": "https://wallstreetcn.com/articles/3776515",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时28分 ~ 20时05分]"
         },
         {
           "title": "SpaceXAI与Cursor联合发布Grok AI模型，主打法律与金融任务",
@@ -194,6 +206,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时19分 ~ 04时22分]"
+        },
+        {
+          "title": "海力士美股IPO点燃AI热情，美股高开，科技股反弹，康宁涨超8%，黄金涨超1%，原油回落",
+          "url": "https://wallstreetcn.com/articles/3776523",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时31分 ~ 23时32分]"
         },
         {
           "title": "创业板涨超4%，科创50狂飙7%，中芯国际市值超贵州茅台，AI大模型双雄分化，智谱涨5%、MINIMAX大跌20%",
@@ -290,7 +313,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时05分"
         },
@@ -367,7 +390,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时05分"
         },
@@ -378,9 +401,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时05分"
+        },
+        {
+          "title": "市场消息：AI训练初创公司Mercor据悉讨论200亿美元估值事宜。",
+          "url": "https://flash.jin10.com/detail/20260709223953701800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "星巴克借助AI减少对微软、IBM软件的依赖",
@@ -389,7 +423,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时05分"
         },
@@ -427,6 +461,17 @@
           "time_info": "13时01分"
         },
         {
+          "title": "Altman不知是否今年IPO，称：OpenAI最新AI模型在智能体编程中Token效率提升54%",
+          "url": "https://wallstreetcn.com/livenews/3131428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "外交部：愿以2026世界人工智能大会为契机推动人工智能普惠向善",
           "url": "https://wallstreetcn.com/livenews/3131172",
           "source": "华尔街见闻-快讯",
@@ -438,13 +483,24 @@
           "time_info": "16时29分"
         },
         {
+          "title": "OpenAI的CEO Altman：中国开源模型正变得“非常好”。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3131427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "Meta Platforms(META.O)跌2%，此前路透社报道称该公司将于九月份开始生产人工智能芯片。",
           "url": "https://flash.jin10.com/detail/20260709192648448800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时05分"
         },
@@ -460,13 +516,24 @@
           "time_info": "02时19分"
         },
         {
+          "title": "Meta面向开发者发布付费AI模型",
+          "url": "https://wallstreetcn.com/livenews/3131424",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "据路透社：相关备忘录显示，Meta计划于九月份开始生产“IRIS”人工智能芯片，Meta计划明年将计算能力翻倍至14吉瓦。",
           "url": "https://flash.jin10.com/detail/20260709192051718800",
           "source": "金十数据",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时05分"
         }
