@@ -1,33 +1,23 @@
 {
-  "generated_at": "2026-07-13T06:51:55.464044+08:00",
-  "total_titles_processed": 480,
+  "generated_at": "2026-07-13T07:56:54.741518+08:00",
+  "total_titles_processed": 549,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "人口第一大国，被AI做空了",
           "url": "https://wallstreetcn.com/articles/3776722",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 06时51分]"
-        },
-        {
-          "title": "下周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报",
-          "url": "https://wallstreetcn.com/articles/3776632",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 06时51分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 07时56分]"
         },
         {
           "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
@@ -38,8 +28,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 06时51分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 07时56分]"
+        },
+        {
+          "title": "下周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报",
+          "url": "https://wallstreetcn.com/articles/3776632",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 07时56分]"
         },
         {
           "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
@@ -62,8 +63,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 06时51分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 07时56分]"
         },
         {
           "title": "AI是如何“杀死”印度IT行业的",
@@ -75,8 +76,19 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时59分 ~ 06时51分]"
+          "appearance_count": 6,
+          "time_info": "[01时59分 ~ 07时56分]"
+        },
+        {
+          "title": "OpenAI宣称攻克CDC猜想",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E7%A7%B0%E6%94%BB%E5%85%8BCDC%E7%8C%9C%E6%83%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时56分"
         }
       ]
     }
