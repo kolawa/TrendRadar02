@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T19:27:10.912803+08:00",
-  "total_titles_processed": 1372,
+  "generated_at": "2026-07-14T21:45:59.869229+08:00",
+  "total_titles_processed": 1541,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 44,
+      "match_count": 53,
       "titles": [
         {
           "title": "习近平将出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
@@ -93,11 +93,27 @@
           "source": "微博",
           "ranks": [
             2,
-            1
+            1,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时05分 ~ 19时27分]"
+          "appearance_count": 5,
+          "time_info": "[17时05分 ~ 21时45分]"
+        },
+        {
+          "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33570712",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15,
+            10,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时22分 ~ 21时45分]"
         },
         {
           "title": "如何评价 OpenAI 新模型 GPT-5.6 Sol Ultra，在不到一小时内证明循环双覆盖猜想？",
@@ -105,22 +121,26 @@
           "source": "知乎",
           "ranks": [
             12,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时12分 ~ 19时27分]"
+          "appearance_count": 6,
+          "time_info": "[14时12分 ~ 21时45分]"
         },
         {
-          "title": "AI生成环卫工照片获摄影比赛一等奖",
-          "url": "https://www.toutiao.com/trending/7662295509886697491/",
-          "source": "今日头条",
+          "title": "当AI穿上白大褂：谁来唤醒沉睡的医疗数据？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33524110",
+          "source": "澎湃新闻",
           "ranks": [
-            2
+            17,
+            14,
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时26分 ~ 19时27分]"
+          "appearance_count": 7,
+          "time_info": "[11时22分 ~ 21时45分]"
         },
         {
           "title": "AI恐慌缓和，美股盘前存储芯片股普涨，韩股深V反弹，原油上涨，黄金小幅上扬",
@@ -135,33 +155,6 @@
           "time_info": "[17时05分 ~ 19时27分]"
         },
         {
-          "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33570712",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时22分 ~ 19时27分]"
-        },
-        {
-          "title": "当AI穿上白大褂：谁来唤醒沉睡的医疗数据？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33524110",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时22分 ~ 19时27分]"
-        },
-        {
           "title": "爱立信首席财务官：人工智能基础设施建设将在2026年下半年给零部件价格带来更大压力。芯片、ASIC、存储器及其他零部件面临价格压力。今年余下时间将进行包括裁员在内的重组。",
           "url": "https://flash.jin10.com/detail/20260714134820820800",
           "source": "金十数据",
@@ -171,6 +164,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时12分"
+        },
+        {
+          "title": "AI生成环卫工照片获摄影比赛一等奖",
+          "url": "https://www.toutiao.com/trending/7662295509886697491/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时26分 ~ 21时45分]"
         },
         {
           "title": "周一（7月13日），美股存储芯片与硬件供应链指数跌6.96%，报213.87点。 美股超大规模云服务商（Hyperscalers）跌1.01%，报93.03点。 信息科技指数跌4.60%，报405.46点。 人工智能（AI）赢家指数跌4.36%，报402.62点。 AI软件先驱指数涨1.04%，报111.48点。 北美科技软件股指数ETF涨0.31%，Global X网络安全ETF涨0.69%，纳斯达克网络安全ETF跌0.04%，ETFMG网络安全ETF涨0.28%。 美国科技股七巨头（Magnificent 7）指数跌0.94%，报215.76点，整体持续走低。 “超大”市值科技股指数跌1.81%，报438.29点。",
@@ -220,6 +225,42 @@
           "time_info": "[17时05分 ~ 19时27分]"
         },
         {
+          "title": "全美首个州级“刹车令”！纽约州暂停新建大型AI数据中心，一年内不再发放新许可",
+          "url": "https://wallstreetcn.com/articles/3776903",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时26分 ~ 21时45分]"
+        },
+        {
+          "title": "AI生成图片被评摄影一等奖 官方通报",
+          "url": "https://www.baidu.com/s?wd=AI%E7%94%9F%E6%88%90%E5%9B%BE%E7%89%87%E8%A2%AB%E8%AF%84%E6%91%84%E5%BD%B1%E4%B8%80%E7%AD%89%E5%A5%96+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时26分 ~ 21时45分]"
+        },
+        {
+          "title": "孙正义：核聚变是人工智能未来的关键 15年后将取代天然气",
+          "url": "https://www.cls.cn/detail/2425710",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时26分 ~ 21时45分]"
+        },
+        {
           "title": "AI脸 恐怖谷效应",
           "url": "https://s.weibo.com/weibo?q=AI%E8%84%B8%20%E6%81%90%E6%80%96%E8%B0%B7%E6%95%88%E5%BA%94&t=31&band_rank=15&Refer=top",
           "source": "微博",
@@ -232,15 +273,16 @@
           "time_info": "[14时12分 ~ 17时06分]"
         },
         {
-          "title": "AI生成图片被评摄影一等奖 官方通报",
-          "url": "https://www.baidu.com/s?wd=AI%E7%94%9F%E6%88%90%E5%9B%BE%E7%89%87%E8%A2%AB%E8%AF%84%E6%91%84%E5%BD%B1%E4%B8%80%E7%AD%89%E5%A5%96+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5",
-          "source": "百度热搜",
+          "title": "AI预测法国vs西班牙赛果",
+          "url": "https://search.bilibili.com/all?keyword=AI%E9%A2%84%E6%B5%8B%E6%B3%95%E5%9B%BDvs%E8%A5%BF%E7%8F%AD%E7%89%99%E8%B5%9B%E6%9E%9C",
+          "source": "bilibili 热搜",
           "ranks": [
-            7
+            29,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时26分 ~ 19时27分]"
+          "appearance_count": 3,
+          "time_info": "[19时26分 ~ 21时45分]"
         },
         {
           "title": "2026世界人工智能大会看点速览。（新华社）",
@@ -255,17 +297,6 @@
           "time_info": "[02时45分 ~ 04时17分]"
         },
         {
-          "title": "全美首个州级“刹车令”！纽约州暂停新建大型AI数据中心，一年内不再发放新许可",
-          "url": "https://wallstreetcn.com/articles/3776903",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时26分 ~ 19时27分]"
-        },
-        {
           "title": "AI杀死时尚行业",
           "url": "https://s.weibo.com/weibo?q=AI%E6%9D%80%E6%AD%BB%E6%97%B6%E5%B0%9A%E8%A1%8C%E4%B8%9A&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -275,17 +306,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时05分 ~ 17时06分]"
-        },
-        {
-          "title": "孙正义：核聚变是人工智能未来的关键 15年后将取代天然气",
-          "url": "https://www.cls.cn/detail/2425710",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时26分 ~ 19时27分]"
         },
         {
           "title": "AI生成环卫工照片获摄影比赛一等奖",
@@ -310,17 +330,6 @@
           "time_info": "[17时05分 ~ 17时06分]"
         },
         {
-          "title": "AI预测法国vs西班牙赛果",
-          "url": "https://search.bilibili.com/all?keyword=AI%E9%A2%84%E6%B5%8B%E6%B3%95%E5%9B%BDvs%E8%A5%BF%E7%8F%AD%E7%89%99%E8%B5%9B%E6%9E%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时26分 ~ 19时27分]"
-        },
-        {
           "title": "AI时代CPU为何翻红",
           "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3CPU%E4%B8%BA%E4%BD%95%E7%BF%BB%E7%BA%A2",
           "source": "bilibili 热搜",
@@ -332,6 +341,17 @@
           "time_info": "[08时01分 ~ 08时02分]"
         },
         {
+          "title": "如何评价呼和浩特摄影比赛一等奖作品疑 AI 生成，工作人员称「的确太假了」？应该允许 AI 作品参展吗？",
+          "url": "https://www.zhihu.com/question/2060385485915263811",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        },
+        {
           "title": "险资年内密集参设股权投资基金，布局AI、半导体等领域",
           "url": "https://wallstreetcn.com/livenews/3133128",
           "source": "华尔街见闻-快讯",
@@ -341,6 +361,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "五一视界进入IDC物理AI软件基础设施",
+          "url": "https://wallstreetcn.com/livenews/3133684",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        },
+        {
+          "title": "高盛首席执行官所罗门：客户活动在亚洲特别强劲，部分受到强劲的人工智能资本形成和投资的推动。",
+          "url": "https://flash.jin10.com/detail/20260714213621618800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
         },
         {
           "title": "全球AI龙头股共振下跌，机构称后续关注三个信号",
@@ -365,6 +407,17 @@
           "time_info": "11时22分"
         },
         {
+          "title": "摄影获奖作品被质疑为AI生成，呼和浩特官方发布情况通报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33583402",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        },
+        {
           "title": "亚马逊云服务(AWS)：OpenAI GPT-5.6 SOL、TERRA 和 LUNA 现已在亚马逊基础设施上全面上线。",
           "url": "https://flash.jin10.com/detail/20260714050653705800",
           "source": "金十数据",
@@ -387,6 +440,28 @@
           "time_info": "17时06分"
         },
         {
+          "title": "高盛首席执行官所罗门：人工智能投资周期正在扩大资本需求，超出核心技术、基础设施、能源和数据中心。",
+          "url": "https://flash.jin10.com/detail/20260714213412109800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        },
+        {
+          "title": "美股开盘：AI硬件股上涨 IBM跌22%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9AAI%E7%A1%AC%E4%BB%B6%E8%82%A1%E4%B8%8A%E6%B6%A8+IBM%E8%B7%8C22%25",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        },
+        {
           "title": "美国总统特朗普：（关于伊朗）我们将摧毁镐山（Pickaxe Mountain）。",
           "url": "https://flash.jin10.com/detail/20260714043115058800",
           "source": "金十数据",
@@ -398,6 +473,17 @@
           "time_info": "05时58分"
         },
         {
+          "title": "DeepSeek梁文锋成AI公司新首富",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E6%88%90AI%E5%85%AC%E5%8F%B8%E6%96%B0%E9%A6%96%E5%AF%8C",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        },
+        {
           "title": "美国总统特朗普：将摧毁“镐头山”（Pickaxe Mountain），并警告伊朗做好准备。",
           "url": "https://wallstreetcn.com/livenews/3133081",
           "source": "华尔街见闻-快讯",
@@ -407,6 +493,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
+        },
+        {
+          "title": "美联储主席沃什：美联储对持续高通胀“零容忍”。 商业投资是当前经济最显著的特征。 美国经济具有韧性，增长步伐稳健。 消费增长温和，住房市场持续滞后。 AI机遇对决策者构成挑战。 正在监测AI对通胀和劳动力市场的影响。 劳动力市场总体稳定，名义工资增长稳健。 （沃什未就利率前景发表评论）",
+          "url": "https://wallstreetcn.com/livenews/3133664",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850571&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/07/ceiRoU_Mphl31wYaNQjqP.jpg/lite\" height=\"120\"/></a>",
@@ -440,6 +537,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
+        },
+        {
+          "title": "谷歌：Chrome浏览器AI功能将于下月扩展至iOS平台。 将Chrome浏览器内嵌Gemini AI功能扩展至英国用户。",
+          "url": "https://wallstreetcn.com/livenews/3133659",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
         },
         {
           "title": "软银推出基于OpenAI技术的网络安全服务。",
@@ -492,7 +600,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
