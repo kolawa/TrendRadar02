@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T13:55:28.800190+08:00",
-  "total_titles_processed": 886,
+  "generated_at": "2026-07-19T16:21:14.735293+08:00",
+  "total_titles_processed": 1028,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 53,
+      "match_count": 66,
       "titles": [
         {
           "title": "AI牛市结束了吗？市场充满疑虑",
@@ -58,8 +58,23 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时03分 ~ 13时55分]"
+          "appearance_count": 14,
+          "time_info": "[01时03分 ~ 16时21分]"
+        },
+        {
+          "title": "阿里云WAIC论坛： “AI爆发不靠一两颗芯片”、SaaS将转向“按结果付费”、模型不再是唯一核心",
+          "url": "https://wallstreetcn.com/articles/3777301",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[05时53分 ~ 16时21分]"
         },
         {
           "title": "直击2026WAIC：超300台真机扎堆，具身智能离GPT时刻还差海量物理数据",
@@ -71,8 +86,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时03分 ~ 13时55分]"
+          "appearance_count": 14,
+          "time_info": "[01时03分 ~ 16时21分]"
         },
         {
           "title": "超300款AI新品迎来全球首发",
@@ -119,6 +134,20 @@
           "time_info": "[01时03分 ~ 10时47分]"
         },
         {
+          "title": "华为、阿里等集体亮剑 超节点多成果亮相WAIC 国产算力向互联和系统集成延伸",
+          "url": "https://www.cls.cn/detail/2430308",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[04时50分 ~ 16时21分]"
+        },
+        {
           "title": "世界人工智能大会超全攻略",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A%E8%B6%85%E5%85%A8%E6%94%BB%E7%95%A5",
           "source": "bilibili 热搜",
@@ -137,11 +166,12 @@
             18,
             19,
             21,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时03分 ~ 13时55分]"
+          "appearance_count": 14,
+          "time_info": "[01时03分 ~ 16时21分]"
         },
         {
           "title": "中国拉群搞AI,28国兄弟入伙",
@@ -180,34 +210,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时03分 ~ 03时06分]"
-        },
-        {
-          "title": "阿里云WAIC论坛： “AI爆发不靠一两颗芯片”、SaaS将转向“按结果付费”、模型不再是唯一核心",
-          "url": "https://wallstreetcn.com/articles/3777301",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时53分 ~ 13时55分]"
-        },
-        {
-          "title": "华为、阿里等集体亮剑 超节点多成果亮相WAIC 国产算力向互联和系统集成延伸",
-          "url": "https://www.cls.cn/detail/2430308",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时50分 ~ 13时55分]"
         },
         {
           "title": "中国推动全球AI治理迈入合作新阶段",
@@ -254,6 +256,29 @@
           "time_info": "[06时52分 ~ 07时56分]"
         },
         {
+          "title": "中国AI站上全球治理主场",
+          "url": "https://www.douyin.com/hot/2577012",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时20分 ~ 16时21分]"
+        },
+        {
+          "title": "DeepSeek V4「满血版」曝光了！最快明天发布",
+          "url": "https://wallstreetcn.com/articles/3777339",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时54分 ~ 16时21分]"
+        },
+        {
           "title": "AI赋能先进核能凝练八大共识",
           "url": "https://www.toutiao.com/trending/7663872937329430062/",
           "source": "今日头条",
@@ -274,6 +299,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时03分 ~ 05时53分]"
+        },
+        {
+          "title": "环球下周看点：AI交易迎关键考验 财报季、央行决议与中东局势牵动市场",
+          "url": "https://www.cls.cn/detail/2430318",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时46分 ~ 16时21分]"
         },
         {
           "title": "报道：白宫正主导前沿AI模型的访问权限，权力正从科技巨头手中转移",
@@ -375,15 +412,16 @@
           "time_info": "[03时05分 ~ 05时53分]"
         },
         {
-          "title": "环球下周看点：AI交易迎关键考验 财报季、央行决议与中东局势牵动市场",
-          "url": "https://www.cls.cn/detail/2430318",
-          "source": "财联社热门",
+          "title": "AI行业要重新洗牌了",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E8%A1%8C%E4%B8%9A%E8%A6%81%E9%87%8D%E6%96%B0%E6%B4%97%E7%89%8C%E4%BA%86%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
           "ranks": [
-            11
+            18,
+            20
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时46分 ~ 13时55分]"
+          "time_info": "[13时54分 ~ 16时21分]"
         },
         {
           "title": "国产AI算力迈入万卡集群时代：超节点市场刚起步，供应链依旧紧张",
@@ -395,6 +433,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时05分 ~ 05时53分]"
+        },
+        {
+          "title": "世界人工智能大会有何看点",
+          "url": "https://www.douyin.com/hot/2575956",
+          "source": "抖音",
+          "ranks": [
+            23,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 16时21分]"
         },
         {
           "title": "AI风向标！甲骨文债券CDS升至历史新高",
@@ -420,17 +470,6 @@
           "time_info": "[01时03分 ~ 06时52分]"
         },
         {
-          "title": "DeepSeek V4「满血版」曝光了！最快明天发布",
-          "url": "https://wallstreetcn.com/articles/3777339",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时54分 ~ 13时55分]"
-        },
-        {
           "title": "WAIC AI会客厅回顾",
           "url": "https://search.bilibili.com/all?keyword=WAIC%20AI%E4%BC%9A%E5%AE%A2%E5%8E%85%E5%9B%9E%E9%A1%BE",
           "source": "bilibili 热搜",
@@ -454,6 +493,17 @@
           "time_info": "[10时47分 ~ 13时55分]"
         },
         {
+          "title": "直击WAIC 2026：“全球AI for ADANES核能智能体系”来了，破解核安全与AI黑箱难题",
+          "url": "https://www.cls.cn/detail/2430367",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时20分 ~ 16时21分]"
+        },
+        {
           "title": "响应“AI牛股”激励风向 阿斯麦将向全体员工发放2万欧元大红包",
           "url": "https://www.cls.cn/detail/2430037",
           "source": "财联社热门",
@@ -465,15 +515,37 @@
           "time_info": "[01时03分 ~ 01时04分]"
         },
         {
-          "title": "AI行业要重新洗牌了",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E8%A1%8C%E4%B8%9A%E8%A6%81%E9%87%8D%E6%96%B0%E6%B4%97%E7%89%8C%E4%BA%86%23&t=31&band_rank=18&Refer=top",
+          "title": "世界两大AI组织都是狠角色",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E4%B8%A4%E5%A4%A7AI%E7%BB%84%E7%BB%87%E9%83%BD%E6%98%AF%E7%8B%A0%E8%A7%92%E8%89%B2&t=31&band_rank=15&Refer=top",
           "source": "微博",
           "ranks": [
-            18
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时54分 ~ 13时55分]"
+          "time_info": "[16时20分 ~ 16时21分]"
+        },
+        {
+          "title": "WAIC的这个重点你get了吗",
+          "url": "https://www.douyin.com/hot/2576301",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时20分 ~ 16时21分]"
+        },
+        {
+          "title": "参加 2026 世界人工智能大会 (WAIC) 是一种怎样的体验？",
+          "url": "https://www.zhihu.com/question/2060398351212700649",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时20分 ~ 16时21分]"
         },
         {
           "title": "高考估分715查分299系AI生成",
@@ -488,17 +560,6 @@
           "time_info": "[10时46分 ~ 10时47分]"
         },
         {
-          "title": "世界人工智能大会有何看点",
-          "url": "https://www.douyin.com/hot/2575956",
-          "source": "抖音",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
-        },
-        {
           "title": "觅蜂科技姚卯青：物理AI要实现规模化，必须突破三道“墙”",
           "url": "https://wallstreetcn.com/livenews/3136120",
           "source": "华尔街见闻-快讯",
@@ -510,15 +571,37 @@
           "time_info": "10时47分"
         },
         {
+          "title": "百型智能在WAIC发布企业本体OntoZ",
+          "url": "https://wallstreetcn.com/livenews/3136172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
           "title": "智元姚卯青：模型与数据飞轮，是物理AI持续进化的关键",
           "url": "https://wallstreetcn.com/livenews/3136141",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
+        },
+        {
+          "title": "中国平安亮相世界人工智能大会，发布医疗、保险、支付领域最新AI成果",
+          "url": "https://flash.jin10.com/detail/20260719152301120800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "多份AI安全治理成果在上海集中发布",
@@ -576,15 +659,37 @@
           "time_info": "10时47分"
         },
         {
+          "title": "乐奇Rokid携原生操作系统YodaOS亮相WAIC 2026",
+          "url": "https://wallstreetcn.com/livenews/3136165",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
           "title": "不筹量子发布原子量子人工智能基座“量筹一号”",
           "url": "https://wallstreetcn.com/livenews/3136133",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
+        },
+        {
+          "title": "中科闻歌WAIC 2026发布完整AI决策产品体系",
+          "url": "https://wallstreetcn.com/livenews/3136161",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "后摩智能WAIC展出M50芯片落地的多款AI终端，10W功耗下算力达160 TOPS",
@@ -593,9 +698,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
+        },
+        {
+          "title": "中国平安发布“专病AI产品矩阵”",
+          "url": "https://wallstreetcn.com/livenews/3136160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "日媒：印企越来越依赖中国AI大模型",
@@ -620,6 +736,28 @@
           "time_info": "10时47分"
         },
         {
+          "title": "长三角人工智能协同投资平台共建签约",
+          "url": "https://flash.jin10.com/detail/20260719141411430800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
+          "title": "长三角人工智能协同投资平台共建签约",
+          "url": "https://wallstreetcn.com/livenews/3136157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
           "title": "上海“星枢计划”首发星座在WAIC正式发布",
           "url": "https://wallstreetcn.com/livenews/3136051",
           "source": "华尔街见闻-快讯",
@@ -629,6 +767,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "心言集团首款家庭主动智能陪伴机器人巴布亮相世界人工智能大会",
+          "url": "https://wallstreetcn.com/livenews/3136154",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "寻汇联合万事达卡发布B2B行业首份AI智能体全球支付白皮书",
