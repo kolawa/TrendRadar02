@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T21:47:49.337608+08:00",
-  "total_titles_processed": 1377,
+  "generated_at": "2026-07-24T23:40:44.143357+08:00",
+  "total_titles_processed": 1508,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 58,
+      "match_count": 70,
       "titles": [
         {
           "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             2,
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时04分 ~ 21时47分]"
+          "appearance_count": 12,
+          "time_info": "[06时04分 ~ 23时40分]"
         },
         {
           "title": "谷歌电话会：警告现金流压力将持续，但\"需求仍超过投资增速\"，Gemini 4已启动训练",
@@ -94,6 +95,18 @@
           "time_info": "[00时27分 ~ 04时14分]"
         },
         {
+          "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
+          "url": "https://www.zhihu.com/question/2063832242242184073",
+          "source": "知乎",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时44分 ~ 23时40分]"
+        },
+        {
           "title": "对话｜请人工智能反腐，这个国家用上“AI部长”能奏效吗？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33635920",
           "source": "澎湃新闻",
@@ -122,17 +135,6 @@
           "time_info": "[00时27分 ~ 08时02分]"
         },
         {
-          "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
-          "url": "https://www.zhihu.com/question/2063832242242184073",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时44分 ~ 21时47分]"
-        },
-        {
           "title": "AI需求引爆十五年最强增长，英特尔Q2营收增25%大超预期，指引保持高增，盘后拉涨丨财报见闻",
           "url": "https://wallstreetcn.com/articles/3777819",
           "source": "华尔街见闻",
@@ -142,8 +144,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时35分 ~ 21时47分]"
+          "appearance_count": 8,
+          "time_info": "[11时35分 ~ 23时40分]"
         },
         {
           "title": "黄仁勋谈中国AI模型：非常优秀，就该用",
@@ -197,7 +199,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时47分"
         },
@@ -261,6 +263,18 @@
           "time_info": "[19时45分 ~ 21时47分]"
         },
         {
+          "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时44分 ~ 23时40分]"
+        },
+        {
           "title": "中国AI大反超，美国还能挡多久？",
           "url": "https://news.ifeng.com/c/8uzcXG8YK32",
           "source": "凤凰网",
@@ -290,17 +304,6 @@
           "ranks": [
             9,
             10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时44分 ~ 21时47分]"
-        },
-        {
-          "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -374,6 +377,17 @@
           "time_info": "[14时28分 ~ 14时29分]"
         },
         {
+          "title": "AI还原非法坐滩的人怎么生活",
+          "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E9%9D%9E%E6%B3%95%E5%9D%90%E6%BB%A9%E7%9A%84%E4%BA%BA%E6%80%8E%E4%B9%88%E7%94%9F%E6%B4%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
           "title": "新加坡政府投资公司GIC：对人工智能投资采取审慎态度；聚焦先进半导体制造与设计。",
           "url": "https://flash.jin10.com/detail/20260724055905165800",
           "source": "金十数据",
@@ -407,6 +421,17 @@
           "time_info": "00时27分"
         },
         {
+          "title": "APEC人工智能高级别论坛关于促进亚太地区人工智能发展的声明",
+          "url": "https://wallstreetcn.com/livenews/3139538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
           "title": "xAI：将GROK 4.5推出至iOS、Android、Web和X。",
           "url": "https://flash.jin10.com/detail/20260723235349553800",
           "source": "金十数据",
@@ -418,6 +443,28 @@
           "time_info": "00时27分"
         },
         {
+          "title": "AI烧钱担忧叠加中东局势，纳斯达克100指数跌幅扩大至1.2%，存储芯片板块重挫逾6%，SK海力士跌7%，油价跌超2%",
+          "url": "https://wallstreetcn.com/articles/3777833",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
+          "title": "谷歌公司签署《欧盟人工智能法案》透明度行为准则。 谷歌说：该欧盟准则涉及人工智能（AI）生成内容的透明度。",
+          "url": "https://wallstreetcn.com/livenews/3139536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
           "title": "据商业技术新闻网站ZDNet：SK海力士正在加速研发3D堆叠式DRAM，该技术被认为是面向终端AI的下一代DRAM。该公司最近开始招募人才，与一家美国客户合作共同设计相关技术。",
           "url": "https://flash.jin10.com/detail/20260724142131130800",
           "source": "金十数据",
@@ -427,6 +474,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
+        },
+        {
+          "title": "大摩警告：AI存储狂欢接近拐点，内存价格或于四季度见顶",
+          "url": "https://wallstreetcn.com/articles/3777849",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "OpenAI：ChatGPT语音功能现在已在桌面应用中上线。",
@@ -484,6 +542,17 @@
           "time_info": "08时02分"
         },
         {
+          "title": "APEC人工智能高级别论坛关于促进亚太地区人工智能发展的声明",
+          "url": "https://flash.jin10.com/detail/20260724225527330800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
           "title": "英伟达与韩国科学技术院（KAIST）联合设立AI研究实验室，旨在加速韩国的AI创新。",
           "url": "https://flash.jin10.com/detail/20260724070730557800",
           "source": "金十数据",
@@ -495,6 +564,39 @@
           "time_info": "08时02分"
         },
         {
+          "title": "谷歌(GOOG.O)：欧盟关于人工智能生成内容透明度的法规，是基于2025年签署通用人工智能（GPAI）行为准则的延续。",
+          "url": "https://flash.jin10.com/detail/20260724225323034800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
+          "title": "AI重现狼牙山五壮士英雄壮举",
+          "url": "https://www.toutiao.com/trending/7666058970050183209/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
+          "title": "谷歌(GOOG.O)签署欧盟人工智能法案透明度行为准则。",
+          "url": "https://flash.jin10.com/detail/20260724225207706800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
           "title": "AMD(AMD.O)与Cerebras系统将推出结合AMD Helios GPU服务器机架与Cerebras晶圆级芯片的AI推理方案。",
           "url": "https://flash.jin10.com/detail/20260724014051428800",
           "source": "金十数据",
@@ -504,6 +606,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
+        },
+        {
+          "title": "25家科技巨头联名施压特朗普：切勿全面限制开放权重AI模型",
+          "url": "https://flash.jin10.com/detail/20260724224925524800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "OpenAI：预计将大规模部署AMD的Helios。",
@@ -526,6 +639,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
+        },
+        {
+          "title": "朋友圈开始用AI照片代替旅游照",
+          "url": "https://s.weibo.com/weibo?q=%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%BC%80%E5%A7%8B%E7%94%A8AI%E7%85%A7%E7%89%87%E4%BB%A3%E6%9B%BF%E6%97%85%E6%B8%B8%E7%85%A7&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "小马智行、中国外运成立物流科技公司 含多项AI业务",
@@ -647,6 +771,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时36分"
+        },
+        {
+          "title": "7月24日，微软联合IBM、Meta、等20余家美国科技公司发表名为《开放权重与美国人工智能领导力》的公开信，呼吁开放权重AI模型。 公开信认为，1. 开放权重扩大了对 AI 经济的参与途径。 开放权重强化了市场竞争。 开放权重赋予客户更大的控制权。 开放与 AI 安全及保障。",
+          "url": "https://wallstreetcn.com/livenews/3139514",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "为何美国正失去中国AI人才",
