@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29T15:45:27.773750+08:00",
-  "total_titles_processed": 1043,
+  "generated_at": "2026-07-29T18:41:29.525675+08:00",
+  "total_titles_processed": 1220,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 51,
+      "match_count": 57,
       "titles": [
         {
           "title": "AI泡沫的金丝雀，刚刚死去.....",
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时29分 ~ 15时45分]"
+          "appearance_count": 15,
+          "time_info": "[01时29分 ~ 18时41分]"
         },
         {
           "title": "关键时刻惠誉也来泼冷水：AI市场回调正成为全球主要信用风险",
@@ -98,6 +98,19 @@
           "time_info": "[07时01分 ~ 15时44分]"
         },
         {
+          "title": "费城半导体指数跌破11200点关键支撑，AI牛市悬了！",
+          "url": "https://wallstreetcn.com/articles/3778137",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时01分 ~ 18时41分]"
+        },
+        {
           "title": "康宁三季度业绩指引略逊预期 AI光通信业务增速放缓 股价盘中跌近20%",
           "url": "https://www.cls.cn/detail/2439413",
           "source": "财联社热门",
@@ -124,16 +137,16 @@
           "time_info": "[01时29分 ~ 12时14分]"
         },
         {
-          "title": "费城半导体指数跌破11200点关键支撑，AI牛市悬了！",
-          "url": "https://wallstreetcn.com/articles/3778137",
-          "source": "华尔街见闻",
+          "title": "如何看待某历史学老师在期中考试的题目中加入白色隐藏文字，导致 35 位学生中的 32 位因使用 AI 成绩不及格？",
+          "url": "https://www.zhihu.com/question/2065158710427751418",
+          "source": "知乎",
           "ranks": [
-            10,
-            8
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时01分 ~ 15时45分]"
+          "appearance_count": 4,
+          "time_info": "[15时44分 ~ 18时41分]"
         },
         {
           "title": "AI公司 原版书籍销毁",
@@ -196,15 +209,17 @@
           "time_info": "[08时05分 ~ 08时06分]"
         },
         {
-          "title": "如何看待某历史学老师在期中考试的题目中加入白色隐藏文字，导致 35 位学生中的 32 位因使用 AI 成绩不及格？",
-          "url": "https://www.zhihu.com/question/2065158710427751418",
-          "source": "知乎",
+          "title": "股价仍跌超10%！SK海力士电话会：未见AI投资放缓迹象，HBM4已提前量产，长协不会导致供应过剩",
+          "url": "https://wallstreetcn.com/articles/3778177",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            10,
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时44分 ~ 15时45分]"
+          "appearance_count": 6,
+          "time_info": "[12时13分 ~ 18时41分]"
         },
         {
           "title": "外交部批日本右翼势力借助人工智能歪曲侵华历史",
@@ -213,7 +228,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时45分"
         },
@@ -243,18 +258,6 @@
           "time_info": "[07时02分 ~ 08时06分]"
         },
         {
-          "title": "股价仍跌超10%！SK海力士电话会：未见AI投资放缓迹象，HBM4已提前量产，长协不会导致供应过剩",
-          "url": "https://wallstreetcn.com/articles/3778177",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时13分 ~ 15时45分]"
-        },
-        {
           "title": "AI算力需求催热上半年业绩，行业人士称MLCC产业链高景气度下半年将延续",
           "url": "https://wallstreetcn.com/livenews/3141230",
           "source": "华尔街见闻-快讯",
@@ -278,6 +281,50 @@
           "time_info": "[12时13分 ~ 12时14分]"
         },
         {
+          "title": "AI存储需求炸裂，希捷上季营收超预期增近50%、毛利率大幅跃升突破50%，指引更强劲｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778163",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 18时41分]"
+        },
+        {
+          "title": "【焦点复盘】双创指数现放量“深V”，游戏等AI应用端持续回暖，长鑫科技午后一度涨近15%",
+          "url": "https://www.cls.cn/detail/2440260",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 18时41分]"
+        },
+        {
+          "title": "赢学入脑,法国声称AI超中国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356609&amp;topic_name=%E8%B5%A2%E5%AD%A6%E5%85%A5%E8%84%91%2C%E6%B3%95%E5%9B%BD%E5%A3%B0%E7%A7%B0AI%E8%B6%85%E4%B8%AD%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 18时41分]"
+        },
+        {
+          "title": "明星为什么愿意把脸“卖”给AI",
+          "url": "https://www.baidu.com/s?wd=%E6%98%8E%E6%98%9F%E4%B8%BA%E4%BB%80%E4%B9%88%E6%84%BF%E6%84%8F%E6%8A%8A%E8%84%B8%E2%80%9C%E5%8D%96%E2%80%9D%E7%BB%99AI",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 18时41分]"
+        },
+        {
           "title": "OpenAI模型失控新的受害者曝光",
           "url": "https://www.baidu.com/s?wd=OpenAI%E6%A8%A1%E5%9E%8B%E5%A4%B1%E6%8E%A7%E6%96%B0%E7%9A%84%E5%8F%97%E5%AE%B3%E8%80%85%E6%9B%9D%E5%85%89",
           "source": "百度热搜",
@@ -287,6 +334,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时13分 ~ 12时14分]"
+        },
+        {
+          "title": "AI剧能火靠的不是算法是人心",
+          "url": "https://s.weibo.com/weibo?q=AI%E5%89%A7%E8%83%BD%E7%81%AB%E9%9D%A0%E7%9A%84%E4%B8%8D%E6%98%AF%E7%AE%97%E6%B3%95%E6%98%AF%E4%BA%BA%E5%BF%83&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 18时41分]"
         },
         {
           "title": "抖火杯AI番外大电影",
@@ -317,7 +375,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时45分"
         },
@@ -350,7 +408,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时45分"
         },
@@ -372,7 +430,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时45分"
         },
@@ -427,7 +485,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时45分"
         },
@@ -463,6 +521,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
+        },
+        {
+          "title": "浙江：聚焦集成电路、智能物联、高端软件 推动人工智能与信息技术产业深度融合",
+          "url": "https://wallstreetcn.com/livenews/3141600",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
         },
         {
           "title": "SK海力士(SKHY.O)：随着供应紧张缓解和人工智能应用扩展，智能手机和个人电脑的增长势头预计将逐步恢复。",
