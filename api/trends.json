@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T14:29:59.626645+08:00",
-  "total_titles_processed": 946,
+  "generated_at": "2026-07-30T17:32:54.928642+08:00",
+  "total_titles_processed": 1140,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 37,
+      "match_count": 41,
       "titles": [
         {
           "title": "法学何为｜张凌寒：法律如何回应人工智能时代的责任追问？",
@@ -15,11 +15,12 @@
             17,
             15,
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时16分 ~ 14时29分]"
+          "appearance_count": 9,
+          "time_info": "[01时16分 ~ 17时32分]"
         },
         {
           "title": "KT宫斗实锤,Aiming被抬走",
@@ -28,11 +29,12 @@
           "ranks": [
             8,
             11,
-            16
+            16,
+            24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时16分 ~ 14时29分]"
+          "appearance_count": 9,
+          "time_info": "[01时16分 ~ 17时32分]"
         },
         {
           "title": "AI漫剧走红,国动流量狂跌",
@@ -61,6 +63,19 @@
           "time_info": "[01时16分 ~ 14时29分]"
         },
         {
+          "title": "微软上季云+AI强劲答卷：Azure收入增超40%，资本支出低于预期，新增数据中心租约超1300亿｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778264",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时18分 ~ 17时32分]"
+        },
+        {
           "title": "曝多家 AI 公司大量收购旧书训练模型后销毁，此前先例被法院认定合理，这会成为常态吗？可能带来哪些影响？",
           "url": "https://www.zhihu.com/question/2065707692950123437",
           "source": "知乎",
@@ -69,20 +84,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时18分 ~ 14时29分]"
+          "appearance_count": 3,
+          "time_info": "[11时18分 ~ 17时32分]"
         },
         {
-          "title": "微软上季云+AI强劲答卷：Azure收入增超40%，资本支出低于预期，新增数据中心租约超1300亿｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778264",
+          "title": "沃什：2%通胀目标不动摇，保持独立性，关注AI变革（附全文）",
+          "url": "https://wallstreetcn.com/articles/3778258",
           "source": "华尔街见闻",
           "ranks": [
-            3,
-            2
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时18分 ~ 14时29分]"
+          "appearance_count": 3,
+          "time_info": "[11时18分 ~ 17时32分]"
         },
         {
           "title": "股价仍跌超10%！SK海力士电话会：未见AI投资放缓迹象，HBM4已提前量产，长协不会导致供应过剩",
@@ -94,17 +109,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时16分 ~ 06时03分]"
-        },
-        {
-          "title": "沃什：2%通胀目标不动摇，保持独立性，关注AI变革（附全文）",
-          "url": "https://wallstreetcn.com/articles/3778258",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时18分 ~ 14时29分]"
         },
         {
           "title": "有说法称印度成首个被 AI 做空的国家，真的是这样吗？会对印度经济产生哪些影响？",
@@ -165,6 +169,17 @@
           "time_info": "04时58分"
         },
         {
+          "title": "硅谷烧书训AI,焚书坑儒2.0",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356640&amp;topic_name=%E7%A1%85%E8%B0%B7%E7%83%A7%E4%B9%A6%E8%AE%ADAI%2C%E7%84%9A%E4%B9%A6%E5%9D%91%E5%84%922.0",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
+        },
+        {
           "title": "市场消息：美国将于9月8日在秘鲁首都利马召开人工智能领域峰会。",
           "url": "https://flash.jin10.com/detail/20260730043424625800",
           "source": "金十数据",
@@ -174,6 +189,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
+        },
+        {
+          "title": "为什么 ChatGPT 已经发布 4 年了，社会总生产力纹丝不动？",
+          "url": "https://www.zhihu.com/question/2065583157664018461",
+          "source": "知乎",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时18分 ~ 17时32分]"
         },
         {
           "title": "扎克伯格在电话会上说，开源AI模型并没有前沿模型那么强大。Meta目前跌9.8%。 （但）开源模型在全世界有着“重要的地位”。 开放权重模型的成功并不会削弱API的机会，因为拥有运行模型推理的计算能力是商业优势的来源。",
@@ -187,18 +214,6 @@
           "time_info": "06时03分"
         },
         {
-          "title": "为什么 ChatGPT 已经发布 4 年了，社会总生产力纹丝不动？",
-          "url": "https://www.zhihu.com/question/2065583157664018461",
-          "source": "知乎",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时18分 ~ 14时29分]"
-        },
-        {
           "title": "OpenAI 、 Anthropic 等上千员工联名请愿美政府控制 AI 发展速度，反映了什么？有何影响？",
           "url": "https://www.zhihu.com/question/2065729146383071132",
           "source": "知乎",
@@ -209,6 +224,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时18分 ~ 14时29分]"
+        },
+        {
+          "title": "Meta大跌！营收超预期难掩AI投入焦虑，Q3指引逊色、自由现金流创四年新低｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778263",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时29分 ~ 17时32分]"
         },
         {
           "title": "OpenAI首席执行官与美国立法者探讨下一代AI模型",
@@ -239,9 +266,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
+        },
+        {
+          "title": "字节跳动重构ToB版图：飞书与豆包将整合 大厂激战“AI工作入口”",
+          "url": "https://www.cls.cn/detail/2441092",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
         },
         {
           "title": "市场消息：OpenAI首席执行官奥尔特曼在与美国共和党参议员特德·克鲁兹会晤后向记者发表评论，双方讨论了新的人工智能模型，奥尔特曼表达了对人工智能安全法案的支持，但未透露具体细节。",
@@ -255,15 +293,15 @@
           "time_info": "01时16分"
         },
         {
-          "title": "Meta大跌！营收超预期难掩AI投入焦虑，Q3指引逊色、自由现金流创四年新低｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778263",
+          "title": "微软电话会：2026年资本开支“变相”下降，Azure需求持续超越可用容量，AI变现进入加速轨道",
+          "url": "https://wallstreetcn.com/articles/3778268",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时29分"
+          "time_info": "17时32分"
         },
         {
           "title": "美国自动驾驶技术公司Waymo：谷歌的Gemini车载助手现已进入测试阶段，供乘客使用。",
@@ -305,9 +343,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
+        },
+        {
+          "title": "AI 焚书",
+          "url": "https://s.weibo.com/weibo?q=AI%20%E7%84%9A%E4%B9%A6&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
         },
         {
           "title": "美国总统特朗普：（谈论人工智能）正在研究管控AI的措施。",
@@ -338,7 +387,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -415,7 +464,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -426,7 +475,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         }
