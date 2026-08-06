@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T07:01:29.537562+08:00",
-  "total_titles_processed": 541,
+  "generated_at": "2026-08-06T08:07:31.298168+08:00",
+  "total_titles_processed": 638,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "美伊谈判悬而未决，经济数据与AI需求驱动美股走高，SpaceX跌12%、AMD跌7%，黄金涨3%突破4200，布油涨1%",
@@ -39,21 +39,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时38分 ~ 07时01分]"
-        },
-        {
-          "title": "怎么看 OpenAI 提到下一代 Harness 将脱离 PC，两三个月后现在的 Codex 工作方式会淘汰？",
-          "url": "https://www.zhihu.com/question/2068265537105302957",
-          "source": "知乎",
-          "ranks": [
-            8,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时38分 ~ 07时01分]"
+          "appearance_count": 10,
+          "time_info": "[01时38分 ~ 08时07分]"
         },
         {
           "title": "华夏出版社标注「书籍内容禁用于 AI 训练」，这种标注实际约束力有多大？能作为维权依据吗？",
@@ -66,8 +53,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时38分 ~ 07时01分]"
+          "appearance_count": 10,
+          "time_info": "[01时38分 ~ 08时07分]"
         },
         {
           "title": "AI做题吊打日本名校状元",
@@ -75,6 +62,19 @@
           "source": "贴吧",
           "ranks": [
             29
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时38分 ~ 08时07分]"
+        },
+        {
+          "title": "怎么看 OpenAI 提到下一代 Harness 将脱离 PC，两三个月后现在的 Codex 工作方式会淘汰？",
+          "url": "https://www.zhihu.com/question/2068265537105302957",
+          "source": "知乎",
+          "ranks": [
+            8,
+            9,
+            11
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -104,28 +104,6 @@
           "time_info": "03时36分"
         },
         {
-          "title": "外资机构密集发声，AI资本开支拐点隐现",
-          "url": "https://wallstreetcn.com/livenews/3145647",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
-          "title": "Meta旗下AI入侵一公司系统",
-          "url": "https://flash.jin10.com/detail/20260806062228967800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
           "title": "Meta Platforms(META.O)首席人工智能官：Muse Code测试版已上线。这是来自Meta超级智能实验室（MSL）的首个编程智能体，基于Muse Spark 1.2构建。",
           "url": "https://flash.jin10.com/detail/20260806031659563800",
           "source": "金十数据",
@@ -135,6 +113,64 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时36分"
+        },
+        {
+          "title": "外资机构密集发声，AI资本开支拐点隐现",
+          "url": "https://wallstreetcn.com/livenews/3145647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时01分 ~ 08时07分]"
+        },
+        {
+          "title": "Meta旗下AI入侵一公司系统",
+          "url": "https://flash.jin10.com/detail/20260806062228967800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时01分 ~ 08时07分]"
+        },
+        {
+          "title": "“存储ETF”创纪录爆火后，幕后推手再押AI光通信赛道",
+          "url": "https://www.cls.cn/detail/2446788",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 08时07分]"
+        },
+        {
+          "title": "报道：继OpenAI、Anthropic之后，Meta的AI模型也入侵其他公司的系统",
+          "url": "https://wallstreetcn.com/livenews/3145632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时01分 ~ 08时07分]"
+        },
+        {
+          "title": "当没有人再谈论AI",
+          "url": "https://www.toutiao.com/trending/7670659420547714601/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 08时07分]"
         },
         {
           "title": "DeepSeek把Claude拉进“斩杀线”",
@@ -157,6 +193,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时36分"
+        },
+        {
+          "title": "亚洲多策略对冲基金7月出现大幅回撤，因AI概念股遭遇猛烈抛售",
+          "url": "https://wallstreetcn.com/livenews/3145658",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
         },
         {
           "title": "摩根大通CEO戴蒙：市场杠杆相当高。 市场杠杆越高，发生市场动荡的概率就越大。 AI Token相关支出 “将得到控制”。（CNBC）",
@@ -190,17 +237,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
-        },
-        {
-          "title": "报道：继OpenAI、Anthropic之后，Meta的AI模型也入侵其他公司的系统",
-          "url": "https://wallstreetcn.com/livenews/3145632",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时01分"
         },
         {
           "title": "据The Information：阿波罗全球管理公司任命新的人工智能领域负责人，以寻求更多大型融资交易。",
