@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T19:47:19.797792+08:00",
-  "total_titles_processed": 1225,
+  "generated_at": "2026-08-07T21:06:21.974827+08:00",
+  "total_titles_processed": 1332,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时41分 ~ 19时47分]"
+          "appearance_count": 11,
+          "time_info": "[13时41分 ~ 21时06分]"
         },
         {
           "title": "DeepSeek拟上调API服务价格",
@@ -66,6 +66,19 @@
           "time_info": "[13时41分 ~ 18时09分]"
         },
         {
+          "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
+          "url": "https://news.ifeng.com/c/8vOieX1f4iR",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时08分 ~ 21时06分]"
+        },
+        {
           "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
           "url": "https://m.thepaper.cn/newsDetail_forward_33728016",
           "source": "澎湃新闻",
@@ -90,6 +103,18 @@
           "time_info": "[08时00分 ~ 15时18分]"
         },
         {
+          "title": "备战年底“九合一”选举，国民党推出AI发言人“郑小文”",
+          "url": "https://news.ifeng.com/c/8vOWIhxIp5b",
+          "source": "凤凰网",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时01分 ~ 21时06分]"
+        },
+        {
           "title": "中国AI偶像能飞",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BDAI%E5%81%B6%E5%83%8F%E8%83%BD%E9%A3%9E",
           "source": "bilibili 热搜",
@@ -102,6 +127,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[15时17分 ~ 19时47分]"
+        },
+        {
+          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
+          "url": "https://www.zhihu.com/question/2069015264461579129",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时01分 ~ 21时06分]"
         },
         {
           "title": "DeepSeek终于打算激进扩张了",
@@ -150,16 +186,15 @@
           "time_info": "[13时41分 ~ 17时01分]"
         },
         {
-          "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
-          "url": "https://news.ifeng.com/c/8vOieX1f4iR",
-          "source": "凤凰网",
+          "title": "福兮祸兮？美国科学家首次用AI设计出新型病毒……",
+          "url": "https://www.cls.cn/detail/2448228",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            4
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时08分 ~ 19时47分]"
+          "appearance_count": 6,
+          "time_info": "[18时08分 ~ 21时06分]"
         },
         {
           "title": "王兴兴回应DeepSeek参与宇树科技IPO战略配售",
@@ -168,7 +203,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
         },
@@ -209,38 +244,41 @@
           "time_info": "[11时13分 ~ 13时42分]"
         },
         {
-          "title": "备战年底“九合一”选举，国民党推出AI发言人“郑小文”",
-          "url": "https://news.ifeng.com/c/8vOWIhxIp5b",
-          "source": "凤凰网",
+          "title": "中国人能飞AI版vs实拍版",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9EAI%E7%89%88vs%E5%AE%9E%E6%8B%8D%E7%89%88",
+          "source": "bilibili 热搜",
           "ranks": [
-            12,
-            11
+            9,
+            13,
+            12
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[17时01分 ~ 19时47分]"
+          "time_info": "[17时01分 ~ 21时06分]"
         },
         {
-          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
-          "url": "https://www.zhihu.com/question/2069015264461579129",
-          "source": "知乎",
+          "title": "美光管理层传递强势信号：存储的系统价值超过50%，CPU端AI代理需求处于“季前热身”",
+          "url": "https://wallstreetcn.com/articles/3778904",
+          "source": "华尔街见闻",
           "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时01分 ~ 19时47分]"
-        },
-        {
-          "title": "福兮祸兮？美国科学家首次用AI设计出新型病毒……",
-          "url": "https://www.cls.cn/detail/2448228",
-          "source": "财联社热门",
-          "ranks": [
-            11
+            9,
+            10
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[18时08分 ~ 19时47分]"
+          "time_info": "[19时46分 ~ 21时06分]"
+        },
+        {
+          "title": "【焦点复盘】创业板指终结周线6连阴，AI硬件端持续回暖，4600亿CXO龙头创近4年新高",
+          "url": "https://www.cls.cn/detail/2448537",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时46分 ~ 21时06分]"
         },
         {
           "title": "DeepSeek官宣涨价，且“幅度较大”！",
@@ -264,18 +302,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时13分 ~ 13时42分]"
-        },
-        {
-          "title": "中国人能飞AI版vs实拍版",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9EAI%E7%89%88vs%E5%AE%9E%E6%8B%8D%E7%89%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时01分 ~ 19时47分]"
         },
         {
           "title": "美科学家用AI设计出病毒意味着什么",
@@ -324,17 +350,6 @@
           "time_info": "[08时00分 ~ 08时01分]"
         },
         {
-          "title": "美光管理层传递强势信号：存储的系统价值超过50%，CPU端AI代理需求处于“季前热身”",
-          "url": "https://wallstreetcn.com/articles/3778904",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时46分 ~ 19时47分]"
-        },
-        {
           "title": "美国搞AI霸权“封杀”中国遭网友吐槽",
           "url": "https://www.toutiao.com/trending/7670341977426296874/",
           "source": "今日头条",
@@ -355,17 +370,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时41分 ~ 13时42分]"
-        },
-        {
-          "title": "【焦点复盘】创业板指终结周线6连阴，AI硬件端持续回暖，4600亿CXO龙头创近4年新高",
-          "url": "https://www.cls.cn/detail/2448537",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时46分 ~ 19时47分]"
         },
         {
           "title": "美银抛出激进预测：美联储将连续加息三次 AI支出周期不会脱轨",
