@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T19:31:43.409712+08:00",
-  "total_titles_processed": 1301,
+  "generated_at": "2026-08-08T20:50:17.879352+08:00",
+  "total_titles_processed": 1414,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
         {
           "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
@@ -15,11 +15,12 @@
             5,
             7,
             3,
-            4
+            4,
+            18
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时41分 ~ 19时31分]"
+          "appearance_count": 19,
+          "time_info": "[09时41分 ~ 20时50分]"
         },
         {
           "title": "爆仓之后，资本反而扑向\"AI股神\"",
@@ -31,8 +32,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时54分 ~ 19时31分]"
+          "appearance_count": 13,
+          "time_info": "[14时54分 ~ 20时50分]"
         },
         {
           "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
@@ -67,11 +68,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时58分 ~ 19时31分]"
+          "appearance_count": 16,
+          "time_info": "[12时58分 ~ 20时50分]"
         },
         {
           "title": "四大会计事务所的研究报告集体陷入「AI 幻觉」，对咨询行业的公信力会造成怎样的冲击？暴露了什么问题？",
@@ -119,8 +121,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时56分 ~ 19时31分]"
+          "appearance_count": 29,
+          "time_info": "[00时56分 ~ 20时50分]"
         },
         {
           "title": "国民党推出AI发言人“郑小文”迎战民进党",
@@ -142,11 +144,12 @@
             14,
             13,
             15,
-            16
+            16,
+            12
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[04时33分 ~ 19时31分]"
+          "appearance_count": 26,
+          "time_info": "[04时33分 ~ 20时50分]"
         },
         {
           "title": "AI算力浪潮驱动元器件业务增长：松下机电订单排队产能紧张，预计下半年原材料新一轮涨价",
@@ -157,11 +160,12 @@
             15,
             14,
             16,
-            17
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[04时33分 ~ 19时31分]"
+          "appearance_count": 26,
+          "time_info": "[04时33分 ~ 20时50分]"
         },
         {
           "title": "自媒体红利期只剩AI了",
@@ -189,11 +193,12 @@
             24,
             25,
             26,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时56分 ~ 19时31分]"
+          "appearance_count": 29,
+          "time_info": "[00时56分 ~ 20时49分]"
         },
         {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
@@ -234,6 +239,30 @@
           "time_info": "[00时56分 ~ 06时37分]"
         },
         {
+          "title": "为什么体制内至今仍不鼓励用人工智能？",
+          "url": "https://www.zhihu.com/question/2042649810709239000",
+          "source": "知乎",
+          "ranks": [
+            18,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时38分 ~ 20时50分]"
+        },
+        {
+          "title": "AI快问快答,D老师语出惊人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356965&amp;topic_name=AI%E5%BF%AB%E9%97%AE%E5%BF%AB%E7%AD%94%2CD%E8%80%81%E5%B8%88%E8%AF%AD%E5%87%BA%E6%83%8A%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            28,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时34分 ~ 20时50分]"
+        },
+        {
           "title": "OpenAI首席执行官Altman称：正推进Astra全面开放使用。",
           "url": "https://wallstreetcn.com/livenews/3146942",
           "source": "华尔街见闻-快讯",
@@ -247,30 +276,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时35分 ~ 14时55分]"
-        },
-        {
-          "title": "为什么体制内至今仍不鼓励用人工智能？",
-          "url": "https://www.zhihu.com/question/2042649810709239000",
-          "source": "知乎",
-          "ranks": [
-            18,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时38分 ~ 19时31分]"
-        },
-        {
-          "title": "AI快问快答,D老师语出惊人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356965&amp;topic_name=AI%E5%BF%AB%E9%97%AE%E5%BF%AB%E7%AD%94%2CD%E8%80%81%E5%B8%88%E8%AF%AD%E5%87%BA%E6%83%8A%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            28,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时34分 ~ 19时31分]"
         },
         {
           "title": "戚薇谈把脸交给AI",
@@ -378,6 +383,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时51分 ~ 02时59分]"
+        },
+        {
+          "title": "苹果AI 千问",
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9CAI%20%E5%8D%83%E9%97%AE&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时49分 ~ 20时50分]"
+        },
+        {
+          "title": "几元成本的AI广告导致千万市值蒸发",
+          "url": "https://www.baidu.com/s?wd=%E5%87%A0%E5%85%83%E6%88%90%E6%9C%AC%E7%9A%84AI%E5%B9%BF%E5%91%8A%E5%AF%BC%E8%87%B4%E5%8D%83%E4%B8%87%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时49分 ~ 20时50分]"
         },
         {
           "title": "用AI造出新病毒意味着什么",
