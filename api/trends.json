@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T19:31:34.975340+08:00",
-  "total_titles_processed": 1172,
+  "generated_at": "2026-08-09T20:52:34.856832+08:00",
+  "total_titles_processed": 1270,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "爆仓之后，资本反而扑向\"AI股神\"",
@@ -40,8 +40,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时44分 ~ 19时31分]"
+          "appearance_count": 14,
+          "time_info": "[11时44分 ~ 20时52分]"
+        },
+        {
+          "title": "首个全国产10万卡AI超集群投用",
+          "url": "https://www.baidu.com/s?wd=%E9%A6%96%E4%B8%AA%E5%85%A8%E5%9B%BD%E4%BA%A710%E4%B8%87%E5%8D%A1AI%E8%B6%85%E9%9B%86%E7%BE%A4%E6%8A%95%E7%94%A8",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时56分 ~ 20时52分]"
         },
         {
           "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
@@ -55,17 +66,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时34分 ~ 07时31分]"
-        },
-        {
-          "title": "首个全国产10万卡AI超集群投用",
-          "url": "https://www.baidu.com/s?wd=%E9%A6%96%E4%B8%AA%E5%85%A8%E5%9B%BD%E4%BA%A710%E4%B8%87%E5%8D%A1AI%E8%B6%85%E9%9B%86%E7%BE%A4%E6%8A%95%E7%94%A8",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时56分 ~ 19时31分]"
         },
         {
           "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
@@ -110,11 +110,12 @@
             12,
             13,
             14,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时34分 ~ 19时31分]"
+          "appearance_count": 30,
+          "time_info": "[00时34分 ~ 20时52分]"
         },
         {
           "title": "AI硬件涨价潮传导3C租赁：需求翻倍，租赁商拆售显卡内存|一线",
@@ -127,8 +128,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时34分 ~ 19时31分]"
+          "appearance_count": 30,
+          "time_info": "[00时34分 ~ 20时52分]"
         },
         {
           "title": "马上评｜AI演员带货，真人演员授权：AI时代如何重构信任关系",
@@ -191,6 +192,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[13时06分 ~ 17时41分]"
+        },
+        {
+          "title": "2026中国AI盛典",
+          "url": "https://s.weibo.com/weibo?q=2026%E4%B8%AD%E5%9B%BDAI%E7%9B%9B%E5%85%B8&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时51分 ~ 20时52分]"
         },
         {
           "title": "如何看待 OpenCode Go 订阅中 DeepSeek v4 Flash 开启限时双倍活动？",
@@ -329,6 +341,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时06分 ~ 13时07分]"
+        },
+        {
+          "title": "哈马斯高级官员Basem Naim：预计调停人和美国将“施压以色列总理内塔尼亚胡和他的政府”遵守（加沙和平）路线图。 我们仍然尊重十天前同调停方、和平委员会在埃及开罗达成的路线图共识。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3147083",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
         },
         {
           "title": "AI是否能帮助数学实现大突破",
