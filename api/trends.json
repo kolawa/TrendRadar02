@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T13:07:09.642838+08:00",
-  "total_titles_processed": 791,
+  "generated_at": "2026-08-09T14:58:38.728403+08:00",
+  "total_titles_processed": 868,
   "failed_sources": [],
   "trends": [
     {
@@ -54,8 +54,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时34分 ~ 13时07分]"
+          "appearance_count": 21,
+          "time_info": "[00时34分 ~ 14时58分]"
         },
         {
           "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
@@ -99,8 +99,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时34分 ~ 13时07分]"
+          "appearance_count": 21,
+          "time_info": "[00时34分 ~ 14时58分]"
         },
         {
           "title": "马上评｜AI演员带货，真人演员授权：AI时代如何重构信任关系",
@@ -115,8 +115,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时34分 ~ 13时07分]"
+          "appearance_count": 20,
+          "time_info": "[00时34分 ~ 14时58分]"
         },
         {
           "title": "当AI反过来问你问题",
@@ -138,11 +138,12 @@
           "url": "https://wallstreetcn.com/articles/3778996",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时44分 ~ 13时07分]"
+          "appearance_count": 5,
+          "time_info": "[11时44分 ~ 14时58分]"
         },
         {
           "title": "如何看待 OpenCode Go 订阅中 DeepSeek v4 Flash 开启限时双倍活动？",
@@ -175,11 +176,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时44分 ~ 13时07分]"
+          "appearance_count": 3,
+          "time_info": "[11时44分 ~ 14时58分]"
+        },
+        {
+          "title": "AI推理前瞻——从基础设施建设到商业化变现",
+          "url": "https://wallstreetcn.com/articles/3778997",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时06分 ~ 14时58分]"
         },
         {
           "title": "大爷听AI洒农药 150亩苗一夜枯萎",
@@ -193,6 +207,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时46分 ~ 13时06分]"
+        },
+        {
+          "title": "拯救悲剧股神后又当新娘！Anthropic幕僚长自述：在AI前沿寻找上帝",
+          "url": "https://wallstreetcn.com/articles/3779002",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时06分 ~ 14时58分]"
         },
         {
           "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
@@ -251,17 +276,6 @@
           "time_info": "[09时46分 ~ 09时47分]"
         },
         {
-          "title": "AI推理前瞻——从基础设施建设到商业化变现",
-          "url": "https://wallstreetcn.com/articles/3778997",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时06分 ~ 13时07分]"
-        },
-        {
           "title": "非农转负的另一种读法：贝莱德固收CIO称AI正让就业数据失效，加息“已无意义”",
           "url": "https://wallstreetcn.com/articles/3778981",
           "source": "华尔街见闻",
@@ -271,17 +285,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时30分 ~ 07时31分]"
-        },
-        {
-          "title": "拯救悲剧股神后又当新娘！Anthropic幕僚长自述：在AI前沿寻找上帝",
-          "url": "https://wallstreetcn.com/articles/3779002",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时06分 ~ 13时07分]"
         },
         {
           "title": "苹果AI 千问",
