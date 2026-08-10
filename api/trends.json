@@ -1,22 +1,37 @@
 {
-  "generated_at": "2026-08-11T06:39:12.939273+08:00",
-  "total_titles_processed": 525,
+  "generated_at": "2026-08-11T07:37:23.251825+08:00",
+  "total_titles_processed": 580,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 31,
+      "match_count": 35,
       "titles": [
         {
           "title": "MLCC供应告急引发抢货潮！国巨：越来越多AI客户抢签长协锁定产能",
           "url": "https://wallstreetcn.com/articles/3779065",
           "source": "华尔街见闻",
           "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时06分 ~ 07时37分]"
+        },
+        {
+          "title": "Meta发布小型AI模型，一块显卡即可本地运行，扎克伯格喊话美国政府：降低对开源AI的准入门槛",
+          "url": "https://wallstreetcn.com/articles/3779081",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5,
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 06时39分]"
+          "appearance_count": 10,
+          "time_info": "[00时06分 ~ 07时37分]"
         },
         {
           "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
@@ -28,32 +43,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 06时39分]"
-        },
-        {
-          "title": "Meta发布小型AI模型，一块显卡即可本地运行，扎克伯格喊话美国政府：降低对开源AI的准入门槛",
-          "url": "https://wallstreetcn.com/articles/3779081",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 06时39分]"
+          "appearance_count": 10,
+          "time_info": "[00时06分 ~ 07时37分]"
         },
         {
           "title": "【焦点复盘】微盘股指数7连涨站上年线，全市场近百股涨停，AI赋能持续催热创新药概念",
           "url": "https://www.cls.cn/detail/2450137",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 06时39分]"
+          "appearance_count": 10,
+          "time_info": "[00时06分 ~ 07时37分]"
         },
         {
           "title": "AI挤占短剧业,真人演员遭偷家",
@@ -63,8 +66,20 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 06时39分]"
+          "appearance_count": 10,
+          "time_info": "[00时06分 ~ 07时37分]"
+        },
+        {
+          "title": "孙女用AI把奶奶P进《西游记》",
+          "url": "https://www.toutiao.com/trending/7672253690623508506/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时38分 ~ 07时37分]"
         },
         {
           "title": "英伟达(NVDA.O)CEO黄仁勋：人工智能实验室和人工智能初创公司需要计算能力。",
@@ -173,6 +188,17 @@
           "time_info": "[05时43分 ~ 06时39分]"
         },
         {
+          "title": "胡锡进警惕AI消灭行业剥夺饭碗",
+          "url": "https://s.weibo.com/weibo?q=%E8%83%A1%E9%94%A1%E8%BF%9B%E8%AD%A6%E6%83%95AI%E6%B6%88%E7%81%AD%E8%A1%8C%E4%B8%9A%E5%89%A5%E5%A4%BA%E9%A5%AD%E7%A2%97&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时36分 ~ 07时37分]"
+        },
+        {
           "title": "大摩：计划未来十年促成最高1.5万亿美元资金，用于美国创新基建计划，涵盖AI、半导体等战略领域",
           "url": "https://wallstreetcn.com/livenews/3147686",
           "source": "华尔街见闻-快讯",
@@ -183,17 +209,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时43分 ~ 06时39分]"
-        },
-        {
-          "title": "孙女用AI把奶奶P进《西游记》",
-          "url": "https://www.toutiao.com/trending/7672253690623508506/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时38分 ~ 06时39分]"
         },
         {
           "title": "AI服务器抢内存为何要买手机的人买单",
@@ -230,6 +245,17 @@
           "time_info": "02时59分"
         },
         {
+          "title": "取消涨价50%计划：Anthropic永久锁定Sonnet 5低价，AI代理成本趋稳",
+          "url": "https://wallstreetcn.com/livenews/3147724",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时37分"
+        },
+        {
           "title": "OpenAI刊发针对AI基础设施问题向美国得州州长发送的信函。",
           "url": "https://wallstreetcn.com/livenews/3147639",
           "source": "华尔街见闻-快讯",
@@ -239,6 +265,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
+        },
+        {
+          "title": "谷歌AI团队告知求职者：其HR筛选系统不可靠",
+          "url": "https://wallstreetcn.com/livenews/3147721",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时37分"
         },
         {
           "title": "英伟达(NVDA.O)CEO黄仁勋：（谈5000亿美元AI基建融资计划）相关交易将支持人工智能的广泛应用。资金全部来自第三方资本。",
@@ -316,6 +353,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
+        },
+        {
+          "title": "券商密集上调科技股评级，AI产业链最受青睐",
+          "url": "https://wallstreetcn.com/livenews/3147716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时37分"
         },
         {
           "title": "英伟达(NVDA.O)：全新融资平台将英伟达计算和全栈人工智能基础设施转变为全球资本可投资的资产类别。",
