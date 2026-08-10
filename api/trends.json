@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T11:57:31.482665+08:00",
-  "total_titles_processed": 840,
+  "generated_at": "2026-08-10T13:29:09.020429+08:00",
+  "total_titles_processed": 947,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
@@ -54,8 +54,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时36分 ~ 11时57分]"
+          "appearance_count": 21,
+          "time_info": "[00时36分 ~ 13时29分]"
         },
         {
           "title": "AI快问快答,D老师语出惊人",
@@ -66,8 +66,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时36分 ~ 11时57分]"
+          "appearance_count": 21,
+          "time_info": "[00时36分 ~ 13时29分]"
         },
         {
           "title": "“木头姐”：就业数据未显衰退，AI正驱动美国经济进入通缩与高生产率新周期",
@@ -81,6 +81,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时37分 ~ 07时33分]"
+        },
+        {
+          "title": "为什么程序员大多都拥抱 AI，而音乐人却抗拒并隔离 AI 音乐池？",
+          "url": "https://www.zhihu.com/question/2063944037544023265",
+          "source": "知乎",
+          "ranks": [
+            7,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时50分 ~ 13时29分]"
         },
         {
           "title": "数学家张寿武获颁基础科学奖章，笑称“不敢跟AI交流”",
@@ -109,18 +122,6 @@
           "time_info": "[00时36分 ~ 07时33分]"
         },
         {
-          "title": "为什么程序员大多都拥抱 AI，而音乐人却抗拒并隔离 AI 音乐池？",
-          "url": "https://www.zhihu.com/question/2063944037544023265",
-          "source": "知乎",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时50分 ~ 11时57分]"
-        },
-        {
           "title": "67 岁农户听信 AI 喷农药致 150 亩地一夜枯萎，老人听 AI 翻车的事层出不穷，有啥办法能帮助他们辨别吗？",
           "url": "https://www.zhihu.com/question/2069770698055050765",
           "source": "知乎",
@@ -128,19 +129,43 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时56分 ~ 11时57分]"
+          "appearance_count": 4,
+          "time_info": "[11时56分 ~ 13时29分]"
         },
         {
           "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
           "url": "https://wallstreetcn.com/articles/3779038",
           "source": "华尔街见闻",
           "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时56分 ~ 13时29分]"
+        },
+        {
+          "title": "建议每个人都用AI做的三件事",
+          "url": "https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E6%AF%8F%E4%B8%AA%E4%BA%BA%E9%83%BD%E7%94%A8AI%E5%81%9A%E7%9A%84%E4%B8%89%E4%BB%B6%E4%BA%8B&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时56分 ~ 13时29分]"
+        },
+        {
+          "title": "高盛：中国AI板块不存在整体泡沫 三大细分领域最具投资价值",
+          "url": "https://www.cls.cn/detail/2449732",
+          "source": "财联社热门",
+          "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时56分 ~ 11时57分]"
+          "time_info": "[13时28分 ~ 13时29分]"
         },
         {
           "title": "期刊《中国经济问题》发布AI使用规范：不得替代作者开展实质性研究",
@@ -152,17 +177,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时36分 ~ 00时37分]"
-        },
-        {
-          "title": "建议每个人都用AI做的三件事",
-          "url": "https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E6%AF%8F%E4%B8%AA%E4%BA%BA%E9%83%BD%E7%94%A8AI%E5%81%9A%E7%9A%84%E4%B8%89%E4%BB%B6%E4%BA%8B&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时56分 ~ 11时57分]"
         },
         {
           "title": "港股AI应用板块走强，文远知行-W(00800.HK)涨超%，智谱(02513.HK)、MINIMAX-W(00100.HK)涨超4%阅文集团(00772.HK)、小马智行-W(02026.HK)等跟涨。",
@@ -204,7 +218,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时57分"
         }
