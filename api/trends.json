@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T07:37:23.251825+08:00",
-  "total_titles_processed": 580,
+  "generated_at": "2026-08-11T09:47:30.768920+08:00",
+  "total_titles_processed": 760,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 35,
+      "match_count": 42,
       "titles": [
         {
           "title": "MLCC供应告急引发抢货潮！国巨：越来越多AI客户抢签长协锁定产能",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时06分 ~ 07时37分]"
+          "appearance_count": 12,
+          "time_info": "[00时06分 ~ 09时47分]"
         },
         {
           "title": "Meta发布小型AI模型，一块显卡即可本地运行，扎克伯格喊话美国政府：降低对开源AI的准入门槛",
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时06分 ~ 07时37分]"
+          "appearance_count": 12,
+          "time_info": "[00时06分 ~ 09时47分]"
         },
         {
           "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
@@ -63,11 +63,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357005&amp;topic_name=AI%E6%8C%A4%E5%8D%A0%E7%9F%AD%E5%89%A7%E4%B8%9A%2C%E7%9C%9F%E4%BA%BA%E6%BC%94%E5%91%98%E9%81%AD%E5%81%B7%E5%AE%B6",
           "source": "贴吧",
           "ranks": [
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时06分 ~ 07时37分]"
+          "appearance_count": 12,
+          "time_info": "[00时06分 ~ 09时47分]"
         },
         {
           "title": "孙女用AI把奶奶P进《西游记》",
@@ -80,6 +81,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时38分 ~ 07时37分]"
+        },
+        {
+          "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
+          "url": "https://wallstreetcn.com/articles/3779115",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 09时47分]"
         },
         {
           "title": "英伟达(NVDA.O)CEO黄仁勋：人工智能实验室和人工智能初创公司需要计算能力。",
@@ -130,6 +142,17 @@
           "time_info": "[05时43分 ~ 06时39分]"
         },
         {
+          "title": "用AI重返那年相遇的青涩夏天",
+          "url": "https://www.douyin.com/hot/2605104",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 09时47分]"
+        },
+        {
           "title": "据悉OpenAI回购70亿美元员工股份",
           "url": "https://flash.jin10.com/detail/20260811044344828800",
           "source": "金十数据",
@@ -154,6 +177,17 @@
           "time_info": "[05时43分 ~ 06时39分]"
         },
         {
+          "title": "城市竞争进入AI答案时代",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33753662",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 09时47分]"
+        },
+        {
           "title": "高盛研判中国AI股：近期回调已释放核心风险，建议多元布局四大主线",
           "url": "https://www.cls.cn/detail/2449895",
           "source": "财联社热门",
@@ -163,6 +197,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时06分 ~ 00时07分]"
+        },
+        {
+          "title": "原字节跳动机器人一号位加入小米，负责基座模型研发，这透露出小米在人工智能领域的哪些战略意图？",
+          "url": "https://www.zhihu.com/question/2069868469005326051",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 09时47分]"
+        },
+        {
+          "title": "如何评价即将发布的 DeepSeek-V4 Pro 正式版，可能会有哪些亮点？",
+          "url": "https://www.zhihu.com/question/2067921583944085650",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 09时47分]"
         },
         {
           "title": "ai漫剧顶流已经出了8季了",
@@ -234,6 +290,17 @@
           "time_info": "[05时43分 ~ 06时39分]"
         },
         {
+          "title": "百花奖首次设立AIGC单元",
+          "url": "https://www.toutiao.com/trending/7671685200375726143/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 09时47分]"
+        },
+        {
           "title": "OpenAI：GPT‑5.6‑CYBER并未被用于攻击Hugging Face，计划即将发布的其他模型也未参与此事。 强烈建议使用Codex的Daybreak客户，通过应用默认设置和界面功能，将“完全访问模式”切换至“自动审查模式”。 自9月1日起，要求Daybreak中的所有个人账户启用硬件安全密钥。 OpenAI正在扩大Daybreak项目规模，为开展授权工作的个人及获批机构设立两级访问权限：Daybreak Blue，提供包括 GPT‑5.6 Sol在内的前沿通用模型；Daybreak Red，开放全新GPT‑5.6‑Cyber模型，用于经授权的漏洞研究、漏洞利用验证以及安全测试。",
           "url": "https://wallstreetcn.com/livenews/3147642",
           "source": "华尔街见闻-快讯",
@@ -251,9 +318,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
+        },
+        {
+          "title": "韩国总统李在明：还应优先考虑非芯片人工智能领域，如小型模块化反应堆。",
+          "url": "https://flash.jin10.com/detail/20260811090834844800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
         },
         {
           "title": "OpenAI刊发针对AI基础设施问题向美国得州州长发送的信函。",
@@ -273,7 +351,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
         },
@@ -361,7 +439,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
         },
