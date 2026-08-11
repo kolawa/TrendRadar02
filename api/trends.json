@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T18:03:28.262586+08:00",
-  "total_titles_processed": 1300,
+  "generated_at": "2026-08-11T19:45:52.440672+08:00",
+  "total_titles_processed": 1454,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 61,
+      "match_count": 63,
       "titles": [
         {
           "title": "MLCC供应告急引发抢货潮！国巨：越来越多AI客户抢签长协锁定产能",
@@ -35,6 +35,19 @@
           "time_info": "[00时06分 ~ 18时03分]"
         },
         {
+          "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
+          "url": "https://wallstreetcn.com/articles/3779115",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时46分 ~ 19时45分]"
+        },
+        {
           "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
           "url": "https://wallstreetcn.com/articles/3779038",
           "source": "华尔街见闻",
@@ -60,6 +73,36 @@
           "time_info": "[00时06分 ~ 07时37分]"
         },
         {
+          "title": "城市竞争进入AI答案时代",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33753662",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时46分 ~ 19时45分]"
+        },
+        {
+          "title": "用AI重返那年相遇的青涩夏天",
+          "url": "https://www.douyin.com/hot/2605104",
+          "source": "抖音",
+          "ranks": [
+            10,
+            8,
+            9,
+            13,
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时46分 ~ 19时45分]"
+        },
+        {
           "title": "AI挤占短剧业,真人演员遭偷家",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357005&amp;topic_name=AI%E6%8C%A4%E5%8D%A0%E7%9F%AD%E5%89%A7%E4%B8%9A%2C%E7%9C%9F%E4%BA%BA%E6%BC%94%E5%91%98%E9%81%AD%E5%81%B7%E5%AE%B6",
           "source": "贴吧",
@@ -74,45 +117,16 @@
           "time_info": "[00时06分 ~ 13时10分]"
         },
         {
-          "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
-          "url": "https://wallstreetcn.com/articles/3779115",
+          "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
+          "url": "https://wallstreetcn.com/articles/3779130",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时46分 ~ 18时03分]"
-        },
-        {
-          "title": "城市竞争进入AI答案时代",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33753662",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            9,
             8,
-            7
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时46分 ~ 18时03分]"
-        },
-        {
-          "title": "用AI重返那年相遇的青涩夏天",
-          "url": "https://www.douyin.com/hot/2605104",
-          "source": "抖音",
-          "ranks": [
-            10,
-            8,
-            9,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时46分 ~ 18时03分]"
+          "appearance_count": 5,
+          "time_info": "[16时57分 ~ 19时45分]"
         },
         {
           "title": "千问开放AI眼镜生态 支持自建导游、教练、巡检等多种skill",
@@ -138,26 +152,28 @@
           "time_info": "[11时45分 ~ 13时10分]"
         },
         {
-          "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
-          "url": "https://wallstreetcn.com/articles/3779130",
-          "source": "华尔街见闻",
+          "title": "给AI时代一点手搓实拍的小震撼",
+          "url": "https://www.douyin.com/hot/2605459",
+          "source": "抖音",
           "ranks": [
-            8
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时57分 ~ 18时03分]"
+          "appearance_count": 5,
+          "time_info": "[16时57分 ~ 19时45分]"
         },
         {
           "title": "黄仁勋深度解读5000亿美元融资计划：AI算力是“投资级资产”",
           "url": "https://www.cls.cn/detail/2450953",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时57分 ~ 18时03分]"
+          "appearance_count": 5,
+          "time_info": "[16时57分 ~ 19时45分]"
         },
         {
           "title": "每36秒上新一部！AI短剧狂飙，短剧江湖正在换主角",
@@ -168,19 +184,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时57分 ~ 18时03分]"
+          "appearance_count": 5,
+          "time_info": "[16时57分 ~ 19时45分]"
         },
         {
-          "title": "给AI时代一点手搓实拍的小震撼",
-          "url": "https://www.douyin.com/hot/2605459",
+          "title": "AI打开了我童年记忆的百宝箱",
+          "url": "https://www.douyin.com/hot/2605425",
           "source": "抖音",
           "ranks": [
+            10,
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时57分 ~ 18时03分]"
+          "appearance_count": 5,
+          "time_info": "[16时57分 ~ 19时45分]"
         },
         {
           "title": "怎么看AI突破黎曼猜想下界",
@@ -188,22 +205,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             18,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时57分 ~ 18时03分]"
-        },
-        {
-          "title": "AI打开了我童年记忆的百宝箱",
-          "url": "https://www.douyin.com/hot/2605425",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时57分 ~ 18时03分]"
+          "appearance_count": 5,
+          "time_info": "[16时57分 ~ 19时45分]"
         },
         {
           "title": "干湿之困：AI制药如何打通“最后一公里”",
@@ -211,11 +218,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时57分 ~ 18时03分]"
+          "appearance_count": 5,
+          "time_info": "[16时57分 ~ 19时45分]"
         },
         {
           "title": "当老板意识到AI比人工贵",
@@ -470,6 +478,17 @@
           "time_info": "16时58分"
         },
         {
+          "title": "DeepSeek招土木工程师，科技大厂争锋延伸至传统资源领域",
+          "url": "https://wallstreetcn.com/livenews/3148048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
+        },
+        {
           "title": "涉及中国AI，日本自卫队极为担心",
           "url": "https://news.ifeng.com/c/8vUvXS11rLG",
           "source": "凤凰网",
@@ -479,6 +498,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
+        },
+        {
+          "title": "强瑞技术：拟定增募资不超过10.5亿元 用于AI服务器精密液冷部件等项目",
+          "url": "https://flash.jin10.com/detail/20260811193754160800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
         },
         {
           "title": "OpenAI：GPT‑5.6‑CYBER并未被用于攻击Hugging Face，计划即将发布的其他模型也未参与此事。 强烈建议使用Codex的Daybreak客户，通过应用默认设置和界面功能，将“完全访问模式”切换至“自动审查模式”。 自9月1日起，要求Daybreak中的所有个人账户启用硬件安全密钥。 OpenAI正在扩大Daybreak项目规模，为开展授权工作的个人及获批机构设立两级访问权限：Daybreak Blue，提供包括 GPT‑5.6 Sol在内的前沿通用模型；Daybreak Red，开放全新GPT‑5.6‑Cyber模型，用于经授权的漏洞研究、漏洞利用验证以及安全测试。",
@@ -509,7 +539,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
         },
@@ -663,7 +693,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
         },
