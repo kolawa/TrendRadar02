@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T18:08:15.720448+08:00",
-  "total_titles_processed": 1290,
+  "generated_at": "2026-08-12T19:47:48.255443+08:00",
+  "total_titles_processed": 1424,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 49,
+      "match_count": 52,
       "titles": [
         {
           "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时42分 ~ 18时08分]"
+          "appearance_count": 11,
+          "time_info": "[06时42分 ~ 19时47分]"
         },
         {
           "title": "AI担忧惹的祸？ 韩国股市7月外资“大撤退” 亚洲股市连续“失血”九个月",
@@ -61,11 +62,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时58分 ~ 18时08分]"
+          "appearance_count": 9,
+          "time_info": "[09时58分 ~ 19时47分]"
         },
         {
           "title": "AI打开了我童年记忆的百宝箱",
@@ -174,6 +176,19 @@
           "time_info": "[00时05分 ~ 06时43分]"
         },
         {
+          "title": "光速关服,AI虚拟歌姬停运",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时15分 ~ 19时47分]"
+        },
+        {
           "title": "但斌回应质疑：没有恐慌割肉、没有大幅减仓，对AI从未动摇，依旧满仓坚守",
           "url": "https://www.cls.cn/detail/2451840",
           "source": "财联社热门",
@@ -185,18 +200,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时58分 ~ 14时16分]"
-        },
-        {
-          "title": "光速关服,AI虚拟歌姬停运",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时15分 ~ 18时08分]"
         },
         {
           "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
@@ -220,6 +223,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时12分 ~ 14时16分]"
+        },
+        {
+          "title": "新兴市场股市走强 AI热潮提振风险偏好",
+          "url": "https://flash.jin10.com/detail/20260812193734434800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
         },
         {
           "title": "OpenAI向亚马逊Redrock开放Daybreak权限。",
@@ -273,7 +287,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
         },
@@ -291,6 +305,17 @@
           "time_info": "[04时45分 ~ 06时43分]"
         },
         {
+          "title": "AI科创润童心 网络安全伴成长",
+          "url": "https://www.toutiao.com/trending/7672213418782588964/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时16分 ~ 19时47分]"
+        },
+        {
           "title": "国行苹果AI支持机型",
           "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%A1%8C%E8%8B%B9%E6%9E%9CAI%E6%94%AF%E6%8C%81%E6%9C%BA%E5%9E%8B%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -304,14 +329,14 @@
         },
         {
           "title": "AI科创润童心 网络安全伴成长",
-          "url": "https://www.toutiao.com/trending/7672213418782588964/",
-          "source": "今日头条",
+          "url": "https://www.douyin.com/hot/2607024",
+          "source": "抖音",
           "ranks": [
-            11
+            14
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时16分 ~ 18时08分]"
+          "time_info": "[18时07分 ~ 19时47分]"
         },
         {
           "title": "Agent经济学拐点：AI Agent电脑操作小时成本已低于离岸人力外包，准确率也更高",
@@ -347,17 +372,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时58分 ~ 03时07分]"
-        },
-        {
-          "title": "AI科创润童心 网络安全伴成长",
-          "url": "https://www.douyin.com/hot/2607024",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时07分 ~ 18时08分]"
         },
         {
           "title": "如何评价米哈游旗下 AI 互动陪伴产品《BSide: Olivia Lin》宣告停止运营？",
@@ -422,7 +436,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
         },
@@ -471,6 +485,17 @@
           "time_info": "01时58分"
         },
         {
+          "title": "目前的 AI 技术是否具备证明著名数学猜想的能力？",
+          "url": "https://www.zhihu.com/question/2019858282664186054",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
+        },
+        {
           "title": "对话复旦大学李银胜：AI会带来“文化人”的黄金时代",
           "url": "https://m.thepaper.cn/newsDetail_forward_33757463",
           "source": "澎湃新闻",
@@ -499,7 +524,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
         },
@@ -557,6 +582,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        },
+        {
+          "title": "AI算力正被包装成一种可融资资产",
+          "url": "https://flash.jin10.com/detail/20260812190728409800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
         },
         {
           "title": "A股AI应用方向早盘走高，省广集团、风语筑双双涨停，天龙集团涨超10%，引力传媒、福石控股、佳云科技等跟涨。",
