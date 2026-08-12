@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T21:12:12.143585+08:00",
-  "total_titles_processed": 1556,
+  "generated_at": "2026-08-12T22:58:50.336641+08:00",
+  "total_titles_processed": 1675,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 54,
+      "match_count": 58,
       "titles": [
         {
           "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时42分 ~ 21时12分]"
+          "appearance_count": 14,
+          "time_info": "[06时42分 ~ 22时58分]"
         },
         {
           "title": "AI担忧惹的祸？ 韩国股市7月外资“大撤退” 亚洲股市连续“失血”九个月",
@@ -45,6 +45,20 @@
           "time_info": "[00时05分 ~ 12时13分]"
         },
         {
+          "title": "光速关服,AI虚拟歌姬停运",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时15分 ~ 22时58分]"
+        },
+        {
           "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
           "url": "https://wallstreetcn.com/articles/3779130",
           "source": "华尔街见闻",
@@ -67,8 +81,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时58分 ~ 21时12分]"
+          "appearance_count": 12,
+          "time_info": "[09时58分 ~ 22时58分]"
         },
         {
           "title": "AI打开了我童年记忆的百宝箱",
@@ -82,19 +96,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时05分 ~ 12时13分]"
-        },
-        {
-          "title": "光速关服,AI虚拟歌姬停运",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时15分 ~ 21时12分]"
         },
         {
           "title": "给AI时代一点手搓实拍的小震撼",
@@ -243,7 +244,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时12分"
         },
@@ -340,6 +341,18 @@
           "time_info": "[09时58分 ~ 12时13分]"
         },
         {
+          "title": "大幅增加算力采购！腾讯看到AI变现的曙光了？",
+          "url": "https://www.cls.cn/detail/2452579",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时11分 ~ 22时58分]"
+        },
+        {
           "title": "AI科创润童心 网络安全伴成长",
           "url": "https://www.douyin.com/hot/2607024",
           "source": "抖音",
@@ -372,17 +385,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时50分 ~ 06时43分]"
-        },
-        {
-          "title": "大幅增加算力采购！腾讯看到AI变现的曙光了？",
-          "url": "https://www.cls.cn/detail/2452579",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时11分 ~ 21时12分]"
         },
         {
           "title": "SpaceXAI：Grok聊天机器人已处于测试阶段，今日起向订阅SuperGrok Heavy、Cursor Ultra与Cursor Teams Premium套餐的桌面端及iOS用户开放使用。",
@@ -497,6 +499,17 @@
           "time_info": "03时07分"
         },
         {
+          "title": "二季度新AI产品拖累105亿利润，腾讯总裁刘炽平回应",
+          "url": "https://wallstreetcn.com/livenews/3148676",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
           "title": "OpenAI：ChatGPT在英国、日本、墨西哥、巴西、韩国新增广告内容。",
           "url": "https://wallstreetcn.com/livenews/3148176",
           "source": "华尔街见闻-快讯",
@@ -585,6 +598,17 @@
           "time_info": "12时13分"
         },
         {
+          "title": "中国算电协同航母来了 一度绿电可生成30秒AI文生视频",
+          "url": "https://wallstreetcn.com/livenews/3148666",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
           "title": "法兴银行：预计AI资本支出下半年继续加速，或到2027年上半年才见峰值",
           "url": "https://flash.jin10.com/detail/20260812111418795800",
           "source": "金十数据",
@@ -629,6 +653,17 @@
           "time_info": "12时13分"
         },
         {
+          "title": "腾讯高管谈AI业务利润：WorkBuddy付费用户毛利率相当不错",
+          "url": "https://wallstreetcn.com/livenews/3148661",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
           "title": "机构：AI需求激增 2026年半导体市场增幅上调至94.1%",
           "url": "https://wallstreetcn.com/livenews/3148411",
           "source": "华尔街见闻-快讯",
@@ -638,6 +673,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时16分"
+        },
+        {
+          "title": "腾讯总裁刘炽平再谈微信AI：微信会成为以AI为先的生态系统，有望转化成巨大的价值",
+          "url": "https://wallstreetcn.com/livenews/3148658",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         }
       ]
     }
