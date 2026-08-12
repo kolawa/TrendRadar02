@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-08-12T14:16:32.633591+08:00",
-  "total_titles_processed": 1097,
+  "generated_at": "2026-08-12T18:08:15.720448+08:00",
+  "total_titles_processed": 1290,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 44,
+      "match_count": 49,
       "titles": [
+        {
+          "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
+          "url": "https://wallstreetcn.com/articles/3779161",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[06时42分 ~ 18时08分]"
+        },
         {
           "title": "AI担忧惹的祸？ 韩国股市7月外资“大撤退” 亚洲股市连续“失血”九个月",
           "url": "https://www.cls.cn/detail/2451347",
@@ -32,18 +44,6 @@
           "time_info": "[00时05分 ~ 12时13分]"
         },
         {
-          "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
-          "url": "https://wallstreetcn.com/articles/3779161",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时42分 ~ 14时16分]"
-        },
-        {
           "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
           "url": "https://wallstreetcn.com/articles/3779130",
           "source": "华尔街见闻",
@@ -54,6 +54,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时05分 ~ 06时43分]"
+        },
+        {
+          "title": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3779219",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时58分 ~ 18时08分]"
         },
         {
           "title": "AI打开了我童年记忆的百宝箱",
@@ -126,18 +138,6 @@
           "time_info": "[00时05分 ~ 06时43分]"
         },
         {
-          "title": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3779219",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时58分 ~ 14时16分]"
-        },
-        {
           "title": "中东局势峰回路转 AI撑起美股罕见业绩增速 | 今夜看点",
           "url": "https://www.cls.cn/detail/2451601",
           "source": "财联社热门",
@@ -187,6 +187,18 @@
           "time_info": "[09时58分 ~ 14时16分]"
         },
         {
+          "title": "光速关服,AI虚拟歌姬停运",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时15分 ~ 18时08分]"
+        },
+        {
           "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
           "url": "https://wallstreetcn.com/articles/3779115",
           "source": "华尔街见闻",
@@ -196,17 +208,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时05分 ~ 03时07分]"
-        },
-        {
-          "title": "光速关服,AI虚拟歌姬停运",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时15分 ~ 14时16分]"
         },
         {
           "title": "AI产业给韩国人带来什么",
@@ -266,6 +267,17 @@
           "time_info": "01时58分"
         },
         {
+          "title": "【但斌美股持仓“大换血”】具体操作上，东方港湾海外基金清仓了苹果、三倍做多纳斯达克100ETF、特斯拉、CIRCLE INTERNET GROUP INC等6只标的。同时，其新买入英特尔、闪迪、超威半导体、迈威尔科技、Arm Holdings plc ADR、博通、Lumentum等7只标的，上述标的均为AI硬件相关公司。从整体的持仓情况来看，东方港湾美股第一大重仓股仍为谷歌-C，持仓占其组合的比重约为23%，相比一季度有所减仓。同时，东方港湾还清仓了谷歌-A及二倍做多谷歌ETF。（上证报）",
+          "url": "https://wallstreetcn.com/livenews/3148567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        },
+        {
           "title": "美国参议院Sanders发函，要求OpenAI、Anthropic、Meta等众多AI公司暂停开发。（纽约时报）",
           "url": "https://wallstreetcn.com/livenews/3148238",
           "source": "华尔街见闻-快讯",
@@ -289,6 +301,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时58分 ~ 12时13分]"
+        },
+        {
+          "title": "AI科创润童心 网络安全伴成长",
+          "url": "https://www.toutiao.com/trending/7672213418782588964/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时16分 ~ 18时08分]"
         },
         {
           "title": "Agent经济学拐点：AI Agent电脑操作小时成本已低于离岸人力外包，准确率也更高",
@@ -326,6 +349,17 @@
           "time_info": "[01时58分 ~ 03时07分]"
         },
         {
+          "title": "AI科创润童心 网络安全伴成长",
+          "url": "https://www.douyin.com/hot/2607024",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时07分 ~ 18时08分]"
+        },
+        {
           "title": "如何评价米哈游旗下 AI 互动陪伴产品《BSide: Olivia Lin》宣告停止运营？",
           "url": "https://www.zhihu.com/question/2070534573788751684",
           "source": "知乎",
@@ -335,6 +369,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时12分 ~ 12时13分]"
+        },
+        {
+          "title": "FDE为何成为AI落地时代的新贵",
+          "url": "https://www.toutiao.com/trending/7672947093631893546/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时07分 ~ 18时08分]"
         },
         {
           "title": "Chatgpt把Deepseek当宿敌了",
@@ -371,6 +416,17 @@
           "time_info": "06时43分"
         },
         {
+          "title": "宁德时代成立控股新公司 含AI软件开发业务",
+          "url": "https://flash.jin10.com/detail/20260812180140130800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        },
+        {
           "title": "曝小红书打造全新“AI导购”功能，官方暂无回应",
           "url": "https://wallstreetcn.com/livenews/3148389",
           "source": "华尔街见闻-快讯",
@@ -391,17 +447,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
-        },
-        {
-          "title": "AI科创润童心 网络安全伴成长",
-          "url": "https://www.toutiao.com/trending/7672213418782588964/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时16分"
         },
         {
           "title": "谷歌：Gemini月活用户数超过10亿",
@@ -446,6 +491,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        },
+        {
+          "title": "天普股份：截至目前公司及天普欣才均无开展人工智能相关业务的计划",
+          "url": "https://wallstreetcn.com/livenews/3148546",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
         },
         {
           "title": "SpaceXAI：推出Grok Bot聊天机器人。",
@@ -520,7 +576,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时16分"
         }
