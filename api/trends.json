@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T02:30:50.914400+08:00",
-  "total_titles_processed": 388,
+  "generated_at": "2026-08-17T04:24:03.263884+08:00",
+  "total_titles_processed": 429,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "AI债务狂潮背后：700亿美元表外隐性负债引发债券投资者担忧",
@@ -15,19 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 02时30分]"
-        },
-        {
-          "title": "民盟河南省委会通报：收到的一些社情民意信息存在明显AI生成痕迹",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33791922",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 02时30分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 04时24分]"
         },
         {
           "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -37,8 +26,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 02时30分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 04时24分]"
+        },
+        {
+          "title": "民盟河南省委会通报：收到的一些社情民意信息存在明显AI生成痕迹",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33791922",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 04时24分]"
         },
         {
           "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
@@ -48,8 +49,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 02时30分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 04时24分]"
         },
         {
           "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
@@ -59,8 +60,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 02时30分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 04时24分]"
         },
         {
           "title": "周末要闻汇总：英伟达缩减对OpenAI数据中心项目担保计划；全国首个算力“Token贷”落地",
@@ -71,8 +72,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 02时30分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 04时24分]"
         },
         {
           "title": "AI打破存储盛衰周期！美光目标价迎大幅上调 市值看向3万亿美元",
@@ -82,8 +83,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 02时30分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 04时24分]"
         },
         {
           "title": "南极冰川现“神秘生物”系AI生成",
@@ -93,8 +94,21 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 02时30分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 04时24分]"
+        },
+        {
+          "title": "一条AI短片演绎时间焦虑",
+          "url": "https://www.douyin.com/hot/2612104",
+          "source": "抖音",
+          "ranks": [
+            15,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 04时24分]"
         },
         {
           "title": "AI正在批量制造“幽灵”",
@@ -103,23 +117,12 @@
           "ranks": [
             22,
             14,
-            21
+            21,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 02时30分]"
-        },
-        {
-          "title": "一条AI短片演绎时间焦虑",
-          "url": "https://www.douyin.com/hot/2612104",
-          "source": "抖音",
-          "ranks": [
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 02时30分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 04时24分]"
         },
         {
           "title": "明查｜南极冰川现“神秘生物”？AI又整活了",
@@ -130,8 +133,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 02时30分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 04时24分]"
         },
         {
           "title": "大爷手搓AI长片赛博英雄传",
@@ -140,11 +143,23 @@
           "ranks": [
             30,
             28,
-            23
+            23,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 02时30分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 04时24分]"
+        },
+        {
+          "title": "市场消息：Stripe即将以超过70亿美元的价格收购人工智能公司OpenRouter。",
+          "url": "https://flash.jin10.com/detail/20260817035338220800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
         },
         {
           "title": "全球开源AI大洗牌 中国开源模型加速崛起",
@@ -154,8 +169,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时30分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 04时24分]"
         }
       ]
     }
