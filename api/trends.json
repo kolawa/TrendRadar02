@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-17T19:27:32.651999+08:00",
-  "total_titles_processed": 919,
+  "generated_at": "2026-10-17T23:07:00.518816+08:00",
+  "total_titles_processed": 1107,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 52,
+      "match_count": 63,
       "titles": [
         {
           "title": "国常会：人工智能是影响未来发展的关键变量",
@@ -16,8 +16,31 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时23分 ~ 19时27分]"
+          "appearance_count": 11,
+          "time_info": "[03时23分 ~ 23时07分]"
+        },
+        {
+          "title": "AI交易忧虑压垮美股，纳指跌超2%、CoreWeave暴跌12%，VIX一度升破22，布油涨破110",
+          "url": "https://wallstreetcn.com/articles/3783778",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时07分 ~ 23时07分]"
+        },
+        {
+          "title": "【早报】美股纳指大跌超500点，半导体、存储股全线跳水；黄仁勋谈“AI市场震荡”；国际油价大涨；胜宏科技、豪威集团等计划回购股份",
+          "url": "https://www.cls.cn/detail/2507382",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时07分 ~ 23时07分]"
         },
         {
           "title": "美联储主席沃什：AI是我一生中最深远的经济变革，10月和12月议息会议至关重要",
@@ -31,27 +54,16 @@
           "time_info": "[03时23分 ~ 14时40分]"
         },
         {
-          "title": "AI交易忧虑压垮美股，纳指跌超2%、CoreWeave暴跌12%，VIX一度升破22，布油涨破110",
-          "url": "https://wallstreetcn.com/articles/3783778",
+          "title": "华尔街腹背受敌：AI抛售潮蔓延至债市，110美元油价再添一把火",
+          "url": "https://wallstreetcn.com/articles/3783826",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            5,
+            3
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时07分 ~ 19时27分]"
-        },
-        {
-          "title": "【早报】美股纳指大跌超500点，半导体、存储股全线跳水；黄仁勋谈“AI市场震荡”；国际油价大涨；胜宏科技、豪威集团等计划回购股份",
-          "url": "https://www.cls.cn/detail/2507382",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时07分 ~ 19时27分]"
+          "time_info": "[14时39分 ~ 23时07分]"
         },
         {
           "title": "两部门：拟禁止、限制出口人工智能、生物医药、光伏三个领域40项技术",
@@ -74,11 +86,12 @@
             9,
             10,
             17,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时23分 ~ 19时27分]"
+          "appearance_count": 11,
+          "time_info": "[03时23分 ~ 23时07分]"
         },
         {
           "title": "老干妈用AI一年狂赚54亿",
@@ -88,23 +101,12 @@
             10,
             11,
             18,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时23分 ~ 19时27分]"
-        },
-        {
-          "title": "华尔街腹背受敌：AI抛售潮蔓延至债市，110美元油价再添一把火",
-          "url": "https://wallstreetcn.com/articles/3783826",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时39分 ~ 19时27分]"
+          "appearance_count": 11,
+          "time_info": "[03时23分 ~ 23时07分]"
         },
         {
           "title": "如何评价 DeepSeek V4.1 Flash 1017?",
@@ -114,8 +116,33 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时26分 ~ 19时27分]"
+          "appearance_count": 4,
+          "time_info": "[19时26分 ~ 23时07分]"
+        },
+        {
+          "title": "“AI缺钱”风暴席卷市场！Meta财报打头阵，产业巨额投资迎“信心大考”",
+          "url": "https://www.cls.cn/detail/2507445",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时26分 ~ 23时07分]"
+        },
+        {
+          "title": "毕导 科普UP主会被AI取代吗",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AF%95%E5%AF%BC%20%E7%A7%91%E6%99%AEUP%E4%B8%BB%E4%BC%9A%E8%A2%ABAI%E5%8F%96%E4%BB%A3%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时39分 ~ 23时07分]"
         },
         {
           "title": "Deepseek V4.1 Flash新版本发布",
@@ -129,27 +156,40 @@
           "time_info": "[19时26分 ~ 19时27分]"
         },
         {
-          "title": "毕导 科普UP主会被AI取代吗",
-          "url": "https://search.bilibili.com/all?keyword=%E6%AF%95%E5%AF%BC%20%E7%A7%91%E6%99%AEUP%E4%B8%BB%E4%BC%9A%E8%A2%ABAI%E5%8F%96%E4%BB%A3%E5%90%97",
-          "source": "bilibili 热搜",
+          "title": "美股最危险的分化：普通股票已经跌惨，AI巨头还能撑多久？",
+          "url": "https://wallstreetcn.com/articles/3783832",
+          "source": "华尔街见闻",
           "ranks": [
-            3,
-            8
+            6,
+            4
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[14时39分 ~ 19时27分]"
+          "time_info": "[19时26分 ~ 23时07分]"
         },
         {
-          "title": "“AI缺钱”风暴席卷市场！Meta财报打头阵，产业巨额投资迎“信心大考”",
-          "url": "https://www.cls.cn/detail/2507445",
-          "source": "财联社热门",
+          "title": "英伟达市值 9 天蒸发约 4 万亿元，全球 AI 股集体遭抛售，AI 泡沫是不是要破了？",
+          "url": "https://www.zhihu.com/question/2094715615177085550",
+          "source": "知乎",
           "ranks": [
-            5
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时26分 ~ 19时27分]"
+          "time_info": "[23时06分 ~ 23时07分]"
+        },
+        {
+          "title": "龙珠声优痛斥AI配音没灵魂",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367426&amp;topic_name=%E9%BE%99%E7%8F%A0%E5%A3%B0%E4%BC%98%E7%97%9B%E6%96%A5AI%E9%85%8D%E9%9F%B3%E6%B2%A1%E7%81%B5%E9%AD%82",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时39分 ~ 23时07分]"
         },
         {
           "title": "英国海上贸易行动办公室：周五，一艘油轮在沙特朱拜勒（Jubail）东北方向海域遭不明发射物击中，船员均安全并已撤离。",
@@ -163,15 +203,51 @@
           "time_info": "14时40分"
         },
         {
+          "title": "Anthropic秘密游说国会 推动制定前沿AI监管法案",
+          "url": "https://www.cls.cn/detail/2507401",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时39分 ~ 23时07分]"
+        },
+        {
+          "title": "用DeepSeek翻唱人是猫",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8DeepSeek%E7%BF%BB%E5%94%B1%E4%BA%BA%E6%98%AF%E7%8C%AB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            23,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时07分 ~ 23时07分]"
+        },
+        {
           "title": "DeepSeek V4.1 Flash发布新版本",
           "url": "https://wallstreetcn.com/livenews/3180557",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
+        },
+        {
+          "title": "中信建投：AI加速重塑制药传统研发范式",
+          "url": "https://wallstreetcn.com/livenews/3180589",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
         },
         {
           "title": "DeepSeek 将整合多团队成立产品部，崔添翼任负责人，怎样看待这一调整？会带来哪些影响？",
@@ -260,16 +336,16 @@
           "time_info": "[06时37分 ~ 09时08分]"
         },
         {
-          "title": "龙珠声优痛斥AI配音没灵魂",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367426&amp;topic_name=%E9%BE%99%E7%8F%A0%E5%A3%B0%E4%BC%98%E7%97%9B%E6%96%A5AI%E9%85%8D%E9%9F%B3%E6%B2%A1%E7%81%B5%E9%AD%82",
-          "source": "贴吧",
+          "title": "Anthropic被曝秘密游说国会：AI造成超10亿美元损失，政府才能叫停？",
+          "url": "https://wallstreetcn.com/articles/3783831",
+          "source": "华尔街见闻",
           "ranks": [
-            8,
-            9
+            10,
+            7
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[14时39分 ~ 19时27分]"
+          "time_info": "[19时26分 ~ 23时07分]"
         },
         {
           "title": "国际货币基金组织（IMF）总裁格奥尔基耶娃：讨论的风险包括人工智能、通货膨胀、高债务水平以及日益恶化的气候变化。 顽固的通胀、不断上升的利率正在加剧各国本已高企的偿债压力。",
@@ -284,36 +360,12 @@
           "time_info": "[14时40分 ~ 19时27分]"
         },
         {
-          "title": "Anthropic秘密游说国会 推动制定前沿AI监管法案",
-          "url": "https://www.cls.cn/detail/2507401",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时39分 ~ 19时27分]"
-        },
-        {
           "title": "如何看待海外研究人员曝光「运行在腾讯云上 AI 智能体为查询高德地图，自主利用泄露密钥、绕过反爬」？",
           "url": "https://www.zhihu.com/question/2094037238065714517",
           "source": "知乎",
           "ranks": [
             12,
             11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时07分 ~ 14时40分]"
-        },
-        {
-          "title": "用DeepSeek翻唱人是猫",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8DeepSeek%E7%BF%BB%E5%94%B1%E4%BA%BA%E6%98%AF%E7%8C%AB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29,
-            23
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -355,15 +407,15 @@
           "time_info": "[03时23分 ~ 06时37分]"
         },
         {
-          "title": "美股最危险的分化：普通股票已经跌惨，AI巨头还能撑多久？",
-          "url": "https://wallstreetcn.com/articles/3783832",
+          "title": "AI帮储户多赚钱，银行却慌了：花旗、美银、摩根大通集体对AI Agent设防",
+          "url": "https://wallstreetcn.com/articles/3783836",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时26分 ~ 19时27分]"
+          "time_info": "[23时06分 ~ 23时07分]"
         },
         {
           "title": "AWS首席财务官：AI支出可持续 服务器投资回报期不到三年",
@@ -388,6 +440,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时37分 ~ 09时08分]"
+        },
+        {
+          "title": "费城半导体连跌八个交易日，黄仁勋：“这一切终将过去”，AI变革才刚刚开始",
+          "url": "https://wallstreetcn.com/articles/3783817",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时06分 ~ 23时07分]"
         },
         {
           "title": "一口气介绍OpenAI的数学成果",
@@ -435,17 +498,6 @@
           "time_info": "[09时07分 ~ 09时08分]"
         },
         {
-          "title": "Anthropic被曝秘密游说国会：AI造成超10亿美元损失，政府才能叫停？",
-          "url": "https://wallstreetcn.com/articles/3783831",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时26分 ~ 19时27分]"
-        },
-        {
           "title": "AWS CFO：AI基建投入热潮具备可持续性",
           "url": "https://wallstreetcn.com/livenews/3180488",
           "source": "华尔街见闻-快讯",
@@ -456,6 +508,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时37分 ~ 09时08分]"
+        },
+        {
+          "title": "AI改名SI：特朗普无厘头操作背后的科技、外交和政治心机",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34263975",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时06分 ~ 23时07分]"
+        },
+        {
+          "title": "“许愿式”编程能力升级！DeepSeek上新：开放自研搜索API，千次调用仅5元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34271084",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时06分 ~ 23时07分]"
         },
         {
           "title": "AI为何会欺骗人类",
@@ -469,6 +543,17 @@
           "time_info": "[09时07分 ~ 09时08分]"
         },
         {
+          "title": "AI的吻戏比真人还欲啊",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E7%9A%84%E5%90%BB%E6%88%8F%E6%AF%94%E7%9C%9F%E4%BA%BA%E8%BF%98%E6%AC%B2%E5%95%8A%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时06分 ~ 23时07分]"
+        },
+        {
           "title": "Anthropic单独向美国国会山议员们递交AI安全立法草案。（Politico）",
           "url": "https://wallstreetcn.com/livenews/3180495",
           "source": "华尔街见闻-快讯",
@@ -480,6 +565,17 @@
           "time_info": "06时37分"
         },
         {
+          "title": "印度网络安全机构称，多个AI模型在测试期间入侵印度企业实时系统",
+          "url": "https://wallstreetcn.com/livenews/3180586",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
+        },
+        {
           "title": "报道：Anthropic向美国议员推介AI安全方案，拟为模型发布设置门槛",
           "url": "https://wallstreetcn.com/livenews/3180495",
           "source": "华尔街见闻-快讯",
@@ -489,6 +585,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
+        },
+        {
+          "title": "马斯克：AI和机器人是化解美国债务的唯一途径",
+          "url": "https://wallstreetcn.com/livenews/3180575",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
         },
         {
           "title": "黄仁勋：AI将带来变革，当前市场动荡终将过去",
@@ -513,6 +620,17 @@
           "time_info": "09时08分"
         },
         {
+          "title": "Anthropic联合创始人：AI或推动美国经济规模到2030年达到44万亿美元",
+          "url": "https://wallstreetcn.com/livenews/3180569",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
+        },
+        {
           "title": "IMF总裁格奥尔基耶娃：各国对人工智能充满期待，但希望看到保护个人和企业的安全措施。",
           "url": "https://flash.jin10.com/detail/20261017134440923800",
           "source": "金十数据",
@@ -530,7 +648,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
@@ -544,6 +662,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
+        },
+        {
+          "title": "马斯克：解决美债问题的唯一办法是依靠人工智能和机器人",
+          "url": "https://flash.jin10.com/detail/20261017203804811800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
         },
         {
           "title": "黄仁勋看淡AI板块大跌：这一切都会过去",
