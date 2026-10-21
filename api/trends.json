@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-10-21T09:22:21.526883+08:00",
-  "total_titles_processed": 557,
+  "generated_at": "2026-10-21T15:11:15.619830+08:00",
+  "total_titles_processed": 773,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 36,
+      "match_count": 43,
       "titles": [
-        {
-          "title": "半导体业绩浪来了！多家龙头净利倍增 AI红利成主要推力",
-          "url": "https://www.cls.cn/detail/2510147",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时58分 ~ 09时22分]"
-        },
         {
           "title": "怎么看 DeepSeek 官宣单集群日均吞吐达 155 万亿 Token，单卡每小时收入 38 美金？",
           "url": "https://www.zhihu.com/question/2095938083422262957",
@@ -27,6 +15,30 @@
             5,
             2,
             1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时58分 ~ 15时11分]"
+        },
+        {
+          "title": "众声丨AI“苦命男孩小海”收割老人，平台审核不能总是被动响应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34288055",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时58分 ~ 15时11分]"
+        },
+        {
+          "title": "半导体业绩浪来了！多家龙头净利倍增 AI红利成主要推力",
+          "url": "https://www.cls.cn/detail/2510147",
+          "source": "财联社热门",
+          "ranks": [
+            1,
+            3
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -55,16 +67,15 @@
           "time_info": "[02时58分 ~ 09时22分]"
         },
         {
-          "title": "众声丨AI“苦命男孩小海”收割老人，平台审核不能总是被动响应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34288055",
-          "source": "澎湃新闻",
+          "title": "SpaceX Q3 AI业务大爆发、收入暴增830%，利润碾压预期，资本支出近200亿｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3784066",
+          "source": "华尔街见闻",
           "ranks": [
-            4,
-            5
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时58分 ~ 09时22分]"
+          "appearance_count": 4,
+          "time_info": "[09时21分 ~ 15时11分]"
         },
         {
           "title": "AI交易紧张情绪暂缓，美股指转涨，CoreWeave涨超5%，礼来涨近5%股价创新高，美元走软",
@@ -89,6 +100,54 @@
           "time_info": "[02时58分 ~ 06时13分]"
         },
         {
+          "title": "“中国AI禁令”拟出台 震动全球",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BDAI%E7%A6%81%E4%BB%A4%E2%80%9D%E6%8B%9F%E5%87%BA%E5%8F%B0+%E9%9C%87%E5%8A%A8%E5%85%A8%E7%90%83",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时10分 ~ 15时11分]"
+        },
+        {
+          "title": "外网评最烂AI命名榜,DS夺冠",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367763&amp;topic_name=%E5%A4%96%E7%BD%91%E8%AF%84%E6%9C%80%E7%83%82AI%E5%91%BD%E5%90%8D%E6%A6%9C%2CDS%E5%A4%BA%E5%86%A0",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时58分 ~ 15时11分]"
+        },
+        {
+          "title": "UP主拆解爆款AI代码动画",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8B%86%E8%A7%A3%E7%88%86%E6%AC%BEAI%E4%BB%A3%E7%A0%81%E5%8A%A8%E7%94%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时58分 ~ 15时11分]"
+        },
+        {
+          "title": "AI画大肥鱼翻车,鲸鱼娘遭殃",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367596&amp;topic_name=AI%E7%94%BB%E5%A4%A7%E8%82%A5%E9%B1%BC%E7%BF%BB%E8%BD%A6%2C%E9%B2%B8%E9%B1%BC%E5%A8%98%E9%81%AD%E6%AE%83",
+          "source": "贴吧",
+          "ranks": [
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时58分 ~ 15时11分]"
+        },
+        {
           "title": "如何看待 DeepSeek 开源的大规模云服务推理框架 DeepInfer ？",
           "url": "https://www.zhihu.com/question/2095922064804636469",
           "source": "知乎",
@@ -98,17 +157,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时58分 ~ 02时59分]"
-        },
-        {
-          "title": "SpaceX Q3 AI业务大爆发、收入暴增830%，利润碾压预期，资本支出近200亿｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3784066",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时21分 ~ 09时22分]"
         },
         {
           "title": "城堡证券CEO格里芬：目前AI领域几乎肯定存在泡沫，尽管泡沫往往伴随着重大技术突破。企业正在仔细审查Anthropic和OpenAI的账单，部分公司难以从AI中获取价值。",
@@ -191,41 +239,6 @@
           "time_info": "[02时58分 ~ 09时22分]"
         },
         {
-          "title": "外网评最烂AI命名榜,DS夺冠",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367763&amp;topic_name=%E5%A4%96%E7%BD%91%E8%AF%84%E6%9C%80%E7%83%82AI%E5%91%BD%E5%90%8D%E6%A6%9C%2CDS%E5%A4%BA%E5%86%A0",
-          "source": "贴吧",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时58分 ~ 09时22分]"
-        },
-        {
-          "title": "UP主拆解爆款AI代码动画",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8B%86%E8%A7%A3%E7%88%86%E6%AC%BEAI%E4%BB%A3%E7%A0%81%E5%8A%A8%E7%94%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时58分 ~ 09时22分]"
-        },
-        {
-          "title": "AI画大肥鱼翻车,鲸鱼娘遭殃",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367596&amp;topic_name=AI%E7%94%BB%E5%A4%A7%E8%82%A5%E9%B1%BC%E7%BF%BB%E8%BD%A6%2C%E9%B2%B8%E9%B1%BC%E5%A8%98%E9%81%AD%E6%AE%83",
-          "source": "贴吧",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时58分 ~ 09时22分]"
-        },
-        {
           "title": "北大教授预言AI催生弃民",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367595&amp;topic_name=%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%E9%A2%84%E8%A8%80AI%E5%82%AC%E7%94%9F%E5%BC%83%E6%B0%91",
           "source": "贴吧",
@@ -260,6 +273,61 @@
           "time_info": "[02时58分 ~ 06时13分]"
         },
         {
+          "title": "拟出台的中国AI禁令震动全球",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%8B%9F%E5%87%BA%E5%8F%B0%E7%9A%84%E4%B8%AD%E5%9B%BDAI%E7%A6%81%E4%BB%A4%E9%9C%87%E5%8A%A8%E5%85%A8%E7%90%83%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时10分 ~ 15时11分]"
+        },
+        {
+          "title": "网友高铁偶遇自称 114 岁老人，能熟练使用智能手机，年龄真实性如何？横跨民国到 AI 时代的人生会是怎样的？",
+          "url": "https://www.zhihu.com/question/2095844033167716971",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时10分 ~ 15时11分]"
+        },
+        {
+          "title": "超微电脑业绩远超预期，“AI交易”应声反弹，“服务器巨头”戴尔、慧与科技大涨",
+          "url": "https://wallstreetcn.com/articles/3784079",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时10分 ~ 15时11分]"
+        },
+        {
+          "title": "粉红豹现身法国骚乱现场系AI伪造",
+          "url": "https://www.baidu.com/s?wd=%E7%B2%89%E7%BA%A2%E8%B1%B9%E7%8E%B0%E8%BA%AB%E6%B3%95%E5%9B%BD%E9%AA%9A%E4%B9%B1%E7%8E%B0%E5%9C%BA%E7%B3%BBAI%E4%BC%AA%E9%80%A0",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时10分 ~ 15时11分]"
+        },
+        {
+          "title": "AI强势冲击数学界，菲尔兹奖得主：我原有的研究方向已不复存在",
+          "url": "https://www.cls.cn/detail/2510325",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时10分 ~ 15时11分]"
+        },
+        {
           "title": "现在 AI 短剧满天飞，怎么没见影视行业人员发声？",
           "url": "https://www.zhihu.com/question/2090228809819862141",
           "source": "知乎",
@@ -269,6 +337,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时58分 ~ 02时59分]"
+        },
+        {
+          "title": "又一部获奖小说被质疑由AI代笔",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%88%E4%B8%80%E9%83%A8%E8%8E%B7%E5%A5%96%E5%B0%8F%E8%AF%B4%E8%A2%AB%E8%B4%A8%E7%96%91%E7%94%B1AI%E4%BB%A3%E7%AC%94",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时10分 ~ 15时11分]"
         },
         {
           "title": "城堡投资创始人：AI几乎肯定有泡沫",
@@ -343,7 +422,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -398,7 +477,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
