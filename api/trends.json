@@ -1,12 +1,51 @@
 {
-  "generated_at": "2026-10-25T08:55:41.981547+08:00",
-  "total_titles_processed": 522,
+  "generated_at": "2026-10-25T13:47:35.969181+08:00",
+  "total_titles_processed": 715,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 21,
+      "match_count": 27,
       "titles": [
+        {
+          "title": "又一AI医药“卖水人”股价新高：干湿闭环后 产业迈向下一命题",
+          "url": "https://www.cls.cn/detail/2513560",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时54分 ~ 13时47分]"
+        },
+        {
+          "title": "亚马逊CEO：AI业务年化收入超250亿美元，增速是AWS初期的数百倍，砸2200亿美元仍无法满足需求",
+          "url": "https://wallstreetcn.com/articles/3784391",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时54分 ~ 13时47分]"
+        },
+        {
+          "title": "“共识交易”的瓦解和新共识的诞生！高盛解答：为何机构当下都在大幅减仓AI",
+          "url": "https://wallstreetcn.com/articles/3784388",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时54分 ~ 13时47分]"
+        },
         {
           "title": "AI“跌倒”，美债“吃饱”！全球“资本争夺战”，市场给出答案",
           "url": "https://wallstreetcn.com/articles/3784376",
@@ -19,53 +58,43 @@
           "time_info": "[01时54分 ~ 08时55分]"
         },
         {
-          "title": "又一AI医药“卖水人”股价新高：干湿闭环后 产业迈向下一命题",
-          "url": "https://www.cls.cn/detail/2513560",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时54分 ~ 08时55分]"
-        },
-        {
           "title": "B站肥鱼成灾,AI评论泛滥",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368005&amp;topic_name=B%E7%AB%99%E8%82%A5%E9%B1%BC%E6%88%90%E7%81%BE%2CAI%E8%AF%84%E8%AE%BA%E6%B3%9B%E6%BB%A5",
           "source": "贴吧",
           "ranks": [
             3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时54分 ~ 08时55分]"
-        },
-        {
-          "title": "亚马逊CEO：AI业务年化收入超250亿美元，增速是AWS初期的数百倍，砸2200亿美元仍无法满足需求",
-          "url": "https://wallstreetcn.com/articles/3784391",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
             4,
-            3
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时54分 ~ 08时55分]"
+          "appearance_count": 7,
+          "time_info": "[01时54分 ~ 13时47分]"
         },
         {
-          "title": "“共识交易”的瓦解和新共识的诞生！高盛解答：为何机构当下都在大幅减仓AI",
-          "url": "https://wallstreetcn.com/articles/3784388",
-          "source": "华尔街见闻",
+          "title": "“黑色十月”席卷全球互联网！AI正彻底掀翻网络安全牌桌？",
+          "url": "https://www.cls.cn/detail/2514247",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            5,
-            4
+            9,
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时54分 ~ 08时55分]"
+          "appearance_count": 7,
+          "time_info": "[01时54分 ~ 13时47分]"
+        },
+        {
+          "title": "OpenAI、Anthropic齐参与！全球首个AI生物安全实验室将问世",
+          "url": "https://www.cls.cn/detail/2514203",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时54分 ~ 13时47分]"
         },
         {
           "title": "国务院办公厅称要「有效减缓人工智能应用就业替代影响」，释放出什么信号？可能带来哪些实际影响？",
@@ -94,24 +123,37 @@
           "time_info": "[01时54分 ~ 08时55分]"
         },
         {
+          "title": "从“稳赚不赔”到“两害相权”，AI投资逻辑彻底变了！",
+          "url": "https://wallstreetcn.com/articles/3784381",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时29分 ~ 13时47分]"
+        },
+        {
+          "title": "AI大肥鱼自主运营B站",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%A4%A7%E8%82%A5%E9%B1%BC%E8%87%AA%E4%B8%BB%E8%BF%90%E8%90%A5B%E7%AB%99",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时46分 ~ 13时47分]"
+        },
+        {
           "title": "38美元，DeepSeek算了一笔赚钱的账",
           "url": "https://wallstreetcn.com/articles/3784386",
           "source": "华尔街见闻",
           "ranks": [
             8,
             7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时54分 ~ 08时55分]"
-        },
-        {
-          "title": "“黑色十月”席卷全球互联网！AI正彻底掀翻网络安全牌桌？",
-          "url": "https://www.cls.cn/detail/2514247",
-          "source": "财联社热门",
-          "ranks": [
-            9,
             6
           ],
           "is_new": false,
@@ -133,16 +175,17 @@
           "time_info": "[01时54分 ~ 08时55分]"
         },
         {
-          "title": "OpenAI、Anthropic齐参与！全球首个AI生物安全实验室将问世",
-          "url": "https://www.cls.cn/detail/2514203",
-          "source": "财联社热门",
+          "title": "《AIGC时代互联网广告治理蓝皮书》发布，倡导“以AI治AI”",
+          "url": "https://wallstreetcn.com/livenews/3185149",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11,
-            12
+            7,
+            12,
+            22
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[01时54分 ~ 08时55分]"
+          "time_info": "[01时55分 ~ 13时47分]"
         },
         {
           "title": "“AI缺钱”重构产业叙事 市场不再相信“烧钱就能赢”",
@@ -169,31 +212,6 @@
           "time_info": "[01时54分 ~ 08时55分]"
         },
         {
-          "title": "《AIGC时代互联网广告治理蓝皮书》发布，倡导“以AI治AI”",
-          "url": "https://wallstreetcn.com/livenews/3185149",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时55分 ~ 08时55分]"
-        },
-        {
-          "title": "从“稳赚不赔”到“两害相权”，AI投资逻辑彻底变了！",
-          "url": "https://wallstreetcn.com/articles/3784381",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时29分 ~ 08时55分]"
-        },
-        {
           "title": "为什么 chatgpt 和 claude 防不住蒸馏？",
           "url": "https://www.zhihu.com/question/2097291551575749628",
           "source": "知乎",
@@ -218,6 +236,28 @@
           "time_info": "[01时55分 ~ 06时57分]"
         },
         {
+          "title": "如何理解AI对就业的影响",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3AI%E5%AF%B9%E5%B0%B1%E4%B8%9A%E7%9A%84%E5%BD%B1%E5%93%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时46分 ~ 13时47分]"
+        },
+        {
+          "title": "陶哲轩称 AI 的数学成果称把解题当基准测试，犹如抛出「有毒废料」，如何看待这一评价？",
+          "url": "https://www.zhihu.com/question/2096913276739367170",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时46分 ~ 13时47分]"
+        },
+        {
           "title": "AI交易崩盘，Anthropic会推迟\"超级IPO\"吗？距离11月中旬\"预定上市日期\"不远了",
           "url": "https://wallstreetcn.com/articles/3784380",
           "source": "华尔街见闻",
@@ -228,6 +268,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时57分 ~ 08时55分]"
+        },
+        {
+          "title": "环球下周看点：AI巨头财报密集揭晓 美联储议息或为利率定调",
+          "url": "https://www.cls.cn/detail/2514275",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时46分 ~ 13时47分]"
+        },
+        {
+          "title": "2026全球治理论坛（雄安）丨如何应对AI安全风险？中外专家给出了答案",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34326151",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时46分 ~ 13时47分]"
+        },
+        {
+          "title": "AI歌曲《过来人》爆火",
+          "url": "https://www.baidu.com/s?wd=AI%E6%AD%8C%E6%9B%B2%E3%80%8A%E8%BF%87%E6%9D%A5%E4%BA%BA%E3%80%8B%E7%88%86%E7%81%AB",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时46分 ~ 13时47分]"
         },
         {
           "title": "《过来人》和Yuri：两场AI音乐试验都在守“人味”",
@@ -247,7 +320,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -258,7 +331,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         }
