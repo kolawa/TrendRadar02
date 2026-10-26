@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-26T07:54:51.922554+08:00",
-  "total_titles_processed": 516,
+  "generated_at": "2026-10-26T11:35:28.699528+08:00",
+  "total_titles_processed": 726,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 21,
+      "match_count": 33,
       "titles": [
         {
           "title": "下周重磅日程：最重要的美联储决议和科技巨头财报都来了，这次AI交易能否自救？",
@@ -23,11 +23,12 @@
           "url": "https://wallstreetcn.com/articles/3784405",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时12分 ~ 07时54分]"
+          "appearance_count": 8,
+          "time_info": "[02时12分 ~ 11时35分]"
         },
         {
           "title": "又一AI医药“卖水人”股价新高：干湿闭环后 产业迈向下一命题",
@@ -41,22 +42,83 @@
           "time_info": "[02时12分 ~ 07时54分]"
         },
         {
+          "title": "SemiAnalysis创始人深度解析：AI投资还能撑多久？英伟达护城河还能守住吗？内存荒何时结束？",
+          "url": "https://wallstreetcn.com/articles/3784410",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时12分 ~ 11时35分]"
+        },
+        {
+          "title": "野村：AI军备竞赛有75%的概率继续，2027年存储芯片短缺已基本锁定",
+          "url": "https://wallstreetcn.com/articles/3784406",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时12分 ~ 11时35分]"
+        },
+        {
+          "title": "央视批AI魔改经典名著",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368017&amp;topic_name=%E5%A4%AE%E8%A7%86%E6%89%B9AI%E9%AD%94%E6%94%B9%E7%BB%8F%E5%85%B8%E5%90%8D%E8%91%97",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时12分 ~ 11时35分]"
+        },
+        {
+          "title": "B站肥鱼成灾,AI评论泛滥",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368005&amp;topic_name=B%E7%AB%99%E8%82%A5%E9%B1%BC%E6%88%90%E7%81%BE%2CAI%E8%AF%84%E8%AE%BA%E6%B3%9B%E6%BB%A5",
+          "source": "贴吧",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时12分 ~ 11时35分]"
+        },
+        {
+          "title": "首部AI院线电影《三星堆·未来往事》遇冷，上映3天收获115万票房",
+          "url": "https://www.cls.cn/detail/2514471",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时30分 ~ 11时35分]"
+        },
+        {
+          "title": "本周重磅日程：最重要的美联储决议和科技巨头财报都来了，这次AI交易能否自救？",
+          "url": "https://wallstreetcn.com/articles/3784282",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时34分 ~ 11时35分]"
+        },
+        {
           "title": "“黑色十月”席卷全球互联网！AI正彻底掀翻网络安全牌桌？",
           "url": "https://www.cls.cn/detail/2514247",
           "source": "财联社热门",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时12分 ~ 07时54分]"
-        },
-        {
-          "title": "SemiAnalysis创始人深度解析：AI投资还能撑多久？英伟达护城河还能守住吗？内存荒何时结束？",
-          "url": "https://wallstreetcn.com/articles/3784410",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -70,17 +132,6 @@
             7,
             9,
             10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时12分 ~ 07时54分]"
-        },
-        {
-          "title": "野村：AI军备竞赛有75%的概率继续，2027年存储芯片短缺已基本锁定",
-          "url": "https://wallstreetcn.com/articles/3784406",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -112,17 +163,6 @@
           "time_info": "[02时12分 ~ 07时54分]"
         },
         {
-          "title": "央视批AI魔改经典名著",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368017&amp;topic_name=%E5%A4%AE%E8%A7%86%E6%89%B9AI%E9%AD%94%E6%94%B9%E7%BB%8F%E5%85%B8%E5%90%8D%E8%91%97",
-          "source": "贴吧",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时12分 ~ 07时54分]"
-        },
-        {
           "title": "DeepSeek、MiniMax完成AI模型出海登记 合规路径落地提振国内AI“出海”信心",
           "url": "https://www.cls.cn/detail/2514315",
           "source": "财联社热门",
@@ -135,39 +175,17 @@
           "time_info": "[02时12分 ~ 07时54分]"
         },
         {
-          "title": "B站肥鱼成灾,AI评论泛滥",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368005&amp;topic_name=B%E7%AB%99%E8%82%A5%E9%B1%BC%E6%88%90%E7%81%BE%2CAI%E8%AF%84%E8%AE%BA%E6%B3%9B%E6%BB%A5",
-          "source": "贴吧",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时12分 ~ 07时54分]"
-        },
-        {
-          "title": "首部AI院线电影《三星堆·未来往事》遇冷，上映3天收获115万票房",
-          "url": "https://www.cls.cn/detail/2514471",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时30分 ~ 07时54分]"
-        },
-        {
           "title": "7家科创板公司同日亮成绩单：AI产业链业绩高增，创新药械接力",
           "url": "https://m.thepaper.cn/newsDetail_forward_34328097",
           "source": "澎湃新闻",
           "ranks": [
             15,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时12分 ~ 05时31分]"
+          "appearance_count": 6,
+          "time_info": "[02时12分 ~ 11时35分]"
         },
         {
           "title": "丈母娘也开始抢AI人了",
@@ -175,11 +193,45 @@
           "source": "百度热搜",
           "ranks": [
             26,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时12分 ~ 05时31分]"
+          "appearance_count": 6,
+          "time_info": "[02时12分 ~ 11时35分]"
+        },
+        {
+          "title": "多家科创板龙头企业晒账本：AI产业链景气正变成利润",
+          "url": "https://www.cls.cn/detail/2514496",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时34分 ~ 11时35分]"
+        },
+        {
+          "title": "比尔·盖茨谈AI对人类工作的冲击",
+          "url": "https://www.toutiao.com/trending/7700200466793267236/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时34分 ~ 11时35分]"
+        },
+        {
+          "title": "市场过度恐慌？野村：存储短缺将延续至2028年，AI资本开支韧性仍强",
+          "url": "https://www.cls.cn/detail/2514356",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时34分 ~ 11时35分]"
         },
         {
           "title": "日本软银计划计划在马来西亚投资500亿美元发展人工智能（AI）。",
@@ -194,6 +246,28 @@
           "time_info": "[02时13分 ~ 05时31分]"
         },
         {
+          "title": "周末，物理AI“刷屏”",
+          "url": "https://wallstreetcn.com/articles/3784428",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时34分 ~ 11时35分]"
+        },
+        {
+          "title": "AI生成视频已经能逃过人脸识别系统",
+          "url": "https://www.toutiao.com/trending/7700611070783881755/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时34分 ~ 11时35分]"
+        },
+        {
           "title": "OpenAI、Anthropic齐参与！全球首个AI生物安全实验室将问世",
           "url": "https://www.cls.cn/detail/2514203",
           "source": "财联社热门",
@@ -205,6 +279,28 @@
           "time_info": "[02时12分 ~ 02时13分]"
         },
         {
+          "title": "S16进入大AI时代",
+          "url": "https://www.douyin.com/hot/2712181",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时34分 ~ 11时35分]"
+        },
+        {
+          "title": "浙江宣传：AI短剧真的“降智”吗",
+          "url": "https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E5%AE%A3%E4%BC%A0%EF%BC%9AAI%E7%9F%AD%E5%89%A7%E7%9C%9F%E7%9A%84%E2%80%9C%E9%99%8D%E6%99%BA%E2%80%9D%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时34分 ~ 11时35分]"
+        },
+        {
           "title": "据日经新闻：软银计划在马来西亚投资500亿美元布局人工智能。",
           "url": "https://flash.jin10.com/detail/20261026011532345800",
           "source": "金十数据",
@@ -214,6 +310,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
+        },
+        {
+          "title": "创业板指跌超3%，沪指跌0.58%，深成指跌1.89%，算力硬件、半导体芯片、贵金属、AI漫剧等方向跌幅居前，沪深京三市下跌个股超3600只。",
+          "url": "https://wallstreetcn.com/livenews/3185346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
+          "title": "创业板指跌超2%，沪指跌0.44%，深成指跌1.09%，贵金属、AI漫剧、算力硬件、半导体芯片等方向跌幅居前，沪深京三市下跌个股近2900只。",
+          "url": "https://wallstreetcn.com/livenews/3185326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
+          "title": "AI漫剧概念盘初调整，慈文传媒、博纳影业触及跌停，果麦文化跌超10%，上海电影、欢瑞世纪、横店影视跟跌。",
+          "url": "https://wallstreetcn.com/livenews/3185322",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
+          "title": "鱼跃医疗：未来计划推进穿戴类、代谢管理类产品等相关AI应用开发",
+          "url": "https://flash.jin10.com/detail/20261026105507813800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
         },
         {
           "title": "首部AI院线电影，票房过百万",
@@ -244,7 +384,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         }
