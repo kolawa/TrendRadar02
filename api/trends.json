@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-01T09:56:31.216576+08:00",
-  "total_titles_processed": 535,
+  "generated_at": "2026-11-01T16:50:53.875870+08:00",
+  "total_titles_processed": 755,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 21,
+      "match_count": 31,
       "titles": [
         {
           "title": "这届进博会出行有了AI助手",
@@ -17,6 +17,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时15分 ~ 09时56分]"
+        },
+        {
+          "title": "美股AI暴跌,万亿市值蒸发",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368651&amp;topic_name=%E7%BE%8E%E8%82%A1AI%E6%9A%B4%E8%B7%8C%2C%E4%B8%87%E4%BA%BF%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时15分 ~ 16时50分]"
         },
         {
           "title": "CRO或成最大赢家？AI重构药企组织范式：“一人管线”横空出世",
@@ -43,18 +56,6 @@
           "time_info": "[02时15分 ~ 09时56分]"
         },
         {
-          "title": "美股AI暴跌,万亿市值蒸发",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368651&amp;topic_name=%E7%BE%8E%E8%82%A1AI%E6%9A%B4%E8%B7%8C%2C%E4%B8%87%E4%BA%BF%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时15分 ~ 09时56分]"
-        },
-        {
           "title": "当前AI最紧迫的瓶颈：廉价资金正在枯竭！",
           "url": "https://wallstreetcn.com/articles/3784910",
           "source": "华尔街见闻",
@@ -68,28 +69,31 @@
           "time_info": "[02时15分 ~ 09时56分]"
         },
         {
-          "title": "如何评价 Deepseek Harness 发布的 super-agent 构想？",
-          "url": "https://www.zhihu.com/question/2099984457524572950",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时55分 ~ 09时56分]"
-        },
-        {
           "title": "Anthropic冲刺IPO：一场与OpenAI的估值、营收和算力竞赛",
           "url": "https://www.cls.cn/detail/2521127",
           "source": "财联社热门",
           "ranks": [
             7,
             8,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时15分 ~ 09时56分]"
+          "appearance_count": 7,
+          "time_info": "[02时15分 ~ 16时50分]"
+        },
+        {
+          "title": "AI写文被扒,榜一转头开团榜二",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368606&amp;topic_name=AI%E5%86%99%E6%96%87%E8%A2%AB%E6%89%92%2C%E6%A6%9C%E4%B8%80%E8%BD%AC%E5%A4%B4%E5%BC%80%E5%9B%A2%E6%A6%9C%E4%BA%8C",
+          "source": "贴吧",
+          "ranks": [
+            24,
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时15分 ~ 16时50分]"
         },
         {
           "title": "如何看待「三年内，扩散模型将全面替代大语言模型」的说法？这会给 AI Infra 带来哪些变化？",
@@ -102,6 +106,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时15分 ~ 06时17分]"
+        },
+        {
+          "title": "AI短剧为何放弃清宫戏",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7%E4%B8%BA%E4%BD%95%E6%94%BE%E5%BC%83%E6%B8%85%E5%AE%AB%E6%88%8F&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
         },
         {
           "title": "「豆包们」正在成为医患之间的「第三人」，大量 AI 问诊对门诊医生造成了什么影响？会有哪些困扰？",
@@ -130,16 +145,15 @@
           "time_info": "[02时15分 ~ 09时56分]"
         },
         {
-          "title": "AI写文被扒,榜一转头开团榜二",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368606&amp;topic_name=AI%E5%86%99%E6%96%87%E8%A2%AB%E6%89%92%2C%E6%A6%9C%E4%B8%80%E8%BD%AC%E5%A4%B4%E5%BC%80%E5%9B%A2%E6%A6%9C%E4%BA%8C",
-          "source": "贴吧",
+          "title": "AI的“火” PCB三季报接住了",
+          "url": "https://www.cls.cn/detail/2521696",
+          "source": "财联社热门",
           "ranks": [
-            24,
-            27
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时15分 ~ 09时56分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
         },
         {
           "title": "DeepSeek发布全新Agent架构",
@@ -154,13 +168,47 @@
           "time_info": "[02时16分 ~ 09时56分]"
         },
         {
+          "title": "近岸蛋白：公司赋能AI的高通量湿实验与数据包服务尚处于市场拓展初期",
+          "url": "https://flash.jin10.com/detail/20261101160748604800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
+        },
+        {
+          "title": "如何评价 Deepseek Harness 发布的 super-agent 构想？",
+          "url": "https://www.zhihu.com/question/2099984457524572950",
+          "source": "知乎",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时55分 ~ 16时50分]"
+        },
+        {
+          "title": "吧友拿十六进制撩AI,回复亮了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368713&amp;topic_name=%E5%90%A7%E5%8F%8B%E6%8B%BF%E5%8D%81%E5%85%AD%E8%BF%9B%E5%88%B6%E6%92%A9AI%2C%E5%9B%9E%E5%A4%8D%E4%BA%AE%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
+        },
+        {
           "title": "OpenAI宣布ChatGPT部分功能将与Codex共享额度",
           "url": "https://flash.jin10.com/detail/20261101090651990800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         },
@@ -253,8 +301,74 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时55分 ~ 09时56分]"
+          "appearance_count": 3,
+          "time_info": "[09时55分 ~ 16时50分]"
+        },
+        {
+          "title": "AI“完美风暴”剧本：债市“吹响号角”，财报“雪上加霜”，中选“最后一击”？",
+          "url": "https://wallstreetcn.com/articles/3784930",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
+        },
+        {
+          "title": "环球下周看点：AI热潮遇考验 美国中期选举、非农与苹果财报接连来袭",
+          "url": "https://www.cls.cn/detail/2521662",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
+        },
+        {
+          "title": "AI带着真金白银来了！CXO分化复苏潮下，谁在狂揽“湿实验”订单？",
+          "url": "https://www.cls.cn/detail/2521722",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
+        },
+        {
+          "title": "硅基流动赴港IPO备案申请状态显示为“已接收”，拟冲刺“AI Token工厂第一股”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34376118",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
+        },
+        {
+          "title": "奥特曼称 OpenAI 内部新模型让他兴奋到两晚没睡，这意味着什么？",
+          "url": "https://www.zhihu.com/question/2099437165495300675",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
+        },
+        {
+          "title": "AI模特长着三条腿如何试衣",
+          "url": "https://www.baidu.com/s?wd=AI%E6%A8%A1%E7%89%B9%E9%95%BF%E7%9D%80%E4%B8%89%E6%9D%A1%E8%85%BF%E5%A6%82%E4%BD%95%E8%AF%95%E8%A1%A3",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
         }
       ]
     }
