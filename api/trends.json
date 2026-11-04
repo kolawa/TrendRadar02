@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-04T09:58:24.923554+08:00",
-  "total_titles_processed": 517,
+  "generated_at": "2026-11-04T16:47:20.951723+08:00",
+  "total_titles_processed": 761,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "吧友实测:AI偏爱当女孩",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时57分 ~ 09时58分]"
+          "appearance_count": 4,
+          "time_info": "[09时57分 ~ 16时47分]"
         },
         {
           "title": "基于 DeepSeek Harness 的手机插件 DSH Go 上线后 Star 破 4 千，实际体验如何？",
@@ -155,6 +155,17 @@
           "time_info": "[09时57分 ~ 09时58分]"
         },
         {
+          "title": "AI有意识吗？——从脑机智能与脑机接口谈起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34390827",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时46分 ~ 16时47分]"
+        },
+        {
           "title": "思科计划 2 年内用 AI 重写 98% 遗留代码，这一目标在工程上可行吗？",
           "url": "https://www.zhihu.com/question/2100514961130778724",
           "source": "知乎",
@@ -175,6 +186,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时33分 ~ 05时34分]"
+        },
+        {
+          "title": "Tiiny AI完成数千万美元Pre-A轮融资",
+          "url": "https://wallstreetcn.com/livenews/3194009",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
         },
         {
           "title": "Anthropic：Flashprove可让开发者验证某一回复是否来自特定AI模型。",
